@@ -1,0 +1,8 @@
+librosa
+matplotlib
+numpy
+IPython
+google-colab
+mido
+demucs
+ffmpeg-python
