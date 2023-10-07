@@ -11,10 +11,10 @@ from shutil import rmtree
 import subprocess as sp
 import sys
 from typing import Dict, Tuple, Optional, IO
-from google.colab import files
 import mido
 import pprint
 from abc import ABC
+
 
 class Visualizer(ABC):
     def plot(self):
@@ -106,13 +106,14 @@ class AudioSeparator:
 
 
 class RMSVisualizer(Visualizer):
-    def __init__(self, in_path, demucs_in_path, out_path, sr=44100, frame_length=65000, hop_length=16250, n_ignore=10):
+    def __init__(self, in_path, demucs_in_path, out_path, threshold = 0.8, sr=44100, frame_length=65000, hop_length=16250, n_ignore=10):
         self.in_path = in_path
         self.sr = sr
         self.frame_length = frame_length
         self.hop_length = hop_length
         self.n_ignore = n_ignore
         self.demucs_in_path = demucs_in_path
+        self.threshold = threshold
 
     def plot(self):
         rms, times = self._compute_rms(self.in_path)
@@ -125,7 +126,7 @@ class RMSVisualizer(Visualizer):
 
         labels = ["bass", "drums", "vocals", "other"]
 
-        self._plot_rms(times, rms_data, labels)
+        self._plot_rms_with_color(times, rms_data, rms, labels)
 
     def _compute_rms(self, file):
         y, _ = librosa.load(file, sr=self.sr, mono=True)
@@ -145,26 +146,17 @@ class RMSVisualizer(Visualizer):
 
         return s_rms, times
 
-    def _plot_rms(self, times, rms_data, labels):
+    def _plot_rms_with_color(self, times, rms_data, rms, labels):
         plt.figure(figsize=(15, 5))
-        plt.ylabel("RMS")
-        plt.xlabel("time")
 
-        colors = ["blue", "magenta", "yellow", "green"]
-        for rms, label, color in zip(rms_data, labels, colors):
-            plt.plot(rms, label=label, color=color ,lw=2, alpha=1)
+        plt.plot(rms, color="black", lw=2.0)
 
-        plt.legend()
-        plt.show()
-
-    def _plot_rms_with_color(self, times, rms_data, labels):
-        plt.figure(figsize=(15, 5))
         plt.ylabel("RMS")
         plt.xlabel("time")
 
         red_count = 0
         for i in range(len(times)):
-            if rms_data[0][i] > 0.7:
+            if rms[i] > self.threshold:
                 red_count += 1
                 plt.vlines(i, 0, 1, color="red", alpha=0.4)
             else:
@@ -176,7 +168,7 @@ class RMSVisualizer(Visualizer):
         for i in range(len(times)):
             if red_count == red_count_2:
                 plt.vlines(i, 0, 1, color="blue", alpha=0.4)
-            if rms_data[0][i] > 0.7:
+            if rms[i] > self.threshold:
                 red_count_2 += 1
 
         colors = ["blue", "magenta", "yellow", "green"]
@@ -185,23 +177,6 @@ class RMSVisualizer(Visualizer):
 
         plt.legend()
         plt.show()
-
-    # def from_upload(self):
-    #     out_path = Path('separated')
-    #     in_path = Path('tmp_in')
-
-    #     if in_path.exists():
-    #         rmtree(in_path)
-    #     in_path.mkdir()
-
-    #     if out_path.exists():
-    #         rmtree(out_path)
-    #     out_path.mkdir()
-
-    #     uploaded = files.upload()
-    #     for name, content in uploaded.items():
-    #         (in_path / name).write_bytes(content)
-    #     self.separate(in_path, out_path)
 
 
 class DrumMidiVisualizer(Visualizer):
@@ -317,31 +292,104 @@ class DrumMidiVisualizer(Visualizer):
     def _is_drum_part(self, message):
         return message.type == 'note_on' and message.note in self.drum_mapping
 
+    def plot_with_pattern_changes(self, start_time=None, end_time=None):
+        mid = mido.MidiFile(self.in_path)
+        events = self._extract_events(mid)
+        filtered_events = self._filter_events_by_time(events, start_time, end_time)
 
-SONG_INPUT_PATH = '/content/drive/MyDrive/B4ウルフ/input/songs/'
-SONG_OUTPUT_PATH = '/content/drive/MyDrive/B4ウルフ/output/demucs/'
+        pattern_changes = self._detect_pattern_changes(filtered_events)
+        self._plot_pattern_changes(filtered_events, pattern_changes)
 
-DEMUCS_INPUT_PATH = '/content/drive/MyDrive/B4ウルフ/output/demucs/mdx_q/'
-RMS_OUTPUT_PATH = '/content/drive/MyDrive/B4ウルフ/output/rms/'
+    def _detect_pattern_changes(self, events):
+        all_event_times = [time for event in events.values() for time in event['times']]
+        avg_interval, std_deviation = self._calculate_similarity(all_event_times)
+        pattern_changes = []
 
-MIDI_INPUT_PATH = '/content/drive/MyDrive/B4ウルフ/input/midi/'
-MIDI_OUTPUT_PATH = '/content/drive/MyDrive/B4ウルフ/output/drum_elements/'
+        similarity_scores = []
+        for i in range(1, len(all_event_times) - 1):
+            prev_interval = all_event_times[i] - all_event_times[i - 1]
+            next_interval = all_event_times[i + 1] - all_event_times[i]
+            similarity_score = abs(prev_interval - avg_interval) + abs(next_interval - avg_interval)
+            similarity_scores.append(similarity_score)
+
+        threshold = std_deviation  # threshold
+        for i, similarity_score in enumerate(similarity_scores):
+            if similarity_score > threshold:
+                pattern_changes.append(all_event_times[i])
+
+        return pattern_changes
+
+    def _calculate_similarity(self, times):
+        intervals = np.diff(times)
+        avg_interval = np.mean(intervals)
+        std_deviation = np.std(intervals)
+        return avg_interval, std_deviation
+
+    def _plot_pattern_changes(self, events, pattern_changes):
+        plt.figure(figsize=(15, 5))
+        for drum_note, event in events.items():
+            plt.eventplot(event['times'], orientation='horizontal', linelengths=0.08, lineoffsets=event['id'])
+        plt.yticks([event['id'] for event in events.values()], [event['name'] for event in events.values()])
+        plt.xlabel('Time')
+        plt.ylabel('Drum elements')
+        plt.title('Drum elements over time')
+        plt.grid(True)
+
+        for change_time in pattern_changes:
+            plt.axvline(x=change_time, color='red', linestyle='--')
+
+        plt.show()
+
+    def _plot_events_with_barlines(self, events):
+        plt.figure(figsize=(15, 5))
+        for drum_note, event in events.items():
+            plt.eventplot(event['times'], orientation='horizontal', linelengths=0.1, lineoffsets=event['id'])
+        plt.yticks([event['id'] for event in events.values()], [event['name'] for event in events.values()])
+        plt.xlabel('Time')
+        plt.ylabel('Drum elements')
+        plt.title('Drum elements over time')
+        plt.grid(True)
+
+        total_time = max(max(event['times']) for event in events.values())
+        num_bars = int(total_time / (16)) + 1
+        for bar_num in range(num_bars):
+            bar_time = bar_num * 16
+            plt.axvline(x=bar_time, color='red', linestyle='--')
+
+        plt.show()
+
+    def plot_with_barlines(self, start_time=None, end_time=None):
+        mid = mido.MidiFile(self.in_path)
+        events = self._extract_events(mid)
+        filtered_events = self._filter_events_by_time(events, start_time, end_time)
+        self._plot_events_with_barlines(filtered_events)
+
+
+SONG_INPUT_PATH = 'data/mp3/'
+SONG_OUTPUT_PATH = 'data/demucs/'
+
+DEMUCS_INPUT_PATH = 'data/demucs/mdx_q/'
+RMS_OUTPUT_PATH = 'data/rms/'
+
+MIDI_INPUT_PATH = 'data/midi/'
+MIDI_OUTPUT_PATH = 'data/drum_elements/'
 
 
 def main():
     #音源分離
-    in_path = SONG_INPUT_PATH + 'others/Nonchalant.mp3'
+    in_path = SONG_INPUT_PATH + 'Nonchalant.mp3'
     out_path = SONG_OUTPUT_PATH
 
     separator = AudioSeparator(in_path, out_path)
     separator.separate()
 
     #音圧可視化
-    in_path = SONG_INPUT_PATH + 'others/Nonchalant.mp3'
+    in_path = SONG_INPUT_PATH + 'Nonchalant.mp3'
     demucs_in_path = DEMUCS_INPUT_PATH + 'Nonchalant'
     out_path = RMS_OUTPUT_PATH
+    threshold = 0.85
 
-    plotter = RMSVisualizer(in_path, demucs_in_path, out_path)
+    plotter = RMSVisualizer(in_path, demucs_in_path, out_path, threshold)
     plotter.plot()
 
     #ドラム要素可視化
@@ -350,4 +398,8 @@ def main():
 
     visualizer = DrumMidiVisualizer(in_path, out_path)
     visualizer.plot()
+    # visualizer.plot_with_pattern_changes()
+    # visualizer.plot_with_barlines()
 
+if __name__ == "__main__":
+    main()
