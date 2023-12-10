@@ -365,14 +365,14 @@ class DrumMidiVisualizer(Visualizer):
         self._plot_events_with_barlines(filtered_events)
 
 
-SONG_INPUT_PATH = 'data/mp3/'
-SONG_OUTPUT_PATH = 'data/demucs/'
+SONG_INPUT_PATH = '../data/mp3/'
+SONG_OUTPUT_PATH = '../data/demucs/'
 
-DEMUCS_INPUT_PATH = 'data/demucs/mdx_q/'
-RMS_OUTPUT_PATH = 'data/rms/'
+DEMUCS_INPUT_PATH = '../data/demucs/mdx_q/'
+RMS_OUTPUT_PATH = '../data/rms/'
 
-MIDI_INPUT_PATH = 'data/midi/'
-MIDI_OUTPUT_PATH = 'data/drum_elements/'
+MIDI_INPUT_PATH = '../data/midi/'
+MIDI_OUTPUT_PATH = '../data/drum_elements/'
 
 
 def main():
