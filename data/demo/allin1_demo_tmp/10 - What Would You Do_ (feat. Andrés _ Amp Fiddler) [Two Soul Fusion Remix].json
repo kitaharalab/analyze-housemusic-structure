@@ -1,5 +1,5 @@
 {
-    "path": "../data/demo/allin1_demo/10 - What Would You Do_ (feat. Andr\u00e9s _ Amp Fiddler) [Two Soul Fusion Remix].json",
+    "path": "../data/demo/allin1_demo_tmp/10 - What Would You Do_ (feat. Andr\u00e9s _ Amp Fiddler) [Two Soul Fusion Remix].json",
     "segments": [
         {
             "start": 0.0,
@@ -19,32 +19,32 @@
         {
             "start": 30.82,
             "end": 53.85,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 53.85,
             "end": 69.22,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 69.22,
             "end": 84.58,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 84.58,
             "end": 117.22,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 117.22,
             "end": 134.5,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 134.5,
             "end": 161.38,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 161.38,
@@ -54,7 +54,7 @@
         {
             "start": 186.34,
             "end": 187.91,
-            "label": "end"
+            "label": "outro"
         }
     ]
 }

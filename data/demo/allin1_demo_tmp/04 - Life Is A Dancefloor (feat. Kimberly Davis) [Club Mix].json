@@ -1,10 +1,10 @@
 {
-    "path": "../data/demo/allin1_demo/04 - Life Is A Dancefloor (feat. Kimberly Davis) [Club Mix].json",
+    "path": "../data/demo/allin1_demo_tmp/04 - Life Is A Dancefloor (feat. Kimberly Davis) [Club Mix].json",
     "segments": [
         {
             "start": 0.0,
             "end": 0.02,
-            "label": "start"
+            "label": "intro"
         },
         {
             "start": 0.02,
@@ -19,12 +19,12 @@
         {
             "start": 31.75,
             "end": 47.62,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 47.62,
             "end": 79.36,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 79.36,
@@ -34,82 +34,82 @@
         {
             "start": 95.23,
             "end": 111.1,
-            "label": "inst"
+            "label": "break"
         },
         {
             "start": 111.1,
             "end": 127.96,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 127.96,
             "end": 142.84,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 142.84,
             "end": 158.7,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 158.7,
             "end": 182.5,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 182.5,
             "end": 198.36,
-            "label": "inst"
+            "label": "break"
         },
         {
             "start": 198.36,
             "end": 214.24,
-            "label": "inst"
+            "label": "break"
         },
         {
             "start": 214.24,
             "end": 237.05,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 237.05,
             "end": 253.91,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 253.91,
             "end": 277.71,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 277.71,
             "end": 292.58,
-            "label": "inst"
+            "label": "break"
         },
         {
             "start": 292.58,
             "end": 309.44,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 309.44,
             "end": 325.32,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 325.32,
             "end": 341.18,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 341.18,
             "end": 357.05,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 357.05,
             "end": 372.92,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 372.92,
@@ -129,7 +129,7 @@
         {
             "start": 429.38,
             "end": 429.39,
-            "label": "end"
+            "label": "outro"
         }
     ]
 }

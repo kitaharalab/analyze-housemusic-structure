@@ -1,10 +1,10 @@
 {
-    "path": "../data/demo/allin1_demo/12 - Reach 4 The Sky (Henry St. Mix).json",
+    "path": "../data/demo/allin1_demo_tmp/12 - Reach 4 The Sky (Henry St. Mix).json",
     "segments": [
         {
             "start": 0.0,
             "end": 0.01,
-            "label": "start"
+            "label": "intro"
         },
         {
             "start": 0.01,
@@ -14,87 +14,87 @@
         {
             "start": 43.32,
             "end": 61.58,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 61.58,
             "end": 76.96,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 76.96,
             "end": 92.33,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 92.33,
             "end": 123.05,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 123.05,
             "end": 138.43,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 138.43,
             "end": 169.16,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 169.16,
             "end": 199.89,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 199.89,
             "end": 215.26,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 215.26,
             "end": 230.64,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 230.64,
             "end": 246.01,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 246.01,
             "end": 261.33,
-            "label": "inst"
+            "label": "break"
         },
         {
             "start": 261.33,
             "end": 276.63,
-            "label": "inst"
+            "label": "break"
         },
         {
             "start": 276.63,
             "end": 292.01,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 292.01,
             "end": 307.38,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 307.38,
             "end": 322.76,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 322.76,
             "end": 338.14,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 338.14,
             "end": 368.9,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 368.9,

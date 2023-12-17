@@ -1,10 +1,10 @@
 {
-    "path": "../data/demo/allin1_demo/21 - Jerk It (Sorley Street Mix).json",
+    "path": "../data/demo/allin1_demo_tmp/21 - Jerk It (Sorley Street Mix).json",
     "segments": [
         {
             "start": 0.0,
             "end": 0.11,
-            "label": "start"
+            "label": "intro"
         },
         {
             "start": 0.11,
@@ -14,87 +14,87 @@
         {
             "start": 16.11,
             "end": 28.74,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 28.74,
             "end": 57.61,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 57.61,
             "end": 72.04,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 72.04,
             "end": 86.48,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 86.48,
             "end": 100.92,
-            "label": "inst"
+            "label": "break"
         },
         {
             "start": 100.92,
             "end": 113.55,
-            "label": "inst"
+            "label": "break"
         },
         {
             "start": 113.55,
             "end": 129.79,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 129.79,
             "end": 144.22,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 144.22,
             "end": 166.77,
-            "label": "inst"
+            "label": "break"
         },
         {
             "start": 166.77,
             "end": 190.79,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 190.79,
             "end": 205.22,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 205.22,
             "end": 219.66,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 219.66,
             "end": 234.1,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 234.1,
             "end": 248.54,
-            "label": "inst"
+            "label": "break"
         },
         {
             "start": 248.54,
             "end": 262.97,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 262.97,
             "end": 277.41,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 277.41,
             "end": 291.84,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 291.84,
@@ -104,7 +104,7 @@
         {
             "start": 304.5,
             "end": 306.8,
-            "label": "end"
+            "label": "outro"
         }
     ]
 }

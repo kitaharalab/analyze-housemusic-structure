@@ -1,5 +1,5 @@
 {
-    "path": "../data/demo/allin1_demo/01 - My Paradise.json",
+    "path": "../data/demo/allin1_demo_tmp/01 - My Paradise.json",
     "segments": [
         {
             "start": 0.0,
@@ -14,62 +14,62 @@
         {
             "start": 14.08,
             "end": 30.02,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 30.02,
             "end": 44.08,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 44.08,
             "end": 59.09,
-            "label": "inst"
+            "label": "break"
         },
         {
             "start": 59.09,
             "end": 74.55,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 74.55,
             "end": 90.02,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 90.02,
             "end": 112.05,
-            "label": "inst"
+            "label": "break"
         },
         {
             "start": 112.05,
             "end": 134.09,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 134.09,
             "end": 150.02,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 150.02,
             "end": 164.08,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 164.08,
             "end": 179.09,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 179.09,
             "end": 210.02,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 210.02,
             "end": 211.03,
-            "label": "end"
+            "label": "outro"
         }
     ]
 }
