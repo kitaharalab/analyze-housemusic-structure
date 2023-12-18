@@ -8,19 +8,18 @@ def load_section_data(json_path: str):
 
 def calculate_section_averages(sections, spectral_centroid, sr, times):
     section_averages = {'intro': [], 'drop': [], 'break': [], 'outro': []}
-    spectral_centroid = spectral_centroid.flatten()  # 多次元配列を1次元に変換
+    spectral_centroid = spectral_centroid.flatten()
 
     for section in sections:
         label = section['label']
         if label in section_averages:
             start_index = np.argmax(times >= section['start'])
-            # 終了インデックスを修正
             end_index = np.argmax(times >= section['end'])
-            if end_index == 0:  # 条件を満たす要素がない場合、配列の最後を使用
+            if end_index == 0:
                 end_index = len(spectral_centroid)
 
             section_centroid = spectral_centroid[start_index:end_index]
-            if len(section_centroid) > 0:  # セクションが空でないことを確認
+            if len(section_centroid) > 0:
                 section_average = section_centroid.mean()
                 section_averages[label].append(section_average)
 

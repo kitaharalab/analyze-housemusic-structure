@@ -357,14 +357,16 @@ class Frequency:
         y, sr = librosa.load(audio_file, sr=None)
         spectral_centroid = librosa.feature.spectral_centroid(y=y, sr=sr)
         times = librosa.times_like(spectral_centroid, sr=sr)
+        # self.plot_spectral_centroid(spectral_centroid)
         return spectral_centroid, sr, times
 
     def get_spectrogram(self, audio_file: str) -> List[List[float]]:
         y, sr = librosa.load(audio_file, sr=None)
         spectrogram = librosa.amplitude_to_db(librosa.stft(y), ref=np.max)
+        # self._plot_spectrogram(spectrogram)
         return spectrogram, sr
 
-    def plot_spectral_centroid(self, spectral_centroid):
+    def _plot_spectral_centroid(self, spectral_centroid):
         plt.figure(figsize=(10, 6))
         plt.semilogy(spectral_centroid.T, label='Spectral Centroid')
         plt.ylabel('Hz')
@@ -374,7 +376,7 @@ class Frequency:
         plt.title("Spectral Centroid")
         plt.show()
 
-    def plot_spectrogram(self, spectrogram):
+    def _plot_spectrogram(self, spectrogram):
         plt.figure(figsize=(10, 6))
         librosa.display.specshow(spectrogram, x_axis='time', y_axis='log')
         plt.colorbar(format='%+2.0f dB')
