@@ -4,7 +4,7 @@
         {
             "start": 0.0,
             "end": 0.23,
-            "label": "start"
+            "label": "intro"
         },
         {
             "start": 0.23,
@@ -24,47 +24,47 @@
         {
             "start": 63.18,
             "end": 78.92,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 78.92,
             "end": 94.66,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 94.66,
             "end": 110.4,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 110.4,
             "end": 126.14,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 126.14,
             "end": 141.88,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 141.88,
             "end": 157.62,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 157.62,
             "end": 173.35,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 173.35,
             "end": 189.09,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 189.09,
             "end": 204.83,
-            "label": "inst"
+            "label": "break"
         },
         {
             "start": 204.83,
@@ -74,37 +74,37 @@
         {
             "start": 220.57,
             "end": 238.27,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 238.27,
             "end": 267.78,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 267.78,
             "end": 283.52,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 283.52,
             "end": 299.26,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 299.26,
             "end": 315.0,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 315.0,
             "end": 330.73,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 330.73,
             "end": 346.47,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 346.47,
@@ -114,7 +114,7 @@
         {
             "start": 362.23,
             "end": 364.7,
-            "label": "end"
+            "label": "outro"
         }
     ]
 }

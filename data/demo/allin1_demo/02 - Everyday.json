@@ -9,62 +9,62 @@
         {
             "start": 0.04,
             "end": 15.52,
-            "label": "verse"
+            "label": "break"
         },
         {
             "start": 15.52,
             "end": 46.49,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 46.49,
             "end": 61.97,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 61.97,
             "end": 77.46,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 77.46,
             "end": 92.94,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 92.94,
             "end": 108.42,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 108.42,
             "end": 123.9,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 123.9,
             "end": 139.4,
-            "label": "inst"
+            "label": "break"
         },
         {
             "start": 139.4,
             "end": 154.88,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 154.88,
             "end": 170.36,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 170.36,
             "end": 185.85,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 185.85,
             "end": 216.81,
-            "label": "chorus"
+            "label": "drop"
         },
         {
             "start": 216.81,
@@ -74,7 +74,7 @@
         {
             "start": 247.29,
             "end": 250.24,
-            "label": "end"
+            "label": "outro"
         }
     ]
 }
