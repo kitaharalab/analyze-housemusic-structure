@@ -348,3 +348,36 @@ class DrumMidiVisualizer(Visualizer):
         filtered_events = self._filter_events_by_time(events, start_time, end_time)
         self._plot_events_with_barlines(filtered_events)
 
+
+class Frequency:
+    def __init__(self):
+        pass
+
+    def get_spectral_centroid(self, audio_file: str) -> Tuple[np.ndarray, float, np.ndarray]:
+        y, sr = librosa.load(audio_file, sr=None)
+        spectral_centroid = librosa.feature.spectral_centroid(y=y, sr=sr)
+        times = librosa.times_like(spectral_centroid, sr=sr)
+        return spectral_centroid, sr, times
+
+    def get_spectrogram(self, audio_file: str) -> List[List[float]]:
+        y, sr = librosa.load(audio_file, sr=None)
+        spectrogram = librosa.amplitude_to_db(librosa.stft(y), ref=np.max)
+        return spectrogram, sr
+
+    def plot_spectral_centroid(self, spectral_centroid):
+        plt.figure(figsize=(10, 6))
+        plt.semilogy(spectral_centroid.T, label='Spectral Centroid')
+        plt.ylabel('Hz')
+        plt.xticks([])
+        plt.xlim([0, spectral_centroid.shape[-1]])
+        plt.legend(loc='upper right')
+        plt.title("Spectral Centroid")
+        plt.show()
+
+    def plot_spectrogram(self, spectrogram):
+        plt.figure(figsize=(10, 6))
+        librosa.display.specshow(spectrogram, x_axis='time', y_axis='log')
+        plt.colorbar(format='%+2.0f dB')
+        plt.title("Spectrogram")
+        plt.show()
+
