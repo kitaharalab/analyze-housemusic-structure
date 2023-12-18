@@ -1,7 +1,4 @@
-import os
-import json
-from termcolor import colored
-
+from external_libraries import *
 
 class Allin1:
     @classmethod
