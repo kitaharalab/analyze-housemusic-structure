@@ -357,9 +357,9 @@ class Frequency:
     def __init__(self):
         pass
 
-    def get_spectral_centroid(self, audio_file: str) -> Tuple[np.ndarray, float, np.ndarray]:
+    def get_spectral_centroid(self, audio_file: str, n_fft=2048*2) -> Tuple[np.ndarray, float, np.ndarray]:
         y, sr = librosa.load(audio_file, sr=None)
-        spectral_centroid = librosa.feature.spectral_centroid(y=y, sr=sr)
+        spectral_centroid = librosa.feature.spectral_centroid(y=y, sr=sr, n_fft=n_fft)
         times = librosa.times_like(spectral_centroid, sr=sr)
         # self.plot_spectral_centroid(spectral_centroid)
         return spectral_centroid, sr, times
