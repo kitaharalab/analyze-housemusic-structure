@@ -164,9 +164,8 @@ class RMSVisualizer(Visualizer):
 
 
 class DrumMidiVisualizer(Visualizer):
-    def __init__(self, in_path, out_path):
+    def __init__(self, in_path):
         self.in_path = in_path
-        self.out_path = out_path
         self.drum_mapping = {
                 35: 'Acoustic Bass Drum',
                 36: 'Bass Drum 1',
@@ -216,6 +215,11 @@ class DrumMidiVisualizer(Visualizer):
                 80: 'Mute Triangle',
                 81: 'Open Triangle'
                 }
+
+    def get_drum_events(self):
+        mid = mido.MidiFile(self.in_path)
+        events = self._extract_events(mid)
+        return events
 
     def plot(self, start_time=None, end_time=None):
         mid = mido.MidiFile(self.in_path)
