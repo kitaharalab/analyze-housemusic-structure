@@ -48,7 +48,6 @@ def main():
 
                 for component in components:
                     file_path = os.path.join(demucs_directory, song_name, f"{component}.mp3")
-                    print(file_path)
                     if os.path.exists(file_path):
                         spectral_centroid, sr, times = freq.get_spectral_centroid(file_path)
                         section_averages = calculate_section_averages(section_data['segments'], spectral_centroid, sr, times)

@@ -112,7 +112,7 @@ class RMSVisualizer(Visualizer):
 
         self._plot_rms_with_color(times, rms_data, rms, labels)
 
-    def _compute_rms(self, file):
+    def compute_rms(self, file):
         y, _ = librosa.load(file, sr=self.sr, mono=True)
         rms = librosa.feature.rms(y=y, frame_length=self.frame_length, hop_length=self.hop_length)[0]
         rms /= np.max(rms)
