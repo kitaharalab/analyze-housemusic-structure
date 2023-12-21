@@ -163,7 +163,7 @@ class RMSVisualizer(Visualizer):
         plt.show()
 
 
-class DrumMidiVisualizer(Visualizer):
+class Drum(Visualizer):
     def __init__(self, in_path):
         self.in_path = in_path
         self.drum_mapping = {
@@ -246,21 +246,6 @@ class DrumMidiVisualizer(Visualizer):
                     events[msg.note]['times'].append(time)
         return events
 
-    def _filter_events_by_time(self, events, start_time=None, end_time=None):
-        if start_time is None and end_time is None:
-            return events
-
-        filtered_events = {}
-        for drum_note, event in events.items():
-            filtered_times = []
-            for t in event['times']:
-                if (start_time is None or start_time <= t) and (end_time is None or t <= end_time):
-                    filtered_times.append(t)
-            if filtered_times:
-                filtered_events[drum_note] = {'name': event['name'], 'id': event['id'], 'times': filtered_times}
-        pprint.pprint(filtered_events, depth=2)
-        return filtered_events
-
     def _plot_events(self, events):
         plt.figure(figsize=(15, 5))
         for drum_note, event in events.items():
@@ -280,32 +265,33 @@ class DrumMidiVisualizer(Visualizer):
     def _is_drum_part(self, message):
         return message.type == 'note_on' and message.note in self.drum_mapping
 
-    def plot_with_pattern_changes(self, start_time=None, end_time=None):
-        mid = mido.MidiFile(self.in_path)
-        events = self._extract_events(mid)
-        filtered_events = self._filter_events_by_time(events, start_time, end_time)
-
-        pattern_changes = self._detect_pattern_changes(filtered_events)
-        self._plot_pattern_changes(filtered_events, pattern_changes)
-
-    def _detect_pattern_changes(self, events):
+    def detect_pattern_changes(self, events):
         all_event_times = [time for event in events.values() for time in event['times']]
         avg_interval, std_deviation = self._calculate_similarity(all_event_times)
-        pattern_changes = []
+        pattern_changes = self._find_unique_integers(all_event_times, avg_interval, std_deviation)
+        return pattern_changes
+
+    def _find_unique_integers(self, event_times, avg_interval, std_deviation):
+        unique_integers = []
 
         similarity_scores = []
-        for i in range(1, len(all_event_times) - 1):
-            prev_interval = all_event_times[i] - all_event_times[i - 1]
-            next_interval = all_event_times[i + 1] - all_event_times[i]
+        prev_change_time = None
+
+        for i in range(1, len(event_times) - 1):
+            prev_interval = event_times[i] - event_times[i - 1]
+            next_interval = event_times[i + 1] - event_times[i]
             similarity_score = abs(prev_interval - avg_interval) + abs(next_interval - avg_interval)
             similarity_scores.append(similarity_score)
 
-        threshold = std_deviation  # threshold
+        threshold = std_deviation # 全ドラムイベントの間隔の標準偏差が閾値
         for i, similarity_score in enumerate(similarity_scores):
             if similarity_score > threshold:
-                pattern_changes.append(all_event_times[i])
+                change_time = int(round(event_times[i]))
+                if prev_change_time is None or change_time != prev_change_time:
+                    unique_integers.append(change_time)
+                prev_change_time = change_time
 
-        return pattern_changes
+        return list(set(unique_integers))
 
     def _calculate_similarity(self, times):
         intervals = np.diff(times)
@@ -328,30 +314,45 @@ class DrumMidiVisualizer(Visualizer):
 
         plt.show()
 
-    def _plot_events_with_barlines(self, events):
+    def plot_drum_with_pattern_changes(self, song_name, events, pattern_changes):
         plt.figure(figsize=(15, 5))
         for drum_note, event in events.items():
-            plt.eventplot(event['times'], orientation='horizontal', linelengths=0.1, lineoffsets=event['id'])
+            plt.eventplot(event['times'], orientation='horizontal', linelengths=0.08, lineoffsets=event['id'])
         plt.yticks([event['id'] for event in events.values()], [event['name'] for event in events.values()])
         plt.xlabel('Time')
         plt.ylabel('Drum elements')
-        plt.title('Drum elements over time')
+        plt.title(f'Drum elements over time - {song_name}')
         plt.grid(True)
 
-        total_time = max(max(event['times']) for event in events.values())
-        num_bars = int(total_time / (16)) + 1
-        for bar_num in range(num_bars):
-            bar_time = bar_num * 16
-            plt.axvline(x=bar_time, color='red', linestyle='--')
+        for change_time in pattern_changes:
+            if change_time <= max(max(event['times']) for event in events.values()):
+                plt.axvline(x=change_time, color='red', linestyle='--')
 
         plt.show()
 
-    def plot_with_barlines(self, start_time=None, end_time=None):
-        mid = mido.MidiFile(self.in_path)
-        events = self._extract_events(mid)
-        filtered_events = self._filter_events_by_time(events, start_time, end_time)
-        self._plot_events_with_barlines(filtered_events)
+    def plot_drum_with_pattern_and_segments(self, song_name, events, pattern_changes, section_data):
+        plt.figure(figsize=(15, 5))
 
+        for drum_note, event in events.items():
+            plt.eventplot(event['times'], orientation='horizontal', linelengths=0.08, lineoffsets=event['id'])
+
+        plt.yticks([event['id'] for event in events.values()], [event['name'] for event in events.values()])
+        plt.xlabel('Time')
+        plt.ylabel('Drum elements')
+        plt.title(f'Drum elements over time - {song_name}')
+        plt.grid(True)
+
+        segment_starts = [int(segment['start']) for segment in section_data['segments']]
+        for segment_start in segment_starts:
+            if segment_start <= max(max(event['times']) for event in events.values()):
+                plt.axvline(x=segment_start, color='green', linestyle=':')
+
+        for change_time in pattern_changes:
+            if change_time <= max(max(event['times']) for event in events.values()):
+                plt.axvline(x=change_time, color='red', linestyle='-.')
+
+        plt.legend()
+        plt.show()
 
 class Frequency:
     def __init__(self):
