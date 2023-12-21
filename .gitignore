@@ -1,5 +1,5 @@
-data/songs/*
+data/prod/songs/*
 data/demo/songs_demo/*
-data/demucs/*
+data/prod/demucs/*
 data/demo/demucs_demo/*
 src/__pycache__
