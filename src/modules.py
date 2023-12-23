@@ -89,7 +89,7 @@ class AudioSeparator:
                 std.flush()
 
 
-class RMSVisualizer(Visualizer):
+class RMS(Visualizer):
     def __init__(self, in_path, demucs_in_path, out_path, threshold = 0.8, sr=44100, frame_length=65000, hop_length=16250, n_ignore=10):
         self.in_path = in_path
         self.sr = sr

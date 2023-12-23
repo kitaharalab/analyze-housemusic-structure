@@ -365,8 +365,8 @@ class DrumMidiVisualizer(Visualizer):
         self._plot_events_with_barlines(filtered_events)
 
 
-SONG_INPUT_PATH = '../data/demo/songs_demo'
-SONG_OUTPUT_PATH = '../data/demo/demucs_demo'
+SONG_INPUT_PATH = '../data/prod/songs/mp3/'
+SONG_OUTPUT_PATH = '../data/prod/demucs/'
 
 DEMUCS_INPUT_PATH = '../data/demucs/mdx_q/'
 RMS_OUTPUT_PATH = '../data/rms/'
