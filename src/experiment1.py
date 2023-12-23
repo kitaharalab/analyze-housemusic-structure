@@ -1,7 +1,6 @@
 from external_libraries import *
 from modules import *
 
-
 def load_section_data(json_path: str):
     with open(json_path, 'r') as file:
         data = json.load(file)
@@ -52,6 +51,15 @@ def plot_box_plot(section_averages):
     plt.title('Box Plot of Average Spectral Centroid per Music Section')
     plt.show()
 
+def plot_violin_plot(section_averages):
+    data_to_plot = [avgs for avgs in section_averages.values() if avgs]
+    plt.violinplot(data_to_plot)
+    plt.xticks(range(1, len(section_averages) + 1), section_averages.keys())
+    plt.xlabel('Section')
+    plt.ylabel('Average Spectral Centroid')
+    plt.title('Violin Plot of Average Spectral Centroid per Music Section')
+    plt.show()
+
 def main(process_mode):
     song_directory = "../data/demo/songs_demo/"
     json_directory = "../data/demo/allin1_demo/"
@@ -76,7 +84,9 @@ def main(process_mode):
         plot_bar_graph(all_section_averages)
     elif process_mode == 'box':
         plot_box_plot(all_section_averages)
+    elif process_mode == 'violin':
+        plot_violin_plot(all_section_averages)
 
 if __name__ == "__main__":
-    process_mode = 'box'  # 'var' or 'box'
+    process_mode = 'box'  # 'var', 'box', or 'violin'
     main(process_mode)
