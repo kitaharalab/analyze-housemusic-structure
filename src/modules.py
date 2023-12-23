@@ -362,7 +362,6 @@ class Frequency:
         y, sr = librosa.load(audio_file, sr=None)
         spectral_centroid = librosa.feature.spectral_centroid(y=y, sr=sr, n_fft=n_fft)
         times = librosa.times_like(spectral_centroid, sr=sr)
-        # self.plot_spectral_centroid(spectral_centroid)
         return spectral_centroid, sr, times
 
     def get_spectrogram(self, audio_file: str) -> List[List[float]]:
