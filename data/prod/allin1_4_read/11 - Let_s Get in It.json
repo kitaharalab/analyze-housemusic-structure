@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/11 - Let_s Get in It.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.09",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.09",
+            "end": "00:31.31",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.31",
+            "end": "00:44.97",
+            "label": "break"
+        },
+        {
+            "start": "00:44.97",
+            "end": "01:02.53",
+            "label": "break"
+        },
+        {
+            "start": "01:02.53",
+            "end": "01:21.56",
+            "label": "drop"
+        },
+        {
+            "start": "01:21.56",
+            "end": "01:37.17",
+            "label": "drop"
+        },
+        {
+            "start": "01:37.17",
+            "end": "01:49.36",
+            "label": "drop"
+        },
+        {
+            "start": "01:49.36",
+            "end": "02:04.98",
+            "label": "drop"
+        },
+        {
+            "start": "02:04.98",
+            "end": "02:45.95",
+            "label": "drop"
+        },
+        {
+            "start": "02:45.95",
+            "end": "03:15.22",
+            "label": "drop"
+        },
+        {
+            "start": "03:15.22",
+            "end": "03:30.82",
+            "label": "drop"
+        },
+        {
+            "start": "03:30.82",
+            "end": "03:46.43",
+            "label": "drop"
+        },
+        {
+            "start": "03:46.43",
+            "end": "04:02.04",
+            "label": "drop"
+        },
+        {
+            "start": "04:02.04",
+            "end": "04:19.61",
+            "label": "drop"
+        },
+        {
+            "start": "04:19.61",
+            "end": "04:33.26",
+            "label": "drop"
+        },
+        {
+            "start": "04:33.26",
+            "end": "04:48.89",
+            "label": "drop"
+        },
+        {
+            "start": "04:48.89",
+            "end": "05:04.48",
+            "label": "break"
+        },
+        {
+            "start": "05:04.48",
+            "end": "05:20.09",
+            "label": "drop"
+        },
+        {
+            "start": "05:20.09",
+            "end": "05:37.65",
+            "label": "drop"
+        },
+        {
+            "start": "05:37.65",
+            "end": "05:53.26",
+            "label": "drop"
+        },
+        {
+            "start": "05:53.26",
+            "end": "06:06.92",
+            "label": "drop"
+        },
+        {
+            "start": "06:06.92",
+            "end": "06:24.48",
+            "label": "drop"
+        },
+        {
+            "start": "06:24.48",
+            "end": "06:38.14",
+            "label": "drop"
+        },
+        {
+            "start": "06:38.14",
+            "end": "06:51.80",
+            "label": "break"
+        },
+        {
+            "start": "06:51.80",
+            "end": "07:09.36",
+            "label": "break"
+        },
+        {
+            "start": "07:09.36",
+            "end": "07:11.97",
+            "label": "outro"
+        }
+    ]
+}

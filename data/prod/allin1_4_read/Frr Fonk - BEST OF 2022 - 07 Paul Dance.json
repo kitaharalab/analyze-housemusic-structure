@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/Frr Fonk - BEST OF 2022 - 07 Paul Dance.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.23",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.23",
+            "end": "00:17.37",
+            "label": "intro"
+        },
+        {
+            "start": "00:17.37",
+            "end": "00:32.61",
+            "label": "intro"
+        },
+        {
+            "start": "00:32.61",
+            "end": "00:47.85",
+            "label": "drop"
+        },
+        {
+            "start": "00:47.85",
+            "end": "01:03.09",
+            "label": "break"
+        },
+        {
+            "start": "01:03.09",
+            "end": "01:18.33",
+            "label": "drop"
+        },
+        {
+            "start": "01:18.33",
+            "end": "01:33.57",
+            "label": "drop"
+        },
+        {
+            "start": "01:33.57",
+            "end": "01:48.80",
+            "label": "drop"
+        },
+        {
+            "start": "01:48.80",
+            "end": "02:04.04",
+            "label": "break"
+        },
+        {
+            "start": "02:04.04",
+            "end": "02:34.52",
+            "label": "drop"
+        },
+        {
+            "start": "02:34.52",
+            "end": "02:49.76",
+            "label": "drop"
+        },
+        {
+            "start": "02:49.76",
+            "end": "03:05.00",
+            "label": "drop"
+        },
+        {
+            "start": "03:05.00",
+            "end": "03:20.24",
+            "label": "drop"
+        },
+        {
+            "start": "03:20.24",
+            "end": "03:35.47",
+            "label": "drop"
+        },
+        {
+            "start": "03:35.47",
+            "end": "03:50.71",
+            "label": "drop"
+        },
+        {
+            "start": "03:50.71",
+            "end": "04:05.95",
+            "label": "drop"
+        },
+        {
+            "start": "04:05.95",
+            "end": "04:21.18",
+            "label": "drop"
+        },
+        {
+            "start": "04:21.18",
+            "end": "04:36.43",
+            "label": "break"
+        },
+        {
+            "start": "04:36.43",
+            "end": "04:51.66",
+            "label": "drop"
+        },
+        {
+            "start": "04:51.66",
+            "end": "05:22.14",
+            "label": "drop"
+        },
+        {
+            "start": "05:22.14",
+            "end": "05:37.38",
+            "label": "break"
+        },
+        {
+            "start": "05:37.38",
+            "end": "05:52.61",
+            "label": "drop"
+        },
+        {
+            "start": "05:52.61",
+            "end": "06:07.85",
+            "label": "drop"
+        },
+        {
+            "start": "06:07.85",
+            "end": "06:23.09",
+            "label": "drop"
+        },
+        {
+            "start": "06:23.09",
+            "end": "06:42.14",
+            "label": "outro"
+        },
+        {
+            "start": "06:42.14",
+            "end": "06:46.91",
+            "label": "outro"
+        }
+    ]
+}

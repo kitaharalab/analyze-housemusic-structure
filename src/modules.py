@@ -331,6 +331,9 @@ class Drum(Visualizer):
         plt.show()
 
     def plot_drum_with_pattern_and_segments(self, song_name, events, pattern_changes, section_data):
+        mid = mido.MidiFile(self.in_path)
+        time_signatures = self.get_time_signature_changes()
+        bars = self.calculate_bar_timing(mid, time_signatures)
         plt.figure(figsize=(15, 5))
 
         for drum_note, event in events.items():
@@ -342,17 +345,59 @@ class Drum(Visualizer):
         plt.title(f'Drum elements over time - {song_name}')
         plt.grid(True)
 
-        segment_starts = [int(segment['start']) for segment in section_data['segments']]
-        for segment_start in segment_starts:
-            if segment_start <= max(max(event['times']) for event in events.values()):
-                plt.axvline(x=segment_start, color='green', linestyle=':')
-
+        # パターン変化点をプロット
         for change_time in pattern_changes:
-            if change_time <= max(max(event['times']) for event in events.values()):
-                plt.axvline(x=change_time, color='red', linestyle='-.')
+            plt.axvline(x=change_time, color='red', linestyle='--')
 
-        # plt.legend()
+        # タイムシグネチャの変更を取得し、小節区切りのタイミングを計算
+        time_signatures = self.get_time_signature_changes()
+        bars = self.calculate_bar_timing(mid, time_signatures)
+
+        # 小節区切りの線を追加
+        for bar_time in bars:
+            plt.axvline(x=bar_time, color='blue', linestyle='-.')
+
         plt.show()
+
+    def get_time_signature_changes(self):
+        mid = mido.MidiFile(self.in_path)
+        time_signatures = []
+        time = 0
+        tempo = mido.bpm2tempo(120)
+
+        for track in mid.tracks:
+            for msg in track:
+                time += mido.tick2second(msg.time, mid.ticks_per_beat, tempo)
+                if msg.type == 'time_signature':
+                    time_signatures.append({'time': time, 'numerator': msg.numerator, 'denominator': msg.denominator})
+
+        return time_signatures
+
+    def calculate_bar_timing(self, mid, time_signatures):
+        bars = []
+        time = 0
+        tempo = mido.bpm2tempo(120)
+        ticks_per_beat = mid.ticks_per_beat
+        current_signature = time_signatures.pop(0) if time_signatures else {'numerator': 4, 'denominator': 4, 'time': 0}
+        next_signature_change = current_signature['time']
+
+        for track in mid.tracks:
+            for msg in track:
+                delta_time = mido.tick2second(msg.time, ticks_per_beat, tempo)
+                time += delta_time
+
+                if time >= next_signature_change and time_signatures:
+                    current_signature = time_signatures.pop(0)
+                    next_signature_change = current_signature['time']
+
+                if msg.type == 'set_tempo':
+                    tempo = msg.tempo
+
+                if (time - current_signature['time']) % (current_signature['numerator'] * 60 / mido.tempo2bpm(tempo)) < delta_time:
+                    bars.append(time)
+
+        return bars
+
 
 class Frequency:
     def __init__(self):
@@ -389,9 +434,7 @@ class Frequency:
 
 
 class Allin1:
-    def __init__(self):
-        pass
-
+    @classmethod
     def format_json(cls, path):
         json_files = [file for file in os.listdir(path) if file.endswith('.json')]
 
@@ -412,6 +455,7 @@ class Allin1:
 
         print("All json files have been updated.")
 
+    @classmethod
     def update_path_json(cls, path):
         json_files = [file for file in os.listdir(path) if file.endswith('.json')]
 
@@ -430,6 +474,7 @@ class Allin1:
 
         print("All json files have been updated.")
 
+    @classmethod
     def modify_label(cls, label):
         label_mappings = {
                 'start': 'intro',
@@ -442,6 +487,7 @@ class Allin1:
                 }
         return label_mappings.get(label, label)
 
+    @classmethod
     def modify_json(cls, path):
         json_files = [file for file in os.listdir(path) if file.endswith('.json')]
 
@@ -467,3 +513,62 @@ class Allin1:
         with open(json_path, 'r') as file:
             data = json.load(file)
         return data
+
+    @classmethod
+    def seconds_to_min_sec(cls, seconds):
+        minutes = int(seconds // 60)
+        remaining_seconds = seconds % 60
+        return f"{minutes:02d}:{remaining_seconds:05.2f}"
+
+    @classmethod
+    def min_sec_to_seconds(cls, min_sec):
+        minutes, seconds = map(float, min_sec.split(':'))
+        return minutes * 60 + seconds
+
+    @classmethod
+    def convert_time_format(cls, path):
+        json_files = [file for file in os.listdir(path) if file.endswith('.json')]
+
+        for json_file in json_files:
+            file_path = os.path.join(path, json_file)
+
+            with open(file_path, 'r') as file:
+                data = json.load(file)
+
+            if 'segments' in data and isinstance(data['segments'], list):
+                for segment in data['segments']:
+                    if 'start' in segment:
+                        segment['start'] = cls.seconds_to_min_sec(segment['start'])
+                    if 'end' in segment:
+                        segment['end'] = cls.seconds_to_min_sec(segment['end'])
+
+            with open(file_path, 'w') as file:
+                json.dump(data, file, indent=4)
+
+            print(f"Converted time format in '{json_file}'.")
+
+        print("All json files have been updated.")
+
+    @classmethod
+    def revert_time_format(cls, path):
+        json_files = [file for file in os.listdir(path) if file.endswith('.json')]
+
+        for json_file in json_files:
+            file_path = os.path.join(path, json_file)
+
+            with open(file_path, 'r') as file:
+                data = json.load(file)
+
+            if 'segments' in data and isinstance(data['segments'], list):
+                for segment in data['segments']:
+                    if 'start' in segment:
+                        segment['start'] = cls.min_sec_to_seconds(segment['start'])
+                    if 'end' in segment:
+                        segment['end'] = cls.min_sec_to_seconds(segment['end'])
+
+            with open(file_path, 'w') as file:
+                json.dump(data, file, indent=4)
+
+            print(f"Reverted time format in '{json_file}'.")
+
+        print("All json files have been updated.")

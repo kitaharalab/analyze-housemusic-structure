@@ -1,0 +1,140 @@
+{
+    "path": "../data/prod/allin1_4_read/07 - Chic Mystique (Club Dub).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.11",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.11",
+            "end": "00:16.42",
+            "label": "intro"
+        },
+        {
+            "start": "00:16.42",
+            "end": "00:40.74",
+            "label": "intro"
+        },
+        {
+            "start": "00:40.74",
+            "end": "00:56.95",
+            "label": "intro"
+        },
+        {
+            "start": "00:56.95",
+            "end": "01:13.16",
+            "label": "intro"
+        },
+        {
+            "start": "01:13.16",
+            "end": "01:37.50",
+            "label": "break"
+        },
+        {
+            "start": "01:37.50",
+            "end": "01:53.74",
+            "label": "break"
+        },
+        {
+            "start": "01:53.74",
+            "end": "02:09.98",
+            "label": "drop"
+        },
+        {
+            "start": "02:09.98",
+            "end": "02:26.21",
+            "label": "drop"
+        },
+        {
+            "start": "02:26.21",
+            "end": "02:42.44",
+            "label": "break"
+        },
+        {
+            "start": "02:42.44",
+            "end": "02:58.68",
+            "label": "break"
+        },
+        {
+            "start": "02:58.68",
+            "end": "03:14.94",
+            "label": "drop"
+        },
+        {
+            "start": "03:14.94",
+            "end": "03:39.33",
+            "label": "drop"
+        },
+        {
+            "start": "03:39.33",
+            "end": "04:03.70",
+            "label": "break"
+        },
+        {
+            "start": "04:03.70",
+            "end": "04:19.95",
+            "label": "drop"
+        },
+        {
+            "start": "04:19.95",
+            "end": "04:44.31",
+            "label": "drop"
+        },
+        {
+            "start": "04:44.31",
+            "end": "05:00.54",
+            "label": "break"
+        },
+        {
+            "start": "05:00.54",
+            "end": "05:16.76",
+            "label": "drop"
+        },
+        {
+            "start": "05:16.76",
+            "end": "05:32.98",
+            "label": "break"
+        },
+        {
+            "start": "05:32.98",
+            "end": "05:49.20",
+            "label": "break"
+        },
+        {
+            "start": "05:49.20",
+            "end": "06:05.42",
+            "label": "break"
+        },
+        {
+            "start": "06:05.42",
+            "end": "06:21.64",
+            "label": "drop"
+        },
+        {
+            "start": "06:21.64",
+            "end": "06:37.87",
+            "label": "break"
+        },
+        {
+            "start": "06:37.87",
+            "end": "07:10.30",
+            "label": "break"
+        },
+        {
+            "start": "07:10.30",
+            "end": "07:34.62",
+            "label": "drop"
+        },
+        {
+            "start": "07:34.62",
+            "end": "07:58.94",
+            "label": "outro"
+        },
+        {
+            "start": "07:58.94",
+            "end": "08:03.79",
+            "label": "outro"
+        }
+    ]
+}

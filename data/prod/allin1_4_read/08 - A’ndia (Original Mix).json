@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/08 - A\u2019ndia (Original Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.24",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.24",
+            "end": "00:15.60",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.60",
+            "end": "00:30.00",
+            "label": "intro"
+        },
+        {
+            "start": "00:30.00",
+            "end": "00:46.32",
+            "label": "intro"
+        },
+        {
+            "start": "00:46.32",
+            "end": "01:01.68",
+            "label": "break"
+        },
+        {
+            "start": "01:01.68",
+            "end": "01:17.04",
+            "label": "break"
+        },
+        {
+            "start": "01:17.04",
+            "end": "01:32.40",
+            "label": "drop"
+        },
+        {
+            "start": "01:32.40",
+            "end": "01:47.76",
+            "label": "drop"
+        },
+        {
+            "start": "01:47.76",
+            "end": "02:03.12",
+            "label": "drop"
+        },
+        {
+            "start": "02:03.12",
+            "end": "02:18.48",
+            "label": "drop"
+        },
+        {
+            "start": "02:18.48",
+            "end": "02:33.84",
+            "label": "drop"
+        },
+        {
+            "start": "02:33.84",
+            "end": "02:49.20",
+            "label": "drop"
+        },
+        {
+            "start": "02:49.20",
+            "end": "03:04.56",
+            "label": "drop"
+        },
+        {
+            "start": "03:04.56",
+            "end": "03:19.92",
+            "label": "break"
+        },
+        {
+            "start": "03:19.92",
+            "end": "03:35.28",
+            "label": "break"
+        },
+        {
+            "start": "03:35.28",
+            "end": "03:50.64",
+            "label": "break"
+        },
+        {
+            "start": "03:50.64",
+            "end": "04:06.00",
+            "label": "drop"
+        },
+        {
+            "start": "04:06.00",
+            "end": "04:21.36",
+            "label": "drop"
+        },
+        {
+            "start": "04:21.36",
+            "end": "04:36.73",
+            "label": "drop"
+        },
+        {
+            "start": "04:36.73",
+            "end": "04:52.08",
+            "label": "drop"
+        },
+        {
+            "start": "04:52.08",
+            "end": "05:07.44",
+            "label": "drop"
+        },
+        {
+            "start": "05:07.44",
+            "end": "05:22.80",
+            "label": "drop"
+        },
+        {
+            "start": "05:22.80",
+            "end": "05:38.16",
+            "label": "drop"
+        },
+        {
+            "start": "05:38.16",
+            "end": "05:53.52",
+            "label": "drop"
+        },
+        {
+            "start": "05:53.52",
+            "end": "06:08.89",
+            "label": "outro"
+        },
+        {
+            "start": "06:08.89",
+            "end": "06:15.12",
+            "label": "outro"
+        }
+    ]
+}

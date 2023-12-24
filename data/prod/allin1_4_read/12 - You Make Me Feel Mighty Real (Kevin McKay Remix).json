@@ -1,0 +1,65 @@
+{
+    "path": "../data/prod/allin1_4_read/12 - You Make Me Feel Mighty Real (Kevin McKay Remix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.42",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.42",
+            "end": "00:15.68",
+            "label": "break"
+        },
+        {
+            "start": "00:15.68",
+            "end": "00:37.84",
+            "label": "drop"
+        },
+        {
+            "start": "00:37.84",
+            "end": "00:59.99",
+            "label": "break"
+        },
+        {
+            "start": "00:59.99",
+            "end": "01:14.76",
+            "label": "drop"
+        },
+        {
+            "start": "01:14.76",
+            "end": "01:29.53",
+            "label": "drop"
+        },
+        {
+            "start": "01:29.53",
+            "end": "01:51.69",
+            "label": "break"
+        },
+        {
+            "start": "01:51.69",
+            "end": "02:06.45",
+            "label": "drop"
+        },
+        {
+            "start": "02:06.45",
+            "end": "02:21.23",
+            "label": "drop"
+        },
+        {
+            "start": "02:21.23",
+            "end": "02:36.00",
+            "label": "drop"
+        },
+        {
+            "start": "02:36.00",
+            "end": "02:52.61",
+            "label": "outro"
+        },
+        {
+            "start": "02:52.61",
+            "end": "02:52.62",
+            "label": "outro"
+        }
+    ]
+}

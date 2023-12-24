@@ -1,0 +1,95 @@
+{
+    "path": "../data/prod/allin1_4_read/20 - Just In Time (Original Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:46.07",
+            "label": "intro"
+        },
+        {
+            "start": "00:46.07",
+            "end": "01:01.43",
+            "label": "break"
+        },
+        {
+            "start": "01:01.43",
+            "end": "01:32.15",
+            "label": "break"
+        },
+        {
+            "start": "01:32.15",
+            "end": "02:04.79",
+            "label": "drop"
+        },
+        {
+            "start": "02:04.79",
+            "end": "02:17.27",
+            "label": "drop"
+        },
+        {
+            "start": "02:17.27",
+            "end": "02:51.83",
+            "label": "break"
+        },
+        {
+            "start": "02:51.83",
+            "end": "03:20.62",
+            "label": "break"
+        },
+        {
+            "start": "03:20.62",
+            "end": "03:35.03",
+            "label": "break"
+        },
+        {
+            "start": "03:35.03",
+            "end": "03:50.38",
+            "label": "drop"
+        },
+        {
+            "start": "03:50.38",
+            "end": "04:05.75",
+            "label": "break"
+        },
+        {
+            "start": "04:05.75",
+            "end": "04:21.11",
+            "label": "break"
+        },
+        {
+            "start": "04:21.11",
+            "end": "04:36.46",
+            "label": "break"
+        },
+        {
+            "start": "04:36.46",
+            "end": "04:53.75",
+            "label": "drop"
+        },
+        {
+            "start": "04:53.75",
+            "end": "05:07.19",
+            "label": "drop"
+        },
+        {
+            "start": "05:07.19",
+            "end": "05:37.91",
+            "label": "drop"
+        },
+        {
+            "start": "05:37.91",
+            "end": "05:52.30",
+            "label": "outro"
+        },
+        {
+            "start": "05:52.30",
+            "end": "06:08.63",
+            "label": "outro"
+        },
+        {
+            "start": "06:08.63",
+            "end": "06:10.76",
+            "label": "outro"
+        }
+    ]
+}

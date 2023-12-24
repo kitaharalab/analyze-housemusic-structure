@@ -1,0 +1,145 @@
+{
+    "path": "../data/prod/allin1_4_read/03 - Hot (Louie Vega_s Why Because I_m Hot Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.95",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.95",
+            "end": "00:12.96",
+            "label": "intro"
+        },
+        {
+            "start": "00:12.96",
+            "end": "00:30.38",
+            "label": "intro"
+        },
+        {
+            "start": "00:30.38",
+            "end": "00:43.93",
+            "label": "drop"
+        },
+        {
+            "start": "00:43.93",
+            "end": "01:03.30",
+            "label": "drop"
+        },
+        {
+            "start": "01:03.30",
+            "end": "01:28.48",
+            "label": "drop"
+        },
+        {
+            "start": "01:28.48",
+            "end": "01:45.91",
+            "label": "drop"
+        },
+        {
+            "start": "01:45.91",
+            "end": "02:01.39",
+            "label": "drop"
+        },
+        {
+            "start": "02:01.39",
+            "end": "02:18.83",
+            "label": "drop"
+        },
+        {
+            "start": "02:18.83",
+            "end": "02:40.13",
+            "label": "drop"
+        },
+        {
+            "start": "02:40.13",
+            "end": "03:01.43",
+            "label": "drop"
+        },
+        {
+            "start": "03:01.43",
+            "end": "03:18.87",
+            "label": "drop"
+        },
+        {
+            "start": "03:18.87",
+            "end": "03:49.84",
+            "label": "drop"
+        },
+        {
+            "start": "03:49.84",
+            "end": "04:13.07",
+            "label": "drop"
+        },
+        {
+            "start": "04:13.07",
+            "end": "04:28.57",
+            "label": "drop"
+        },
+        {
+            "start": "04:28.57",
+            "end": "04:59.56",
+            "label": "drop"
+        },
+        {
+            "start": "04:59.56",
+            "end": "05:22.81",
+            "label": "drop"
+        },
+        {
+            "start": "05:22.81",
+            "end": "05:40.22",
+            "label": "drop"
+        },
+        {
+            "start": "05:40.22",
+            "end": "05:53.78",
+            "label": "drop"
+        },
+        {
+            "start": "05:53.78",
+            "end": "06:17.02",
+            "label": "drop"
+        },
+        {
+            "start": "06:17.02",
+            "end": "06:32.51",
+            "label": "drop"
+        },
+        {
+            "start": "06:32.51",
+            "end": "06:48.00",
+            "label": "drop"
+        },
+        {
+            "start": "06:48.00",
+            "end": "07:03.49",
+            "label": "drop"
+        },
+        {
+            "start": "07:03.49",
+            "end": "07:18.99",
+            "label": "drop"
+        },
+        {
+            "start": "07:18.99",
+            "end": "07:34.48",
+            "label": "drop"
+        },
+        {
+            "start": "07:34.48",
+            "end": "07:55.78",
+            "label": "outro"
+        },
+        {
+            "start": "07:55.78",
+            "end": "08:11.27",
+            "label": "outro"
+        },
+        {
+            "start": "08:11.27",
+            "end": "08:17.51",
+            "label": "outro"
+        }
+    ]
+}

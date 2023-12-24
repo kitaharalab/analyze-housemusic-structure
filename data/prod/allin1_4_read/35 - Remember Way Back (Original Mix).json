@@ -1,0 +1,125 @@
+{
+    "path": "../data/prod/allin1_4_read/35 - Remember Way Back (Original Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.25",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.25",
+            "end": "00:15.85",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.85",
+            "end": "00:31.46",
+            "label": "break"
+        },
+        {
+            "start": "00:31.46",
+            "end": "00:47.07",
+            "label": "break"
+        },
+        {
+            "start": "00:47.07",
+            "end": "01:02.69",
+            "label": "intro"
+        },
+        {
+            "start": "01:02.69",
+            "end": "01:33.90",
+            "label": "break"
+        },
+        {
+            "start": "01:33.90",
+            "end": "01:49.51",
+            "label": "break"
+        },
+        {
+            "start": "01:49.51",
+            "end": "02:05.13",
+            "label": "break"
+        },
+        {
+            "start": "02:05.13",
+            "end": "02:20.73",
+            "label": "drop"
+        },
+        {
+            "start": "02:20.73",
+            "end": "02:36.34",
+            "label": "drop"
+        },
+        {
+            "start": "02:36.34",
+            "end": "02:51.95",
+            "label": "drop"
+        },
+        {
+            "start": "02:51.95",
+            "end": "03:07.56",
+            "label": "drop"
+        },
+        {
+            "start": "03:07.56",
+            "end": "03:23.17",
+            "label": "break"
+        },
+        {
+            "start": "03:23.17",
+            "end": "03:38.78",
+            "label": "break"
+        },
+        {
+            "start": "03:38.78",
+            "end": "03:54.39",
+            "label": "break"
+        },
+        {
+            "start": "03:54.39",
+            "end": "04:10.01",
+            "label": "break"
+        },
+        {
+            "start": "04:10.01",
+            "end": "04:41.22",
+            "label": "drop"
+        },
+        {
+            "start": "04:41.22",
+            "end": "04:56.83",
+            "label": "drop"
+        },
+        {
+            "start": "04:56.83",
+            "end": "05:12.44",
+            "label": "drop"
+        },
+        {
+            "start": "05:12.44",
+            "end": "05:28.05",
+            "label": "drop"
+        },
+        {
+            "start": "05:28.05",
+            "end": "05:43.66",
+            "label": "break"
+        },
+        {
+            "start": "05:43.66",
+            "end": "05:59.26",
+            "label": "break"
+        },
+        {
+            "start": "05:59.26",
+            "end": "06:14.89",
+            "label": "break"
+        },
+        {
+            "start": "06:14.89",
+            "end": "06:20.77",
+            "label": "outro"
+        }
+    ]
+}

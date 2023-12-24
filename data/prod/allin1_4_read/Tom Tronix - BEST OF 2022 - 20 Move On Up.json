@@ -1,0 +1,80 @@
+{
+    "path": "../data/prod/allin1_4_read/Tom Tronix - BEST OF 2022 - 20 Move On Up.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:15.35",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.35",
+            "end": "00:30.71",
+            "label": "drop"
+        },
+        {
+            "start": "00:30.71",
+            "end": "00:44.16",
+            "label": "drop"
+        },
+        {
+            "start": "00:44.16",
+            "end": "01:01.43",
+            "label": "drop"
+        },
+        {
+            "start": "01:01.43",
+            "end": "01:14.87",
+            "label": "drop"
+        },
+        {
+            "start": "01:14.87",
+            "end": "01:47.51",
+            "label": "drop"
+        },
+        {
+            "start": "01:47.51",
+            "end": "02:02.87",
+            "label": "break"
+        },
+        {
+            "start": "02:02.87",
+            "end": "02:16.31",
+            "label": "drop"
+        },
+        {
+            "start": "02:16.31",
+            "end": "02:48.95",
+            "label": "drop"
+        },
+        {
+            "start": "02:48.95",
+            "end": "03:11.99",
+            "label": "break"
+        },
+        {
+            "start": "03:11.99",
+            "end": "03:27.35",
+            "label": "drop"
+        },
+        {
+            "start": "03:27.35",
+            "end": "03:40.79",
+            "label": "drop"
+        },
+        {
+            "start": "03:40.79",
+            "end": "03:58.07",
+            "label": "drop"
+        },
+        {
+            "start": "03:58.07",
+            "end": "04:21.11",
+            "label": "drop"
+        },
+        {
+            "start": "04:21.11",
+            "end": "04:22.57",
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "path": "../data/prod/allin1_4_read/33 - You_re My Life (Kormak Remix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.02",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.02",
+            "end": "00:15.38",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.38",
+            "end": "00:30.74",
+            "label": "intro"
+        },
+        {
+            "start": "00:30.74",
+            "end": "00:46.10",
+            "label": "drop"
+        },
+        {
+            "start": "00:46.10",
+            "end": "01:01.46",
+            "label": "drop"
+        },
+        {
+            "start": "01:01.46",
+            "end": "01:16.82",
+            "label": "break"
+        },
+        {
+            "start": "01:16.82",
+            "end": "01:32.18",
+            "label": "break"
+        },
+        {
+            "start": "01:32.18",
+            "end": "01:47.54",
+            "label": "drop"
+        },
+        {
+            "start": "01:47.54",
+            "end": "02:02.90",
+            "label": "drop"
+        },
+        {
+            "start": "02:02.90",
+            "end": "02:18.26",
+            "label": "drop"
+        },
+        {
+            "start": "02:18.26",
+            "end": "02:33.62",
+            "label": "drop"
+        },
+        {
+            "start": "02:33.62",
+            "end": "02:48.98",
+            "label": "drop"
+        },
+        {
+            "start": "02:48.98",
+            "end": "03:04.34",
+            "label": "break"
+        },
+        {
+            "start": "03:04.34",
+            "end": "03:35.05",
+            "label": "break"
+        },
+        {
+            "start": "03:35.05",
+            "end": "04:05.77",
+            "label": "drop"
+        },
+        {
+            "start": "04:05.77",
+            "end": "04:21.14",
+            "label": "break"
+        },
+        {
+            "start": "04:21.14",
+            "end": "04:36.50",
+            "label": "drop"
+        },
+        {
+            "start": "04:36.50",
+            "end": "04:51.86",
+            "label": "drop"
+        },
+        {
+            "start": "04:51.86",
+            "end": "05:07.22",
+            "label": "drop"
+        },
+        {
+            "start": "05:07.22",
+            "end": "05:22.58",
+            "label": "drop"
+        },
+        {
+            "start": "05:22.58",
+            "end": "05:37.94",
+            "label": "drop"
+        },
+        {
+            "start": "05:37.94",
+            "end": "05:53.30",
+            "label": "drop"
+        },
+        {
+            "start": "05:53.30",
+            "end": "06:08.66",
+            "label": "outro"
+        },
+        {
+            "start": "06:08.66",
+            "end": "06:24.02",
+            "label": "outro"
+        },
+        {
+            "start": "06:24.02",
+            "end": "06:27.47",
+            "label": "outro"
+        }
+    ]
+}

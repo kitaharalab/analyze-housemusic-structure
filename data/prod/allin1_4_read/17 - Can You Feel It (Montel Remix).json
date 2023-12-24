@@ -1,0 +1,145 @@
+{
+    "path": "../data/prod/allin1_4_read/17 - Can You Feel It (Montel Remix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.17",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.17",
+            "end": "00:15.66",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.66",
+            "end": "00:31.14",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.14",
+            "end": "00:46.62",
+            "label": "intro"
+        },
+        {
+            "start": "00:46.62",
+            "end": "01:02.11",
+            "label": "intro"
+        },
+        {
+            "start": "01:02.11",
+            "end": "01:17.60",
+            "label": "drop"
+        },
+        {
+            "start": "01:17.60",
+            "end": "01:33.08",
+            "label": "break"
+        },
+        {
+            "start": "01:33.08",
+            "end": "01:47.60",
+            "label": "drop"
+        },
+        {
+            "start": "01:47.60",
+            "end": "02:04.05",
+            "label": "drop"
+        },
+        {
+            "start": "02:04.05",
+            "end": "02:19.54",
+            "label": "drop"
+        },
+        {
+            "start": "02:19.54",
+            "end": "02:35.02",
+            "label": "break"
+        },
+        {
+            "start": "02:35.02",
+            "end": "02:50.50",
+            "label": "break"
+        },
+        {
+            "start": "02:50.50",
+            "end": "03:05.99",
+            "label": "break"
+        },
+        {
+            "start": "03:05.99",
+            "end": "03:21.47",
+            "label": "drop"
+        },
+        {
+            "start": "03:21.47",
+            "end": "03:36.95",
+            "label": "drop"
+        },
+        {
+            "start": "03:36.95",
+            "end": "03:52.43",
+            "label": "drop"
+        },
+        {
+            "start": "03:52.43",
+            "end": "04:07.92",
+            "label": "break"
+        },
+        {
+            "start": "04:07.92",
+            "end": "04:23.40",
+            "label": "drop"
+        },
+        {
+            "start": "04:23.40",
+            "end": "04:38.88",
+            "label": "drop"
+        },
+        {
+            "start": "04:38.88",
+            "end": "04:54.38",
+            "label": "drop"
+        },
+        {
+            "start": "04:54.38",
+            "end": "05:09.86",
+            "label": "drop"
+        },
+        {
+            "start": "05:09.86",
+            "end": "05:25.34",
+            "label": "drop"
+        },
+        {
+            "start": "05:25.34",
+            "end": "05:40.82",
+            "label": "drop"
+        },
+        {
+            "start": "05:40.82",
+            "end": "05:56.30",
+            "label": "drop"
+        },
+        {
+            "start": "05:56.30",
+            "end": "06:11.79",
+            "label": "drop"
+        },
+        {
+            "start": "06:11.79",
+            "end": "06:28.24",
+            "label": "break"
+        },
+        {
+            "start": "06:28.24",
+            "end": "06:42.76",
+            "label": "outro"
+        },
+        {
+            "start": "06:42.76",
+            "end": "06:43.02",
+            "label": "outro"
+        }
+    ]
+}

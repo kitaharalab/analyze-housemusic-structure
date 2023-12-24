@@ -1,0 +1,125 @@
+{
+    "path": "../data/prod/allin1_4_read/AFAMoo - BEST OF 2022 - 01 The Art Of Jazz.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:15.85",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.85",
+            "end": "00:31.72",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.72",
+            "end": "00:47.58",
+            "label": "break"
+        },
+        {
+            "start": "00:47.58",
+            "end": "01:03.46",
+            "label": "break"
+        },
+        {
+            "start": "01:03.46",
+            "end": "01:19.32",
+            "label": "drop"
+        },
+        {
+            "start": "01:19.32",
+            "end": "01:35.19",
+            "label": "drop"
+        },
+        {
+            "start": "01:35.19",
+            "end": "01:51.06",
+            "label": "drop"
+        },
+        {
+            "start": "01:51.06",
+            "end": "02:06.94",
+            "label": "break"
+        },
+        {
+            "start": "02:06.94",
+            "end": "02:38.67",
+            "label": "break"
+        },
+        {
+            "start": "02:38.67",
+            "end": "02:54.53",
+            "label": "drop"
+        },
+        {
+            "start": "02:54.53",
+            "end": "03:10.40",
+            "label": "drop"
+        },
+        {
+            "start": "03:10.40",
+            "end": "03:26.26",
+            "label": "drop"
+        },
+        {
+            "start": "03:26.26",
+            "end": "03:42.14",
+            "label": "drop"
+        },
+        {
+            "start": "03:42.14",
+            "end": "03:58.00",
+            "label": "break"
+        },
+        {
+            "start": "03:58.00",
+            "end": "04:13.87",
+            "label": "break"
+        },
+        {
+            "start": "04:13.87",
+            "end": "04:29.73",
+            "label": "drop"
+        },
+        {
+            "start": "04:29.73",
+            "end": "04:45.61",
+            "label": "drop"
+        },
+        {
+            "start": "04:45.61",
+            "end": "05:01.47",
+            "label": "drop"
+        },
+        {
+            "start": "05:01.47",
+            "end": "05:17.34",
+            "label": "drop"
+        },
+        {
+            "start": "05:17.34",
+            "end": "05:33.20",
+            "label": "break"
+        },
+        {
+            "start": "05:33.20",
+            "end": "05:49.08",
+            "label": "drop"
+        },
+        {
+            "start": "05:49.08",
+            "end": "06:04.94",
+            "label": "break"
+        },
+        {
+            "start": "06:04.94",
+            "end": "06:21.81",
+            "label": "break"
+        },
+        {
+            "start": "06:21.81",
+            "end": "06:21.82",
+            "label": "outro"
+        }
+    ]
+}

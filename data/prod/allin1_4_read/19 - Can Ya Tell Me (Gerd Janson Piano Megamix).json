@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/19 - Can Ya Tell Me (Gerd Janson Piano Megamix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.04",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.04",
+            "end": "00:16.02",
+            "label": "intro"
+        },
+        {
+            "start": "00:16.02",
+            "end": "00:32.03",
+            "label": "intro"
+        },
+        {
+            "start": "00:32.03",
+            "end": "01:03.99",
+            "label": "break"
+        },
+        {
+            "start": "01:03.99",
+            "end": "01:19.97",
+            "label": "break"
+        },
+        {
+            "start": "01:19.97",
+            "end": "01:35.96",
+            "label": "break"
+        },
+        {
+            "start": "01:35.96",
+            "end": "01:51.95",
+            "label": "break"
+        },
+        {
+            "start": "01:51.95",
+            "end": "02:07.94",
+            "label": "drop"
+        },
+        {
+            "start": "02:07.94",
+            "end": "02:23.91",
+            "label": "break"
+        },
+        {
+            "start": "02:23.91",
+            "end": "02:39.91",
+            "label": "break"
+        },
+        {
+            "start": "02:39.91",
+            "end": "02:55.90",
+            "label": "drop"
+        },
+        {
+            "start": "02:55.90",
+            "end": "03:11.87",
+            "label": "break"
+        },
+        {
+            "start": "03:11.87",
+            "end": "03:25.86",
+            "label": "break"
+        },
+        {
+            "start": "03:25.86",
+            "end": "03:43.84",
+            "label": "drop"
+        },
+        {
+            "start": "03:43.84",
+            "end": "03:59.84",
+            "label": "break"
+        },
+        {
+            "start": "03:59.84",
+            "end": "04:15.84",
+            "label": "break"
+        },
+        {
+            "start": "04:15.84",
+            "end": "04:41.80",
+            "label": "drop"
+        },
+        {
+            "start": "04:41.80",
+            "end": "05:03.79",
+            "label": "break"
+        },
+        {
+            "start": "05:03.79",
+            "end": "05:19.78",
+            "label": "drop"
+        },
+        {
+            "start": "05:19.78",
+            "end": "06:07.74",
+            "label": "drop"
+        },
+        {
+            "start": "06:07.74",
+            "end": "06:23.74",
+            "label": "outro"
+        },
+        {
+            "start": "06:23.74",
+            "end": "06:26.73",
+            "label": "outro"
+        }
+    ]
+}

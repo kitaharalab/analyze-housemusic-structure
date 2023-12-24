@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/13 - We Get High From The Music (Original Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.48",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.48",
+            "end": "00:17.20",
+            "label": "intro"
+        },
+        {
+            "start": "00:17.20",
+            "end": "00:31.95",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.95",
+            "end": "00:48.67",
+            "label": "drop"
+        },
+        {
+            "start": "00:48.67",
+            "end": "01:08.35",
+            "label": "drop"
+        },
+        {
+            "start": "01:08.35",
+            "end": "01:34.91",
+            "label": "drop"
+        },
+        {
+            "start": "01:34.91",
+            "end": "01:50.64",
+            "label": "break"
+        },
+        {
+            "start": "01:50.64",
+            "end": "02:06.38",
+            "label": "break"
+        },
+        {
+            "start": "02:06.38",
+            "end": "02:25.07",
+            "label": "drop"
+        },
+        {
+            "start": "02:25.07",
+            "end": "02:38.84",
+            "label": "drop"
+        },
+        {
+            "start": "02:38.84",
+            "end": "02:53.60",
+            "label": "break"
+        },
+        {
+            "start": "02:53.60",
+            "end": "03:08.35",
+            "label": "break"
+        },
+        {
+            "start": "03:08.35",
+            "end": "03:26.05",
+            "label": "break"
+        },
+        {
+            "start": "03:26.05",
+            "end": "03:56.54",
+            "label": "drop"
+        },
+        {
+            "start": "03:56.54",
+            "end": "04:12.28",
+            "label": "break"
+        },
+        {
+            "start": "04:12.28",
+            "end": "04:28.01",
+            "label": "break"
+        },
+        {
+            "start": "04:28.01",
+            "end": "04:43.76",
+            "label": "drop"
+        },
+        {
+            "start": "04:43.76",
+            "end": "05:00.48",
+            "label": "drop"
+        },
+        {
+            "start": "05:00.48",
+            "end": "05:15.23",
+            "label": "drop"
+        },
+        {
+            "start": "05:15.23",
+            "end": "05:31.95",
+            "label": "outro"
+        },
+        {
+            "start": "05:31.95",
+            "end": "05:46.70",
+            "label": "outro"
+        },
+        {
+            "start": "05:46.70",
+            "end": "05:50.67",
+            "label": "outro"
+        }
+    ]
+}

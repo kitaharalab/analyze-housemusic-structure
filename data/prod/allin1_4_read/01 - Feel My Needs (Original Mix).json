@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/01 - Feel My Needs (Original Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.23",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.23",
+            "end": "00:15.97",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.97",
+            "end": "00:47.44",
+            "label": "intro"
+        },
+        {
+            "start": "00:47.44",
+            "end": "01:03.18",
+            "label": "intro"
+        },
+        {
+            "start": "01:03.18",
+            "end": "01:18.92",
+            "label": "break"
+        },
+        {
+            "start": "01:18.92",
+            "end": "01:34.67",
+            "label": "break"
+        },
+        {
+            "start": "01:34.67",
+            "end": "01:50.40",
+            "label": "break"
+        },
+        {
+            "start": "01:50.40",
+            "end": "02:06.14",
+            "label": "drop"
+        },
+        {
+            "start": "02:06.14",
+            "end": "02:21.88",
+            "label": "drop"
+        },
+        {
+            "start": "02:21.88",
+            "end": "02:37.62",
+            "label": "break"
+        },
+        {
+            "start": "02:37.62",
+            "end": "02:53.35",
+            "label": "drop"
+        },
+        {
+            "start": "02:53.35",
+            "end": "03:09.09",
+            "label": "drop"
+        },
+        {
+            "start": "03:09.09",
+            "end": "03:24.83",
+            "label": "break"
+        },
+        {
+            "start": "03:24.83",
+            "end": "03:40.57",
+            "label": "break"
+        },
+        {
+            "start": "03:40.57",
+            "end": "03:58.27",
+            "label": "drop"
+        },
+        {
+            "start": "03:58.27",
+            "end": "04:27.78",
+            "label": "break"
+        },
+        {
+            "start": "04:27.78",
+            "end": "04:43.52",
+            "label": "drop"
+        },
+        {
+            "start": "04:43.52",
+            "end": "04:59.26",
+            "label": "drop"
+        },
+        {
+            "start": "04:59.26",
+            "end": "05:15.00",
+            "label": "drop"
+        },
+        {
+            "start": "05:15.00",
+            "end": "05:30.73",
+            "label": "drop"
+        },
+        {
+            "start": "05:30.73",
+            "end": "05:46.47",
+            "label": "drop"
+        },
+        {
+            "start": "05:46.47",
+            "end": "06:02.23",
+            "label": "outro"
+        },
+        {
+            "start": "06:02.23",
+            "end": "06:04.70",
+            "label": "outro"
+        }
+    ]
+}

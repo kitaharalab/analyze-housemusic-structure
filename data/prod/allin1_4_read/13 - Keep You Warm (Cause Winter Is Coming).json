@@ -1,0 +1,85 @@
+{
+    "path": "../data/prod/allin1_4_read/13 - Keep You Warm (Cause Winter Is Coming).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.03",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.03",
+            "end": "00:23.25",
+            "label": "intro"
+        },
+        {
+            "start": "00:23.25",
+            "end": "00:35.83",
+            "label": "intro"
+        },
+        {
+            "start": "00:35.83",
+            "end": "00:54.23",
+            "label": "intro"
+        },
+        {
+            "start": "00:54.23",
+            "end": "01:09.71",
+            "label": "drop"
+        },
+        {
+            "start": "01:09.71",
+            "end": "01:32.93",
+            "label": "drop"
+        },
+        {
+            "start": "01:32.93",
+            "end": "01:56.16",
+            "label": "drop"
+        },
+        {
+            "start": "01:56.16",
+            "end": "02:22.28",
+            "label": "break"
+        },
+        {
+            "start": "02:22.28",
+            "end": "02:43.58",
+            "label": "drop"
+        },
+        {
+            "start": "02:43.58",
+            "end": "03:29.07",
+            "label": "drop"
+        },
+        {
+            "start": "03:29.07",
+            "end": "03:52.29",
+            "label": "drop"
+        },
+        {
+            "start": "03:52.29",
+            "end": "04:31.00",
+            "label": "drop"
+        },
+        {
+            "start": "04:31.00",
+            "end": "04:54.23",
+            "label": "drop"
+        },
+        {
+            "start": "04:54.23",
+            "end": "05:09.71",
+            "label": "drop"
+        },
+        {
+            "start": "05:09.71",
+            "end": "05:32.93",
+            "label": "outro"
+        },
+        {
+            "start": "05:32.93",
+            "end": "05:37.67",
+            "label": "outro"
+        }
+    ]
+}

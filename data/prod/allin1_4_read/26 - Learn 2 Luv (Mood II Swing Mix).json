@@ -1,0 +1,145 @@
+{
+    "path": "../data/prod/allin1_4_read/26 - Learn 2 Luv (Mood II Swing Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.04",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.04",
+            "end": "00:13.48",
+            "label": "intro"
+        },
+        {
+            "start": "00:13.48",
+            "end": "00:30.75",
+            "label": "intro"
+        },
+        {
+            "start": "00:30.75",
+            "end": "00:46.11",
+            "label": "drop"
+        },
+        {
+            "start": "00:46.11",
+            "end": "01:01.48",
+            "label": "drop"
+        },
+        {
+            "start": "01:01.48",
+            "end": "01:16.85",
+            "label": "drop"
+        },
+        {
+            "start": "01:16.85",
+            "end": "01:32.21",
+            "label": "intro"
+        },
+        {
+            "start": "01:32.21",
+            "end": "01:47.10",
+            "label": "break"
+        },
+        {
+            "start": "01:47.10",
+            "end": "02:04.39",
+            "label": "break"
+        },
+        {
+            "start": "02:04.39",
+            "end": "02:33.68",
+            "label": "drop"
+        },
+        {
+            "start": "02:33.68",
+            "end": "02:49.05",
+            "label": "break"
+        },
+        {
+            "start": "02:49.05",
+            "end": "03:04.40",
+            "label": "drop"
+        },
+        {
+            "start": "03:04.40",
+            "end": "03:19.77",
+            "label": "break"
+        },
+        {
+            "start": "03:19.77",
+            "end": "03:35.14",
+            "label": "break"
+        },
+        {
+            "start": "03:35.14",
+            "end": "03:49.54",
+            "label": "drop"
+        },
+        {
+            "start": "03:49.54",
+            "end": "04:05.86",
+            "label": "drop"
+        },
+        {
+            "start": "04:05.86",
+            "end": "04:36.59",
+            "label": "drop"
+        },
+        {
+            "start": "04:36.59",
+            "end": "04:51.96",
+            "label": "break"
+        },
+        {
+            "start": "04:51.96",
+            "end": "05:15.01",
+            "label": "break"
+        },
+        {
+            "start": "05:15.01",
+            "end": "05:30.38",
+            "label": "drop"
+        },
+        {
+            "start": "05:30.38",
+            "end": "05:45.74",
+            "label": "drop"
+        },
+        {
+            "start": "05:45.74",
+            "end": "06:01.11",
+            "label": "drop"
+        },
+        {
+            "start": "06:01.11",
+            "end": "06:35.68",
+            "label": "drop"
+        },
+        {
+            "start": "06:35.68",
+            "end": "06:51.05",
+            "label": "drop"
+        },
+        {
+            "start": "06:51.05",
+            "end": "07:10.25",
+            "label": "drop"
+        },
+        {
+            "start": "07:10.25",
+            "end": "07:40.98",
+            "label": "break"
+        },
+        {
+            "start": "07:40.98",
+            "end": "08:16.55",
+            "label": "break"
+        },
+        {
+            "start": "08:16.55",
+            "end": "08:16.56",
+            "label": "outro"
+        }
+    ]
+}

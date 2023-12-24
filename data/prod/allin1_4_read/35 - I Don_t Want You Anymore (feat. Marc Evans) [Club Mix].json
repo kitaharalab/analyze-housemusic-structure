@@ -1,0 +1,145 @@
+{
+    "path": "../data/prod/allin1_4_read/35 - I Don_t Want You Anymore (feat. Marc Evans) [Club Mix].json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.99",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.99",
+            "end": "00:15.39",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.39",
+            "end": "00:31.71",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.71",
+            "end": "00:48.99",
+            "label": "intro"
+        },
+        {
+            "start": "00:48.99",
+            "end": "01:02.43",
+            "label": "intro"
+        },
+        {
+            "start": "01:02.43",
+            "end": "01:17.79",
+            "label": "intro"
+        },
+        {
+            "start": "01:17.79",
+            "end": "01:33.16",
+            "label": "break"
+        },
+        {
+            "start": "01:33.16",
+            "end": "01:48.52",
+            "label": "drop"
+        },
+        {
+            "start": "01:48.52",
+            "end": "02:03.87",
+            "label": "drop"
+        },
+        {
+            "start": "02:03.87",
+            "end": "02:21.16",
+            "label": "break"
+        },
+        {
+            "start": "02:21.16",
+            "end": "02:34.59",
+            "label": "break"
+        },
+        {
+            "start": "02:34.59",
+            "end": "02:49.95",
+            "label": "drop"
+        },
+        {
+            "start": "02:49.95",
+            "end": "03:05.31",
+            "label": "drop"
+        },
+        {
+            "start": "03:05.31",
+            "end": "03:20.68",
+            "label": "break"
+        },
+        {
+            "start": "03:20.68",
+            "end": "03:36.04",
+            "label": "break"
+        },
+        {
+            "start": "03:36.04",
+            "end": "03:51.40",
+            "label": "drop"
+        },
+        {
+            "start": "03:51.40",
+            "end": "04:06.75",
+            "label": "drop"
+        },
+        {
+            "start": "04:06.75",
+            "end": "04:21.63",
+            "label": "break"
+        },
+        {
+            "start": "04:21.63",
+            "end": "04:52.83",
+            "label": "break"
+        },
+        {
+            "start": "04:52.83",
+            "end": "05:07.71",
+            "label": "break"
+        },
+        {
+            "start": "05:07.71",
+            "end": "05:23.56",
+            "label": "drop"
+        },
+        {
+            "start": "05:23.56",
+            "end": "05:38.92",
+            "label": "drop"
+        },
+        {
+            "start": "05:38.92",
+            "end": "05:54.28",
+            "label": "drop"
+        },
+        {
+            "start": "05:54.28",
+            "end": "06:21.16",
+            "label": "break"
+        },
+        {
+            "start": "06:21.16",
+            "end": "06:40.36",
+            "label": "drop"
+        },
+        {
+            "start": "06:40.36",
+            "end": "07:11.07",
+            "label": "outro"
+        },
+        {
+            "start": "07:11.07",
+            "end": "07:26.43",
+            "label": "outro"
+        },
+        {
+            "start": "07:26.43",
+            "end": "07:29.50",
+            "label": "outro"
+        }
+    ]
+}

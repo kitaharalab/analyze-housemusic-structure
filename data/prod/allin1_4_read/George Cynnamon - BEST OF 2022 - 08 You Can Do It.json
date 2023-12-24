@@ -1,0 +1,100 @@
+{
+    "path": "../data/prod/allin1_4_read/George Cynnamon - BEST OF 2022 - 08 You Can Do It.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.07",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.07",
+            "end": "00:15.56",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.56",
+            "end": "00:31.04",
+            "label": "drop"
+        },
+        {
+            "start": "00:31.04",
+            "end": "00:43.63",
+            "label": "drop"
+        },
+        {
+            "start": "00:43.63",
+            "end": "01:01.04",
+            "label": "drop"
+        },
+        {
+            "start": "01:01.04",
+            "end": "01:17.49",
+            "label": "drop"
+        },
+        {
+            "start": "01:17.49",
+            "end": "01:32.98",
+            "label": "drop"
+        },
+        {
+            "start": "01:32.98",
+            "end": "01:56.21",
+            "label": "drop"
+        },
+        {
+            "start": "01:56.21",
+            "end": "02:19.43",
+            "label": "drop"
+        },
+        {
+            "start": "02:19.43",
+            "end": "02:50.40",
+            "label": "break"
+        },
+        {
+            "start": "02:50.40",
+            "end": "03:05.89",
+            "label": "drop"
+        },
+        {
+            "start": "03:05.89",
+            "end": "03:21.37",
+            "label": "drop"
+        },
+        {
+            "start": "03:21.37",
+            "end": "03:36.85",
+            "label": "break"
+        },
+        {
+            "start": "03:36.85",
+            "end": "03:52.34",
+            "label": "drop"
+        },
+        {
+            "start": "03:52.34",
+            "end": "04:07.82",
+            "label": "drop"
+        },
+        {
+            "start": "04:07.82",
+            "end": "04:23.30",
+            "label": "drop"
+        },
+        {
+            "start": "04:23.30",
+            "end": "04:38.78",
+            "label": "outro"
+        },
+        {
+            "start": "04:38.78",
+            "end": "04:54.28",
+            "label": "outro"
+        },
+        {
+            "start": "04:54.28",
+            "end": "04:59.13",
+            "label": "outro"
+        }
+    ]
+}

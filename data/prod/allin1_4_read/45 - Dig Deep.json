@@ -1,0 +1,65 @@
+{
+    "path": "../data/prod/allin1_4_read/45 - Dig Deep.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:01.94",
+            "label": "intro"
+        },
+        {
+            "start": "00:01.94",
+            "end": "00:17.30",
+            "label": "intro"
+        },
+        {
+            "start": "00:17.30",
+            "end": "00:32.65",
+            "label": "break"
+        },
+        {
+            "start": "00:32.65",
+            "end": "01:03.38",
+            "label": "break"
+        },
+        {
+            "start": "01:03.38",
+            "end": "01:18.73",
+            "label": "drop"
+        },
+        {
+            "start": "01:18.73",
+            "end": "01:34.10",
+            "label": "drop"
+        },
+        {
+            "start": "01:34.10",
+            "end": "01:49.46",
+            "label": "drop"
+        },
+        {
+            "start": "01:49.46",
+            "end": "02:02.90",
+            "label": "drop"
+        },
+        {
+            "start": "02:02.90",
+            "end": "02:26.42",
+            "label": "break"
+        },
+        {
+            "start": "02:26.42",
+            "end": "02:43.22",
+            "label": "drop"
+        },
+        {
+            "start": "02:43.22",
+            "end": "02:58.59",
+            "label": "drop"
+        },
+        {
+            "start": "02:58.59",
+            "end": "03:00.50",
+            "label": "outro"
+        }
+    ]
+}

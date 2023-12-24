@@ -1,0 +1,155 @@
+{
+    "path": "../data/prod/allin1_4_read/35 - Walk (Mousse T._s Full Vocal).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.17",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.17",
+            "end": "00:17.74",
+            "label": "break"
+        },
+        {
+            "start": "00:17.74",
+            "end": "00:31.41",
+            "label": "break"
+        },
+        {
+            "start": "00:31.41",
+            "end": "00:47.04",
+            "label": "drop"
+        },
+        {
+            "start": "00:47.04",
+            "end": "01:02.66",
+            "label": "break"
+        },
+        {
+            "start": "01:02.66",
+            "end": "01:18.29",
+            "label": "break"
+        },
+        {
+            "start": "01:18.29",
+            "end": "01:33.92",
+            "label": "drop"
+        },
+        {
+            "start": "01:33.92",
+            "end": "01:49.54",
+            "label": "drop"
+        },
+        {
+            "start": "01:49.54",
+            "end": "02:05.17",
+            "label": "drop"
+        },
+        {
+            "start": "02:05.17",
+            "end": "02:20.80",
+            "label": "drop"
+        },
+        {
+            "start": "02:20.80",
+            "end": "02:36.43",
+            "label": "break"
+        },
+        {
+            "start": "02:36.43",
+            "end": "02:51.56",
+            "label": "break"
+        },
+        {
+            "start": "02:51.56",
+            "end": "03:07.68",
+            "label": "drop"
+        },
+        {
+            "start": "03:07.68",
+            "end": "03:22.33",
+            "label": "drop"
+        },
+        {
+            "start": "03:22.33",
+            "end": "03:38.93",
+            "label": "break"
+        },
+        {
+            "start": "03:38.93",
+            "end": "03:54.55",
+            "label": "break"
+        },
+        {
+            "start": "03:54.55",
+            "end": "04:10.18",
+            "label": "drop"
+        },
+        {
+            "start": "04:10.18",
+            "end": "04:27.76",
+            "label": "drop"
+        },
+        {
+            "start": "04:27.76",
+            "end": "04:57.06",
+            "label": "drop"
+        },
+        {
+            "start": "04:57.06",
+            "end": "05:12.68",
+            "label": "break"
+        },
+        {
+            "start": "05:12.68",
+            "end": "05:28.31",
+            "label": "break"
+        },
+        {
+            "start": "05:28.31",
+            "end": "05:43.93",
+            "label": "drop"
+        },
+        {
+            "start": "05:43.93",
+            "end": "06:15.19",
+            "label": "drop"
+        },
+        {
+            "start": "06:15.19",
+            "end": "06:30.82",
+            "label": "drop"
+        },
+        {
+            "start": "06:30.82",
+            "end": "06:45.47",
+            "label": "drop"
+        },
+        {
+            "start": "06:45.47",
+            "end": "07:16.72",
+            "label": "drop"
+        },
+        {
+            "start": "07:16.72",
+            "end": "07:33.32",
+            "label": "drop"
+        },
+        {
+            "start": "07:33.32",
+            "end": "07:48.94",
+            "label": "outro"
+        },
+        {
+            "start": "07:48.94",
+            "end": "08:04.56",
+            "label": "outro"
+        },
+        {
+            "start": "08:04.56",
+            "end": "08:06.54",
+            "label": "outro"
+        }
+    ]
+}

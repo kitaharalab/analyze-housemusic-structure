@@ -1,0 +1,105 @@
+{
+    "path": "../data/prod/allin1_4_read/12 - Don_t Change It Up.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.09",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.09",
+            "end": "00:16.22",
+            "label": "intro"
+        },
+        {
+            "start": "00:16.22",
+            "end": "00:48.49",
+            "label": "drop"
+        },
+        {
+            "start": "00:48.49",
+            "end": "01:20.77",
+            "label": "break"
+        },
+        {
+            "start": "01:20.77",
+            "end": "01:36.90",
+            "label": "drop"
+        },
+        {
+            "start": "01:36.90",
+            "end": "01:53.03",
+            "label": "drop"
+        },
+        {
+            "start": "01:53.03",
+            "end": "02:05.13",
+            "label": "break"
+        },
+        {
+            "start": "02:05.13",
+            "end": "02:25.30",
+            "label": "break"
+        },
+        {
+            "start": "02:25.30",
+            "end": "02:41.44",
+            "label": "break"
+        },
+        {
+            "start": "02:41.44",
+            "end": "02:57.58",
+            "label": "break"
+        },
+        {
+            "start": "02:57.58",
+            "end": "03:13.71",
+            "label": "break"
+        },
+        {
+            "start": "03:13.71",
+            "end": "03:29.85",
+            "label": "break"
+        },
+        {
+            "start": "03:29.85",
+            "end": "03:45.98",
+            "label": "break"
+        },
+        {
+            "start": "03:45.98",
+            "end": "04:18.25",
+            "label": "break"
+        },
+        {
+            "start": "04:18.25",
+            "end": "04:34.38",
+            "label": "drop"
+        },
+        {
+            "start": "04:34.38",
+            "end": "04:50.51",
+            "label": "drop"
+        },
+        {
+            "start": "04:50.51",
+            "end": "05:06.64",
+            "label": "break"
+        },
+        {
+            "start": "05:06.64",
+            "end": "05:22.79",
+            "label": "drop"
+        },
+        {
+            "start": "05:22.79",
+            "end": "05:37.91",
+            "label": "outro"
+        },
+        {
+            "start": "05:37.91",
+            "end": "05:46.00",
+            "label": "outro"
+        }
+    ]
+}

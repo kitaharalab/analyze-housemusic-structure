@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/14 - Let Your Body Go (Franky Rizardo Remix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:13.12",
+            "label": "intro"
+        },
+        {
+            "start": "00:13.12",
+            "end": "00:29.99",
+            "label": "intro"
+        },
+        {
+            "start": "00:29.99",
+            "end": "00:58.12",
+            "label": "break"
+        },
+        {
+            "start": "00:58.12",
+            "end": "01:14.99",
+            "label": "break"
+        },
+        {
+            "start": "01:14.99",
+            "end": "01:30.00",
+            "label": "drop"
+        },
+        {
+            "start": "01:30.00",
+            "end": "01:44.99",
+            "label": "drop"
+        },
+        {
+            "start": "01:44.99",
+            "end": "02:00.00",
+            "label": "break"
+        },
+        {
+            "start": "02:00.00",
+            "end": "02:15.00",
+            "label": "break"
+        },
+        {
+            "start": "02:15.00",
+            "end": "02:29.99",
+            "label": "drop"
+        },
+        {
+            "start": "02:29.99",
+            "end": "02:44.99",
+            "label": "break"
+        },
+        {
+            "start": "02:44.99",
+            "end": "02:58.11",
+            "label": "break"
+        },
+        {
+            "start": "02:58.11",
+            "end": "03:14.99",
+            "label": "break"
+        },
+        {
+            "start": "03:14.99",
+            "end": "03:30.00",
+            "label": "drop"
+        },
+        {
+            "start": "03:30.00",
+            "end": "03:44.99",
+            "label": "drop"
+        },
+        {
+            "start": "03:44.99",
+            "end": "04:00.00",
+            "label": "break"
+        },
+        {
+            "start": "04:00.00",
+            "end": "04:15.00",
+            "label": "break"
+        },
+        {
+            "start": "04:15.00",
+            "end": "04:29.99",
+            "label": "break"
+        },
+        {
+            "start": "04:29.99",
+            "end": "04:44.99",
+            "label": "drop"
+        },
+        {
+            "start": "04:44.99",
+            "end": "04:59.99",
+            "label": "outro"
+        },
+        {
+            "start": "04:59.99",
+            "end": "05:14.99",
+            "label": "outro"
+        },
+        {
+            "start": "05:14.99",
+            "end": "05:30.00",
+            "label": "outro"
+        },
+        {
+            "start": "05:30.00",
+            "end": "05:33.04",
+            "label": "outro"
+        }
+    ]
+}

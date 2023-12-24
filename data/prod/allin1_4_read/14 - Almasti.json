@@ -1,0 +1,105 @@
+{
+    "path": "../data/prod/allin1_4_read/14 - Almasti.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.05",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.05",
+            "end": "00:39.39",
+            "label": "intro"
+        },
+        {
+            "start": "00:39.39",
+            "end": "01:03.00",
+            "label": "intro"
+        },
+        {
+            "start": "01:03.00",
+            "end": "01:26.61",
+            "label": "break"
+        },
+        {
+            "start": "01:26.61",
+            "end": "01:42.35",
+            "label": "break"
+        },
+        {
+            "start": "01:42.35",
+            "end": "01:57.84",
+            "label": "break"
+        },
+        {
+            "start": "01:57.84",
+            "end": "02:13.82",
+            "label": "drop"
+        },
+        {
+            "start": "02:13.82",
+            "end": "02:29.55",
+            "label": "drop"
+        },
+        {
+            "start": "02:29.55",
+            "end": "03:01.03",
+            "label": "break"
+        },
+        {
+            "start": "03:01.03",
+            "end": "03:16.77",
+            "label": "drop"
+        },
+        {
+            "start": "03:16.77",
+            "end": "03:32.50",
+            "label": "drop"
+        },
+        {
+            "start": "03:32.50",
+            "end": "03:48.48",
+            "label": "break"
+        },
+        {
+            "start": "03:48.48",
+            "end": "04:19.72",
+            "label": "drop"
+        },
+        {
+            "start": "04:19.72",
+            "end": "04:34.96",
+            "label": "drop"
+        },
+        {
+            "start": "04:34.96",
+            "end": "05:06.45",
+            "label": "break"
+        },
+        {
+            "start": "05:06.45",
+            "end": "05:22.18",
+            "label": "break"
+        },
+        {
+            "start": "05:22.18",
+            "end": "05:41.85",
+            "label": "drop"
+        },
+        {
+            "start": "05:41.85",
+            "end": "06:05.21",
+            "label": "outro"
+        },
+        {
+            "start": "06:05.21",
+            "end": "06:22.17",
+            "label": "outro"
+        },
+        {
+            "start": "06:22.17",
+            "end": "06:25.19",
+            "label": "outro"
+        }
+    ]
+}

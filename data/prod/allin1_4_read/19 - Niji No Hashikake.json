@@ -1,0 +1,100 @@
+{
+    "path": "../data/prod/allin1_4_read/19 - Niji No Hashikake.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.54",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.54",
+            "end": "00:18.54",
+            "label": "intro"
+        },
+        {
+            "start": "00:18.54",
+            "end": "00:31.25",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.25",
+            "end": "01:01.97",
+            "label": "intro"
+        },
+        {
+            "start": "01:01.97",
+            "end": "01:15.41",
+            "label": "break"
+        },
+        {
+            "start": "01:15.41",
+            "end": "01:32.70",
+            "label": "drop"
+        },
+        {
+            "start": "01:32.70",
+            "end": "02:11.10",
+            "label": "break"
+        },
+        {
+            "start": "02:11.10",
+            "end": "02:26.46",
+            "label": "break"
+        },
+        {
+            "start": "02:26.46",
+            "end": "02:41.82",
+            "label": "break"
+        },
+        {
+            "start": "02:41.82",
+            "end": "02:57.18",
+            "label": "break"
+        },
+        {
+            "start": "02:57.18",
+            "end": "03:25.98",
+            "label": "break"
+        },
+        {
+            "start": "03:25.98",
+            "end": "04:19.74",
+            "label": "break"
+        },
+        {
+            "start": "04:19.74",
+            "end": "04:35.10",
+            "label": "drop"
+        },
+        {
+            "start": "04:35.10",
+            "end": "04:58.14",
+            "label": "drop"
+        },
+        {
+            "start": "04:58.14",
+            "end": "05:19.26",
+            "label": "break"
+        },
+        {
+            "start": "05:19.26",
+            "end": "05:49.98",
+            "label": "break"
+        },
+        {
+            "start": "05:49.98",
+            "end": "06:20.70",
+            "label": "drop"
+        },
+        {
+            "start": "06:20.70",
+            "end": "06:39.91",
+            "label": "drop"
+        },
+        {
+            "start": "06:39.91",
+            "end": "06:44.78",
+            "label": "outro"
+        }
+    ]
+}

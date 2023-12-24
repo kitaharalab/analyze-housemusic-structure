@@ -1,0 +1,130 @@
+{
+    "path": "../data/prod/allin1_4_read/34 - Sing-A-Song (Masters At Work_s High Vocal Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.21",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.21",
+            "end": "00:15.83",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.83",
+            "end": "00:31.46",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.46",
+            "end": "00:47.09",
+            "label": "drop"
+        },
+        {
+            "start": "00:47.09",
+            "end": "01:02.72",
+            "label": "drop"
+        },
+        {
+            "start": "01:02.72",
+            "end": "01:18.36",
+            "label": "break"
+        },
+        {
+            "start": "01:18.36",
+            "end": "01:33.99",
+            "label": "break"
+        },
+        {
+            "start": "01:33.99",
+            "end": "01:49.62",
+            "label": "drop"
+        },
+        {
+            "start": "01:49.62",
+            "end": "02:05.25",
+            "label": "drop"
+        },
+        {
+            "start": "02:05.25",
+            "end": "02:20.89",
+            "label": "drop"
+        },
+        {
+            "start": "02:20.89",
+            "end": "02:36.52",
+            "label": "break"
+        },
+        {
+            "start": "02:36.52",
+            "end": "02:52.15",
+            "label": "break"
+        },
+        {
+            "start": "02:52.15",
+            "end": "03:07.78",
+            "label": "drop"
+        },
+        {
+            "start": "03:07.78",
+            "end": "03:23.41",
+            "label": "drop"
+        },
+        {
+            "start": "03:23.41",
+            "end": "03:39.04",
+            "label": "drop"
+        },
+        {
+            "start": "03:39.04",
+            "end": "03:54.67",
+            "label": "drop"
+        },
+        {
+            "start": "03:54.67",
+            "end": "04:10.30",
+            "label": "drop"
+        },
+        {
+            "start": "04:10.30",
+            "end": "04:41.56",
+            "label": "break"
+        },
+        {
+            "start": "04:41.56",
+            "end": "04:57.20",
+            "label": "drop"
+        },
+        {
+            "start": "04:57.20",
+            "end": "05:28.46",
+            "label": "break"
+        },
+        {
+            "start": "05:28.46",
+            "end": "05:49.96",
+            "label": "drop"
+        },
+        {
+            "start": "05:49.96",
+            "end": "06:15.35",
+            "label": "drop"
+        },
+        {
+            "start": "06:15.35",
+            "end": "06:30.99",
+            "label": "outro"
+        },
+        {
+            "start": "06:30.99",
+            "end": "06:46.62",
+            "label": "outro"
+        },
+        {
+            "start": "06:46.62",
+            "end": "06:56.83",
+            "label": "outro"
+        }
+    ]
+}

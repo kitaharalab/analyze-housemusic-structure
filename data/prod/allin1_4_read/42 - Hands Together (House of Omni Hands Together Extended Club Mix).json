@@ -1,0 +1,140 @@
+{
+    "path": "../data/prod/allin1_4_read/42 - Hands Together (House of Omni Hands Together Extended Club Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.02",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.02",
+            "end": "00:15.25",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.25",
+            "end": "00:31.44",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.44",
+            "end": "00:45.73",
+            "label": "intro"
+        },
+        {
+            "start": "00:45.73",
+            "end": "01:00.97",
+            "label": "drop"
+        },
+        {
+            "start": "01:00.97",
+            "end": "01:16.21",
+            "label": "break"
+        },
+        {
+            "start": "01:16.21",
+            "end": "01:31.45",
+            "label": "break"
+        },
+        {
+            "start": "01:31.45",
+            "end": "01:46.69",
+            "label": "break"
+        },
+        {
+            "start": "01:46.69",
+            "end": "02:01.92",
+            "label": "break"
+        },
+        {
+            "start": "02:01.92",
+            "end": "02:17.16",
+            "label": "break"
+        },
+        {
+            "start": "02:17.16",
+            "end": "02:32.40",
+            "label": "drop"
+        },
+        {
+            "start": "02:32.40",
+            "end": "02:47.64",
+            "label": "break"
+        },
+        {
+            "start": "02:47.64",
+            "end": "03:02.88",
+            "label": "break"
+        },
+        {
+            "start": "03:02.88",
+            "end": "03:18.12",
+            "label": "drop"
+        },
+        {
+            "start": "03:18.12",
+            "end": "03:33.36",
+            "label": "drop"
+        },
+        {
+            "start": "03:33.36",
+            "end": "03:48.11",
+            "label": "break"
+        },
+        {
+            "start": "03:48.11",
+            "end": "04:03.83",
+            "label": "break"
+        },
+        {
+            "start": "04:03.83",
+            "end": "04:19.07",
+            "label": "break"
+        },
+        {
+            "start": "04:19.07",
+            "end": "04:34.30",
+            "label": "drop"
+        },
+        {
+            "start": "04:34.30",
+            "end": "04:49.54",
+            "label": "drop"
+        },
+        {
+            "start": "04:49.54",
+            "end": "05:04.78",
+            "label": "drop"
+        },
+        {
+            "start": "05:04.78",
+            "end": "05:19.54",
+            "label": "break"
+        },
+        {
+            "start": "05:19.54",
+            "end": "05:35.26",
+            "label": "break"
+        },
+        {
+            "start": "05:35.26",
+            "end": "05:50.50",
+            "label": "drop"
+        },
+        {
+            "start": "05:50.50",
+            "end": "06:16.22",
+            "label": "drop"
+        },
+        {
+            "start": "06:16.22",
+            "end": "06:36.21",
+            "label": "outro"
+        },
+        {
+            "start": "06:36.21",
+            "end": "06:36.51",
+            "label": "outro"
+        }
+    ]
+}

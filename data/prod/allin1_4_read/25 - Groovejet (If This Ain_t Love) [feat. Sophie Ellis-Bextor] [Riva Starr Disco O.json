@@ -1,0 +1,95 @@
+{
+    "path": "../data/prod/allin1_4_read/25 - Groovejet (If This Ain_t Love) [feat. Sophie Ellis-Bextor] [Riva Starr Disco O.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.02",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.02",
+            "end": "00:20.18",
+            "label": "intro"
+        },
+        {
+            "start": "00:20.18",
+            "end": "00:36.31",
+            "label": "break"
+        },
+        {
+            "start": "00:36.31",
+            "end": "00:52.45",
+            "label": "drop"
+        },
+        {
+            "start": "00:52.45",
+            "end": "01:08.58",
+            "label": "drop"
+        },
+        {
+            "start": "01:08.58",
+            "end": "01:24.72",
+            "label": "drop"
+        },
+        {
+            "start": "01:24.72",
+            "end": "01:56.99",
+            "label": "drop"
+        },
+        {
+            "start": "01:56.99",
+            "end": "02:13.12",
+            "label": "drop"
+        },
+        {
+            "start": "02:13.12",
+            "end": "02:45.39",
+            "label": "drop"
+        },
+        {
+            "start": "02:45.39",
+            "end": "03:09.59",
+            "label": "drop"
+        },
+        {
+            "start": "03:09.59",
+            "end": "03:25.73",
+            "label": "break"
+        },
+        {
+            "start": "03:25.73",
+            "end": "03:41.86",
+            "label": "break"
+        },
+        {
+            "start": "03:41.86",
+            "end": "03:57.99",
+            "label": "drop"
+        },
+        {
+            "start": "03:57.99",
+            "end": "04:14.12",
+            "label": "drop"
+        },
+        {
+            "start": "04:14.12",
+            "end": "05:02.53",
+            "label": "drop"
+        },
+        {
+            "start": "05:02.53",
+            "end": "05:18.66",
+            "label": "drop"
+        },
+        {
+            "start": "05:18.66",
+            "end": "05:34.79",
+            "label": "drop"
+        },
+        {
+            "start": "05:34.79",
+            "end": "05:41.37",
+            "label": "outro"
+        }
+    ]
+}

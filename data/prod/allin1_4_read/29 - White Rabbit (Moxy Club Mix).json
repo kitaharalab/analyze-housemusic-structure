@@ -1,0 +1,50 @@
+{
+    "path": "../data/prod/allin1_4_read/29 - White Rabbit (Moxy Club Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:01.88",
+            "label": "intro"
+        },
+        {
+            "start": "00:01.88",
+            "end": "00:24.56",
+            "label": "intro"
+        },
+        {
+            "start": "00:24.56",
+            "end": "00:39.67",
+            "label": "break"
+        },
+        {
+            "start": "00:39.67",
+            "end": "01:13.69",
+            "label": "drop"
+        },
+        {
+            "start": "01:13.69",
+            "end": "01:28.34",
+            "label": "break"
+        },
+        {
+            "start": "01:28.34",
+            "end": "01:51.49",
+            "label": "break"
+        },
+        {
+            "start": "01:51.49",
+            "end": "02:06.60",
+            "label": "drop"
+        },
+        {
+            "start": "02:06.60",
+            "end": "02:29.25",
+            "label": "drop"
+        },
+        {
+            "start": "02:29.25",
+            "end": "02:44.88",
+            "label": "drop"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "path": "../data/prod/allin1_4_read/13 - Happiness, Pt. 2.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:15.61",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.61",
+            "end": "00:31.34",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.34",
+            "end": "00:47.08",
+            "label": "drop"
+        },
+        {
+            "start": "00:47.08",
+            "end": "01:02.82",
+            "label": "drop"
+        },
+        {
+            "start": "01:02.82",
+            "end": "01:18.56",
+            "label": "drop"
+        },
+        {
+            "start": "01:18.56",
+            "end": "01:34.30",
+            "label": "drop"
+        },
+        {
+            "start": "01:34.30",
+            "end": "01:57.90",
+            "label": "drop"
+        },
+        {
+            "start": "01:57.90",
+            "end": "02:29.38",
+            "label": "drop"
+        },
+        {
+            "start": "02:29.38",
+            "end": "02:52.99",
+            "label": "drop"
+        },
+        {
+            "start": "02:52.99",
+            "end": "03:44.13",
+            "label": "drop"
+        },
+        {
+            "start": "03:44.13",
+            "end": "04:07.74",
+            "label": "drop"
+        },
+        {
+            "start": "04:07.74",
+            "end": "04:43.15",
+            "label": "drop"
+        },
+        {
+            "start": "04:43.15",
+            "end": "04:58.88",
+            "label": "break"
+        },
+        {
+            "start": "04:58.88",
+            "end": "05:14.63",
+            "label": "break"
+        },
+        {
+            "start": "05:14.63",
+            "end": "05:30.37",
+            "label": "drop"
+        },
+        {
+            "start": "05:30.37",
+            "end": "05:46.11",
+            "label": "drop"
+        },
+        {
+            "start": "05:46.11",
+            "end": "06:13.64",
+            "label": "drop"
+        },
+        {
+            "start": "06:13.64",
+            "end": "06:33.32",
+            "label": "drop"
+        },
+        {
+            "start": "06:33.32",
+            "end": "06:49.05",
+            "label": "outro"
+        },
+        {
+            "start": "06:49.05",
+            "end": "06:59.24",
+            "label": "outro"
+        }
+    ]
+}

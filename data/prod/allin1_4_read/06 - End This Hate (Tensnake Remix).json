@@ -1,0 +1,125 @@
+{
+    "path": "../data/prod/allin1_4_read/06 - End This Hate (Tensnake Remix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.03",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.03",
+            "end": "00:14.42",
+            "label": "intro"
+        },
+        {
+            "start": "00:14.42",
+            "end": "00:30.75",
+            "label": "intro"
+        },
+        {
+            "start": "00:30.75",
+            "end": "00:46.11",
+            "label": "drop"
+        },
+        {
+            "start": "00:46.11",
+            "end": "01:01.47",
+            "label": "drop"
+        },
+        {
+            "start": "01:01.47",
+            "end": "01:16.83",
+            "label": "break"
+        },
+        {
+            "start": "01:16.83",
+            "end": "01:32.19",
+            "label": "drop"
+        },
+        {
+            "start": "01:32.19",
+            "end": "01:47.55",
+            "label": "drop"
+        },
+        {
+            "start": "01:47.55",
+            "end": "02:02.92",
+            "label": "drop"
+        },
+        {
+            "start": "02:02.92",
+            "end": "02:18.28",
+            "label": "break"
+        },
+        {
+            "start": "02:18.28",
+            "end": "02:33.64",
+            "label": "drop"
+        },
+        {
+            "start": "02:33.64",
+            "end": "02:48.99",
+            "label": "break"
+        },
+        {
+            "start": "02:48.99",
+            "end": "03:04.35",
+            "label": "break"
+        },
+        {
+            "start": "03:04.35",
+            "end": "03:16.83",
+            "label": "break"
+        },
+        {
+            "start": "03:16.83",
+            "end": "03:35.07",
+            "label": "drop"
+        },
+        {
+            "start": "03:35.07",
+            "end": "03:50.43",
+            "label": "drop"
+        },
+        {
+            "start": "03:50.43",
+            "end": "04:05.79",
+            "label": "drop"
+        },
+        {
+            "start": "04:05.79",
+            "end": "04:21.16",
+            "label": "drop"
+        },
+        {
+            "start": "04:21.16",
+            "end": "04:36.51",
+            "label": "drop"
+        },
+        {
+            "start": "04:36.51",
+            "end": "04:51.87",
+            "label": "drop"
+        },
+        {
+            "start": "04:51.87",
+            "end": "05:07.23",
+            "label": "drop"
+        },
+        {
+            "start": "05:07.23",
+            "end": "05:22.59",
+            "label": "drop"
+        },
+        {
+            "start": "05:22.59",
+            "end": "06:08.67",
+            "label": "outro"
+        },
+        {
+            "start": "06:08.67",
+            "end": "06:10.29",
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "path": "../data/prod/allin1_4_read/02 - Hot (Expansions NYC Dub).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:15.47",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.47",
+            "end": "00:30.96",
+            "label": "intro"
+        },
+        {
+            "start": "00:30.96",
+            "end": "00:46.44",
+            "label": "drop"
+        },
+        {
+            "start": "00:46.44",
+            "end": "01:01.93",
+            "label": "drop"
+        },
+        {
+            "start": "01:01.93",
+            "end": "01:17.41",
+            "label": "drop"
+        },
+        {
+            "start": "01:17.41",
+            "end": "01:32.90",
+            "label": "drop"
+        },
+        {
+            "start": "01:32.90",
+            "end": "02:03.86",
+            "label": "drop"
+        },
+        {
+            "start": "02:03.86",
+            "end": "02:19.35",
+            "label": "drop"
+        },
+        {
+            "start": "02:19.35",
+            "end": "02:34.83",
+            "label": "drop"
+        },
+        {
+            "start": "02:34.83",
+            "end": "02:50.32",
+            "label": "drop"
+        },
+        {
+            "start": "02:50.32",
+            "end": "03:05.80",
+            "label": "drop"
+        },
+        {
+            "start": "03:05.80",
+            "end": "03:21.27",
+            "label": "drop"
+        },
+        {
+            "start": "03:21.27",
+            "end": "03:36.77",
+            "label": "drop"
+        },
+        {
+            "start": "03:36.77",
+            "end": "03:52.25",
+            "label": "drop"
+        },
+        {
+            "start": "03:52.25",
+            "end": "04:15.47",
+            "label": "drop"
+        },
+        {
+            "start": "04:15.47",
+            "end": "04:46.45",
+            "label": "drop"
+        },
+        {
+            "start": "04:46.45",
+            "end": "05:01.93",
+            "label": "drop"
+        },
+        {
+            "start": "05:01.93",
+            "end": "05:17.41",
+            "label": "drop"
+        },
+        {
+            "start": "05:17.41",
+            "end": "05:31.92",
+            "label": "drop"
+        },
+        {
+            "start": "05:31.92",
+            "end": "05:48.38",
+            "label": "drop"
+        },
+        {
+            "start": "05:48.38",
+            "end": "06:03.86",
+            "label": "drop"
+        },
+        {
+            "start": "06:03.86",
+            "end": "06:19.34",
+            "label": "drop"
+        },
+        {
+            "start": "06:19.34",
+            "end": "06:34.83",
+            "label": "drop"
+        },
+        {
+            "start": "06:34.83",
+            "end": "06:50.31",
+            "label": "drop"
+        },
+        {
+            "start": "06:50.31",
+            "end": "07:05.80",
+            "label": "drop"
+        },
+        {
+            "start": "07:05.80",
+            "end": "07:21.28",
+            "label": "drop"
+        },
+        {
+            "start": "07:21.28",
+            "end": "07:36.76",
+            "label": "drop"
+        },
+        {
+            "start": "07:36.76",
+            "end": "07:52.25",
+            "label": "outro"
+        },
+        {
+            "start": "07:52.25",
+            "end": "07:55.89",
+            "label": "outro"
+        }
+    ]
+}

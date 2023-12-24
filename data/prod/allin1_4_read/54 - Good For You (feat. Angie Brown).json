@@ -1,0 +1,160 @@
+{
+    "path": "../data/prod/allin1_4_read/54 - Good For You (feat. Angie Brown).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.08",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.08",
+            "end": "00:15.42",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.42",
+            "end": "00:30.77",
+            "label": "intro"
+        },
+        {
+            "start": "00:30.77",
+            "end": "00:46.13",
+            "label": "intro"
+        },
+        {
+            "start": "00:46.13",
+            "end": "01:01.48",
+            "label": "drop"
+        },
+        {
+            "start": "01:01.48",
+            "end": "01:16.82",
+            "label": "drop"
+        },
+        {
+            "start": "01:16.82",
+            "end": "01:32.18",
+            "label": "drop"
+        },
+        {
+            "start": "01:32.18",
+            "end": "01:47.52",
+            "label": "drop"
+        },
+        {
+            "start": "01:47.52",
+            "end": "02:02.86",
+            "label": "drop"
+        },
+        {
+            "start": "02:02.86",
+            "end": "02:16.30",
+            "label": "break"
+        },
+        {
+            "start": "02:16.30",
+            "end": "02:33.56",
+            "label": "break"
+        },
+        {
+            "start": "02:33.56",
+            "end": "02:48.91",
+            "label": "drop"
+        },
+        {
+            "start": "02:48.91",
+            "end": "03:04.26",
+            "label": "drop"
+        },
+        {
+            "start": "03:04.26",
+            "end": "03:19.61",
+            "label": "break"
+        },
+        {
+            "start": "03:19.61",
+            "end": "03:34.47",
+            "label": "break"
+        },
+        {
+            "start": "03:34.47",
+            "end": "03:50.30",
+            "label": "break"
+        },
+        {
+            "start": "03:50.30",
+            "end": "04:05.65",
+            "label": "drop"
+        },
+        {
+            "start": "04:05.65",
+            "end": "04:21.01",
+            "label": "drop"
+        },
+        {
+            "start": "04:21.01",
+            "end": "04:36.35",
+            "label": "break"
+        },
+        {
+            "start": "04:36.35",
+            "end": "04:51.70",
+            "label": "break"
+        },
+        {
+            "start": "04:51.70",
+            "end": "05:07.04",
+            "label": "break"
+        },
+        {
+            "start": "05:07.04",
+            "end": "05:24.31",
+            "label": "drop"
+        },
+        {
+            "start": "05:24.31",
+            "end": "05:37.74",
+            "label": "drop"
+        },
+        {
+            "start": "05:37.74",
+            "end": "05:55.01",
+            "label": "drop"
+        },
+        {
+            "start": "05:55.01",
+            "end": "06:23.78",
+            "label": "break"
+        },
+        {
+            "start": "06:23.78",
+            "end": "06:44.88",
+            "label": "drop"
+        },
+        {
+            "start": "06:44.88",
+            "end": "07:11.74",
+            "label": "drop"
+        },
+        {
+            "start": "07:11.74",
+            "end": "07:27.09",
+            "label": "drop"
+        },
+        {
+            "start": "07:27.09",
+            "end": "07:40.52",
+            "label": "drop"
+        },
+        {
+            "start": "07:40.52",
+            "end": "08:11.21",
+            "label": "outro"
+        },
+        {
+            "start": "08:11.21",
+            "end": "08:17.50",
+            "label": "outro"
+        }
+    ]
+}

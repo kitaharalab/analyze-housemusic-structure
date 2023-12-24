@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/47 - Showbiz (feat. Villa) [Purple Disco Machine Edit].json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.03",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.03",
+            "end": "00:44.77",
+            "label": "intro"
+        },
+        {
+            "start": "00:44.77",
+            "end": "01:05.11",
+            "label": "drop"
+        },
+        {
+            "start": "01:05.11",
+            "end": "01:21.38",
+            "label": "drop"
+        },
+        {
+            "start": "01:21.38",
+            "end": "01:37.14",
+            "label": "drop"
+        },
+        {
+            "start": "01:37.14",
+            "end": "01:53.93",
+            "label": "break"
+        },
+        {
+            "start": "01:53.93",
+            "end": "02:10.20",
+            "label": "break"
+        },
+        {
+            "start": "02:10.20",
+            "end": "02:45.79",
+            "label": "break"
+        },
+        {
+            "start": "02:45.79",
+            "end": "02:58.50",
+            "label": "break"
+        },
+        {
+            "start": "02:58.50",
+            "end": "03:15.29",
+            "label": "drop"
+        },
+        {
+            "start": "03:15.29",
+            "end": "03:31.56",
+            "label": "drop"
+        },
+        {
+            "start": "03:31.56",
+            "end": "03:47.81",
+            "label": "drop"
+        },
+        {
+            "start": "03:47.81",
+            "end": "04:06.13",
+            "label": "drop"
+        },
+        {
+            "start": "04:06.13",
+            "end": "04:31.55",
+            "label": "break"
+        },
+        {
+            "start": "04:31.55",
+            "end": "04:52.91",
+            "label": "break"
+        },
+        {
+            "start": "04:52.91",
+            "end": "05:09.17",
+            "label": "drop"
+        },
+        {
+            "start": "05:09.17",
+            "end": "05:25.44",
+            "label": "drop"
+        },
+        {
+            "start": "05:25.44",
+            "end": "05:41.72",
+            "label": "drop"
+        },
+        {
+            "start": "05:41.72",
+            "end": "05:58.00",
+            "label": "drop"
+        },
+        {
+            "start": "05:58.00",
+            "end": "06:20.37",
+            "label": "break"
+        },
+        {
+            "start": "06:20.37",
+            "end": "06:44.77",
+            "label": "break"
+        },
+        {
+            "start": "06:44.77",
+            "end": "07:03.07",
+            "label": "break"
+        },
+        {
+            "start": "07:03.07",
+            "end": "07:11.60",
+            "label": "outro"
+        }
+    ]
+}

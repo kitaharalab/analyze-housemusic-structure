@@ -1,0 +1,145 @@
+{
+    "path": "../data/prod/allin1_4_read/50 - When Love Calls (E-Smoove_s Late Night).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.05",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.05",
+            "end": "00:16.08",
+            "label": "break"
+        },
+        {
+            "start": "00:16.08",
+            "end": "00:32.10",
+            "label": "break"
+        },
+        {
+            "start": "00:32.10",
+            "end": "00:48.13",
+            "label": "break"
+        },
+        {
+            "start": "00:48.13",
+            "end": "01:04.15",
+            "label": "drop"
+        },
+        {
+            "start": "01:04.15",
+            "end": "01:20.17",
+            "label": "break"
+        },
+        {
+            "start": "01:20.17",
+            "end": "01:36.19",
+            "label": "break"
+        },
+        {
+            "start": "01:36.19",
+            "end": "01:51.22",
+            "label": "break"
+        },
+        {
+            "start": "01:51.22",
+            "end": "02:07.73",
+            "label": "break"
+        },
+        {
+            "start": "02:07.73",
+            "end": "02:23.75",
+            "label": "drop"
+        },
+        {
+            "start": "02:23.75",
+            "end": "02:39.28",
+            "label": "drop"
+        },
+        {
+            "start": "02:39.28",
+            "end": "02:56.30",
+            "label": "drop"
+        },
+        {
+            "start": "02:56.30",
+            "end": "03:12.32",
+            "label": "break"
+        },
+        {
+            "start": "03:12.32",
+            "end": "03:28.35",
+            "label": "drop"
+        },
+        {
+            "start": "03:28.35",
+            "end": "03:44.37",
+            "label": "drop"
+        },
+        {
+            "start": "03:44.37",
+            "end": "03:59.38",
+            "label": "break"
+        },
+        {
+            "start": "03:59.38",
+            "end": "04:16.41",
+            "label": "break"
+        },
+        {
+            "start": "04:16.41",
+            "end": "04:32.43",
+            "label": "drop"
+        },
+        {
+            "start": "04:32.43",
+            "end": "04:48.46",
+            "label": "drop"
+        },
+        {
+            "start": "04:48.46",
+            "end": "05:04.48",
+            "label": "break"
+        },
+        {
+            "start": "05:04.48",
+            "end": "05:20.50",
+            "label": "break"
+        },
+        {
+            "start": "05:20.50",
+            "end": "05:36.52",
+            "label": "drop"
+        },
+        {
+            "start": "05:36.52",
+            "end": "05:52.56",
+            "label": "break"
+        },
+        {
+            "start": "05:52.56",
+            "end": "06:08.57",
+            "label": "drop"
+        },
+        {
+            "start": "06:08.57",
+            "end": "06:24.59",
+            "label": "drop"
+        },
+        {
+            "start": "06:24.59",
+            "end": "06:40.62",
+            "label": "drop"
+        },
+        {
+            "start": "06:40.62",
+            "end": "06:56.63",
+            "label": "drop"
+        },
+        {
+            "start": "06:56.63",
+            "end": "07:08.16",
+            "label": "outro"
+        }
+    ]
+}

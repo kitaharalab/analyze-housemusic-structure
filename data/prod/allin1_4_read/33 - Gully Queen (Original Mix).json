@@ -1,0 +1,125 @@
+{
+    "path": "../data/prod/allin1_4_read/33 - Gully Queen (Original Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.47",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.47",
+            "end": "00:14.02",
+            "label": "intro"
+        },
+        {
+            "start": "00:14.02",
+            "end": "00:31.44",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.44",
+            "end": "00:46.93",
+            "label": "drop"
+        },
+        {
+            "start": "00:46.93",
+            "end": "01:02.41",
+            "label": "drop"
+        },
+        {
+            "start": "01:02.41",
+            "end": "01:17.89",
+            "label": "break"
+        },
+        {
+            "start": "01:17.89",
+            "end": "01:33.37",
+            "label": "drop"
+        },
+        {
+            "start": "01:33.37",
+            "end": "01:48.86",
+            "label": "break"
+        },
+        {
+            "start": "01:48.86",
+            "end": "02:04.35",
+            "label": "break"
+        },
+        {
+            "start": "02:04.35",
+            "end": "02:19.83",
+            "label": "drop"
+        },
+        {
+            "start": "02:19.83",
+            "end": "02:35.79",
+            "label": "drop"
+        },
+        {
+            "start": "02:35.79",
+            "end": "02:50.80",
+            "label": "drop"
+        },
+        {
+            "start": "02:50.80",
+            "end": "03:06.28",
+            "label": "break"
+        },
+        {
+            "start": "03:06.28",
+            "end": "03:21.77",
+            "label": "break"
+        },
+        {
+            "start": "03:21.77",
+            "end": "03:37.25",
+            "label": "break"
+        },
+        {
+            "start": "03:37.25",
+            "end": "03:52.73",
+            "label": "drop"
+        },
+        {
+            "start": "03:52.73",
+            "end": "04:09.18",
+            "label": "break"
+        },
+        {
+            "start": "04:09.18",
+            "end": "04:23.70",
+            "label": "drop"
+        },
+        {
+            "start": "04:23.70",
+            "end": "04:37.25",
+            "label": "break"
+        },
+        {
+            "start": "04:37.25",
+            "end": "04:54.67",
+            "label": "break"
+        },
+        {
+            "start": "04:54.67",
+            "end": "05:25.63",
+            "label": "break"
+        },
+        {
+            "start": "05:25.63",
+            "end": "05:39.18",
+            "label": "break"
+        },
+        {
+            "start": "05:39.18",
+            "end": "05:56.59",
+            "label": "outro"
+        },
+        {
+            "start": "05:56.59",
+            "end": "05:57.60",
+            "label": "outro"
+        }
+    ]
+}

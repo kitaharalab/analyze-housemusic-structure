@@ -1,0 +1,155 @@
+{
+    "path": "../data/prod/allin1_4_read/10 - Unspeakable Joy (Dr Packer Remix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:16.26",
+            "label": "intro"
+        },
+        {
+            "start": "00:16.26",
+            "end": "00:32.53",
+            "label": "intro"
+        },
+        {
+            "start": "00:32.53",
+            "end": "00:49.82",
+            "label": "intro"
+        },
+        {
+            "start": "00:49.82",
+            "end": "01:05.08",
+            "label": "break"
+        },
+        {
+            "start": "01:05.08",
+            "end": "01:21.35",
+            "label": "drop"
+        },
+        {
+            "start": "01:21.35",
+            "end": "01:37.62",
+            "label": "break"
+        },
+        {
+            "start": "01:37.62",
+            "end": "01:53.89",
+            "label": "break"
+        },
+        {
+            "start": "01:53.89",
+            "end": "02:18.30",
+            "label": "break"
+        },
+        {
+            "start": "02:18.30",
+            "end": "02:42.71",
+            "label": "drop"
+        },
+        {
+            "start": "02:42.71",
+            "end": "02:58.98",
+            "label": "break"
+        },
+        {
+            "start": "02:58.98",
+            "end": "03:23.38",
+            "label": "break"
+        },
+        {
+            "start": "03:23.38",
+            "end": "03:39.65",
+            "label": "drop"
+        },
+        {
+            "start": "03:39.65",
+            "end": "03:55.93",
+            "label": "drop"
+        },
+        {
+            "start": "03:55.93",
+            "end": "04:12.20",
+            "label": "break"
+        },
+        {
+            "start": "04:12.20",
+            "end": "04:28.47",
+            "label": "break"
+        },
+        {
+            "start": "04:28.47",
+            "end": "04:52.88",
+            "label": "break"
+        },
+        {
+            "start": "04:52.88",
+            "end": "05:09.14",
+            "label": "drop"
+        },
+        {
+            "start": "05:09.14",
+            "end": "05:25.42",
+            "label": "drop"
+        },
+        {
+            "start": "05:25.42",
+            "end": "05:41.69",
+            "label": "break"
+        },
+        {
+            "start": "05:41.69",
+            "end": "05:57.95",
+            "label": "break"
+        },
+        {
+            "start": "05:57.95",
+            "end": "06:16.26",
+            "label": "drop"
+        },
+        {
+            "start": "06:16.26",
+            "end": "06:31.52",
+            "label": "drop"
+        },
+        {
+            "start": "06:31.52",
+            "end": "07:03.05",
+            "label": "drop"
+        },
+        {
+            "start": "07:03.05",
+            "end": "07:19.31",
+            "label": "break"
+        },
+        {
+            "start": "07:19.31",
+            "end": "07:31.52",
+            "label": "break"
+        },
+        {
+            "start": "07:31.52",
+            "end": "07:43.72",
+            "label": "break"
+        },
+        {
+            "start": "07:43.72",
+            "end": "07:59.99",
+            "label": "break"
+        },
+        {
+            "start": "07:59.99",
+            "end": "08:16.25",
+            "label": "drop"
+        },
+        {
+            "start": "08:16.25",
+            "end": "08:32.40",
+            "label": "drop"
+        },
+        {
+            "start": "08:32.40",
+            "end": "08:39.13",
+            "label": "outro"
+        }
+    ]
+}

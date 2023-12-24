@@ -1,0 +1,105 @@
+{
+    "path": "../data/prod/allin1_4_read/08 - French Affair.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.04",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.04",
+            "end": "00:15.77",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.77",
+            "end": "00:31.51",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.51",
+            "end": "00:55.12",
+            "label": "drop"
+        },
+        {
+            "start": "00:55.12",
+            "end": "01:18.72",
+            "label": "drop"
+        },
+        {
+            "start": "01:18.72",
+            "end": "01:34.47",
+            "label": "drop"
+        },
+        {
+            "start": "01:34.47",
+            "end": "01:48.24",
+            "label": "drop"
+        },
+        {
+            "start": "01:48.24",
+            "end": "02:03.98",
+            "label": "drop"
+        },
+        {
+            "start": "02:03.98",
+            "end": "02:17.75",
+            "label": "drop"
+        },
+        {
+            "start": "02:17.75",
+            "end": "02:33.49",
+            "label": "drop"
+        },
+        {
+            "start": "02:33.49",
+            "end": "03:04.96",
+            "label": "drop"
+        },
+        {
+            "start": "03:04.96",
+            "end": "03:18.73",
+            "label": "break"
+        },
+        {
+            "start": "03:18.73",
+            "end": "03:46.27",
+            "label": "break"
+        },
+        {
+            "start": "03:46.27",
+            "end": "04:11.85",
+            "label": "break"
+        },
+        {
+            "start": "04:11.85",
+            "end": "04:41.35",
+            "label": "drop"
+        },
+        {
+            "start": "04:41.35",
+            "end": "04:57.09",
+            "label": "drop"
+        },
+        {
+            "start": "04:57.09",
+            "end": "05:32.50",
+            "label": "drop"
+        },
+        {
+            "start": "05:32.50",
+            "end": "06:02.00",
+            "label": "drop"
+        },
+        {
+            "start": "06:02.00",
+            "end": "06:17.74",
+            "label": "outro"
+        },
+        {
+            "start": "06:17.74",
+            "end": "06:21.99",
+            "label": "outro"
+        }
+    ]
+}

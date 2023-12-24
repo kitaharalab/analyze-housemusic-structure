@@ -1,0 +1,95 @@
+{
+    "path": "../data/prod/allin1_4_read/07 - International City.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.04",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.04",
+            "end": "00:15.65",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.65",
+            "end": "00:31.26",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.26",
+            "end": "00:46.87",
+            "label": "intro"
+        },
+        {
+            "start": "00:46.87",
+            "end": "01:02.48",
+            "label": "drop"
+        },
+        {
+            "start": "01:02.48",
+            "end": "01:18.09",
+            "label": "drop"
+        },
+        {
+            "start": "01:18.09",
+            "end": "01:33.70",
+            "label": "drop"
+        },
+        {
+            "start": "01:33.70",
+            "end": "01:48.34",
+            "label": "break"
+        },
+        {
+            "start": "01:48.34",
+            "end": "02:04.92",
+            "label": "break"
+        },
+        {
+            "start": "02:04.92",
+            "end": "02:20.52",
+            "label": "drop"
+        },
+        {
+            "start": "02:20.52",
+            "end": "02:36.14",
+            "label": "drop"
+        },
+        {
+            "start": "02:36.14",
+            "end": "03:07.35",
+            "label": "drop"
+        },
+        {
+            "start": "03:07.35",
+            "end": "03:22.96",
+            "label": "break"
+        },
+        {
+            "start": "03:22.96",
+            "end": "03:38.58",
+            "label": "drop"
+        },
+        {
+            "start": "03:38.58",
+            "end": "03:54.18",
+            "label": "drop"
+        },
+        {
+            "start": "03:54.18",
+            "end": "04:25.40",
+            "label": "outro"
+        },
+        {
+            "start": "04:25.40",
+            "end": "04:41.03",
+            "label": "outro"
+        },
+        {
+            "start": "04:41.03",
+            "end": "04:41.42",
+            "label": "outro"
+        }
+    ]
+}

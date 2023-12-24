@@ -1,0 +1,150 @@
+{
+    "path": "../data/prod/allin1_4_read/52 - Light You Up (feat. Queen Rose _ Amy Douglas) [Louie Vega Roots Mix].json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.02",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.02",
+            "end": "00:14.65",
+            "label": "intro"
+        },
+        {
+            "start": "00:14.65",
+            "end": "00:30.26",
+            "label": "intro"
+        },
+        {
+            "start": "00:30.26",
+            "end": "00:46.36",
+            "label": "intro"
+        },
+        {
+            "start": "00:46.36",
+            "end": "01:02.46",
+            "label": "drop"
+        },
+        {
+            "start": "01:02.46",
+            "end": "01:25.87",
+            "label": "drop"
+        },
+        {
+            "start": "01:25.87",
+            "end": "01:49.29",
+            "label": "drop"
+        },
+        {
+            "start": "01:49.29",
+            "end": "02:12.70",
+            "label": "break"
+        },
+        {
+            "start": "02:12.70",
+            "end": "02:43.92",
+            "label": "drop"
+        },
+        {
+            "start": "02:43.92",
+            "end": "02:59.53",
+            "label": "break"
+        },
+        {
+            "start": "02:59.53",
+            "end": "03:22.95",
+            "label": "break"
+        },
+        {
+            "start": "03:22.95",
+            "end": "03:54.16",
+            "label": "drop"
+        },
+        {
+            "start": "03:54.16",
+            "end": "04:25.38",
+            "label": "break"
+        },
+        {
+            "start": "04:25.38",
+            "end": "04:40.99",
+            "label": "break"
+        },
+        {
+            "start": "04:40.99",
+            "end": "04:56.60",
+            "label": "drop"
+        },
+        {
+            "start": "04:56.60",
+            "end": "05:12.70",
+            "label": "drop"
+        },
+        {
+            "start": "05:12.70",
+            "end": "05:28.31",
+            "label": "drop"
+        },
+        {
+            "start": "05:28.31",
+            "end": "05:51.23",
+            "label": "drop"
+        },
+        {
+            "start": "05:51.23",
+            "end": "06:06.85",
+            "label": "drop"
+        },
+        {
+            "start": "06:06.85",
+            "end": "06:38.07",
+            "label": "drop"
+        },
+        {
+            "start": "06:38.07",
+            "end": "07:09.29",
+            "label": "drop"
+        },
+        {
+            "start": "07:09.29",
+            "end": "07:32.70",
+            "label": "break"
+        },
+        {
+            "start": "07:32.70",
+            "end": "07:48.31",
+            "label": "break"
+        },
+        {
+            "start": "07:48.31",
+            "end": "08:03.91",
+            "label": "drop"
+        },
+        {
+            "start": "08:03.91",
+            "end": "08:19.53",
+            "label": "drop"
+        },
+        {
+            "start": "08:19.53",
+            "end": "08:35.14",
+            "label": "drop"
+        },
+        {
+            "start": "08:35.14",
+            "end": "08:50.74",
+            "label": "outro"
+        },
+        {
+            "start": "08:50.74",
+            "end": "09:06.35",
+            "label": "outro"
+        },
+        {
+            "start": "09:06.35",
+            "end": "09:10.36",
+            "label": "outro"
+        }
+    ]
+}

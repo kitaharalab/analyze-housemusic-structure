@@ -1,0 +1,145 @@
+{
+    "path": "../data/prod/allin1_4_read/08 - Future Groove (Agent Orange DJ Rework).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:14.99",
+            "label": "intro"
+        },
+        {
+            "start": "00:14.99",
+            "end": "00:29.99",
+            "label": "drop"
+        },
+        {
+            "start": "00:29.99",
+            "end": "00:43.58",
+            "label": "drop"
+        },
+        {
+            "start": "00:43.58",
+            "end": "00:59.99",
+            "label": "drop"
+        },
+        {
+            "start": "00:59.99",
+            "end": "01:15.46",
+            "label": "drop"
+        },
+        {
+            "start": "01:15.46",
+            "end": "01:29.98",
+            "label": "drop"
+        },
+        {
+            "start": "01:29.98",
+            "end": "01:45.46",
+            "label": "drop"
+        },
+        {
+            "start": "01:45.46",
+            "end": "02:00.00",
+            "label": "drop"
+        },
+        {
+            "start": "02:00.00",
+            "end": "02:15.45",
+            "label": "break"
+        },
+        {
+            "start": "02:15.45",
+            "end": "02:30.46",
+            "label": "drop"
+        },
+        {
+            "start": "02:30.46",
+            "end": "02:44.99",
+            "label": "drop"
+        },
+        {
+            "start": "02:44.99",
+            "end": "02:59.99",
+            "label": "drop"
+        },
+        {
+            "start": "02:59.99",
+            "end": "03:14.99",
+            "label": "drop"
+        },
+        {
+            "start": "03:14.99",
+            "end": "03:29.99",
+            "label": "drop"
+        },
+        {
+            "start": "03:29.99",
+            "end": "03:44.06",
+            "label": "drop"
+        },
+        {
+            "start": "03:44.06",
+            "end": "03:59.99",
+            "label": "break"
+        },
+        {
+            "start": "03:59.99",
+            "end": "04:15.01",
+            "label": "break"
+        },
+        {
+            "start": "04:15.01",
+            "end": "04:29.99",
+            "label": "break"
+        },
+        {
+            "start": "04:29.99",
+            "end": "04:45.46",
+            "label": "drop"
+        },
+        {
+            "start": "04:45.46",
+            "end": "04:59.99",
+            "label": "drop"
+        },
+        {
+            "start": "04:59.99",
+            "end": "05:14.99",
+            "label": "drop"
+        },
+        {
+            "start": "05:14.99",
+            "end": "05:29.99",
+            "label": "break"
+        },
+        {
+            "start": "05:29.99",
+            "end": "05:44.99",
+            "label": "drop"
+        },
+        {
+            "start": "05:44.99",
+            "end": "05:59.99",
+            "label": "drop"
+        },
+        {
+            "start": "05:59.99",
+            "end": "06:14.99",
+            "label": "break"
+        },
+        {
+            "start": "06:14.99",
+            "end": "06:29.53",
+            "label": "break"
+        },
+        {
+            "start": "06:29.53",
+            "end": "06:45.01",
+            "label": "break"
+        },
+        {
+            "start": "06:45.01",
+            "end": "06:48.71",
+            "label": "outro"
+        }
+    ]
+}

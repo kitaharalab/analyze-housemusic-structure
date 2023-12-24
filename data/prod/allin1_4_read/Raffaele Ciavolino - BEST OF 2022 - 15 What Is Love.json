@@ -1,0 +1,105 @@
+{
+    "path": "../data/prod/allin1_4_read/Raffaele Ciavolino - BEST OF 2022 - 15 What Is Love.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.01",
+            "label": "break"
+        },
+        {
+            "start": "00:00.01",
+            "end": "00:15.74",
+            "label": "break"
+        },
+        {
+            "start": "00:15.74",
+            "end": "00:31.47",
+            "label": "drop"
+        },
+        {
+            "start": "00:31.47",
+            "end": "00:47.20",
+            "label": "drop"
+        },
+        {
+            "start": "00:47.20",
+            "end": "01:02.96",
+            "label": "drop"
+        },
+        {
+            "start": "01:02.96",
+            "end": "01:18.69",
+            "label": "break"
+        },
+        {
+            "start": "01:18.69",
+            "end": "01:34.41",
+            "label": "drop"
+        },
+        {
+            "start": "01:34.41",
+            "end": "01:52.14",
+            "label": "break"
+        },
+        {
+            "start": "01:52.14",
+            "end": "02:05.90",
+            "label": "drop"
+        },
+        {
+            "start": "02:05.90",
+            "end": "02:29.51",
+            "label": "drop"
+        },
+        {
+            "start": "02:29.51",
+            "end": "02:53.12",
+            "label": "break"
+        },
+        {
+            "start": "02:53.12",
+            "end": "03:08.86",
+            "label": "break"
+        },
+        {
+            "start": "03:08.86",
+            "end": "03:26.56",
+            "label": "drop"
+        },
+        {
+            "start": "03:26.56",
+            "end": "03:40.33",
+            "label": "drop"
+        },
+        {
+            "start": "03:40.33",
+            "end": "04:03.93",
+            "label": "drop"
+        },
+        {
+            "start": "04:03.93",
+            "end": "04:27.54",
+            "label": "drop"
+        },
+        {
+            "start": "04:27.54",
+            "end": "04:43.27",
+            "label": "drop"
+        },
+        {
+            "start": "04:43.27",
+            "end": "04:59.01",
+            "label": "outro"
+        },
+        {
+            "start": "04:59.01",
+            "end": "05:14.75",
+            "label": "outro"
+        },
+        {
+            "start": "05:14.75",
+            "end": "05:18.69",
+            "label": "outro"
+        }
+    ]
+}

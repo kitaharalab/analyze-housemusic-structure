@@ -1,0 +1,60 @@
+{
+    "path": "../data/prod/allin1_4_read/13 - Feeling.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.01",
+            "label": "break"
+        },
+        {
+            "start": "00:00.01",
+            "end": "00:22.09",
+            "label": "break"
+        },
+        {
+            "start": "00:22.09",
+            "end": "00:38.42",
+            "label": "drop"
+        },
+        {
+            "start": "00:38.42",
+            "end": "00:53.77",
+            "label": "break"
+        },
+        {
+            "start": "00:53.77",
+            "end": "01:09.13",
+            "label": "drop"
+        },
+        {
+            "start": "01:09.13",
+            "end": "01:24.50",
+            "label": "break"
+        },
+        {
+            "start": "01:24.50",
+            "end": "01:39.86",
+            "label": "drop"
+        },
+        {
+            "start": "01:39.86",
+            "end": "02:02.90",
+            "label": "drop"
+        },
+        {
+            "start": "02:02.90",
+            "end": "02:18.26",
+            "label": "drop"
+        },
+        {
+            "start": "02:18.26",
+            "end": "02:33.62",
+            "label": "drop"
+        },
+        {
+            "start": "02:33.62",
+            "end": "02:38.64",
+            "label": "outro"
+        }
+    ]
+}

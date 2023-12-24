@@ -1,0 +1,85 @@
+{
+    "path": "../data/prod/allin1_4_read/24 - When The Dust Clears (feat. LOA.) [MD MixX].json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.02",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.02",
+            "end": "00:17.44",
+            "label": "intro"
+        },
+        {
+            "start": "00:17.44",
+            "end": "00:32.92",
+            "label": "intro"
+        },
+        {
+            "start": "00:32.92",
+            "end": "00:48.40",
+            "label": "break"
+        },
+        {
+            "start": "00:48.40",
+            "end": "01:03.89",
+            "label": "break"
+        },
+        {
+            "start": "01:03.89",
+            "end": "01:19.37",
+            "label": "drop"
+        },
+        {
+            "start": "01:19.37",
+            "end": "01:34.85",
+            "label": "drop"
+        },
+        {
+            "start": "01:34.85",
+            "end": "01:50.34",
+            "label": "drop"
+        },
+        {
+            "start": "01:50.34",
+            "end": "02:05.82",
+            "label": "break"
+        },
+        {
+            "start": "02:05.82",
+            "end": "02:21.30",
+            "label": "drop"
+        },
+        {
+            "start": "02:21.30",
+            "end": "02:36.79",
+            "label": "drop"
+        },
+        {
+            "start": "02:36.79",
+            "end": "02:52.27",
+            "label": "break"
+        },
+        {
+            "start": "02:52.27",
+            "end": "03:07.76",
+            "label": "break"
+        },
+        {
+            "start": "03:07.76",
+            "end": "03:23.24",
+            "label": "drop"
+        },
+        {
+            "start": "03:23.24",
+            "end": "03:36.78",
+            "label": "drop"
+        },
+        {
+            "start": "03:36.78",
+            "end": "03:42.61",
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "path": "../data/prod/allin1_4_read/Lebedev (RU) - BEST OF 2022 - 11 Sunny Day.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:16.57",
+            "label": "intro"
+        },
+        {
+            "start": "00:16.57",
+            "end": "00:31.21",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.21",
+            "end": "00:46.82",
+            "label": "break"
+        },
+        {
+            "start": "00:46.82",
+            "end": "01:02.43",
+            "label": "drop"
+        },
+        {
+            "start": "01:02.43",
+            "end": "01:18.04",
+            "label": "drop"
+        },
+        {
+            "start": "01:18.04",
+            "end": "01:33.66",
+            "label": "drop"
+        },
+        {
+            "start": "01:33.66",
+            "end": "01:49.26",
+            "label": "drop"
+        },
+        {
+            "start": "01:49.26",
+            "end": "02:04.87",
+            "label": "drop"
+        },
+        {
+            "start": "02:04.87",
+            "end": "02:20.47",
+            "label": "break"
+        },
+        {
+            "start": "02:20.47",
+            "end": "02:36.09",
+            "label": "break"
+        },
+        {
+            "start": "02:36.09",
+            "end": "02:51.70",
+            "label": "drop"
+        },
+        {
+            "start": "02:51.70",
+            "end": "03:07.31",
+            "label": "drop"
+        },
+        {
+            "start": "03:07.31",
+            "end": "03:22.92",
+            "label": "drop"
+        },
+        {
+            "start": "03:22.92",
+            "end": "03:38.52",
+            "label": "drop"
+        },
+        {
+            "start": "03:38.52",
+            "end": "03:54.14",
+            "label": "break"
+        },
+        {
+            "start": "03:54.14",
+            "end": "04:09.74",
+            "label": "drop"
+        },
+        {
+            "start": "04:09.74",
+            "end": "04:25.36",
+            "label": "drop"
+        },
+        {
+            "start": "04:25.36",
+            "end": "04:40.96",
+            "label": "drop"
+        },
+        {
+            "start": "04:40.96",
+            "end": "04:56.58",
+            "label": "outro"
+        },
+        {
+            "start": "04:56.58",
+            "end": "05:02.45",
+            "label": "outro"
+        }
+    ]
+}

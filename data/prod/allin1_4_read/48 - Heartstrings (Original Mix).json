@@ -1,0 +1,85 @@
+{
+    "path": "../data/prod/allin1_4_read/48 - Heartstrings (Original Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.33",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.33",
+            "end": "00:16.20",
+            "label": "intro"
+        },
+        {
+            "start": "00:16.20",
+            "end": "00:32.07",
+            "label": "intro"
+        },
+        {
+            "start": "00:32.07",
+            "end": "00:47.95",
+            "label": "intro"
+        },
+        {
+            "start": "00:47.95",
+            "end": "01:19.68",
+            "label": "break"
+        },
+        {
+            "start": "01:19.68",
+            "end": "01:51.41",
+            "label": "drop"
+        },
+        {
+            "start": "01:51.41",
+            "end": "02:07.27",
+            "label": "break"
+        },
+        {
+            "start": "02:07.27",
+            "end": "02:23.16",
+            "label": "break"
+        },
+        {
+            "start": "02:23.16",
+            "end": "02:54.88",
+            "label": "break"
+        },
+        {
+            "start": "02:54.88",
+            "end": "03:10.74",
+            "label": "break"
+        },
+        {
+            "start": "03:10.74",
+            "end": "03:26.62",
+            "label": "drop"
+        },
+        {
+            "start": "03:26.62",
+            "end": "03:42.48",
+            "label": "drop"
+        },
+        {
+            "start": "03:42.48",
+            "end": "03:58.35",
+            "label": "drop"
+        },
+        {
+            "start": "03:58.35",
+            "end": "04:14.22",
+            "label": "outro"
+        },
+        {
+            "start": "04:14.22",
+            "end": "04:34.07",
+            "label": "outro"
+        },
+        {
+            "start": "04:34.07",
+            "end": "04:34.08",
+            "label": "outro"
+        }
+    ]
+}

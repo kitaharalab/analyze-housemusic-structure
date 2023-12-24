@@ -1,0 +1,95 @@
+{
+    "path": "../data/prod/allin1_4_read/36 - She_s Got.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.01",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.01",
+            "end": "00:38.71",
+            "label": "intro"
+        },
+        {
+            "start": "00:38.71",
+            "end": "01:00.00",
+            "label": "break"
+        },
+        {
+            "start": "01:00.00",
+            "end": "01:14.51",
+            "label": "break"
+        },
+        {
+            "start": "01:14.51",
+            "end": "01:37.73",
+            "label": "drop"
+        },
+        {
+            "start": "01:37.73",
+            "end": "02:00.96",
+            "label": "drop"
+        },
+        {
+            "start": "02:00.96",
+            "end": "02:30.95",
+            "label": "drop"
+        },
+        {
+            "start": "02:30.95",
+            "end": "02:46.43",
+            "label": "drop"
+        },
+        {
+            "start": "02:46.43",
+            "end": "03:01.91",
+            "label": "drop"
+        },
+        {
+            "start": "03:01.91",
+            "end": "03:32.87",
+            "label": "break"
+        },
+        {
+            "start": "03:32.87",
+            "end": "03:49.33",
+            "label": "break"
+        },
+        {
+            "start": "03:49.33",
+            "end": "04:07.71",
+            "label": "break"
+        },
+        {
+            "start": "04:07.71",
+            "end": "04:50.28",
+            "label": "drop"
+        },
+        {
+            "start": "04:50.28",
+            "end": "05:13.51",
+            "label": "break"
+        },
+        {
+            "start": "05:13.51",
+            "end": "05:32.86",
+            "label": "break"
+        },
+        {
+            "start": "05:32.86",
+            "end": "05:59.95",
+            "label": "drop"
+        },
+        {
+            "start": "05:59.95",
+            "end": "06:44.60",
+            "label": "outro"
+        },
+        {
+            "start": "06:44.60",
+            "end": "06:44.61",
+            "label": "outro"
+        }
+    ]
+}

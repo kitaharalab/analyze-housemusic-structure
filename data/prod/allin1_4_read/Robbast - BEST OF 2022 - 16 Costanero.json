@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/Robbast - BEST OF 2022 - 16 Costanero.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:16.18",
+            "label": "intro"
+        },
+        {
+            "start": "00:16.18",
+            "end": "00:39.04",
+            "label": "intro"
+        },
+        {
+            "start": "00:39.04",
+            "end": "01:08.56",
+            "label": "break"
+        },
+        {
+            "start": "01:08.56",
+            "end": "01:23.81",
+            "label": "drop"
+        },
+        {
+            "start": "01:23.81",
+            "end": "01:39.04",
+            "label": "drop"
+        },
+        {
+            "start": "01:39.04",
+            "end": "01:54.28",
+            "label": "drop"
+        },
+        {
+            "start": "01:54.28",
+            "end": "02:09.51",
+            "label": "drop"
+        },
+        {
+            "start": "02:09.51",
+            "end": "02:24.75",
+            "label": "break"
+        },
+        {
+            "start": "02:24.75",
+            "end": "02:39.99",
+            "label": "break"
+        },
+        {
+            "start": "02:39.99",
+            "end": "02:55.24",
+            "label": "drop"
+        },
+        {
+            "start": "02:55.24",
+            "end": "03:10.47",
+            "label": "drop"
+        },
+        {
+            "start": "03:10.47",
+            "end": "03:25.70",
+            "label": "drop"
+        },
+        {
+            "start": "03:25.70",
+            "end": "03:40.94",
+            "label": "break"
+        },
+        {
+            "start": "03:40.94",
+            "end": "03:56.18",
+            "label": "break"
+        },
+        {
+            "start": "03:56.18",
+            "end": "04:10.47",
+            "label": "break"
+        },
+        {
+            "start": "04:10.47",
+            "end": "04:41.90",
+            "label": "break"
+        },
+        {
+            "start": "04:41.90",
+            "end": "04:57.14",
+            "label": "drop"
+        },
+        {
+            "start": "04:57.14",
+            "end": "05:12.37",
+            "label": "drop"
+        },
+        {
+            "start": "05:12.37",
+            "end": "05:27.61",
+            "label": "drop"
+        },
+        {
+            "start": "05:27.61",
+            "end": "05:42.84",
+            "label": "drop"
+        },
+        {
+            "start": "05:42.84",
+            "end": "06:13.33",
+            "label": "drop"
+        },
+        {
+            "start": "06:13.33",
+            "end": "06:13.34",
+            "label": "outro"
+        }
+    ]
+}

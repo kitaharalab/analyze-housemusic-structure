@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/44 - Cocoom (Original Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.07",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.07",
+            "end": "00:15.42",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.42",
+            "end": "00:30.78",
+            "label": "intro"
+        },
+        {
+            "start": "00:30.78",
+            "end": "00:46.14",
+            "label": "intro"
+        },
+        {
+            "start": "00:46.14",
+            "end": "01:01.51",
+            "label": "intro"
+        },
+        {
+            "start": "01:01.51",
+            "end": "01:16.87",
+            "label": "drop"
+        },
+        {
+            "start": "01:16.87",
+            "end": "01:32.23",
+            "label": "drop"
+        },
+        {
+            "start": "01:32.23",
+            "end": "01:47.59",
+            "label": "drop"
+        },
+        {
+            "start": "01:47.59",
+            "end": "02:02.95",
+            "label": "break"
+        },
+        {
+            "start": "02:02.95",
+            "end": "02:17.35",
+            "label": "break"
+        },
+        {
+            "start": "02:17.35",
+            "end": "02:33.67",
+            "label": "break"
+        },
+        {
+            "start": "02:33.67",
+            "end": "03:04.39",
+            "label": "drop"
+        },
+        {
+            "start": "03:04.39",
+            "end": "03:35.11",
+            "label": "drop"
+        },
+        {
+            "start": "03:35.11",
+            "end": "03:49.51",
+            "label": "break"
+        },
+        {
+            "start": "03:49.51",
+            "end": "04:05.83",
+            "label": "break"
+        },
+        {
+            "start": "04:05.83",
+            "end": "04:21.19",
+            "label": "drop"
+        },
+        {
+            "start": "04:21.19",
+            "end": "04:36.55",
+            "label": "drop"
+        },
+        {
+            "start": "04:36.55",
+            "end": "05:07.27",
+            "label": "drop"
+        },
+        {
+            "start": "05:07.27",
+            "end": "05:37.98",
+            "label": "drop"
+        },
+        {
+            "start": "05:37.98",
+            "end": "06:08.71",
+            "label": "drop"
+        },
+        {
+            "start": "06:08.71",
+            "end": "06:39.42",
+            "label": "drop"
+        },
+        {
+            "start": "06:39.42",
+            "end": "07:10.15",
+            "label": "drop"
+        },
+        {
+            "start": "07:10.15",
+            "end": "07:22.65",
+            "label": "outro"
+        }
+    ]
+}

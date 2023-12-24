@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/24 - Bubieno (Original Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.07",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.07",
+            "end": "00:16.17",
+            "label": "intro"
+        },
+        {
+            "start": "00:16.17",
+            "end": "00:31.29",
+            "label": "break"
+        },
+        {
+            "start": "00:31.29",
+            "end": "01:02.51",
+            "label": "break"
+        },
+        {
+            "start": "01:02.51",
+            "end": "01:24.95",
+            "label": "drop"
+        },
+        {
+            "start": "01:24.95",
+            "end": "01:49.35",
+            "label": "break"
+        },
+        {
+            "start": "01:49.35",
+            "end": "02:04.95",
+            "label": "break"
+        },
+        {
+            "start": "02:04.95",
+            "end": "02:20.56",
+            "label": "drop"
+        },
+        {
+            "start": "02:20.56",
+            "end": "02:40.08",
+            "label": "drop"
+        },
+        {
+            "start": "02:40.08",
+            "end": "02:55.69",
+            "label": "break"
+        },
+        {
+            "start": "02:55.69",
+            "end": "03:08.36",
+            "label": "break"
+        },
+        {
+            "start": "03:08.36",
+            "end": "03:26.42",
+            "label": "break"
+        },
+        {
+            "start": "03:26.42",
+            "end": "03:45.93",
+            "label": "break"
+        },
+        {
+            "start": "03:45.93",
+            "end": "03:58.12",
+            "label": "break"
+        },
+        {
+            "start": "03:58.12",
+            "end": "04:13.73",
+            "label": "break"
+        },
+        {
+            "start": "04:13.73",
+            "end": "04:29.35",
+            "label": "drop"
+        },
+        {
+            "start": "04:29.35",
+            "end": "04:44.95",
+            "label": "drop"
+        },
+        {
+            "start": "04:44.95",
+            "end": "05:00.56",
+            "label": "drop"
+        },
+        {
+            "start": "05:00.56",
+            "end": "05:16.17",
+            "label": "break"
+        },
+        {
+            "start": "05:16.17",
+            "end": "05:31.78",
+            "label": "break"
+        },
+        {
+            "start": "05:31.78",
+            "end": "06:18.62",
+            "label": "break"
+        },
+        {
+            "start": "06:18.62",
+            "end": "06:19.12",
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "path": "../data/prod/allin1_4_read/23 - Sinner.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.02",
+            "label": "break"
+        },
+        {
+            "start": "00:00.02",
+            "end": "00:22.21",
+            "label": "break"
+        },
+        {
+            "start": "00:22.21",
+            "end": "00:37.81",
+            "label": "break"
+        },
+        {
+            "start": "00:37.81",
+            "end": "00:52.93",
+            "label": "drop"
+        },
+        {
+            "start": "00:52.93",
+            "end": "01:08.05",
+            "label": "drop"
+        },
+        {
+            "start": "01:08.05",
+            "end": "01:23.17",
+            "label": "break"
+        },
+        {
+            "start": "01:23.17",
+            "end": "01:38.28",
+            "label": "break"
+        },
+        {
+            "start": "01:38.28",
+            "end": "01:52.93",
+            "label": "break"
+        },
+        {
+            "start": "01:52.93",
+            "end": "02:08.52",
+            "label": "break"
+        },
+        {
+            "start": "02:08.52",
+            "end": "02:23.63",
+            "label": "drop"
+        },
+        {
+            "start": "02:23.63",
+            "end": "02:53.88",
+            "label": "drop"
+        },
+        {
+            "start": "02:53.88",
+            "end": "03:08.99",
+            "label": "drop"
+        },
+        {
+            "start": "03:08.99",
+            "end": "03:24.11",
+            "label": "drop"
+        },
+        {
+            "start": "03:24.11",
+            "end": "03:39.23",
+            "label": "drop"
+        },
+        {
+            "start": "03:39.23",
+            "end": "03:58.35",
+            "label": "outro"
+        },
+        {
+            "start": "03:58.35",
+            "end": "03:58.36",
+            "label": "outro"
+        }
+    ]
+}

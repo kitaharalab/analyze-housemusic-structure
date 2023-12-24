@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/12 - Cabala King (Original Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.36",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.36",
+            "end": "00:15.85",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.85",
+            "end": "00:31.33",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.33",
+            "end": "00:46.82",
+            "label": "drop"
+        },
+        {
+            "start": "00:46.82",
+            "end": "01:02.30",
+            "label": "drop"
+        },
+        {
+            "start": "01:02.30",
+            "end": "01:17.78",
+            "label": "drop"
+        },
+        {
+            "start": "01:17.78",
+            "end": "01:33.27",
+            "label": "drop"
+        },
+        {
+            "start": "01:33.27",
+            "end": "01:48.75",
+            "label": "drop"
+        },
+        {
+            "start": "01:48.75",
+            "end": "02:04.24",
+            "label": "drop"
+        },
+        {
+            "start": "02:04.24",
+            "end": "02:19.72",
+            "label": "break"
+        },
+        {
+            "start": "02:19.72",
+            "end": "02:35.21",
+            "label": "break"
+        },
+        {
+            "start": "02:35.21",
+            "end": "02:58.43",
+            "label": "drop"
+        },
+        {
+            "start": "02:58.43",
+            "end": "03:13.91",
+            "label": "drop"
+        },
+        {
+            "start": "03:13.91",
+            "end": "03:37.15",
+            "label": "drop"
+        },
+        {
+            "start": "03:37.15",
+            "end": "03:52.63",
+            "label": "break"
+        },
+        {
+            "start": "03:52.63",
+            "end": "04:23.59",
+            "label": "break"
+        },
+        {
+            "start": "04:23.59",
+            "end": "04:46.82",
+            "label": "drop"
+        },
+        {
+            "start": "04:46.82",
+            "end": "05:10.04",
+            "label": "drop"
+        },
+        {
+            "start": "05:10.04",
+            "end": "05:25.53",
+            "label": "drop"
+        },
+        {
+            "start": "05:25.53",
+            "end": "05:41.01",
+            "label": "drop"
+        },
+        {
+            "start": "05:41.01",
+            "end": "05:56.49",
+            "label": "drop"
+        },
+        {
+            "start": "05:56.49",
+            "end": "06:11.99",
+            "label": "drop"
+        },
+        {
+            "start": "06:11.99",
+            "end": "06:12.54",
+            "label": "outro"
+        }
+    ]
+}

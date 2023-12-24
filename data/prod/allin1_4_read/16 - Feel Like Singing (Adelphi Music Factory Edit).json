@@ -1,0 +1,75 @@
+{
+    "path": "../data/prod/allin1_4_read/16 - Feel Like Singing (Adelphi Music Factory Edit).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.91",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.91",
+            "end": "00:24.45",
+            "label": "intro"
+        },
+        {
+            "start": "00:24.45",
+            "end": "00:47.07",
+            "label": "drop"
+        },
+        {
+            "start": "00:47.07",
+            "end": "01:01.84",
+            "label": "drop"
+        },
+        {
+            "start": "01:01.84",
+            "end": "01:16.61",
+            "label": "drop"
+        },
+        {
+            "start": "01:16.61",
+            "end": "01:31.38",
+            "label": "break"
+        },
+        {
+            "start": "01:31.38",
+            "end": "01:46.15",
+            "label": "break"
+        },
+        {
+            "start": "01:46.15",
+            "end": "02:00.92",
+            "label": "break"
+        },
+        {
+            "start": "02:00.92",
+            "end": "02:15.69",
+            "label": "drop"
+        },
+        {
+            "start": "02:15.69",
+            "end": "02:30.46",
+            "label": "drop"
+        },
+        {
+            "start": "02:30.46",
+            "end": "02:45.23",
+            "label": "break"
+        },
+        {
+            "start": "02:45.23",
+            "end": "03:00.00",
+            "label": "drop"
+        },
+        {
+            "start": "03:00.00",
+            "end": "03:14.77",
+            "label": "outro"
+        },
+        {
+            "start": "03:14.77",
+            "end": "03:19.39",
+            "label": "outro"
+        }
+    ]
+}

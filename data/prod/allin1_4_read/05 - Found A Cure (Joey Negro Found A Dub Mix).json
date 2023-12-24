@@ -1,0 +1,130 @@
+{
+    "path": "../data/prod/allin1_4_read/05 - Found A Cure (Joey Negro Found A Dub Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.05",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.05",
+            "end": "00:15.78",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.78",
+            "end": "00:31.53",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.53",
+            "end": "00:47.26",
+            "label": "drop"
+        },
+        {
+            "start": "00:47.26",
+            "end": "01:03.00",
+            "label": "drop"
+        },
+        {
+            "start": "01:03.00",
+            "end": "01:18.74",
+            "label": "drop"
+        },
+        {
+            "start": "01:18.74",
+            "end": "01:34.48",
+            "label": "break"
+        },
+        {
+            "start": "01:34.48",
+            "end": "01:50.22",
+            "label": "break"
+        },
+        {
+            "start": "01:50.22",
+            "end": "02:05.96",
+            "label": "break"
+        },
+        {
+            "start": "02:05.96",
+            "end": "02:21.69",
+            "label": "drop"
+        },
+        {
+            "start": "02:21.69",
+            "end": "02:37.42",
+            "label": "drop"
+        },
+        {
+            "start": "02:37.42",
+            "end": "02:53.17",
+            "label": "drop"
+        },
+        {
+            "start": "02:53.17",
+            "end": "03:08.90",
+            "label": "break"
+        },
+        {
+            "start": "03:08.90",
+            "end": "03:40.39",
+            "label": "break"
+        },
+        {
+            "start": "03:40.39",
+            "end": "03:56.12",
+            "label": "break"
+        },
+        {
+            "start": "03:56.12",
+            "end": "04:11.86",
+            "label": "drop"
+        },
+        {
+            "start": "04:11.86",
+            "end": "04:30.55",
+            "label": "drop"
+        },
+        {
+            "start": "04:30.55",
+            "end": "05:01.04",
+            "label": "drop"
+        },
+        {
+            "start": "05:01.04",
+            "end": "05:16.78",
+            "label": "drop"
+        },
+        {
+            "start": "05:16.78",
+            "end": "05:32.52",
+            "label": "drop"
+        },
+        {
+            "start": "05:32.52",
+            "end": "05:48.25",
+            "label": "drop"
+        },
+        {
+            "start": "05:48.25",
+            "end": "06:03.99",
+            "label": "outro"
+        },
+        {
+            "start": "06:03.99",
+            "end": "06:19.72",
+            "label": "outro"
+        },
+        {
+            "start": "06:19.72",
+            "end": "06:35.76",
+            "label": "outro"
+        },
+        {
+            "start": "06:35.76",
+            "end": "06:38.00",
+            "label": "outro"
+        }
+    ]
+}

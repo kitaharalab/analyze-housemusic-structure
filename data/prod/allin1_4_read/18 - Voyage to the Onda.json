@@ -1,0 +1,110 @@
+{
+    "path": "../data/prod/allin1_4_read/18 - Voyage to the Onda.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.08",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.08",
+            "end": "00:16.62",
+            "label": "intro"
+        },
+        {
+            "start": "00:16.62",
+            "end": "00:29.03",
+            "label": "intro"
+        },
+        {
+            "start": "00:29.03",
+            "end": "00:47.65",
+            "label": "intro"
+        },
+        {
+            "start": "00:47.65",
+            "end": "01:23.86",
+            "label": "drop"
+        },
+        {
+            "start": "01:23.86",
+            "end": "01:39.38",
+            "label": "break"
+        },
+        {
+            "start": "01:39.38",
+            "end": "01:51.80",
+            "label": "break"
+        },
+        {
+            "start": "01:51.80",
+            "end": "02:08.35",
+            "label": "break"
+        },
+        {
+            "start": "02:08.35",
+            "end": "02:24.90",
+            "label": "drop"
+        },
+        {
+            "start": "02:24.90",
+            "end": "02:49.73",
+            "label": "drop"
+        },
+        {
+            "start": "02:49.73",
+            "end": "03:08.34",
+            "label": "drop"
+        },
+        {
+            "start": "03:08.34",
+            "end": "03:22.83",
+            "label": "drop"
+        },
+        {
+            "start": "03:22.83",
+            "end": "04:00.08",
+            "label": "drop"
+        },
+        {
+            "start": "04:00.08",
+            "end": "04:24.90",
+            "label": "drop"
+        },
+        {
+            "start": "04:24.90",
+            "end": "04:41.46",
+            "label": "drop"
+        },
+        {
+            "start": "04:41.46",
+            "end": "04:58.01",
+            "label": "drop"
+        },
+        {
+            "start": "04:58.01",
+            "end": "05:16.62",
+            "label": "drop"
+        },
+        {
+            "start": "05:16.62",
+            "end": "05:31.11",
+            "label": "drop"
+        },
+        {
+            "start": "05:31.11",
+            "end": "06:10.41",
+            "label": "drop"
+        },
+        {
+            "start": "06:10.41",
+            "end": "06:37.33",
+            "label": "outro"
+        },
+        {
+            "start": "06:37.33",
+            "end": "06:38.83",
+            "label": "outro"
+        }
+    ]
+}

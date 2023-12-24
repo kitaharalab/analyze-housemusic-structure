@@ -1,0 +1,130 @@
+{
+    "path": "../data/prod/allin1_4_read/25 - Bless Me Today (12_ Version).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.07",
+            "label": "break"
+        },
+        {
+            "start": "00:00.07",
+            "end": "00:16.53",
+            "label": "break"
+        },
+        {
+            "start": "00:16.53",
+            "end": "00:35.01",
+            "label": "drop"
+        },
+        {
+            "start": "00:35.01",
+            "end": "00:48.83",
+            "label": "drop"
+        },
+        {
+            "start": "00:48.83",
+            "end": "01:09.17",
+            "label": "break"
+        },
+        {
+            "start": "01:09.17",
+            "end": "01:25.44",
+            "label": "break"
+        },
+        {
+            "start": "01:25.44",
+            "end": "01:45.78",
+            "label": "break"
+        },
+        {
+            "start": "01:45.78",
+            "end": "02:16.28",
+            "label": "drop"
+        },
+        {
+            "start": "02:16.28",
+            "end": "02:30.52",
+            "label": "drop"
+        },
+        {
+            "start": "02:30.52",
+            "end": "02:46.80",
+            "label": "drop"
+        },
+        {
+            "start": "02:46.80",
+            "end": "03:07.14",
+            "label": "break"
+        },
+        {
+            "start": "03:07.14",
+            "end": "03:23.40",
+            "label": "break"
+        },
+        {
+            "start": "03:23.40",
+            "end": "03:40.69",
+            "label": "drop"
+        },
+        {
+            "start": "03:40.69",
+            "end": "03:58.41",
+            "label": "drop"
+        },
+        {
+            "start": "03:58.41",
+            "end": "04:12.22",
+            "label": "drop"
+        },
+        {
+            "start": "04:12.22",
+            "end": "04:32.56",
+            "label": "break"
+        },
+        {
+            "start": "04:32.56",
+            "end": "04:48.83",
+            "label": "break"
+        },
+        {
+            "start": "04:48.83",
+            "end": "05:17.29",
+            "label": "break"
+        },
+        {
+            "start": "05:17.29",
+            "end": "05:29.51",
+            "label": "drop"
+        },
+        {
+            "start": "05:29.51",
+            "end": "05:49.84",
+            "label": "drop"
+        },
+        {
+            "start": "05:49.84",
+            "end": "06:12.21",
+            "label": "drop"
+        },
+        {
+            "start": "06:12.21",
+            "end": "06:26.45",
+            "label": "drop"
+        },
+        {
+            "start": "06:26.45",
+            "end": "06:38.66",
+            "label": "drop"
+        },
+        {
+            "start": "06:38.66",
+            "end": "06:54.92",
+            "label": "outro"
+        },
+        {
+            "start": "06:54.92",
+            "end": "07:01.21",
+            "label": "outro"
+        }
+    ]
+}

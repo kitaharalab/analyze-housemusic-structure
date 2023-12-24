@@ -1,0 +1,125 @@
+{
+    "path": "../data/prod/allin1_4_read/27 - Back It Up (Original Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.05",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.05",
+            "end": "00:15.78",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.78",
+            "end": "00:31.52",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.52",
+            "end": "00:47.26",
+            "label": "drop"
+        },
+        {
+            "start": "00:47.26",
+            "end": "01:03.00",
+            "label": "drop"
+        },
+        {
+            "start": "01:03.00",
+            "end": "01:18.73",
+            "label": "drop"
+        },
+        {
+            "start": "01:18.73",
+            "end": "01:34.47",
+            "label": "drop"
+        },
+        {
+            "start": "01:34.47",
+            "end": "01:50.22",
+            "label": "drop"
+        },
+        {
+            "start": "01:50.22",
+            "end": "02:05.95",
+            "label": "break"
+        },
+        {
+            "start": "02:05.95",
+            "end": "02:21.69",
+            "label": "drop"
+        },
+        {
+            "start": "02:21.69",
+            "end": "02:37.42",
+            "label": "drop"
+        },
+        {
+            "start": "02:37.42",
+            "end": "02:53.16",
+            "label": "drop"
+        },
+        {
+            "start": "02:53.16",
+            "end": "03:08.89",
+            "label": "drop"
+        },
+        {
+            "start": "03:08.89",
+            "end": "03:25.61",
+            "label": "break"
+        },
+        {
+            "start": "03:25.61",
+            "end": "03:40.38",
+            "label": "break"
+        },
+        {
+            "start": "03:40.38",
+            "end": "03:56.11",
+            "label": "drop"
+        },
+        {
+            "start": "03:56.11",
+            "end": "04:11.85",
+            "label": "drop"
+        },
+        {
+            "start": "04:11.85",
+            "end": "04:27.59",
+            "label": "drop"
+        },
+        {
+            "start": "04:27.59",
+            "end": "04:43.33",
+            "label": "drop"
+        },
+        {
+            "start": "04:43.33",
+            "end": "04:59.06",
+            "label": "drop"
+        },
+        {
+            "start": "04:59.06",
+            "end": "05:14.80",
+            "label": "drop"
+        },
+        {
+            "start": "05:14.80",
+            "end": "05:30.54",
+            "label": "break"
+        },
+        {
+            "start": "05:30.54",
+            "end": "05:46.16",
+            "label": "outro"
+        },
+        {
+            "start": "05:46.16",
+            "end": "05:49.79",
+            "label": "outro"
+        }
+    ]
+}

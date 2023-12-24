@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/29 - Do You Feel Me (City Soul Project Club Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.01",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.01",
+            "end": "00:16.73",
+            "label": "intro"
+        },
+        {
+            "start": "00:16.73",
+            "end": "00:31.48",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.48",
+            "end": "00:47.22",
+            "label": "intro"
+        },
+        {
+            "start": "00:47.22",
+            "end": "01:02.97",
+            "label": "break"
+        },
+        {
+            "start": "01:02.97",
+            "end": "01:18.70",
+            "label": "drop"
+        },
+        {
+            "start": "01:18.70",
+            "end": "01:34.44",
+            "label": "drop"
+        },
+        {
+            "start": "01:34.44",
+            "end": "01:50.18",
+            "label": "drop"
+        },
+        {
+            "start": "01:50.18",
+            "end": "02:05.92",
+            "label": "drop"
+        },
+        {
+            "start": "02:05.92",
+            "end": "02:21.67",
+            "label": "break"
+        },
+        {
+            "start": "02:21.67",
+            "end": "02:37.40",
+            "label": "drop"
+        },
+        {
+            "start": "02:37.40",
+            "end": "03:08.87",
+            "label": "drop"
+        },
+        {
+            "start": "03:08.87",
+            "end": "03:24.61",
+            "label": "drop"
+        },
+        {
+            "start": "03:24.61",
+            "end": "03:56.08",
+            "label": "drop"
+        },
+        {
+            "start": "03:56.08",
+            "end": "04:27.56",
+            "label": "drop"
+        },
+        {
+            "start": "04:27.56",
+            "end": "04:43.30",
+            "label": "drop"
+        },
+        {
+            "start": "04:43.30",
+            "end": "04:59.04",
+            "label": "drop"
+        },
+        {
+            "start": "04:59.04",
+            "end": "05:14.77",
+            "label": "drop"
+        },
+        {
+            "start": "05:14.77",
+            "end": "05:30.51",
+            "label": "drop"
+        },
+        {
+            "start": "05:30.51",
+            "end": "05:46.25",
+            "label": "drop"
+        },
+        {
+            "start": "05:46.25",
+            "end": "06:01.98",
+            "label": "drop"
+        },
+        {
+            "start": "06:01.98",
+            "end": "06:17.72",
+            "label": "drop"
+        },
+        {
+            "start": "06:17.72",
+            "end": "06:33.45",
+            "label": "drop"
+        },
+        {
+            "start": "06:33.45",
+            "end": "06:49.19",
+            "label": "outro"
+        },
+        {
+            "start": "06:49.19",
+            "end": "07:04.92",
+            "label": "outro"
+        },
+        {
+            "start": "07:04.92",
+            "end": "07:14.19",
+            "label": "outro"
+        }
+    ]
+}

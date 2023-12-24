@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/37 - Find A Friend (Dr Packer Remix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:01.95",
+            "label": "intro"
+        },
+        {
+            "start": "00:01.95",
+            "end": "00:17.43",
+            "label": "intro"
+        },
+        {
+            "start": "00:17.43",
+            "end": "00:32.92",
+            "label": "intro"
+        },
+        {
+            "start": "00:32.92",
+            "end": "00:48.40",
+            "label": "drop"
+        },
+        {
+            "start": "00:48.40",
+            "end": "01:03.89",
+            "label": "break"
+        },
+        {
+            "start": "01:03.89",
+            "end": "01:19.37",
+            "label": "drop"
+        },
+        {
+            "start": "01:19.37",
+            "end": "01:34.86",
+            "label": "drop"
+        },
+        {
+            "start": "01:34.86",
+            "end": "01:50.34",
+            "label": "drop"
+        },
+        {
+            "start": "01:50.34",
+            "end": "02:05.83",
+            "label": "break"
+        },
+        {
+            "start": "02:05.83",
+            "end": "02:21.30",
+            "label": "break"
+        },
+        {
+            "start": "02:21.30",
+            "end": "02:36.79",
+            "label": "break"
+        },
+        {
+            "start": "02:36.79",
+            "end": "02:52.27",
+            "label": "drop"
+        },
+        {
+            "start": "02:52.27",
+            "end": "03:07.76",
+            "label": "drop"
+        },
+        {
+            "start": "03:07.76",
+            "end": "03:23.24",
+            "label": "break"
+        },
+        {
+            "start": "03:23.24",
+            "end": "03:46.47",
+            "label": "drop"
+        },
+        {
+            "start": "03:46.47",
+            "end": "04:01.95",
+            "label": "drop"
+        },
+        {
+            "start": "04:01.95",
+            "end": "04:17.43",
+            "label": "drop"
+        },
+        {
+            "start": "04:17.43",
+            "end": "04:32.92",
+            "label": "drop"
+        },
+        {
+            "start": "04:32.92",
+            "end": "04:48.40",
+            "label": "drop"
+        },
+        {
+            "start": "04:48.40",
+            "end": "05:03.88",
+            "label": "drop"
+        },
+        {
+            "start": "05:03.88",
+            "end": "05:19.37",
+            "label": "outro"
+        },
+        {
+            "start": "05:19.37",
+            "end": "05:23.77",
+            "label": "outro"
+        }
+    ]
+}

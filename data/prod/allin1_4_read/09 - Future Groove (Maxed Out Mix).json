@@ -1,0 +1,100 @@
+{
+    "path": "../data/prod/allin1_4_read/09 - Future Groove (Maxed Out Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.05",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.05",
+            "end": "00:15.78",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.78",
+            "end": "00:31.53",
+            "label": "drop"
+        },
+        {
+            "start": "00:31.53",
+            "end": "00:47.27",
+            "label": "break"
+        },
+        {
+            "start": "00:47.27",
+            "end": "01:03.01",
+            "label": "drop"
+        },
+        {
+            "start": "01:03.01",
+            "end": "01:18.75",
+            "label": "drop"
+        },
+        {
+            "start": "01:18.75",
+            "end": "01:42.36",
+            "label": "drop"
+        },
+        {
+            "start": "01:42.36",
+            "end": "01:58.10",
+            "label": "drop"
+        },
+        {
+            "start": "01:58.10",
+            "end": "02:13.84",
+            "label": "drop"
+        },
+        {
+            "start": "02:13.84",
+            "end": "02:45.33",
+            "label": "drop"
+        },
+        {
+            "start": "02:45.33",
+            "end": "03:01.06",
+            "label": "drop"
+        },
+        {
+            "start": "03:01.06",
+            "end": "03:24.68",
+            "label": "drop"
+        },
+        {
+            "start": "03:24.68",
+            "end": "03:40.41",
+            "label": "drop"
+        },
+        {
+            "start": "03:40.41",
+            "end": "03:56.16",
+            "label": "drop"
+        },
+        {
+            "start": "03:56.16",
+            "end": "04:11.90",
+            "label": "drop"
+        },
+        {
+            "start": "04:11.90",
+            "end": "04:27.64",
+            "label": "drop"
+        },
+        {
+            "start": "04:27.64",
+            "end": "04:43.38",
+            "label": "drop"
+        },
+        {
+            "start": "04:43.38",
+            "end": "04:59.12",
+            "label": "drop"
+        },
+        {
+            "start": "04:59.12",
+            "end": "05:18.07",
+            "label": "outro"
+        }
+    ]
+}

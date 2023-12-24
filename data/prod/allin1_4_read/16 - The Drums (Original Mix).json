@@ -1,0 +1,110 @@
+{
+    "path": "../data/prod/allin1_4_read/16 - The Drums (Original Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.24",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.24",
+            "end": "00:15.47",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.47",
+            "end": "00:30.71",
+            "label": "intro"
+        },
+        {
+            "start": "00:30.71",
+            "end": "00:45.95",
+            "label": "intro"
+        },
+        {
+            "start": "00:45.95",
+            "end": "01:01.19",
+            "label": "break"
+        },
+        {
+            "start": "01:01.19",
+            "end": "01:31.67",
+            "label": "drop"
+        },
+        {
+            "start": "01:31.67",
+            "end": "02:02.14",
+            "label": "drop"
+        },
+        {
+            "start": "02:02.14",
+            "end": "02:32.62",
+            "label": "break"
+        },
+        {
+            "start": "02:32.62",
+            "end": "02:47.86",
+            "label": "drop"
+        },
+        {
+            "start": "02:47.86",
+            "end": "03:03.10",
+            "label": "drop"
+        },
+        {
+            "start": "03:03.10",
+            "end": "03:18.33",
+            "label": "drop"
+        },
+        {
+            "start": "03:18.33",
+            "end": "03:50.72",
+            "label": "break"
+        },
+        {
+            "start": "03:50.72",
+            "end": "04:04.04",
+            "label": "drop"
+        },
+        {
+            "start": "04:04.04",
+            "end": "04:26.91",
+            "label": "break"
+        },
+        {
+            "start": "04:26.91",
+            "end": "05:04.04",
+            "label": "drop"
+        },
+        {
+            "start": "05:04.04",
+            "end": "05:18.33",
+            "label": "drop"
+        },
+        {
+            "start": "05:18.33",
+            "end": "05:33.57",
+            "label": "drop"
+        },
+        {
+            "start": "05:33.57",
+            "end": "06:04.99",
+            "label": "drop"
+        },
+        {
+            "start": "06:04.99",
+            "end": "06:19.28",
+            "label": "drop"
+        },
+        {
+            "start": "06:19.28",
+            "end": "06:36.43",
+            "label": "break"
+        },
+        {
+            "start": "06:36.43",
+            "end": "06:44.07",
+            "label": "outro"
+        }
+    ]
+}

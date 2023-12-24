@@ -1,0 +1,110 @@
+{
+    "path": "../data/prod/allin1_4_read/34 - My Heart Belongs To You (Ferreck Dawn Extended Remix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.01",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.01",
+            "end": "00:12.49",
+            "label": "intro"
+        },
+        {
+            "start": "00:12.49",
+            "end": "00:30.73",
+            "label": "intro"
+        },
+        {
+            "start": "00:30.73",
+            "end": "01:01.45",
+            "label": "intro"
+        },
+        {
+            "start": "01:01.45",
+            "end": "01:16.81",
+            "label": "drop"
+        },
+        {
+            "start": "01:16.81",
+            "end": "01:32.18",
+            "label": "drop"
+        },
+        {
+            "start": "01:32.18",
+            "end": "01:47.53",
+            "label": "drop"
+        },
+        {
+            "start": "01:47.53",
+            "end": "02:02.89",
+            "label": "break"
+        },
+        {
+            "start": "02:02.89",
+            "end": "02:33.62",
+            "label": "drop"
+        },
+        {
+            "start": "02:33.62",
+            "end": "02:49.46",
+            "label": "break"
+        },
+        {
+            "start": "02:49.46",
+            "end": "03:04.34",
+            "label": "break"
+        },
+        {
+            "start": "03:04.34",
+            "end": "03:19.70",
+            "label": "break"
+        },
+        {
+            "start": "03:19.70",
+            "end": "03:34.09",
+            "label": "drop"
+        },
+        {
+            "start": "03:34.09",
+            "end": "03:49.46",
+            "label": "drop"
+        },
+        {
+            "start": "03:49.46",
+            "end": "04:04.82",
+            "label": "break"
+        },
+        {
+            "start": "04:04.82",
+            "end": "04:20.18",
+            "label": "drop"
+        },
+        {
+            "start": "04:20.18",
+            "end": "04:35.54",
+            "label": "drop"
+        },
+        {
+            "start": "04:35.54",
+            "end": "04:50.90",
+            "label": "drop"
+        },
+        {
+            "start": "04:50.90",
+            "end": "05:12.97",
+            "label": "outro"
+        },
+        {
+            "start": "05:12.97",
+            "end": "05:52.34",
+            "label": "outro"
+        },
+        {
+            "start": "05:52.34",
+            "end": "05:52.59",
+            "label": "outro"
+        }
+    ]
+}

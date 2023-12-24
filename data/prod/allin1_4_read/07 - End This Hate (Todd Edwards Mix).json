@@ -1,0 +1,130 @@
+{
+    "path": "../data/prod/allin1_4_read/07 - End This Hate (Todd Edwards Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.02",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.02",
+            "end": "00:15.38",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.38",
+            "end": "00:30.27",
+            "label": "drop"
+        },
+        {
+            "start": "00:30.27",
+            "end": "00:46.11",
+            "label": "drop"
+        },
+        {
+            "start": "00:46.11",
+            "end": "01:01.47",
+            "label": "drop"
+        },
+        {
+            "start": "01:01.47",
+            "end": "01:16.83",
+            "label": "drop"
+        },
+        {
+            "start": "01:16.83",
+            "end": "01:32.19",
+            "label": "drop"
+        },
+        {
+            "start": "01:32.19",
+            "end": "01:47.54",
+            "label": "drop"
+        },
+        {
+            "start": "01:47.54",
+            "end": "02:02.90",
+            "label": "drop"
+        },
+        {
+            "start": "02:02.90",
+            "end": "02:18.27",
+            "label": "drop"
+        },
+        {
+            "start": "02:18.27",
+            "end": "02:33.63",
+            "label": "drop"
+        },
+        {
+            "start": "02:33.63",
+            "end": "02:48.98",
+            "label": "break"
+        },
+        {
+            "start": "02:48.98",
+            "end": "03:04.35",
+            "label": "drop"
+        },
+        {
+            "start": "03:04.35",
+            "end": "03:19.70",
+            "label": "break"
+        },
+        {
+            "start": "03:19.70",
+            "end": "03:35.07",
+            "label": "break"
+        },
+        {
+            "start": "03:35.07",
+            "end": "03:50.42",
+            "label": "break"
+        },
+        {
+            "start": "03:50.42",
+            "end": "04:05.78",
+            "label": "break"
+        },
+        {
+            "start": "04:05.78",
+            "end": "04:21.14",
+            "label": "drop"
+        },
+        {
+            "start": "04:21.14",
+            "end": "04:36.51",
+            "label": "drop"
+        },
+        {
+            "start": "04:36.51",
+            "end": "04:51.86",
+            "label": "drop"
+        },
+        {
+            "start": "04:51.86",
+            "end": "05:07.22",
+            "label": "drop"
+        },
+        {
+            "start": "05:07.22",
+            "end": "05:22.58",
+            "label": "drop"
+        },
+        {
+            "start": "05:22.58",
+            "end": "05:49.46",
+            "label": "outro"
+        },
+        {
+            "start": "05:49.46",
+            "end": "06:05.67",
+            "label": "outro"
+        },
+        {
+            "start": "06:05.67",
+            "end": "06:05.68",
+            "label": "outro"
+        }
+    ]
+}

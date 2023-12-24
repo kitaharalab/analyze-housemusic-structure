@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/15 - In My House (Original Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.24",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.24",
+            "end": "00:15.47",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.47",
+            "end": "00:31.21",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.21",
+            "end": "00:46.68",
+            "label": "drop"
+        },
+        {
+            "start": "00:46.68",
+            "end": "01:02.17",
+            "label": "drop"
+        },
+        {
+            "start": "01:02.17",
+            "end": "01:17.65",
+            "label": "drop"
+        },
+        {
+            "start": "01:17.65",
+            "end": "01:33.15",
+            "label": "drop"
+        },
+        {
+            "start": "01:33.15",
+            "end": "01:50.56",
+            "label": "break"
+        },
+        {
+            "start": "01:50.56",
+            "end": "02:04.11",
+            "label": "break"
+        },
+        {
+            "start": "02:04.11",
+            "end": "02:19.60",
+            "label": "drop"
+        },
+        {
+            "start": "02:19.60",
+            "end": "02:42.82",
+            "label": "break"
+        },
+        {
+            "start": "02:42.82",
+            "end": "02:58.30",
+            "label": "drop"
+        },
+        {
+            "start": "02:58.30",
+            "end": "03:21.53",
+            "label": "drop"
+        },
+        {
+            "start": "03:21.53",
+            "end": "03:37.00",
+            "label": "break"
+        },
+        {
+            "start": "03:37.00",
+            "end": "03:52.49",
+            "label": "break"
+        },
+        {
+            "start": "03:52.49",
+            "end": "04:07.97",
+            "label": "break"
+        },
+        {
+            "start": "04:07.97",
+            "end": "04:29.27",
+            "label": "break"
+        },
+        {
+            "start": "04:29.27",
+            "end": "04:44.76",
+            "label": "drop"
+        },
+        {
+            "start": "04:44.76",
+            "end": "05:00.23",
+            "label": "drop"
+        },
+        {
+            "start": "05:00.23",
+            "end": "05:15.72",
+            "label": "drop"
+        },
+        {
+            "start": "05:15.72",
+            "end": "05:31.21",
+            "label": "drop"
+        },
+        {
+            "start": "05:31.21",
+            "end": "05:54.44",
+            "label": "drop"
+        },
+        {
+            "start": "05:54.44",
+            "end": "06:02.64",
+            "label": "outro"
+        }
+    ]
+}

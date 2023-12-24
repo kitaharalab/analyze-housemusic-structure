@@ -1,0 +1,75 @@
+{
+    "path": "../data/prod/allin1_4_read/16 - Dr. Melonball.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.02",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.02",
+            "end": "00:17.29",
+            "label": "intro"
+        },
+        {
+            "start": "00:17.29",
+            "end": "00:30.73",
+            "label": "drop"
+        },
+        {
+            "start": "00:30.73",
+            "end": "00:46.10",
+            "label": "drop"
+        },
+        {
+            "start": "00:46.10",
+            "end": "01:16.81",
+            "label": "break"
+        },
+        {
+            "start": "01:16.81",
+            "end": "01:32.17",
+            "label": "drop"
+        },
+        {
+            "start": "01:32.17",
+            "end": "01:47.53",
+            "label": "drop"
+        },
+        {
+            "start": "01:47.53",
+            "end": "02:02.89",
+            "label": "break"
+        },
+        {
+            "start": "02:02.89",
+            "end": "02:18.25",
+            "label": "break"
+        },
+        {
+            "start": "02:18.25",
+            "end": "02:47.06",
+            "label": "drop"
+        },
+        {
+            "start": "02:47.06",
+            "end": "03:12.01",
+            "label": "drop"
+        },
+        {
+            "start": "03:12.01",
+            "end": "03:35.05",
+            "label": "drop"
+        },
+        {
+            "start": "03:35.05",
+            "end": "03:50.41",
+            "label": "outro"
+        },
+        {
+            "start": "03:50.41",
+            "end": "03:52.34",
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/24 - Feel Better.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.01",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.01",
+            "end": "00:15.20",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.20",
+            "end": "00:30.46",
+            "label": "drop"
+        },
+        {
+            "start": "00:30.46",
+            "end": "00:47.58",
+            "label": "drop"
+        },
+        {
+            "start": "00:47.58",
+            "end": "01:00.93",
+            "label": "drop"
+        },
+        {
+            "start": "01:00.93",
+            "end": "01:15.20",
+            "label": "drop"
+        },
+        {
+            "start": "01:15.20",
+            "end": "01:31.40",
+            "label": "drop"
+        },
+        {
+            "start": "01:31.40",
+            "end": "01:54.26",
+            "label": "drop"
+        },
+        {
+            "start": "01:54.26",
+            "end": "02:17.13",
+            "label": "drop"
+        },
+        {
+            "start": "02:17.13",
+            "end": "02:34.24",
+            "label": "drop"
+        },
+        {
+            "start": "02:34.24",
+            "end": "02:47.58",
+            "label": "drop"
+        },
+        {
+            "start": "02:47.58",
+            "end": "03:02.82",
+            "label": "drop"
+        },
+        {
+            "start": "03:02.82",
+            "end": "03:18.06",
+            "label": "drop"
+        },
+        {
+            "start": "03:18.06",
+            "end": "03:33.30",
+            "label": "drop"
+        },
+        {
+            "start": "03:33.30",
+            "end": "03:48.54",
+            "label": "drop"
+        },
+        {
+            "start": "03:48.54",
+            "end": "04:03.79",
+            "label": "drop"
+        },
+        {
+            "start": "04:03.79",
+            "end": "04:20.92",
+            "label": "break"
+        },
+        {
+            "start": "04:20.92",
+            "end": "04:34.26",
+            "label": "drop"
+        },
+        {
+            "start": "04:34.26",
+            "end": "05:04.73",
+            "label": "drop"
+        },
+        {
+            "start": "05:04.73",
+            "end": "05:19.97",
+            "label": "drop"
+        },
+        {
+            "start": "05:19.97",
+            "end": "05:33.31",
+            "label": "outro"
+        },
+        {
+            "start": "05:33.31",
+            "end": "05:37.09",
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "path": "../data/prod/allin1_4_read/26 - Lundi matin.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.20",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.20",
+            "end": "00:22.69",
+            "label": "intro"
+        },
+        {
+            "start": "00:22.69",
+            "end": "00:37.46",
+            "label": "intro"
+        },
+        {
+            "start": "00:37.46",
+            "end": "00:52.46",
+            "label": "intro"
+        },
+        {
+            "start": "00:52.46",
+            "end": "01:07.46",
+            "label": "intro"
+        },
+        {
+            "start": "01:07.46",
+            "end": "01:22.47",
+            "label": "intro"
+        },
+        {
+            "start": "01:22.47",
+            "end": "01:43.10",
+            "label": "intro"
+        },
+        {
+            "start": "01:43.10",
+            "end": "02:06.53",
+            "label": "break"
+        },
+        {
+            "start": "02:06.53",
+            "end": "02:22.47",
+            "label": "break"
+        },
+        {
+            "start": "02:22.47",
+            "end": "02:37.47",
+            "label": "break"
+        },
+        {
+            "start": "02:37.47",
+            "end": "02:52.47",
+            "label": "break"
+        },
+        {
+            "start": "02:52.47",
+            "end": "03:07.47",
+            "label": "break"
+        },
+        {
+            "start": "03:07.47",
+            "end": "03:22.47",
+            "label": "break"
+        },
+        {
+            "start": "03:22.47",
+            "end": "03:52.47",
+            "label": "break"
+        },
+        {
+            "start": "03:52.47",
+            "end": "04:07.48",
+            "label": "break"
+        },
+        {
+            "start": "04:07.48",
+            "end": "04:22.47",
+            "label": "break"
+        },
+        {
+            "start": "04:22.47",
+            "end": "04:37.47",
+            "label": "drop"
+        },
+        {
+            "start": "04:37.47",
+            "end": "04:59.98",
+            "label": "drop"
+        },
+        {
+            "start": "04:59.98",
+            "end": "05:22.47",
+            "label": "drop"
+        },
+        {
+            "start": "05:22.47",
+            "end": "05:44.05",
+            "label": "outro"
+        },
+        {
+            "start": "05:44.05",
+            "end": "05:47.70",
+            "label": "outro"
+        }
+    ]
+}

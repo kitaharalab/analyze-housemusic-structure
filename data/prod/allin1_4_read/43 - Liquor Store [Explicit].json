@@ -1,0 +1,75 @@
+{
+    "path": "../data/prod/allin1_4_read/43 - Liquor Store [Explicit].json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.26",
+            "label": "break"
+        },
+        {
+            "start": "00:00.26",
+            "end": "00:15.62",
+            "label": "break"
+        },
+        {
+            "start": "00:15.62",
+            "end": "00:30.98",
+            "label": "drop"
+        },
+        {
+            "start": "00:30.98",
+            "end": "00:46.34",
+            "label": "break"
+        },
+        {
+            "start": "00:46.34",
+            "end": "01:01.70",
+            "label": "break"
+        },
+        {
+            "start": "01:01.70",
+            "end": "01:17.06",
+            "label": "drop"
+        },
+        {
+            "start": "01:17.06",
+            "end": "01:32.42",
+            "label": "drop"
+        },
+        {
+            "start": "01:32.42",
+            "end": "01:47.78",
+            "label": "break"
+        },
+        {
+            "start": "01:47.78",
+            "end": "02:18.50",
+            "label": "break"
+        },
+        {
+            "start": "02:18.50",
+            "end": "02:33.86",
+            "label": "break"
+        },
+        {
+            "start": "02:33.86",
+            "end": "02:49.22",
+            "label": "break"
+        },
+        {
+            "start": "02:49.22",
+            "end": "03:04.58",
+            "label": "drop"
+        },
+        {
+            "start": "03:04.58",
+            "end": "03:19.95",
+            "label": "drop"
+        },
+        {
+            "start": "03:19.95",
+            "end": "03:21.87",
+            "label": "outro"
+        }
+    ]
+}

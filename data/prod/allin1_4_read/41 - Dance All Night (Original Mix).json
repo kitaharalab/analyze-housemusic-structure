@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/41 - Dance All Night (Original Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.23",
+            "label": "break"
+        },
+        {
+            "start": "00:00.23",
+            "end": "00:15.46",
+            "label": "break"
+        },
+        {
+            "start": "00:15.46",
+            "end": "00:30.70",
+            "label": "drop"
+        },
+        {
+            "start": "00:30.70",
+            "end": "00:45.94",
+            "label": "drop"
+        },
+        {
+            "start": "00:45.94",
+            "end": "01:01.18",
+            "label": "drop"
+        },
+        {
+            "start": "01:01.18",
+            "end": "01:16.42",
+            "label": "drop"
+        },
+        {
+            "start": "01:16.42",
+            "end": "01:31.65",
+            "label": "drop"
+        },
+        {
+            "start": "01:31.65",
+            "end": "01:46.89",
+            "label": "drop"
+        },
+        {
+            "start": "01:46.89",
+            "end": "02:02.14",
+            "label": "drop"
+        },
+        {
+            "start": "02:02.14",
+            "end": "02:17.37",
+            "label": "drop"
+        },
+        {
+            "start": "02:17.37",
+            "end": "02:32.61",
+            "label": "drop"
+        },
+        {
+            "start": "02:32.61",
+            "end": "02:47.85",
+            "label": "drop"
+        },
+        {
+            "start": "02:47.85",
+            "end": "03:03.08",
+            "label": "drop"
+        },
+        {
+            "start": "03:03.08",
+            "end": "03:18.32",
+            "label": "drop"
+        },
+        {
+            "start": "03:18.32",
+            "end": "03:33.56",
+            "label": "drop"
+        },
+        {
+            "start": "03:33.56",
+            "end": "03:48.80",
+            "label": "drop"
+        },
+        {
+            "start": "03:48.80",
+            "end": "04:04.03",
+            "label": "drop"
+        },
+        {
+            "start": "04:04.03",
+            "end": "04:19.27",
+            "label": "drop"
+        },
+        {
+            "start": "04:19.27",
+            "end": "04:34.51",
+            "label": "drop"
+        },
+        {
+            "start": "04:34.51",
+            "end": "04:49.75",
+            "label": "drop"
+        },
+        {
+            "start": "04:49.75",
+            "end": "05:04.99",
+            "label": "drop"
+        },
+        {
+            "start": "05:04.99",
+            "end": "05:20.24",
+            "label": "drop"
+        },
+        {
+            "start": "05:20.24",
+            "end": "05:20.27",
+            "label": "outro"
+        }
+    ]
+}

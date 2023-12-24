@@ -1,0 +1,155 @@
+{
+    "path": "../data/prod/allin1_4_read/53 - Music Is My Way Of Life (feat. Lisa Millett) [The Lab Rats present The Experiment] [Lab Rats Main Ex.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:02.30",
+            "label": "intro"
+        },
+        {
+            "start": "00:02.30",
+            "end": "00:18.64",
+            "label": "intro"
+        },
+        {
+            "start": "00:18.64",
+            "end": "00:34.03",
+            "label": "intro"
+        },
+        {
+            "start": "00:34.03",
+            "end": "00:48.47",
+            "label": "intro"
+        },
+        {
+            "start": "00:48.47",
+            "end": "01:03.85",
+            "label": "drop"
+        },
+        {
+            "start": "01:03.85",
+            "end": "01:19.25",
+            "label": "drop"
+        },
+        {
+            "start": "01:19.25",
+            "end": "01:34.64",
+            "label": "drop"
+        },
+        {
+            "start": "01:34.64",
+            "end": "01:50.02",
+            "label": "break"
+        },
+        {
+            "start": "01:50.02",
+            "end": "02:05.42",
+            "label": "break"
+        },
+        {
+            "start": "02:05.42",
+            "end": "02:18.89",
+            "label": "break"
+        },
+        {
+            "start": "02:18.89",
+            "end": "02:45.82",
+            "label": "break"
+        },
+        {
+            "start": "02:45.82",
+            "end": "03:03.13",
+            "label": "break"
+        },
+        {
+            "start": "03:03.13",
+            "end": "03:18.53",
+            "label": "break"
+        },
+        {
+            "start": "03:18.53",
+            "end": "03:35.84",
+            "label": "drop"
+        },
+        {
+            "start": "03:35.84",
+            "end": "03:59.89",
+            "label": "drop"
+        },
+        {
+            "start": "03:59.89",
+            "end": "04:19.12",
+            "label": "break"
+        },
+        {
+            "start": "04:19.12",
+            "end": "04:34.52",
+            "label": "break"
+        },
+        {
+            "start": "04:34.52",
+            "end": "04:49.90",
+            "label": "break"
+        },
+        {
+            "start": "04:49.90",
+            "end": "05:09.13",
+            "label": "drop"
+        },
+        {
+            "start": "05:09.13",
+            "end": "05:26.46",
+            "label": "break"
+        },
+        {
+            "start": "05:26.46",
+            "end": "05:50.50",
+            "label": "drop"
+        },
+        {
+            "start": "05:50.50",
+            "end": "06:09.74",
+            "label": "drop"
+        },
+        {
+            "start": "06:09.74",
+            "end": "06:33.77",
+            "label": "drop"
+        },
+        {
+            "start": "06:33.77",
+            "end": "06:49.17",
+            "label": "drop"
+        },
+        {
+            "start": "06:49.17",
+            "end": "07:04.56",
+            "label": "drop"
+        },
+        {
+            "start": "07:04.56",
+            "end": "07:19.95",
+            "label": "drop"
+        },
+        {
+            "start": "07:19.95",
+            "end": "07:35.34",
+            "label": "drop"
+        },
+        {
+            "start": "07:35.34",
+            "end": "07:50.73",
+            "label": "outro"
+        },
+        {
+            "start": "07:50.73",
+            "end": "08:06.12",
+            "label": "outro"
+        },
+        {
+            "start": "08:06.12",
+            "end": "08:11.84",
+            "label": "outro"
+        }
+    ]
+}

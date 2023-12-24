@@ -1,0 +1,100 @@
+{
+    "path": "../data/prod/allin1_4_read/47 - Muffin Dance (Original Mix).json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.07",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.07",
+            "end": "00:15.55",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.55",
+            "end": "00:31.03",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.03",
+            "end": "00:46.52",
+            "label": "break"
+        },
+        {
+            "start": "00:46.52",
+            "end": "01:02.01",
+            "label": "break"
+        },
+        {
+            "start": "01:02.01",
+            "end": "01:17.49",
+            "label": "drop"
+        },
+        {
+            "start": "01:17.49",
+            "end": "01:32.98",
+            "label": "drop"
+        },
+        {
+            "start": "01:32.98",
+            "end": "01:48.46",
+            "label": "break"
+        },
+        {
+            "start": "01:48.46",
+            "end": "02:11.68",
+            "label": "drop"
+        },
+        {
+            "start": "02:11.68",
+            "end": "02:34.91",
+            "label": "break"
+        },
+        {
+            "start": "02:34.91",
+            "end": "02:50.40",
+            "label": "break"
+        },
+        {
+            "start": "02:50.40",
+            "end": "03:05.88",
+            "label": "break"
+        },
+        {
+            "start": "03:05.88",
+            "end": "03:21.36",
+            "label": "drop"
+        },
+        {
+            "start": "03:21.36",
+            "end": "03:36.84",
+            "label": "drop"
+        },
+        {
+            "start": "03:36.84",
+            "end": "04:07.81",
+            "label": "drop"
+        },
+        {
+            "start": "04:07.81",
+            "end": "04:23.30",
+            "label": "break"
+        },
+        {
+            "start": "04:23.30",
+            "end": "04:38.77",
+            "label": "break"
+        },
+        {
+            "start": "04:38.77",
+            "end": "04:55.25",
+            "label": "break"
+        },
+        {
+            "start": "04:55.25",
+            "end": "04:55.27",
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "path": "../data/prod/allin1_4_read/16 - People of Our Nation.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.11",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.11",
+            "end": "00:15.60",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.60",
+            "end": "00:31.09",
+            "label": "intro"
+        },
+        {
+            "start": "00:31.09",
+            "end": "00:46.56",
+            "label": "break"
+        },
+        {
+            "start": "00:46.56",
+            "end": "01:02.06",
+            "label": "drop"
+        },
+        {
+            "start": "01:02.06",
+            "end": "01:17.54",
+            "label": "drop"
+        },
+        {
+            "start": "01:17.54",
+            "end": "01:33.03",
+            "label": "drop"
+        },
+        {
+            "start": "01:33.03",
+            "end": "01:48.51",
+            "label": "drop"
+        },
+        {
+            "start": "01:48.51",
+            "end": "02:03.99",
+            "label": "drop"
+        },
+        {
+            "start": "02:03.99",
+            "end": "02:20.44",
+            "label": "break"
+        },
+        {
+            "start": "02:20.44",
+            "end": "02:34.96",
+            "label": "break"
+        },
+        {
+            "start": "02:34.96",
+            "end": "02:50.44",
+            "label": "break"
+        },
+        {
+            "start": "02:50.44",
+            "end": "03:05.93",
+            "label": "break"
+        },
+        {
+            "start": "03:05.93",
+            "end": "03:21.41",
+            "label": "drop"
+        },
+        {
+            "start": "03:21.41",
+            "end": "03:36.90",
+            "label": "break"
+        },
+        {
+            "start": "03:36.90",
+            "end": "03:52.38",
+            "label": "break"
+        },
+        {
+            "start": "03:52.38",
+            "end": "04:07.86",
+            "label": "drop"
+        },
+        {
+            "start": "04:07.86",
+            "end": "04:23.35",
+            "label": "drop"
+        },
+        {
+            "start": "04:23.35",
+            "end": "04:38.83",
+            "label": "drop"
+        },
+        {
+            "start": "04:38.83",
+            "end": "04:54.31",
+            "label": "drop"
+        },
+        {
+            "start": "04:54.31",
+            "end": "05:09.80",
+            "label": "break"
+        },
+        {
+            "start": "05:09.80",
+            "end": "05:25.28",
+            "label": "break"
+        },
+        {
+            "start": "05:25.28",
+            "end": "05:40.77",
+            "label": "drop"
+        },
+        {
+            "start": "05:40.77",
+            "end": "05:56.24",
+            "label": "drop"
+        },
+        {
+            "start": "05:56.24",
+            "end": "06:11.73",
+            "label": "drop"
+        },
+        {
+            "start": "06:11.73",
+            "end": "06:27.22",
+            "label": "drop"
+        },
+        {
+            "start": "06:27.22",
+            "end": "06:42.70",
+            "label": "outro"
+        },
+        {
+            "start": "06:42.70",
+            "end": "06:48.23",
+            "label": "outro"
+        }
+    ]
+}

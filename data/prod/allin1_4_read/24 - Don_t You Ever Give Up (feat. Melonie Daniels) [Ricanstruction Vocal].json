@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/24 - Don_t You Ever Give Up (feat. Melonie Daniels) [Ricanstruction Vocal].json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.06",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.06",
+            "end": "00:13.50",
+            "label": "intro"
+        },
+        {
+            "start": "00:13.50",
+            "end": "00:30.80",
+            "label": "intro"
+        },
+        {
+            "start": "00:30.80",
+            "end": "00:46.16",
+            "label": "intro"
+        },
+        {
+            "start": "00:46.16",
+            "end": "01:01.53",
+            "label": "intro"
+        },
+        {
+            "start": "01:01.53",
+            "end": "01:14.98",
+            "label": "break"
+        },
+        {
+            "start": "01:14.98",
+            "end": "01:47.64",
+            "label": "drop"
+        },
+        {
+            "start": "01:47.64",
+            "end": "02:01.08",
+            "label": "break"
+        },
+        {
+            "start": "02:01.08",
+            "end": "02:16.45",
+            "label": "break"
+        },
+        {
+            "start": "02:16.45",
+            "end": "02:31.82",
+            "label": "drop"
+        },
+        {
+            "start": "02:31.82",
+            "end": "02:47.19",
+            "label": "drop"
+        },
+        {
+            "start": "02:47.19",
+            "end": "03:02.56",
+            "label": "break"
+        },
+        {
+            "start": "03:02.56",
+            "end": "03:33.30",
+            "label": "drop"
+        },
+        {
+            "start": "03:33.30",
+            "end": "03:48.67",
+            "label": "drop"
+        },
+        {
+            "start": "03:48.67",
+            "end": "04:07.88",
+            "label": "drop"
+        },
+        {
+            "start": "04:07.88",
+            "end": "04:21.32",
+            "label": "break"
+        },
+        {
+            "start": "04:21.32",
+            "end": "04:34.77",
+            "label": "break"
+        },
+        {
+            "start": "04:34.77",
+            "end": "04:56.86",
+            "label": "break"
+        },
+        {
+            "start": "04:56.86",
+            "end": "05:15.11",
+            "label": "break"
+        },
+        {
+            "start": "05:15.11",
+            "end": "05:36.24",
+            "label": "drop"
+        },
+        {
+            "start": "05:36.24",
+            "end": "05:51.61",
+            "label": "drop"
+        },
+        {
+            "start": "05:51.61",
+            "end": "06:08.89",
+            "label": "outro"
+        },
+        {
+            "start": "06:08.89",
+            "end": "06:12.52",
+            "label": "outro"
+        }
+    ]
+}

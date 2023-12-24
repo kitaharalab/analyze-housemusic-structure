@@ -1,0 +1,80 @@
+{
+    "path": "../data/prod/allin1_4_read/02 - Everyday.json",
+    "segments": [
+        {
+            "start": "00:00.00",
+            "end": "00:00.04",
+            "label": "intro"
+        },
+        {
+            "start": "00:00.04",
+            "end": "00:15.52",
+            "label": "intro"
+        },
+        {
+            "start": "00:15.52",
+            "end": "00:46.49",
+            "label": "drop"
+        },
+        {
+            "start": "00:46.49",
+            "end": "01:01.97",
+            "label": "drop"
+        },
+        {
+            "start": "01:01.97",
+            "end": "01:17.46",
+            "label": "drop"
+        },
+        {
+            "start": "01:17.46",
+            "end": "01:32.94",
+            "label": "break"
+        },
+        {
+            "start": "01:32.94",
+            "end": "01:48.42",
+            "label": "drop"
+        },
+        {
+            "start": "01:48.42",
+            "end": "02:03.90",
+            "label": "drop"
+        },
+        {
+            "start": "02:03.90",
+            "end": "02:19.40",
+            "label": "break"
+        },
+        {
+            "start": "02:19.40",
+            "end": "02:34.88",
+            "label": "break"
+        },
+        {
+            "start": "02:34.88",
+            "end": "02:50.36",
+            "label": "drop"
+        },
+        {
+            "start": "02:50.36",
+            "end": "03:05.85",
+            "label": "drop"
+        },
+        {
+            "start": "03:05.85",
+            "end": "03:36.81",
+            "label": "drop"
+        },
+        {
+            "start": "03:36.81",
+            "end": "04:07.29",
+            "label": "outro"
+        },
+        {
+            "start": "04:07.29",
+            "end": "04:10.24",
+            "label": "outro"
+        }
+    ]
+}
