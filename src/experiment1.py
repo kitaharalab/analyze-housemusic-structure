@@ -55,6 +55,24 @@ def plot_violin_plot(section_averages):
     plt.title('Violin Plot of Average Spectral Centroid per Music Section')
     plt.show()
 
+def process_file(json_path, song_directory, freq, all_section_averages, allin1):
+    section_data = allin1.load_section_data(json_path)
+
+    filename = os.path.splitext(os.path.basename(json_path))[0] + '.mp3'
+    file_path = os.path.join(song_directory, filename)
+    spectral_centroid, sr, times = freq.get_spectral_centroid(file_path)
+    section_averages = calculate_section_averages(section_data['segments'], spectral_centroid, sr, times)
+
+    for section, average in section_averages.items():
+        all_section_averages[section].append(average)
+
+def process_files(json_directory, song_directory, freq, allin1, all_section_averages):
+    for root, dirs, files in tqdm(os.walk(json_directory), desc="Processing files"):
+        for file in tqdm(files, desc="Processing file", leave=False):
+            if file.endswith(".json"):
+                json_path = os.path.join(root, file)
+                process_file(json_path, song_directory, freq, all_section_averages, allin1)
+
 def main(process_mode):
     song_directory = "../data/demo/songs_demo/"
     json_directory = "../data/demo/allin1_demo/"
@@ -62,19 +80,7 @@ def main(process_mode):
     allin1 = Allin1()
     all_section_averages = {'intro': [], 'drop': [], 'break': [], 'outro': []}
 
-    for root, dirs, files in os.walk(json_directory):
-        for file in files:
-            if file.endswith(".json"):
-                json_path = os.path.join(root, file)
-                section_data = allin1.load_section_data(json_path)
-
-                filename = os.path.splitext(file)[0] + '.mp3'
-                file_path = os.path.join(song_directory, filename)
-                spectral_centroid, sr, times = freq.get_spectral_centroid(file_path)
-                section_averages = calculate_section_averages(section_data['segments'], spectral_centroid, sr, times)
-
-                for section, average in section_averages.items():
-                    all_section_averages[section].append(average)
+    process_files(json_directory, song_directory, freq, allin1, all_section_averages)
 
     if process_mode == 'var':
         plot_bar_graph(all_section_averages)

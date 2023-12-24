@@ -20,3 +20,4 @@ from termcolor import colored
 from typing import List
 import pydub
 from pydub import AudioSegment
+from tqdm import tqdm

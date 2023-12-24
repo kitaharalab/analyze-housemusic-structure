@@ -128,6 +128,27 @@ def plot_combined_violin_plot(component_averages, components):
     plt.legend([plt.Line2D([0], [0], color=color, lw=4) for color in colors], components)
     plt.show()
 
+def process_files(json_directory, song_directory, freq, allin1, component_averages, components):
+    for root, dirs, files in tqdm(os.walk(json_directory), desc="Processing files"):
+        for file in tqdm(files, desc="Processing file", leave=False):
+            if file.endswith(".json"):
+                json_path = os.path.join(root, file)
+                process_file(json_path, song_directory, freq, component_averages, allin1, components)
+
+def process_file(json_path, song_directory, freq, component_averages, allin1, components):
+    section_data = allin1.load_section_data(json_path)
+    song_name = os.path.splitext(os.path.basename(json_path))[0]
+
+    for component in components:
+        file_path = os.path.join(song_directory, song_name, f"{component}.mp3")
+        if os.path.exists(file_path):
+            spectral_centroid, sr, times = freq.get_spectral_centroid(file_path)
+            section_averages = calculate_section_averages(section_data['segments'], spectral_centroid, sr, times)
+
+            for section, average in section_averages.items():
+                if average is not None:
+                    component_averages[component][section].append(average)
+
 def main(process_mode):
     song_directory = "../data/demo/songs_demo/"
     demucs_directory = "../data/demo/demucs_demo/mdx_q/"
@@ -138,23 +159,7 @@ def main(process_mode):
     components = ['bass', 'drums', 'other', 'vocals']
     component_averages = {component: {'intro': [], 'drop': [], 'break': [], 'outro': []} for component in components}
 
-    for root, dirs, files in os.walk(json_directory):
-        for file in files:
-            if file.endswith(".json"):
-                json_path = os.path.join(root, file)
-                section_data = allin1.load_section_data(json_path)
-
-                song_name = os.path.splitext(file)[0]
-
-                for component in components:
-                    file_path = os.path.join(demucs_directory, song_name, f"{component}.mp3")
-                    if os.path.exists(file_path):
-                        spectral_centroid, sr, times = freq.get_spectral_centroid(file_path)
-                        section_averages = calculate_section_averages(section_data['segments'], spectral_centroid, sr, times)
-
-                        for section, average in section_averages.items():
-                            if average is not None:
-                                component_averages[component][section].append(average)
+    process_files(json_directory, demucs_directory, freq, allin1, component_averages, components)
 
     if process_mode == 'bar':
         for component in components:
