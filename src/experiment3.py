@@ -1,11 +1,6 @@
 from external_libraries import *
 from modules import *
 
-def load_section_data(json_path: str):
-    with open(json_path, 'r') as file:
-        data = json.load(file)
-    return data
-
 def calculate_section_rms(y, sr, sections):
     rms_values = {}
     for section in sections:
@@ -59,6 +54,7 @@ def plot_3d_rms(section, rms_values, max_rms):
 def main():
     json_directory = "../data/demo/allin1_demo/"
     demucs_directory = "../data/demo/demucs_demo/mdx_q/"
+    allin1 = Allin1()
     all_rms_values = {}
     song_section_rms = {}
 
@@ -66,7 +62,7 @@ def main():
         for file in files:
             if file.endswith(".json"):
                 json_path = os.path.join(root, file)
-                section_data = load_section_data(json_path)
+                section_data = allin1.load_section_data(json_path)
 
                 song_name = os.path.splitext(file)[0]
                 print(f"Processing song: {song_name}")

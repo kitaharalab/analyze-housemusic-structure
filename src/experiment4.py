@@ -1,11 +1,6 @@
 from external_libraries import *
 from modules import *
 
-def load_section_data(json_path: str):
-    with open(json_path, 'r') as file:
-        data = json.load(file)
-    return data
-
 def process_midi_file_single(midi_path, section_data, drum_mapping):
     drum = Drum(midi_path)
     drum_events = drum.get_drum_events()
@@ -76,6 +71,7 @@ def plot_drum_section_counts(song_name, section_counts, existing_drums):
 def main(process_mode):
     json_directory = "../data/demo/allin1_demo/"
     midi_directory = "../data/demo/midi_demo/"
+    allin1 = Allin1()
 
     all_section_counts = {'intro': {}, 'drop': {}, 'break': {}, 'outro': {}}
     all_existing_drums = set()
@@ -90,7 +86,7 @@ def main(process_mode):
 
                 song_name = os.path.splitext(file)[0]
                 print(f"Processing song: {song_name}")
-                section_data = load_section_data(json_path)
+                section_data = allin1.load_section_data(json_path)
 
                 if process_mode == 'single':
                     section_counts, existing_drums = process_midi_file_single(midi_path, section_data, Drum(midi_path).drum_mapping)

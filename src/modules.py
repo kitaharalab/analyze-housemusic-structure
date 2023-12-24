@@ -387,3 +387,11 @@ class Frequency:
         plt.title("Spectrogram")
         plt.show()
 
+class Allin1:
+    def _init__(self):
+        pass
+
+    def load_section_data(self, json_path: str):
+        with open(json_path, 'r') as file:
+            data = json.load(file)
+        return data

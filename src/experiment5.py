@@ -1,14 +1,10 @@
 from external_libraries import *
 from modules import *
 
-def load_section_data(json_path: str):
-    with open(json_path, 'r') as file:
-        data = json.load(file)
-    return data
-
 def main():
     midi_directory = "../data/demo/midi_demo/"
     json_directory = "../data/demo/allin1_demo/"
+    allin1 = Allin1()
 
     for root, dirs, files in os.walk(midi_directory):
         for file in files:
@@ -19,7 +15,7 @@ def main():
 
                 # Load JSON data for the current song
                 json_path = os.path.join(json_directory, f"{song_name}.json")
-                section_data = load_section_data(json_path)
+                section_data = allin1.load_section_data(json_path)
 
                 drum = Drum(midi_path)
                 events = drum.get_drum_events()

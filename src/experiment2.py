@@ -1,11 +1,6 @@
 from external_libraries import *
 from modules import *
 
-def load_section_data(json_path: str):
-    with open(json_path, 'r') as file:
-        data = json.load(file)
-    return data
-
 def calculate_section_averages(sections, spectral_centroid, sr, times):
     section_averages = {'intro': [], 'drop': [], 'break': [], 'outro': []}
     spectral_centroid = spectral_centroid.flatten()
@@ -138,6 +133,7 @@ def main(process_mode):
     demucs_directory = "../data/demo/demucs_demo/mdx_q/"
     json_directory = "../data/demo/allin1_demo/"
     freq = Frequency()
+    allin1 = Allin1()
 
     components = ['bass', 'drums', 'other', 'vocals']
     component_averages = {component: {'intro': [], 'drop': [], 'break': [], 'outro': []} for component in components}
@@ -146,7 +142,7 @@ def main(process_mode):
         for file in files:
             if file.endswith(".json"):
                 json_path = os.path.join(root, file)
-                section_data = load_section_data(json_path)
+                section_data = allin1.load_section_data(json_path)
 
                 song_name = os.path.splitext(file)[0]
 
