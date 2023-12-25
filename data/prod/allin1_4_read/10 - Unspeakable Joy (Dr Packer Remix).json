@@ -24,17 +24,17 @@
         {
             "start": "01:05.08",
             "end": "01:21.35",
-            "label": "drop"
+            "label": "break"
         },
         {
             "start": "01:21.35",
             "end": "01:37.62",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "01:37.62",
             "end": "01:53.89",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "01:53.89",
@@ -49,7 +49,7 @@
         {
             "start": "02:42.71",
             "end": "02:58.98",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "02:58.98",
@@ -69,12 +69,12 @@
         {
             "start": "03:55.93",
             "end": "04:12.20",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "04:12.20",
             "end": "04:28.47",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "04:28.47",
@@ -104,47 +104,47 @@
         {
             "start": "05:57.95",
             "end": "06:16.26",
-            "label": "drop"
+            "label": "break"
         },
         {
             "start": "06:16.26",
             "end": "06:31.52",
-            "label": "drop"
+            "label": "break"
         },
         {
             "start": "06:31.52",
             "end": "07:03.05",
-            "label": "drop"
+            "label": "break"
         },
         {
             "start": "07:03.05",
             "end": "07:19.31",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "07:19.31",
             "end": "07:31.52",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "07:31.52",
             "end": "07:43.72",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "07:43.72",
             "end": "07:59.99",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "07:59.99",
             "end": "08:16.25",
-            "label": "drop"
+            "label": "outro"
         },
         {
             "start": "08:16.25",
             "end": "08:32.40",
-            "label": "drop"
+            "label": "outro"
         },
         {
             "start": "08:32.40",

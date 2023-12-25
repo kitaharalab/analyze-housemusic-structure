@@ -49,7 +49,7 @@
         {
             "start": "02:12.75",
             "end": "02:28.36",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "02:28.36",
@@ -99,7 +99,7 @@
         {
             "start": "04:56.66",
             "end": "05:12.27",
-            "label": "drop"
+            "label": "break"
         },
         {
             "start": "05:12.27",
@@ -114,7 +114,7 @@
         {
             "start": "05:43.48",
             "end": "05:59.09",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "05:59.09",
@@ -129,7 +129,7 @@
         {
             "start": "07:01.53",
             "end": "07:20.07",
-            "label": "break"
+            "label": "outro"
         },
         {
             "start": "07:20.07",
