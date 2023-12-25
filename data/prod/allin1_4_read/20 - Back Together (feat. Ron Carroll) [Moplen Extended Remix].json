@@ -14,17 +14,17 @@
         {
             "start": "00:31.62",
             "end": "00:51.46",
-            "label": "drop"
+            "label": "break"
         },
         {
             "start": "00:51.46",
             "end": "01:07.32",
-            "label": "drop"
+            "label": "break"
         },
         {
             "start": "01:07.32",
             "end": "01:38.57",
-            "label": "intro"
+            "label": "break"
         },
         {
             "start": "01:38.57",
