@@ -1,0 +1,125 @@
+{
+    "path": "../data/prod/allin1_4_read/33 - Gully Queen (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.47,
+            "label": "intro"
+        },
+        {
+            "start": 0.47,
+            "end": 14.02,
+            "label": "intro"
+        },
+        {
+            "start": 14.02,
+            "end": 31.44,
+            "label": "intro"
+        },
+        {
+            "start": 31.44,
+            "end": 46.93,
+            "label": "drop"
+        },
+        {
+            "start": 46.93,
+            "end": 62.41,
+            "label": "drop"
+        },
+        {
+            "start": 62.41,
+            "end": 77.89,
+            "label": "break"
+        },
+        {
+            "start": 77.89,
+            "end": 93.37,
+            "label": "drop"
+        },
+        {
+            "start": 93.37,
+            "end": 108.86,
+            "label": "drop"
+        },
+        {
+            "start": 108.86,
+            "end": 124.35,
+            "label": "break"
+        },
+        {
+            "start": 124.35,
+            "end": 139.82999999999998,
+            "label": "break"
+        },
+        {
+            "start": 139.82999999999998,
+            "end": 155.79,
+            "label": "drop"
+        },
+        {
+            "start": 155.79,
+            "end": 170.8,
+            "label": "drop"
+        },
+        {
+            "start": 170.8,
+            "end": 186.28,
+            "label": "break"
+        },
+        {
+            "start": 186.28,
+            "end": 201.77,
+            "label": "break"
+        },
+        {
+            "start": 201.77,
+            "end": 217.25,
+            "label": "break"
+        },
+        {
+            "start": 217.25,
+            "end": 232.73,
+            "label": "break"
+        },
+        {
+            "start": 232.73,
+            "end": 249.18,
+            "label": "drop"
+        },
+        {
+            "start": 249.18,
+            "end": 263.7,
+            "label": "drop"
+        },
+        {
+            "start": 263.7,
+            "end": 277.25,
+            "label": "drop"
+        },
+        {
+            "start": 277.25,
+            "end": 294.67,
+            "label": "drop"
+        },
+        {
+            "start": 294.67,
+            "end": 325.63,
+            "label": "drop"
+        },
+        {
+            "start": 325.63,
+            "end": 339.18,
+            "label": "outro"
+        },
+        {
+            "start": 339.18,
+            "end": 356.59000000000003,
+            "label": "outro"
+        },
+        {
+            "start": 356.59000000000003,
+            "end": 357.6,
+            "label": "outro"
+        }
+    ]
+}

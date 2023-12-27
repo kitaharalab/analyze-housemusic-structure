@@ -1,0 +1,110 @@
+{
+    "path": "../data/prod/allin1_4_read/18 - Voyage to the Onda.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.08,
+            "label": "intro"
+        },
+        {
+            "start": 0.08,
+            "end": 16.62,
+            "label": "intro"
+        },
+        {
+            "start": 16.62,
+            "end": 29.03,
+            "label": "intro"
+        },
+        {
+            "start": 29.03,
+            "end": 47.65,
+            "label": "intro"
+        },
+        {
+            "start": 47.65,
+            "end": 83.86,
+            "label": "drop"
+        },
+        {
+            "start": 83.86,
+            "end": 99.38,
+            "label": "drop"
+        },
+        {
+            "start": 99.38,
+            "end": 111.8,
+            "label": "break"
+        },
+        {
+            "start": 111.8,
+            "end": 128.35,
+            "label": "break"
+        },
+        {
+            "start": 128.35,
+            "end": 144.9,
+            "label": "drop"
+        },
+        {
+            "start": 144.9,
+            "end": 169.73,
+            "label": "drop"
+        },
+        {
+            "start": 169.73,
+            "end": 188.34,
+            "label": "drop"
+        },
+        {
+            "start": 188.34,
+            "end": 202.82999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 202.82999999999998,
+            "end": 240.08,
+            "label": "break"
+        },
+        {
+            "start": 240.08,
+            "end": 264.9,
+            "label": "drop"
+        },
+        {
+            "start": 264.9,
+            "end": 281.46,
+            "label": "drop"
+        },
+        {
+            "start": 281.46,
+            "end": 298.01,
+            "label": "drop"
+        },
+        {
+            "start": 298.01,
+            "end": 316.62,
+            "label": "drop"
+        },
+        {
+            "start": 316.62,
+            "end": 331.11,
+            "label": "drop"
+        },
+        {
+            "start": 331.11,
+            "end": 370.41,
+            "label": "drop"
+        },
+        {
+            "start": 370.41,
+            "end": 397.33,
+            "label": "outro"
+        },
+        {
+            "start": 397.33,
+            "end": 398.83,
+            "label": "outro"
+        }
+    ]
+}

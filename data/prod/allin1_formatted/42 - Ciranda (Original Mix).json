@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/42 - Ciranda (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.36,
+            "label": "intro"
+        },
+        {
+            "start": 0.36,
+            "end": 15.72,
+            "label": "intro"
+        },
+        {
+            "start": 15.72,
+            "end": 31.08,
+            "label": "intro"
+        },
+        {
+            "start": 31.08,
+            "end": 46.44,
+            "label": "drop"
+        },
+        {
+            "start": 46.44,
+            "end": 61.8,
+            "label": "drop"
+        },
+        {
+            "start": 61.8,
+            "end": 77.16,
+            "label": "drop"
+        },
+        {
+            "start": 77.16,
+            "end": 92.52000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 92.52000000000001,
+            "end": 107.88,
+            "label": "break"
+        },
+        {
+            "start": 107.88,
+            "end": 123.25,
+            "label": "break"
+        },
+        {
+            "start": 123.25,
+            "end": 138.61,
+            "label": "drop"
+        },
+        {
+            "start": 138.61,
+            "end": 153.96,
+            "label": "drop"
+        },
+        {
+            "start": 153.96,
+            "end": 169.32999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 169.32999999999998,
+            "end": 184.68,
+            "label": "drop"
+        },
+        {
+            "start": 184.68,
+            "end": 200.04,
+            "label": "break"
+        },
+        {
+            "start": 200.04,
+            "end": 215.41,
+            "label": "break"
+        },
+        {
+            "start": 215.41,
+            "end": 230.75,
+            "label": "break"
+        },
+        {
+            "start": 230.75,
+            "end": 249.96,
+            "label": "break"
+        },
+        {
+            "start": 249.96,
+            "end": 265.33,
+            "label": "drop"
+        },
+        {
+            "start": 265.33,
+            "end": 280.68,
+            "label": "drop"
+        },
+        {
+            "start": 280.68,
+            "end": 296.05,
+            "label": "drop"
+        },
+        {
+            "start": 296.05,
+            "end": 311.4,
+            "label": "drop"
+        },
+        {
+            "start": 311.4,
+            "end": 326.76,
+            "label": "drop"
+        },
+        {
+            "start": 326.76,
+            "end": 342.12,
+            "label": "drop"
+        },
+        {
+            "start": 342.12,
+            "end": 357.48,
+            "label": "outro"
+        },
+        {
+            "start": 357.48,
+            "end": 372.85,
+            "label": "outro"
+        },
+        {
+            "start": 372.85,
+            "end": 376.72,
+            "label": "outro"
+        }
+    ]
+}

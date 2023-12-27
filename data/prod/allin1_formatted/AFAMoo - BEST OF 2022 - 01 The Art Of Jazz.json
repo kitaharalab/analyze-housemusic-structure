@@ -1,0 +1,125 @@
+{
+    "path": "../data/prod/allin1_4_read/AFAMoo - BEST OF 2022 - 01 The Art Of Jazz.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 15.85,
+            "label": "intro"
+        },
+        {
+            "start": 15.85,
+            "end": 31.72,
+            "label": "intro"
+        },
+        {
+            "start": 31.72,
+            "end": 47.58,
+            "label": "intro"
+        },
+        {
+            "start": 47.58,
+            "end": 63.46,
+            "label": "intro"
+        },
+        {
+            "start": 63.46,
+            "end": 79.32,
+            "label": "drop"
+        },
+        {
+            "start": 79.32,
+            "end": 95.19,
+            "label": "drop"
+        },
+        {
+            "start": 95.19,
+            "end": 111.06,
+            "label": "drop"
+        },
+        {
+            "start": 111.06,
+            "end": 126.94,
+            "label": "drop"
+        },
+        {
+            "start": 126.94,
+            "end": 158.67000000000002,
+            "label": "break"
+        },
+        {
+            "start": 158.67000000000002,
+            "end": 174.53,
+            "label": "drop"
+        },
+        {
+            "start": 174.53,
+            "end": 190.4,
+            "label": "drop"
+        },
+        {
+            "start": 190.4,
+            "end": 206.26,
+            "label": "drop"
+        },
+        {
+            "start": 206.26,
+            "end": 222.14,
+            "label": "drop"
+        },
+        {
+            "start": 222.14,
+            "end": 238.0,
+            "label": "break"
+        },
+        {
+            "start": 238.0,
+            "end": 253.87,
+            "label": "break"
+        },
+        {
+            "start": 253.87,
+            "end": 269.73,
+            "label": "drop"
+        },
+        {
+            "start": 269.73,
+            "end": 285.61,
+            "label": "drop"
+        },
+        {
+            "start": 285.61,
+            "end": 301.47,
+            "label": "drop"
+        },
+        {
+            "start": 301.47,
+            "end": 317.34,
+            "label": "drop"
+        },
+        {
+            "start": 317.34,
+            "end": 333.2,
+            "label": "break"
+        },
+        {
+            "start": 333.2,
+            "end": 349.08,
+            "label": "drop"
+        },
+        {
+            "start": 349.08,
+            "end": 364.94,
+            "label": "outro"
+        },
+        {
+            "start": 364.94,
+            "end": 381.81,
+            "label": "outro"
+        },
+        {
+            "start": 381.81,
+            "end": 381.82,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "path": "../data/prod/allin1_4_read/09 - Future Groove (Maxed Out Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.05,
+            "label": "intro"
+        },
+        {
+            "start": 0.05,
+            "end": 15.78,
+            "label": "intro"
+        },
+        {
+            "start": 15.78,
+            "end": 31.53,
+            "label": "drop"
+        },
+        {
+            "start": 31.53,
+            "end": 47.27,
+            "label": "break"
+        },
+        {
+            "start": 47.27,
+            "end": 63.01,
+            "label": "drop"
+        },
+        {
+            "start": 63.01,
+            "end": 78.75,
+            "label": "drop"
+        },
+        {
+            "start": 78.75,
+            "end": 102.36,
+            "label": "drop"
+        },
+        {
+            "start": 102.36,
+            "end": 118.1,
+            "label": "drop"
+        },
+        {
+            "start": 118.1,
+            "end": 133.84,
+            "label": "drop"
+        },
+        {
+            "start": 133.84,
+            "end": 165.32999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 165.32999999999998,
+            "end": 181.06,
+            "label": "drop"
+        },
+        {
+            "start": 181.06,
+            "end": 204.68,
+            "label": "drop"
+        },
+        {
+            "start": 204.68,
+            "end": 220.41,
+            "label": "drop"
+        },
+        {
+            "start": 220.41,
+            "end": 236.16,
+            "label": "drop"
+        },
+        {
+            "start": 236.16,
+            "end": 251.9,
+            "label": "drop"
+        },
+        {
+            "start": 251.9,
+            "end": 267.64,
+            "label": "drop"
+        },
+        {
+            "start": 267.64,
+            "end": 283.38,
+            "label": "drop"
+        },
+        {
+            "start": 283.38,
+            "end": 299.12,
+            "label": "drop"
+        },
+        {
+            "start": 299.12,
+            "end": 318.07,
+            "label": "outro"
+        }
+    ]
+}

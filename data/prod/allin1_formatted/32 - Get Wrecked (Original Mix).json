@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/32 - Get Wrecked (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.07,
+            "label": "intro"
+        },
+        {
+            "start": 0.07,
+            "end": 16.65,
+            "label": "intro"
+        },
+        {
+            "start": 16.65,
+            "end": 30.31,
+            "label": "intro"
+        },
+        {
+            "start": 30.31,
+            "end": 46.89,
+            "label": "intro"
+        },
+        {
+            "start": 46.89,
+            "end": 62.5,
+            "label": "intro"
+        },
+        {
+            "start": 62.5,
+            "end": 79.08,
+            "label": "drop"
+        },
+        {
+            "start": 79.08,
+            "end": 93.72,
+            "label": "drop"
+        },
+        {
+            "start": 93.72,
+            "end": 124.95,
+            "label": "drop"
+        },
+        {
+            "start": 124.95,
+            "end": 142.5,
+            "label": "break"
+        },
+        {
+            "start": 142.5,
+            "end": 156.16,
+            "label": "break"
+        },
+        {
+            "start": 156.16,
+            "end": 170.8,
+            "label": "drop"
+        },
+        {
+            "start": 170.8,
+            "end": 187.38,
+            "label": "drop"
+        },
+        {
+            "start": 187.38,
+            "end": 203.0,
+            "label": "drop"
+        },
+        {
+            "start": 203.0,
+            "end": 226.41,
+            "label": "drop"
+        },
+        {
+            "start": 226.41,
+            "end": 249.82,
+            "label": "break"
+        },
+        {
+            "start": 249.82,
+            "end": 264.45,
+            "label": "drop"
+        },
+        {
+            "start": 264.45,
+            "end": 281.04,
+            "label": "drop"
+        },
+        {
+            "start": 281.04,
+            "end": 296.65,
+            "label": "drop"
+        },
+        {
+            "start": 296.65,
+            "end": 311.28,
+            "label": "drop"
+        },
+        {
+            "start": 311.28,
+            "end": 326.89,
+            "label": "drop"
+        },
+        {
+            "start": 326.89,
+            "end": 344.45,
+            "label": "drop"
+        },
+        {
+            "start": 344.45,
+            "end": 363.59,
+            "label": "outro"
+        },
+        {
+            "start": 363.59,
+            "end": 363.6,
+            "label": "outro"
+        }
+    ]
+}

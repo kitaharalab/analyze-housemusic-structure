@@ -1,0 +1,140 @@
+{
+    "path": "../data/prod/allin1_4_read/15 - Treat Me Right (David Morales Club Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 15.5,
+            "label": "intro"
+        },
+        {
+            "start": 15.5,
+            "end": 30.99,
+            "label": "intro"
+        },
+        {
+            "start": 30.99,
+            "end": 46.48,
+            "label": "intro"
+        },
+        {
+            "start": 46.48,
+            "end": 61.96,
+            "label": "break"
+        },
+        {
+            "start": 61.96,
+            "end": 77.45,
+            "label": "break"
+        },
+        {
+            "start": 77.45,
+            "end": 92.93,
+            "label": "drop"
+        },
+        {
+            "start": 92.93,
+            "end": 108.41,
+            "label": "drop"
+        },
+        {
+            "start": 108.41,
+            "end": 123.89,
+            "label": "break"
+        },
+        {
+            "start": 123.89,
+            "end": 139.38,
+            "label": "break"
+        },
+        {
+            "start": 139.38,
+            "end": 154.86,
+            "label": "drop"
+        },
+        {
+            "start": 154.86,
+            "end": 170.35,
+            "label": "drop"
+        },
+        {
+            "start": 170.35,
+            "end": 185.83,
+            "label": "drop"
+        },
+        {
+            "start": 185.83,
+            "end": 201.32,
+            "label": "break"
+        },
+        {
+            "start": 201.32,
+            "end": 216.8,
+            "label": "drop"
+        },
+        {
+            "start": 216.8,
+            "end": 232.28,
+            "label": "drop"
+        },
+        {
+            "start": 232.28,
+            "end": 247.77,
+            "label": "break"
+        },
+        {
+            "start": 247.77,
+            "end": 263.25,
+            "label": "drop"
+        },
+        {
+            "start": 263.25,
+            "end": 280.67,
+            "label": "drop"
+        },
+        {
+            "start": 280.67,
+            "end": 309.71,
+            "label": "break"
+        },
+        {
+            "start": 309.71,
+            "end": 325.19,
+            "label": "drop"
+        },
+        {
+            "start": 325.19,
+            "end": 340.67,
+            "label": "drop"
+        },
+        {
+            "start": 340.67,
+            "end": 356.15,
+            "label": "drop"
+        },
+        {
+            "start": 356.15,
+            "end": 371.64,
+            "label": "break"
+        },
+        {
+            "start": 371.64,
+            "end": 387.12,
+            "label": "outro"
+        },
+        {
+            "start": 387.12,
+            "end": 402.6,
+            "label": "outro"
+        },
+        {
+            "start": 402.6,
+            "end": 406.46,
+            "label": "outro"
+        }
+    ]
+}

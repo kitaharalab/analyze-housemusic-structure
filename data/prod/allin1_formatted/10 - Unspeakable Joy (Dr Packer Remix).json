@@ -1,0 +1,155 @@
+{
+    "path": "../data/prod/allin1_4_read/10 - Unspeakable Joy (Dr Packer Remix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 16.26,
+            "label": "intro"
+        },
+        {
+            "start": 16.26,
+            "end": 32.53,
+            "label": "intro"
+        },
+        {
+            "start": 32.53,
+            "end": 49.82,
+            "label": "intro"
+        },
+        {
+            "start": 49.82,
+            "end": 65.08,
+            "label": "break"
+        },
+        {
+            "start": 65.08,
+            "end": 81.35,
+            "label": "break"
+        },
+        {
+            "start": 81.35,
+            "end": 97.62,
+            "label": "drop"
+        },
+        {
+            "start": 97.62,
+            "end": 113.89,
+            "label": "drop"
+        },
+        {
+            "start": 113.89,
+            "end": 138.3,
+            "label": "break"
+        },
+        {
+            "start": 138.3,
+            "end": 162.71,
+            "label": "drop"
+        },
+        {
+            "start": 162.71,
+            "end": 178.98,
+            "label": "drop"
+        },
+        {
+            "start": 178.98,
+            "end": 203.38,
+            "label": "break"
+        },
+        {
+            "start": 203.38,
+            "end": 219.65,
+            "label": "drop"
+        },
+        {
+            "start": 219.65,
+            "end": 235.93,
+            "label": "drop"
+        },
+        {
+            "start": 235.93,
+            "end": 252.2,
+            "label": "drop"
+        },
+        {
+            "start": 252.2,
+            "end": 268.47,
+            "label": "drop"
+        },
+        {
+            "start": 268.47,
+            "end": 292.88,
+            "label": "break"
+        },
+        {
+            "start": 292.88,
+            "end": 309.14,
+            "label": "drop"
+        },
+        {
+            "start": 309.14,
+            "end": 325.42,
+            "label": "drop"
+        },
+        {
+            "start": 325.42,
+            "end": 341.69,
+            "label": "break"
+        },
+        {
+            "start": 341.69,
+            "end": 357.95,
+            "label": "break"
+        },
+        {
+            "start": 357.95,
+            "end": 376.26,
+            "label": "break"
+        },
+        {
+            "start": 376.26,
+            "end": 391.52,
+            "label": "break"
+        },
+        {
+            "start": 391.52,
+            "end": 423.05,
+            "label": "break"
+        },
+        {
+            "start": 423.05,
+            "end": 439.31,
+            "label": "drop"
+        },
+        {
+            "start": 439.31,
+            "end": 451.52,
+            "label": "drop"
+        },
+        {
+            "start": 451.52,
+            "end": 463.72,
+            "label": "drop"
+        },
+        {
+            "start": 463.72,
+            "end": 479.99,
+            "label": "drop"
+        },
+        {
+            "start": 479.99,
+            "end": 496.25,
+            "label": "outro"
+        },
+        {
+            "start": 496.25,
+            "end": 512.4,
+            "label": "outro"
+        },
+        {
+            "start": 512.4,
+            "end": 519.13,
+            "label": "outro"
+        }
+    ]
+}

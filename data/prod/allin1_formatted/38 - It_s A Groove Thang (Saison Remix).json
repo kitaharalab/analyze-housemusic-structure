@@ -1,0 +1,75 @@
+{
+    "path": "../data/prod/allin1_4_read/38 - It_s A Groove Thang (Saison Remix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.49,
+            "label": "intro"
+        },
+        {
+            "start": 0.49,
+            "end": 15.01,
+            "label": "intro"
+        },
+        {
+            "start": 15.01,
+            "end": 39.2,
+            "label": "intro"
+        },
+        {
+            "start": 39.2,
+            "end": 62.43,
+            "label": "drop"
+        },
+        {
+            "start": 62.43,
+            "end": 77.91,
+            "label": "drop"
+        },
+        {
+            "start": 77.91,
+            "end": 93.39,
+            "label": "break"
+        },
+        {
+            "start": 93.39,
+            "end": 108.88,
+            "label": "drop"
+        },
+        {
+            "start": 108.88,
+            "end": 124.37,
+            "label": "drop"
+        },
+        {
+            "start": 124.37,
+            "end": 139.85,
+            "label": "drop"
+        },
+        {
+            "start": 139.85,
+            "end": 156.31,
+            "label": "break"
+        },
+        {
+            "start": 156.31,
+            "end": 178.54,
+            "label": "break"
+        },
+        {
+            "start": 178.54,
+            "end": 194.04,
+            "label": "drop"
+        },
+        {
+            "start": 194.04,
+            "end": 213.4,
+            "label": "outro"
+        },
+        {
+            "start": 213.4,
+            "end": 213.41,
+            "label": "outro"
+        }
+    ]
+}

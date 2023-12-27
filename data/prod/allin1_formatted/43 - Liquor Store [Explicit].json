@@ -1,0 +1,75 @@
+{
+    "path": "../data/prod/allin1_4_read/43 - Liquor Store [Explicit].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.26,
+            "label": "intro"
+        },
+        {
+            "start": 0.26,
+            "end": 15.62,
+            "label": "break"
+        },
+        {
+            "start": 15.62,
+            "end": 30.98,
+            "label": "break"
+        },
+        {
+            "start": 30.98,
+            "end": 46.34,
+            "label": "drop"
+        },
+        {
+            "start": 46.34,
+            "end": 61.7,
+            "label": "drop"
+        },
+        {
+            "start": 61.7,
+            "end": 77.06,
+            "label": "drop"
+        },
+        {
+            "start": 77.06,
+            "end": 92.42,
+            "label": "drop"
+        },
+        {
+            "start": 92.42,
+            "end": 107.78,
+            "label": "break"
+        },
+        {
+            "start": 107.78,
+            "end": 138.5,
+            "label": "break"
+        },
+        {
+            "start": 138.5,
+            "end": 153.86,
+            "label": "drop"
+        },
+        {
+            "start": 153.86,
+            "end": 169.22,
+            "label": "drop"
+        },
+        {
+            "start": 169.22,
+            "end": 184.58,
+            "label": "drop"
+        },
+        {
+            "start": 184.58,
+            "end": 199.95,
+            "label": "drop"
+        },
+        {
+            "start": 199.95,
+            "end": 201.87,
+            "label": "outro"
+        }
+    ]
+}

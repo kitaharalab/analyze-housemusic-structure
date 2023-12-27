@@ -1,0 +1,105 @@
+{
+    "path": "../data/prod/allin1_4_read/Raffaele Ciavolino - BEST OF 2022 - 15 What Is Love.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.01,
+            "label": "intro"
+        },
+        {
+            "start": 0.01,
+            "end": 15.74,
+            "label": "intro"
+        },
+        {
+            "start": 15.74,
+            "end": 31.47,
+            "label": "break"
+        },
+        {
+            "start": 31.47,
+            "end": 47.2,
+            "label": "drop"
+        },
+        {
+            "start": 47.2,
+            "end": 62.96,
+            "label": "drop"
+        },
+        {
+            "start": 62.96,
+            "end": 78.69,
+            "label": "break"
+        },
+        {
+            "start": 78.69,
+            "end": 94.41,
+            "label": "drop"
+        },
+        {
+            "start": 94.41,
+            "end": 112.14,
+            "label": "break"
+        },
+        {
+            "start": 112.14,
+            "end": 125.9,
+            "label": "drop"
+        },
+        {
+            "start": 125.9,
+            "end": 149.51,
+            "label": "drop"
+        },
+        {
+            "start": 149.51,
+            "end": 173.12,
+            "label": "drop"
+        },
+        {
+            "start": 173.12,
+            "end": 188.86,
+            "label": "break"
+        },
+        {
+            "start": 188.86,
+            "end": 206.56,
+            "label": "drop"
+        },
+        {
+            "start": 206.56,
+            "end": 220.32999999999998,
+            "label": "break"
+        },
+        {
+            "start": 220.32999999999998,
+            "end": 243.93,
+            "label": "drop"
+        },
+        {
+            "start": 243.93,
+            "end": 267.54,
+            "label": "drop"
+        },
+        {
+            "start": 267.54,
+            "end": 283.27,
+            "label": "drop"
+        },
+        {
+            "start": 283.27,
+            "end": 299.01,
+            "label": "outro"
+        },
+        {
+            "start": 299.01,
+            "end": 314.75,
+            "label": "outro"
+        },
+        {
+            "start": 314.75,
+            "end": 318.69,
+            "label": "outro"
+        }
+    ]
+}

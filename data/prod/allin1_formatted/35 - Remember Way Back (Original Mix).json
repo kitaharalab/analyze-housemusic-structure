@@ -1,0 +1,125 @@
+{
+    "path": "../data/prod/allin1_4_read/35 - Remember Way Back (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.25,
+            "label": "intro"
+        },
+        {
+            "start": 0.25,
+            "end": 15.85,
+            "label": "intro"
+        },
+        {
+            "start": 15.85,
+            "end": 31.46,
+            "label": "intro"
+        },
+        {
+            "start": 31.46,
+            "end": 47.07,
+            "label": "intro"
+        },
+        {
+            "start": 47.07,
+            "end": 62.69,
+            "label": "intro"
+        },
+        {
+            "start": 62.69,
+            "end": 93.9,
+            "label": "drop"
+        },
+        {
+            "start": 93.9,
+            "end": 109.50999999999999,
+            "label": "break"
+        },
+        {
+            "start": 109.50999999999999,
+            "end": 125.13,
+            "label": "break"
+        },
+        {
+            "start": 125.13,
+            "end": 140.73,
+            "label": "drop"
+        },
+        {
+            "start": 140.73,
+            "end": 156.34,
+            "label": "drop"
+        },
+        {
+            "start": 156.34,
+            "end": 171.95,
+            "label": "drop"
+        },
+        {
+            "start": 171.95,
+            "end": 187.56,
+            "label": "drop"
+        },
+        {
+            "start": 187.56,
+            "end": 203.17000000000002,
+            "label": "break"
+        },
+        {
+            "start": 203.17000000000002,
+            "end": 218.78,
+            "label": "break"
+        },
+        {
+            "start": 218.78,
+            "end": 234.39,
+            "label": "break"
+        },
+        {
+            "start": 234.39,
+            "end": 250.01,
+            "label": "break"
+        },
+        {
+            "start": 250.01,
+            "end": 281.22,
+            "label": "drop"
+        },
+        {
+            "start": 281.22,
+            "end": 296.83,
+            "label": "drop"
+        },
+        {
+            "start": 296.83,
+            "end": 312.44,
+            "label": "drop"
+        },
+        {
+            "start": 312.44,
+            "end": 328.05,
+            "label": "drop"
+        },
+        {
+            "start": 328.05,
+            "end": 343.65999999999997,
+            "label": "drop"
+        },
+        {
+            "start": 343.65999999999997,
+            "end": 359.26,
+            "label": "outro"
+        },
+        {
+            "start": 359.26,
+            "end": 374.89,
+            "label": "outro"
+        },
+        {
+            "start": 374.89,
+            "end": 380.77,
+            "label": "outro"
+        }
+    ]
+}

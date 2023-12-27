@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/13 - You Make Me Feel Mighty Real (Don Carlos Club Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.19,
+            "label": "intro"
+        },
+        {
+            "start": 0.19,
+            "end": 15.06,
+            "label": "intro"
+        },
+        {
+            "start": 15.06,
+            "end": 52.25,
+            "label": "drop"
+        },
+        {
+            "start": 52.25,
+            "end": 74.56,
+            "label": "break"
+        },
+        {
+            "start": 74.56,
+            "end": 89.43,
+            "label": "break"
+        },
+        {
+            "start": 89.43,
+            "end": 104.3,
+            "label": "break"
+        },
+        {
+            "start": 104.3,
+            "end": 122.89,
+            "label": "drop"
+        },
+        {
+            "start": 122.89,
+            "end": 145.2,
+            "label": "break"
+        },
+        {
+            "start": 145.2,
+            "end": 159.61,
+            "label": "drop"
+        },
+        {
+            "start": 159.61,
+            "end": 174.94,
+            "label": "break"
+        },
+        {
+            "start": 174.94,
+            "end": 197.25,
+            "label": "drop"
+        },
+        {
+            "start": 197.25,
+            "end": 212.13,
+            "label": "drop"
+        },
+        {
+            "start": 212.13,
+            "end": 227.0,
+            "label": "drop"
+        },
+        {
+            "start": 227.0,
+            "end": 241.86,
+            "label": "break"
+        },
+        {
+            "start": 241.86,
+            "end": 256.74,
+            "label": "break"
+        },
+        {
+            "start": 256.74,
+            "end": 271.61,
+            "label": "drop"
+        },
+        {
+            "start": 271.61,
+            "end": 286.49,
+            "label": "drop"
+        },
+        {
+            "start": 286.49,
+            "end": 301.36,
+            "label": "drop"
+        },
+        {
+            "start": 301.36,
+            "end": 319.95,
+            "label": "drop"
+        },
+        {
+            "start": 319.95,
+            "end": 334.82,
+            "label": "drop"
+        },
+        {
+            "start": 334.82,
+            "end": 349.69,
+            "label": "outro"
+        },
+        {
+            "start": 349.69,
+            "end": 365.25,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "path": "../data/prod/allin1_4_read/12 - Reach 4 The Sky (Henry St. Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.01,
+            "label": "intro"
+        },
+        {
+            "start": 0.01,
+            "end": 20.25,
+            "label": "intro"
+        },
+        {
+            "start": 20.25,
+            "end": 43.32,
+            "label": "drop"
+        },
+        {
+            "start": 43.32,
+            "end": 61.58,
+            "label": "drop"
+        },
+        {
+            "start": 61.58,
+            "end": 76.96000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 76.96000000000001,
+            "end": 92.33,
+            "label": "drop"
+        },
+        {
+            "start": 92.33,
+            "end": 107.7,
+            "label": "break"
+        },
+        {
+            "start": 107.7,
+            "end": 123.06,
+            "label": "break"
+        },
+        {
+            "start": 123.06,
+            "end": 138.43,
+            "label": "drop"
+        },
+        {
+            "start": 138.43,
+            "end": 169.16,
+            "label": "drop"
+        },
+        {
+            "start": 169.16,
+            "end": 199.89,
+            "label": "break"
+        },
+        {
+            "start": 199.89,
+            "end": 230.64,
+            "label": "drop"
+        },
+        {
+            "start": 230.64,
+            "end": 246.01,
+            "label": "drop"
+        },
+        {
+            "start": 246.01,
+            "end": 261.33,
+            "label": "break"
+        },
+        {
+            "start": 261.33,
+            "end": 276.63,
+            "label": "break"
+        },
+        {
+            "start": 276.63,
+            "end": 292.01,
+            "label": "break"
+        },
+        {
+            "start": 292.01,
+            "end": 307.38,
+            "label": "break"
+        },
+        {
+            "start": 307.38,
+            "end": 322.76,
+            "label": "drop"
+        },
+        {
+            "start": 322.76,
+            "end": 338.14,
+            "label": "drop"
+        },
+        {
+            "start": 338.14,
+            "end": 368.9,
+            "label": "drop"
+        },
+        {
+            "start": 368.9,
+            "end": 379.3,
+            "label": "outro"
+        }
+    ]
+}

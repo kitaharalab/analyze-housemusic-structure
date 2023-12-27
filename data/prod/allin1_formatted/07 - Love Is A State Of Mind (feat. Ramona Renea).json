@@ -1,0 +1,70 @@
+{
+    "path": "../data/prod/allin1_4_read/07 - Love Is A State Of Mind (feat. Ramona Renea).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 15.37,
+            "label": "break"
+        },
+        {
+            "start": 15.37,
+            "end": 32.66,
+            "label": "drop"
+        },
+        {
+            "start": 32.66,
+            "end": 48.01,
+            "label": "drop"
+        },
+        {
+            "start": 48.01,
+            "end": 63.38,
+            "label": "break"
+        },
+        {
+            "start": 63.38,
+            "end": 78.74,
+            "label": "drop"
+        },
+        {
+            "start": 78.74,
+            "end": 93.61,
+            "label": "drop"
+        },
+        {
+            "start": 93.61,
+            "end": 109.46000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 109.46000000000001,
+            "end": 132.5,
+            "label": "drop"
+        },
+        {
+            "start": 132.5,
+            "end": 159.38,
+            "label": "drop"
+        },
+        {
+            "start": 159.38,
+            "end": 174.74,
+            "label": "break"
+        },
+        {
+            "start": 174.74,
+            "end": 188.17,
+            "label": "drop"
+        },
+        {
+            "start": 188.17,
+            "end": 193.86,
+            "label": "outro"
+        }
+    ]
+}

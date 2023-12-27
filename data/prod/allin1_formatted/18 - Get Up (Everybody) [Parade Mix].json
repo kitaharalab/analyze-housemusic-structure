@@ -1,0 +1,105 @@
+{
+    "path": "../data/prod/allin1_4_read/18 - Get Up (Everybody) [Parade Mix].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.05,
+            "label": "intro"
+        },
+        {
+            "start": 0.05,
+            "end": 22.89,
+            "label": "intro"
+        },
+        {
+            "start": 22.89,
+            "end": 45.75,
+            "label": "drop"
+        },
+        {
+            "start": 45.75,
+            "end": 78.14,
+            "label": "drop"
+        },
+        {
+            "start": 78.14,
+            "end": 108.62,
+            "label": "drop"
+        },
+        {
+            "start": 108.62,
+            "end": 150.53,
+            "label": "drop"
+        },
+        {
+            "start": 150.53,
+            "end": 181.02,
+            "label": "drop"
+        },
+        {
+            "start": 181.02,
+            "end": 219.13,
+            "label": "drop"
+        },
+        {
+            "start": 219.13,
+            "end": 234.37,
+            "label": "drop"
+        },
+        {
+            "start": 234.37,
+            "end": 257.23,
+            "label": "drop"
+        },
+        {
+            "start": 257.23,
+            "end": 273.43,
+            "label": "drop"
+        },
+        {
+            "start": 273.43,
+            "end": 292.0,
+            "label": "drop"
+        },
+        {
+            "start": 292.0,
+            "end": 312.48,
+            "label": "drop"
+        },
+        {
+            "start": 312.48,
+            "end": 326.29,
+            "label": "drop"
+        },
+        {
+            "start": 326.29,
+            "end": 346.77,
+            "label": "drop"
+        },
+        {
+            "start": 346.77,
+            "end": 362.02,
+            "label": "drop"
+        },
+        {
+            "start": 362.02,
+            "end": 398.21,
+            "label": "drop"
+        },
+        {
+            "start": 398.21,
+            "end": 413.45,
+            "label": "drop"
+        },
+        {
+            "start": 413.45,
+            "end": 435.37,
+            "label": "outro"
+        },
+        {
+            "start": 435.37,
+            "end": 436.73,
+            "label": "outro"
+        }
+    ]
+}

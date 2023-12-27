@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/Astro Swae - BEST OF 2022 - 03 The Funk Of Haus.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 31.99,
+            "label": "intro"
+        },
+        {
+            "start": 31.99,
+            "end": 48.99,
+            "label": "break"
+        },
+        {
+            "start": 48.99,
+            "end": 71.99,
+            "label": "break"
+        },
+        {
+            "start": 71.99,
+            "end": 87.99,
+            "label": "drop"
+        },
+        {
+            "start": 87.99,
+            "end": 103.99000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 103.99000000000001,
+            "end": 120.0,
+            "label": "drop"
+        },
+        {
+            "start": 120.0,
+            "end": 136.0,
+            "label": "break"
+        },
+        {
+            "start": 136.0,
+            "end": 152.0,
+            "label": "break"
+        },
+        {
+            "start": 152.0,
+            "end": 176.0,
+            "label": "drop"
+        },
+        {
+            "start": 176.0,
+            "end": 192.0,
+            "label": "drop"
+        },
+        {
+            "start": 192.0,
+            "end": 208.0,
+            "label": "drop"
+        },
+        {
+            "start": 208.0,
+            "end": 224.0,
+            "label": "drop"
+        },
+        {
+            "start": 224.0,
+            "end": 240.0,
+            "label": "break"
+        },
+        {
+            "start": 240.0,
+            "end": 263.99,
+            "label": "break"
+        },
+        {
+            "start": 263.99,
+            "end": 280.0,
+            "label": "break"
+        },
+        {
+            "start": 280.0,
+            "end": 295.99,
+            "label": "break"
+        },
+        {
+            "start": 295.99,
+            "end": 312.0,
+            "label": "break"
+        },
+        {
+            "start": 312.0,
+            "end": 327.99,
+            "label": "drop"
+        },
+        {
+            "start": 327.99,
+            "end": 343.99,
+            "label": "drop"
+        },
+        {
+            "start": 343.99,
+            "end": 359.99,
+            "label": "drop"
+        },
+        {
+            "start": 359.99,
+            "end": 376.0,
+            "label": "outro"
+        },
+        {
+            "start": 376.0,
+            "end": 391.99,
+            "label": "outro"
+        },
+        {
+            "start": 391.99,
+            "end": 392.0,
+            "label": "outro"
+        }
+    ]
+}

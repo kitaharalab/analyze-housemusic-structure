@@ -1,0 +1,125 @@
+{
+    "path": "../data/prod/allin1_4_read/16 - Needin_ U (Dimitri From Paris Remix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.15,
+            "label": "intro"
+        },
+        {
+            "start": 0.15,
+            "end": 17.43,
+            "label": "intro"
+        },
+        {
+            "start": 17.43,
+            "end": 32.79,
+            "label": "intro"
+        },
+        {
+            "start": 32.79,
+            "end": 48.15,
+            "label": "drop"
+        },
+        {
+            "start": 48.15,
+            "end": 63.51,
+            "label": "break"
+        },
+        {
+            "start": 63.51,
+            "end": 94.22999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 94.22999999999999,
+            "end": 109.59,
+            "label": "break"
+        },
+        {
+            "start": 109.59,
+            "end": 124.95,
+            "label": "break"
+        },
+        {
+            "start": 124.95,
+            "end": 140.31,
+            "label": "break"
+        },
+        {
+            "start": 140.31,
+            "end": 155.67000000000002,
+            "label": "break"
+        },
+        {
+            "start": 155.67000000000002,
+            "end": 171.03,
+            "label": "break"
+        },
+        {
+            "start": 171.03,
+            "end": 186.39,
+            "label": "drop"
+        },
+        {
+            "start": 186.39,
+            "end": 217.11,
+            "label": "break"
+        },
+        {
+            "start": 217.11,
+            "end": 232.48,
+            "label": "drop"
+        },
+        {
+            "start": 232.48,
+            "end": 245.94,
+            "label": "drop"
+        },
+        {
+            "start": 245.94,
+            "end": 266.8,
+            "label": "break"
+        },
+        {
+            "start": 266.8,
+            "end": 290.08,
+            "label": "break"
+        },
+        {
+            "start": 290.08,
+            "end": 305.44,
+            "label": "drop"
+        },
+        {
+            "start": 305.44,
+            "end": 320.79,
+            "label": "drop"
+        },
+        {
+            "start": 320.79,
+            "end": 336.15999999999997,
+            "label": "drop"
+        },
+        {
+            "start": 336.15999999999997,
+            "end": 351.51,
+            "label": "break"
+        },
+        {
+            "start": 351.51,
+            "end": 366.86,
+            "label": "outro"
+        },
+        {
+            "start": 366.86,
+            "end": 382.22,
+            "label": "outro"
+        },
+        {
+            "start": 382.22,
+            "end": 385.22,
+            "label": "outro"
+        }
+    ]
+}

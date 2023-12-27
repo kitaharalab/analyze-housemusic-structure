@@ -1,0 +1,70 @@
+{
+    "path": "../data/prod/allin1_4_read/06 - Calabria (Claptone Remix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 15.49,
+            "label": "intro"
+        },
+        {
+            "start": 15.49,
+            "end": 31.95,
+            "label": "drop"
+        },
+        {
+            "start": 31.95,
+            "end": 46.46,
+            "label": "drop"
+        },
+        {
+            "start": 46.46,
+            "end": 61.95,
+            "label": "break"
+        },
+        {
+            "start": 61.95,
+            "end": 77.43,
+            "label": "drop"
+        },
+        {
+            "start": 77.43,
+            "end": 92.92,
+            "label": "drop"
+        },
+        {
+            "start": 92.92,
+            "end": 108.4,
+            "label": "break"
+        },
+        {
+            "start": 108.4,
+            "end": 123.89,
+            "label": "break"
+        },
+        {
+            "start": 123.89,
+            "end": 139.37,
+            "label": "drop"
+        },
+        {
+            "start": 139.37,
+            "end": 154.84,
+            "label": "drop"
+        },
+        {
+            "start": 154.84,
+            "end": 170.35,
+            "label": "drop"
+        },
+        {
+            "start": 170.35,
+            "end": 171.32,
+            "label": "outro"
+        }
+    ]
+}

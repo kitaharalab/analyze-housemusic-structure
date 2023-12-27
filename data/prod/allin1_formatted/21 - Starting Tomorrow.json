@@ -1,0 +1,95 @@
+{
+    "path": "../data/prod/allin1_4_read/21 - Starting Tomorrow.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.2,
+            "label": "intro"
+        },
+        {
+            "start": 0.2,
+            "end": 31.17,
+            "label": "intro"
+        },
+        {
+            "start": 31.17,
+            "end": 46.66,
+            "label": "intro"
+        },
+        {
+            "start": 46.66,
+            "end": 77.63,
+            "label": "drop"
+        },
+        {
+            "start": 77.63,
+            "end": 108.59,
+            "label": "drop"
+        },
+        {
+            "start": 108.59,
+            "end": 131.82,
+            "label": "break"
+        },
+        {
+            "start": 131.82,
+            "end": 147.3,
+            "label": "break"
+        },
+        {
+            "start": 147.3,
+            "end": 170.53,
+            "label": "drop"
+        },
+        {
+            "start": 170.53,
+            "end": 186.01,
+            "label": "drop"
+        },
+        {
+            "start": 186.01,
+            "end": 220.85,
+            "label": "drop"
+        },
+        {
+            "start": 220.85,
+            "end": 236.32999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 236.32999999999998,
+            "end": 251.81,
+            "label": "break"
+        },
+        {
+            "start": 251.81,
+            "end": 271.17,
+            "label": "drop"
+        },
+        {
+            "start": 271.17,
+            "end": 286.65999999999997,
+            "label": "drop"
+        },
+        {
+            "start": 286.65999999999997,
+            "end": 302.14,
+            "label": "drop"
+        },
+        {
+            "start": 302.14,
+            "end": 351.49,
+            "label": "drop"
+        },
+        {
+            "start": 351.49,
+            "end": 366.97,
+            "label": "outro"
+        },
+        {
+            "start": 366.97,
+            "end": 368.73,
+            "label": "outro"
+        }
+    ]
+}

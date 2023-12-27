@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/24 - Bubieno (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.07,
+            "label": "intro"
+        },
+        {
+            "start": 0.07,
+            "end": 16.17,
+            "label": "intro"
+        },
+        {
+            "start": 16.17,
+            "end": 31.29,
+            "label": "break"
+        },
+        {
+            "start": 31.29,
+            "end": 62.51,
+            "label": "break"
+        },
+        {
+            "start": 62.51,
+            "end": 84.95,
+            "label": "drop"
+        },
+        {
+            "start": 84.95,
+            "end": 109.35,
+            "label": "break"
+        },
+        {
+            "start": 109.35,
+            "end": 124.95,
+            "label": "break"
+        },
+        {
+            "start": 124.95,
+            "end": 140.56,
+            "label": "drop"
+        },
+        {
+            "start": 140.56,
+            "end": 160.07999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 160.07999999999998,
+            "end": 175.69,
+            "label": "break"
+        },
+        {
+            "start": 175.69,
+            "end": 188.36,
+            "label": "break"
+        },
+        {
+            "start": 188.36,
+            "end": 206.42000000000002,
+            "label": "break"
+        },
+        {
+            "start": 206.42000000000002,
+            "end": 225.93,
+            "label": "break"
+        },
+        {
+            "start": 225.93,
+            "end": 238.12,
+            "label": "break"
+        },
+        {
+            "start": 238.12,
+            "end": 253.73,
+            "label": "break"
+        },
+        {
+            "start": 253.73,
+            "end": 269.35,
+            "label": "drop"
+        },
+        {
+            "start": 269.35,
+            "end": 284.95,
+            "label": "drop"
+        },
+        {
+            "start": 284.95,
+            "end": 300.56,
+            "label": "drop"
+        },
+        {
+            "start": 300.56,
+            "end": 316.17,
+            "label": "drop"
+        },
+        {
+            "start": 316.17,
+            "end": 331.78,
+            "label": "drop"
+        },
+        {
+            "start": 331.78,
+            "end": 378.62,
+            "label": "outro"
+        },
+        {
+            "start": 378.62,
+            "end": 379.12,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "path": "../data/prod/allin1_4_read/13 - The Word Is Love (feat. Sharon Pass) [Silk_s Original Mix Of Life].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 28.94,
+            "label": "intro"
+        },
+        {
+            "start": 28.94,
+            "end": 50.63,
+            "label": "intro"
+        },
+        {
+            "start": 50.63,
+            "end": 71.36,
+            "label": "break"
+        },
+        {
+            "start": 71.36,
+            "end": 86.76,
+            "label": "drop"
+        },
+        {
+            "start": 86.76,
+            "end": 102.18,
+            "label": "drop"
+        },
+        {
+            "start": 102.18,
+            "end": 119.52000000000001,
+            "label": "break"
+        },
+        {
+            "start": 119.52000000000001,
+            "end": 140.73,
+            "label": "drop"
+        },
+        {
+            "start": 140.73,
+            "end": 156.15,
+            "label": "drop"
+        },
+        {
+            "start": 156.15,
+            "end": 171.57,
+            "label": "break"
+        },
+        {
+            "start": 171.57,
+            "end": 186.99,
+            "label": "drop"
+        },
+        {
+            "start": 186.99,
+            "end": 210.12,
+            "label": "drop"
+        },
+        {
+            "start": 210.12,
+            "end": 233.25,
+            "label": "break"
+        },
+        {
+            "start": 233.25,
+            "end": 264.1,
+            "label": "drop"
+        },
+        {
+            "start": 264.1,
+            "end": 279.52,
+            "label": "break"
+        },
+        {
+            "start": 279.52,
+            "end": 294.94,
+            "label": "break"
+        },
+        {
+            "start": 294.94,
+            "end": 310.35,
+            "label": "drop"
+        },
+        {
+            "start": 310.35,
+            "end": 325.76,
+            "label": "drop"
+        },
+        {
+            "start": 325.76,
+            "end": 356.61,
+            "label": "outro"
+        },
+        {
+            "start": 356.61,
+            "end": 359.34000000000003,
+            "label": "outro"
+        }
+    ]
+}

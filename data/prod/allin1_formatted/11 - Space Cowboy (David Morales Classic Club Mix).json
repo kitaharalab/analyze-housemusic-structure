@@ -1,0 +1,140 @@
+{
+    "path": "../data/prod/allin1_4_read/11 - Space Cowboy (David Morales Classic Club Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.04,
+            "label": "intro"
+        },
+        {
+            "start": 0.04,
+            "end": 16.2,
+            "label": "intro"
+        },
+        {
+            "start": 16.2,
+            "end": 32.38,
+            "label": "intro"
+        },
+        {
+            "start": 32.38,
+            "end": 48.55,
+            "label": "intro"
+        },
+        {
+            "start": 48.55,
+            "end": 64.71,
+            "label": "intro"
+        },
+        {
+            "start": 64.71,
+            "end": 80.88,
+            "label": "intro"
+        },
+        {
+            "start": 80.88,
+            "end": 105.13,
+            "label": "break"
+        },
+        {
+            "start": 105.13,
+            "end": 120.78,
+            "label": "drop"
+        },
+        {
+            "start": 120.78,
+            "end": 144.53,
+            "label": "break"
+        },
+        {
+            "start": 144.53,
+            "end": 161.71,
+            "label": "drop"
+        },
+        {
+            "start": 161.71,
+            "end": 201.12,
+            "label": "drop"
+        },
+        {
+            "start": 201.12,
+            "end": 234.46,
+            "label": "drop"
+        },
+        {
+            "start": 234.46,
+            "end": 250.63,
+            "label": "drop"
+        },
+        {
+            "start": 250.63,
+            "end": 266.8,
+            "label": "drop"
+        },
+        {
+            "start": 266.8,
+            "end": 282.97,
+            "label": "drop"
+        },
+        {
+            "start": 282.97,
+            "end": 299.13,
+            "label": "break"
+        },
+        {
+            "start": 299.13,
+            "end": 314.29,
+            "label": "drop"
+        },
+        {
+            "start": 314.29,
+            "end": 331.47,
+            "label": "drop"
+        },
+        {
+            "start": 331.47,
+            "end": 347.63,
+            "label": "break"
+        },
+        {
+            "start": 347.63,
+            "end": 363.8,
+            "label": "break"
+        },
+        {
+            "start": 363.8,
+            "end": 379.97,
+            "label": "drop"
+        },
+        {
+            "start": 379.97,
+            "end": 395.13,
+            "label": "break"
+        },
+        {
+            "start": 395.13,
+            "end": 411.29,
+            "label": "drop"
+        },
+        {
+            "start": 411.29,
+            "end": 428.48,
+            "label": "drop"
+        },
+        {
+            "start": 428.48,
+            "end": 444.64,
+            "label": "drop"
+        },
+        {
+            "start": 444.64,
+            "end": 460.81,
+            "label": "outro"
+        },
+        {
+            "start": 460.81,
+            "end": 468.84000000000003,
+            "label": "outro"
+        }
+    ]
+}

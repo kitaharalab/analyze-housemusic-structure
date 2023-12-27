@@ -1,0 +1,95 @@
+{
+    "path": "../data/prod/allin1_4_read/07 - International City.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.04,
+            "label": "intro"
+        },
+        {
+            "start": 0.04,
+            "end": 15.65,
+            "label": "intro"
+        },
+        {
+            "start": 15.65,
+            "end": 31.26,
+            "label": "intro"
+        },
+        {
+            "start": 31.26,
+            "end": 46.87,
+            "label": "intro"
+        },
+        {
+            "start": 46.87,
+            "end": 62.48,
+            "label": "drop"
+        },
+        {
+            "start": 62.48,
+            "end": 78.09,
+            "label": "drop"
+        },
+        {
+            "start": 78.09,
+            "end": 93.7,
+            "label": "drop"
+        },
+        {
+            "start": 93.7,
+            "end": 108.34,
+            "label": "break"
+        },
+        {
+            "start": 108.34,
+            "end": 124.92,
+            "label": "break"
+        },
+        {
+            "start": 124.92,
+            "end": 140.52,
+            "label": "drop"
+        },
+        {
+            "start": 140.52,
+            "end": 156.14,
+            "label": "drop"
+        },
+        {
+            "start": 156.14,
+            "end": 187.35,
+            "label": "drop"
+        },
+        {
+            "start": 187.35,
+            "end": 202.96,
+            "label": "break"
+        },
+        {
+            "start": 202.96,
+            "end": 218.57999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 218.57999999999998,
+            "end": 234.18,
+            "label": "drop"
+        },
+        {
+            "start": 234.18,
+            "end": 265.4,
+            "label": "outro"
+        },
+        {
+            "start": 265.4,
+            "end": 281.03,
+            "label": "outro"
+        },
+        {
+            "start": 281.03,
+            "end": 281.42,
+            "label": "outro"
+        }
+    ]
+}

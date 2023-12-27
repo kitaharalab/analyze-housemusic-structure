@@ -1,0 +1,110 @@
+{
+    "path": "../data/prod/allin1_4_read/02 - Lonely (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 15.48,
+            "label": "intro"
+        },
+        {
+            "start": 15.48,
+            "end": 30.97,
+            "label": "intro"
+        },
+        {
+            "start": 30.97,
+            "end": 46.45,
+            "label": "intro"
+        },
+        {
+            "start": 46.45,
+            "end": 61.93,
+            "label": "intro"
+        },
+        {
+            "start": 61.93,
+            "end": 77.42,
+            "label": "break"
+        },
+        {
+            "start": 77.42,
+            "end": 92.91,
+            "label": "break"
+        },
+        {
+            "start": 92.91,
+            "end": 108.39,
+            "label": "break"
+        },
+        {
+            "start": 108.39,
+            "end": 123.87,
+            "label": "break"
+        },
+        {
+            "start": 123.87,
+            "end": 139.35,
+            "label": "drop"
+        },
+        {
+            "start": 139.35,
+            "end": 154.84,
+            "label": "drop"
+        },
+        {
+            "start": 154.84,
+            "end": 170.8,
+            "label": "break"
+        },
+        {
+            "start": 170.8,
+            "end": 189.68,
+            "label": "break"
+        },
+        {
+            "start": 189.68,
+            "end": 224.52,
+            "label": "drop"
+        },
+        {
+            "start": 224.52,
+            "end": 241.93,
+            "label": "drop"
+        },
+        {
+            "start": 241.93,
+            "end": 255.48,
+            "label": "drop"
+        },
+        {
+            "start": 255.48,
+            "end": 270.97,
+            "label": "outro"
+        },
+        {
+            "start": 270.97,
+            "end": 286.45,
+            "label": "outro"
+        },
+        {
+            "start": 286.45,
+            "end": 301.94,
+            "label": "outro"
+        },
+        {
+            "start": 301.94,
+            "end": 315.47,
+            "label": "outro"
+        },
+        {
+            "start": 315.47,
+            "end": 332.90999999999997,
+            "label": "outro"
+        },
+        {
+            "start": 332.90999999999997,
+            "end": 333.88,
+            "label": "outro"
+        }
+    ]
+}

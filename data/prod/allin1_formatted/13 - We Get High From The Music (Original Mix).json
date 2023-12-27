@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/13 - We Get High From The Music (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.48,
+            "label": "intro"
+        },
+        {
+            "start": 0.48,
+            "end": 17.2,
+            "label": "intro"
+        },
+        {
+            "start": 17.2,
+            "end": 31.95,
+            "label": "intro"
+        },
+        {
+            "start": 31.95,
+            "end": 48.67,
+            "label": "intro"
+        },
+        {
+            "start": 48.67,
+            "end": 68.35,
+            "label": "intro"
+        },
+        {
+            "start": 68.35,
+            "end": 94.91,
+            "label": "intro"
+        },
+        {
+            "start": 94.91,
+            "end": 110.64,
+            "label": "drop"
+        },
+        {
+            "start": 110.64,
+            "end": 126.38,
+            "label": "drop"
+        },
+        {
+            "start": 126.38,
+            "end": 145.07,
+            "label": "drop"
+        },
+        {
+            "start": 145.07,
+            "end": 158.84,
+            "label": "break"
+        },
+        {
+            "start": 158.84,
+            "end": 173.6,
+            "label": "drop"
+        },
+        {
+            "start": 173.6,
+            "end": 188.35,
+            "label": "drop"
+        },
+        {
+            "start": 188.35,
+            "end": 206.05,
+            "label": "break"
+        },
+        {
+            "start": 206.05,
+            "end": 236.54,
+            "label": "break"
+        },
+        {
+            "start": 236.54,
+            "end": 252.28,
+            "label": "drop"
+        },
+        {
+            "start": 252.28,
+            "end": 268.01,
+            "label": "drop"
+        },
+        {
+            "start": 268.01,
+            "end": 283.76,
+            "label": "break"
+        },
+        {
+            "start": 283.76,
+            "end": 300.48,
+            "label": "drop"
+        },
+        {
+            "start": 300.48,
+            "end": 315.23,
+            "label": "drop"
+        },
+        {
+            "start": 315.23,
+            "end": 331.95,
+            "label": "outro"
+        },
+        {
+            "start": 331.95,
+            "end": 346.7,
+            "label": "outro"
+        },
+        {
+            "start": 346.7,
+            "end": 350.67,
+            "label": "outro"
+        }
+    ]
+}

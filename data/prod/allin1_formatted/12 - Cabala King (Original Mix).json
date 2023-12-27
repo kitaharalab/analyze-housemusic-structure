@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/12 - Cabala King (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.36,
+            "label": "intro"
+        },
+        {
+            "start": 0.36,
+            "end": 15.85,
+            "label": "intro"
+        },
+        {
+            "start": 15.85,
+            "end": 31.33,
+            "label": "intro"
+        },
+        {
+            "start": 31.33,
+            "end": 46.82,
+            "label": "intro"
+        },
+        {
+            "start": 46.82,
+            "end": 62.3,
+            "label": "intro"
+        },
+        {
+            "start": 62.3,
+            "end": 77.78,
+            "label": "drop"
+        },
+        {
+            "start": 77.78,
+            "end": 93.27000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 93.27000000000001,
+            "end": 108.75,
+            "label": "drop"
+        },
+        {
+            "start": 108.75,
+            "end": 124.24,
+            "label": "drop"
+        },
+        {
+            "start": 124.24,
+            "end": 139.72,
+            "label": "break"
+        },
+        {
+            "start": 139.72,
+            "end": 155.21,
+            "label": "break"
+        },
+        {
+            "start": 155.21,
+            "end": 178.43,
+            "label": "drop"
+        },
+        {
+            "start": 178.43,
+            "end": 193.91,
+            "label": "drop"
+        },
+        {
+            "start": 193.91,
+            "end": 217.15,
+            "label": "drop"
+        },
+        {
+            "start": 217.15,
+            "end": 232.63,
+            "label": "break"
+        },
+        {
+            "start": 232.63,
+            "end": 263.59,
+            "label": "break"
+        },
+        {
+            "start": 263.59,
+            "end": 286.82,
+            "label": "drop"
+        },
+        {
+            "start": 286.82,
+            "end": 310.04,
+            "label": "drop"
+        },
+        {
+            "start": 310.04,
+            "end": 325.53,
+            "label": "drop"
+        },
+        {
+            "start": 325.53,
+            "end": 341.01,
+            "label": "drop"
+        },
+        {
+            "start": 341.01,
+            "end": 356.49,
+            "label": "drop"
+        },
+        {
+            "start": 356.49,
+            "end": 371.99,
+            "label": "drop"
+        },
+        {
+            "start": 371.99,
+            "end": 372.54,
+            "label": "outro"
+        }
+    ]
+}

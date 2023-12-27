@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/16 - Feeling U (feat. Yasmin) [David Morales Remix].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.01,
+            "label": "intro"
+        },
+        {
+            "start": 0.01,
+            "end": 15.75,
+            "label": "intro"
+        },
+        {
+            "start": 15.75,
+            "end": 31.49,
+            "label": "intro"
+        },
+        {
+            "start": 31.49,
+            "end": 47.22,
+            "label": "intro"
+        },
+        {
+            "start": 47.22,
+            "end": 62.97,
+            "label": "break"
+        },
+        {
+            "start": 62.97,
+            "end": 78.71000000000001,
+            "label": "break"
+        },
+        {
+            "start": 78.71000000000001,
+            "end": 95.42,
+            "label": "break"
+        },
+        {
+            "start": 95.42,
+            "end": 110.18,
+            "label": "break"
+        },
+        {
+            "start": 110.18,
+            "end": 125.91,
+            "label": "drop"
+        },
+        {
+            "start": 125.91,
+            "end": 141.66,
+            "label": "drop"
+        },
+        {
+            "start": 141.66,
+            "end": 157.39,
+            "label": "break"
+        },
+        {
+            "start": 157.39,
+            "end": 173.13,
+            "label": "drop"
+        },
+        {
+            "start": 173.13,
+            "end": 188.87,
+            "label": "drop"
+        },
+        {
+            "start": 188.87,
+            "end": 220.35,
+            "label": "break"
+        },
+        {
+            "start": 220.35,
+            "end": 236.09,
+            "label": "drop"
+        },
+        {
+            "start": 236.09,
+            "end": 265.59,
+            "label": "break"
+        },
+        {
+            "start": 265.59,
+            "end": 283.3,
+            "label": "drop"
+        },
+        {
+            "start": 283.3,
+            "end": 299.04,
+            "label": "drop"
+        },
+        {
+            "start": 299.04,
+            "end": 314.77,
+            "label": "break"
+        },
+        {
+            "start": 314.77,
+            "end": 330.51,
+            "label": "break"
+        },
+        {
+            "start": 330.51,
+            "end": 346.25,
+            "label": "break"
+        },
+        {
+            "start": 346.25,
+            "end": 361.99,
+            "label": "drop"
+        },
+        {
+            "start": 361.99,
+            "end": 377.73,
+            "label": "drop"
+        },
+        {
+            "start": 377.73,
+            "end": 391.49,
+            "label": "outro"
+        },
+        {
+            "start": 391.49,
+            "end": 409.2,
+            "label": "outro"
+        },
+        {
+            "start": 409.2,
+            "end": 414.55,
+            "label": "outro"
+        }
+    ]
+}

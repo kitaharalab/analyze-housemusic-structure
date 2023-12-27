@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/29 - Do You Feel Me (City Soul Project Club Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.01,
+            "label": "intro"
+        },
+        {
+            "start": 0.01,
+            "end": 16.73,
+            "label": "intro"
+        },
+        {
+            "start": 16.73,
+            "end": 31.48,
+            "label": "intro"
+        },
+        {
+            "start": 31.48,
+            "end": 47.22,
+            "label": "intro"
+        },
+        {
+            "start": 47.22,
+            "end": 62.97,
+            "label": "break"
+        },
+        {
+            "start": 62.97,
+            "end": 78.7,
+            "label": "drop"
+        },
+        {
+            "start": 78.7,
+            "end": 94.44,
+            "label": "drop"
+        },
+        {
+            "start": 94.44,
+            "end": 110.18,
+            "label": "drop"
+        },
+        {
+            "start": 110.18,
+            "end": 125.92,
+            "label": "drop"
+        },
+        {
+            "start": 125.92,
+            "end": 141.67000000000002,
+            "label": "break"
+        },
+        {
+            "start": 141.67000000000002,
+            "end": 157.4,
+            "label": "break"
+        },
+        {
+            "start": 157.4,
+            "end": 188.87,
+            "label": "break"
+        },
+        {
+            "start": 188.87,
+            "end": 204.61,
+            "label": "drop"
+        },
+        {
+            "start": 204.61,
+            "end": 236.07999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 236.07999999999998,
+            "end": 267.56,
+            "label": "drop"
+        },
+        {
+            "start": 267.56,
+            "end": 283.3,
+            "label": "drop"
+        },
+        {
+            "start": 283.3,
+            "end": 299.04,
+            "label": "drop"
+        },
+        {
+            "start": 299.04,
+            "end": 314.77,
+            "label": "drop"
+        },
+        {
+            "start": 314.77,
+            "end": 330.51,
+            "label": "drop"
+        },
+        {
+            "start": 330.51,
+            "end": 346.25,
+            "label": "drop"
+        },
+        {
+            "start": 346.25,
+            "end": 361.98,
+            "label": "drop"
+        },
+        {
+            "start": 361.98,
+            "end": 377.72,
+            "label": "drop"
+        },
+        {
+            "start": 377.72,
+            "end": 393.45,
+            "label": "drop"
+        },
+        {
+            "start": 393.45,
+            "end": 409.19,
+            "label": "outro"
+        },
+        {
+            "start": 409.19,
+            "end": 424.92,
+            "label": "outro"
+        },
+        {
+            "start": 424.92,
+            "end": 434.19,
+            "label": "outro"
+        }
+    ]
+}

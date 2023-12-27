@@ -1,0 +1,150 @@
+{
+    "path": "../data/prod/allin1_4_read/21 - Feelin_ Love (Soulsearcher Club Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.17,
+            "label": "intro"
+        },
+        {
+            "start": 0.17,
+            "end": 15.4,
+            "label": "intro"
+        },
+        {
+            "start": 15.4,
+            "end": 30.64,
+            "label": "intro"
+        },
+        {
+            "start": 30.64,
+            "end": 45.88,
+            "label": "intro"
+        },
+        {
+            "start": 45.88,
+            "end": 61.12,
+            "label": "break"
+        },
+        {
+            "start": 61.12,
+            "end": 76.36,
+            "label": "break"
+        },
+        {
+            "start": 76.36,
+            "end": 91.12,
+            "label": "break"
+        },
+        {
+            "start": 91.12,
+            "end": 106.83,
+            "label": "break"
+        },
+        {
+            "start": 106.83,
+            "end": 122.07,
+            "label": "drop"
+        },
+        {
+            "start": 122.07,
+            "end": 144.93,
+            "label": "drop"
+        },
+        {
+            "start": 144.93,
+            "end": 159.69,
+            "label": "break"
+        },
+        {
+            "start": 159.69,
+            "end": 175.41,
+            "label": "break"
+        },
+        {
+            "start": 175.41,
+            "end": 190.64,
+            "label": "drop"
+        },
+        {
+            "start": 190.64,
+            "end": 205.88,
+            "label": "drop"
+        },
+        {
+            "start": 205.88,
+            "end": 221.12,
+            "label": "drop"
+        },
+        {
+            "start": 221.12,
+            "end": 236.35,
+            "label": "break"
+        },
+        {
+            "start": 236.35,
+            "end": 251.59,
+            "label": "break"
+        },
+        {
+            "start": 251.59,
+            "end": 266.83,
+            "label": "break"
+        },
+        {
+            "start": 266.83,
+            "end": 282.07,
+            "label": "drop"
+        },
+        {
+            "start": 282.07,
+            "end": 297.31,
+            "label": "drop"
+        },
+        {
+            "start": 297.31,
+            "end": 312.55,
+            "label": "drop"
+        },
+        {
+            "start": 312.55,
+            "end": 327.79,
+            "label": "drop"
+        },
+        {
+            "start": 327.79,
+            "end": 343.02,
+            "label": "drop"
+        },
+        {
+            "start": 343.02,
+            "end": 358.26,
+            "label": "drop"
+        },
+        {
+            "start": 358.26,
+            "end": 373.49,
+            "label": "drop"
+        },
+        {
+            "start": 373.49,
+            "end": 388.73,
+            "label": "drop"
+        },
+        {
+            "start": 388.73,
+            "end": 403.97,
+            "label": "outro"
+        },
+        {
+            "start": 403.97,
+            "end": 419.21,
+            "label": "outro"
+        },
+        {
+            "start": 419.21,
+            "end": 426.5,
+            "label": "outro"
+        }
+    ]
+}

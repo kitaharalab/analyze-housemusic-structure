@@ -1,0 +1,175 @@
+{
+    "path": "../data/prod/allin1_4_read/11 - The Way You Love Me (feat. Marc Evans).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.04,
+            "label": "intro"
+        },
+        {
+            "start": 0.04,
+            "end": 15.28,
+            "label": "intro"
+        },
+        {
+            "start": 15.28,
+            "end": 30.51,
+            "label": "intro"
+        },
+        {
+            "start": 30.51,
+            "end": 45.75,
+            "label": "break"
+        },
+        {
+            "start": 45.75,
+            "end": 60.99,
+            "label": "break"
+        },
+        {
+            "start": 60.99,
+            "end": 76.23,
+            "label": "drop"
+        },
+        {
+            "start": 76.23,
+            "end": 91.47,
+            "label": "drop"
+        },
+        {
+            "start": 91.47,
+            "end": 106.7,
+            "label": "drop"
+        },
+        {
+            "start": 106.7,
+            "end": 121.94,
+            "label": "drop"
+        },
+        {
+            "start": 121.94,
+            "end": 137.18,
+            "label": "drop"
+        },
+        {
+            "start": 137.18,
+            "end": 152.42000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 152.42000000000002,
+            "end": 168.61,
+            "label": "drop"
+        },
+        {
+            "start": 168.61,
+            "end": 182.89,
+            "label": "drop"
+        },
+        {
+            "start": 182.89,
+            "end": 213.37,
+            "label": "drop"
+        },
+        {
+            "start": 213.37,
+            "end": 228.6,
+            "label": "break"
+        },
+        {
+            "start": 228.6,
+            "end": 243.84,
+            "label": "break"
+        },
+        {
+            "start": 243.84,
+            "end": 259.08,
+            "label": "break"
+        },
+        {
+            "start": 259.08,
+            "end": 274.32,
+            "label": "break"
+        },
+        {
+            "start": 274.32,
+            "end": 289.56,
+            "label": "break"
+        },
+        {
+            "start": 289.56,
+            "end": 304.8,
+            "label": "drop"
+        },
+        {
+            "start": 304.8,
+            "end": 320.03,
+            "label": "drop"
+        },
+        {
+            "start": 320.03,
+            "end": 335.27,
+            "label": "drop"
+        },
+        {
+            "start": 335.27,
+            "end": 365.75,
+            "label": "drop"
+        },
+        {
+            "start": 365.75,
+            "end": 380.98,
+            "label": "drop"
+        },
+        {
+            "start": 380.98,
+            "end": 396.22,
+            "label": "drop"
+        },
+        {
+            "start": 396.22,
+            "end": 411.46,
+            "label": "break"
+        },
+        {
+            "start": 411.46,
+            "end": 426.7,
+            "label": "break"
+        },
+        {
+            "start": 426.7,
+            "end": 441.93,
+            "label": "drop"
+        },
+        {
+            "start": 441.93,
+            "end": 457.17,
+            "label": "drop"
+        },
+        {
+            "start": 457.17,
+            "end": 472.40999999999997,
+            "label": "drop"
+        },
+        {
+            "start": 472.40999999999997,
+            "end": 487.64,
+            "label": "drop"
+        },
+        {
+            "start": 487.64,
+            "end": 502.88,
+            "label": "outro"
+        },
+        {
+            "start": 502.88,
+            "end": 518.13,
+            "label": "outro"
+        },
+        {
+            "start": 518.13,
+            "end": 521.48,
+            "label": "outro"
+        }
+    ]
+}

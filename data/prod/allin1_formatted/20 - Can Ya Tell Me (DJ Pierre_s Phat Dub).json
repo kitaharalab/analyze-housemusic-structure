@@ -1,0 +1,80 @@
+{
+    "path": "../data/prod/allin1_4_read/20 - Can Ya Tell Me (DJ Pierre_s Phat Dub).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.07,
+            "label": "intro"
+        },
+        {
+            "start": 0.07,
+            "end": 12.32,
+            "label": "intro"
+        },
+        {
+            "start": 12.32,
+            "end": 52.25,
+            "label": "intro"
+        },
+        {
+            "start": 52.25,
+            "end": 72.2,
+            "label": "break"
+        },
+        {
+            "start": 72.2,
+            "end": 96.16,
+            "label": "break"
+        },
+        {
+            "start": 96.16,
+            "end": 111.62,
+            "label": "break"
+        },
+        {
+            "start": 111.62,
+            "end": 143.05,
+            "label": "drop"
+        },
+        {
+            "start": 143.05,
+            "end": 167.99,
+            "label": "drop"
+        },
+        {
+            "start": 167.99,
+            "end": 183.95,
+            "label": "drop"
+        },
+        {
+            "start": 183.95,
+            "end": 203.9,
+            "label": "break"
+        },
+        {
+            "start": 203.9,
+            "end": 243.79,
+            "label": "drop"
+        },
+        {
+            "start": 243.79,
+            "end": 259.74,
+            "label": "drop"
+        },
+        {
+            "start": 259.74,
+            "end": 275.69,
+            "label": "outro"
+        },
+        {
+            "start": 275.69,
+            "end": 295.63,
+            "label": "outro"
+        },
+        {
+            "start": 295.63,
+            "end": 296.48,
+            "label": "outro"
+        }
+    ]
+}

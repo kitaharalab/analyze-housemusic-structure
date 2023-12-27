@@ -1,0 +1,110 @@
+{
+    "path": "../data/prod/allin1_4_read/26 - Lundi matin.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.2,
+            "label": "intro"
+        },
+        {
+            "start": 0.2,
+            "end": 22.69,
+            "label": "intro"
+        },
+        {
+            "start": 22.69,
+            "end": 37.46,
+            "label": "intro"
+        },
+        {
+            "start": 37.46,
+            "end": 52.46,
+            "label": "intro"
+        },
+        {
+            "start": 52.46,
+            "end": 67.46,
+            "label": "intro"
+        },
+        {
+            "start": 67.46,
+            "end": 82.47,
+            "label": "intro"
+        },
+        {
+            "start": 82.47,
+            "end": 103.1,
+            "label": "intro"
+        },
+        {
+            "start": 103.1,
+            "end": 126.53,
+            "label": "break"
+        },
+        {
+            "start": 126.53,
+            "end": 142.47,
+            "label": "drop"
+        },
+        {
+            "start": 142.47,
+            "end": 157.47,
+            "label": "drop"
+        },
+        {
+            "start": 157.47,
+            "end": 172.47,
+            "label": "drop"
+        },
+        {
+            "start": 172.47,
+            "end": 187.47,
+            "label": "break"
+        },
+        {
+            "start": 187.47,
+            "end": 202.47,
+            "label": "break"
+        },
+        {
+            "start": 202.47,
+            "end": 232.47,
+            "label": "break"
+        },
+        {
+            "start": 232.47,
+            "end": 247.48,
+            "label": "drop"
+        },
+        {
+            "start": 247.48,
+            "end": 262.47,
+            "label": "drop"
+        },
+        {
+            "start": 262.47,
+            "end": 277.47,
+            "label": "drop"
+        },
+        {
+            "start": 277.47,
+            "end": 299.98,
+            "label": "drop"
+        },
+        {
+            "start": 299.98,
+            "end": 322.47,
+            "label": "drop"
+        },
+        {
+            "start": 322.47,
+            "end": 344.05,
+            "label": "outro"
+        },
+        {
+            "start": 344.05,
+            "end": 347.7,
+            "label": "outro"
+        }
+    ]
+}

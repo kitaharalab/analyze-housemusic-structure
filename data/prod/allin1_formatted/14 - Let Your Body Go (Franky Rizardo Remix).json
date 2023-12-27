@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/14 - Let Your Body Go (Franky Rizardo Remix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 13.12,
+            "label": "intro"
+        },
+        {
+            "start": 13.12,
+            "end": 29.99,
+            "label": "intro"
+        },
+        {
+            "start": 29.99,
+            "end": 58.12,
+            "label": "break"
+        },
+        {
+            "start": 58.12,
+            "end": 74.99,
+            "label": "break"
+        },
+        {
+            "start": 74.99,
+            "end": 90.0,
+            "label": "drop"
+        },
+        {
+            "start": 90.0,
+            "end": 104.99000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 104.99000000000001,
+            "end": 120.0,
+            "label": "break"
+        },
+        {
+            "start": 120.0,
+            "end": 135.0,
+            "label": "break"
+        },
+        {
+            "start": 135.0,
+            "end": 149.99,
+            "label": "drop"
+        },
+        {
+            "start": 149.99,
+            "end": 164.99,
+            "label": "break"
+        },
+        {
+            "start": 164.99,
+            "end": 178.11,
+            "label": "break"
+        },
+        {
+            "start": 178.11,
+            "end": 194.99,
+            "label": "break"
+        },
+        {
+            "start": 194.99,
+            "end": 210.0,
+            "label": "drop"
+        },
+        {
+            "start": 210.0,
+            "end": 224.99,
+            "label": "drop"
+        },
+        {
+            "start": 224.99,
+            "end": 240.0,
+            "label": "break"
+        },
+        {
+            "start": 240.0,
+            "end": 255.0,
+            "label": "break"
+        },
+        {
+            "start": 255.0,
+            "end": 269.99,
+            "label": "break"
+        },
+        {
+            "start": 269.99,
+            "end": 284.99,
+            "label": "drop"
+        },
+        {
+            "start": 284.99,
+            "end": 299.99,
+            "label": "outro"
+        },
+        {
+            "start": 299.99,
+            "end": 314.99,
+            "label": "outro"
+        },
+        {
+            "start": 314.99,
+            "end": 330.0,
+            "label": "outro"
+        },
+        {
+            "start": 330.0,
+            "end": 333.04,
+            "label": "outro"
+        }
+    ]
+}

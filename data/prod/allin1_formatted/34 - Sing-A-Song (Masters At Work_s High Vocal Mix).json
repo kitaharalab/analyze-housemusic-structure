@@ -1,0 +1,130 @@
+{
+    "path": "../data/prod/allin1_4_read/34 - Sing-A-Song (Masters At Work_s High Vocal Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.21,
+            "label": "intro"
+        },
+        {
+            "start": 0.21,
+            "end": 15.83,
+            "label": "intro"
+        },
+        {
+            "start": 15.83,
+            "end": 31.46,
+            "label": "intro"
+        },
+        {
+            "start": 31.46,
+            "end": 47.09,
+            "label": "drop"
+        },
+        {
+            "start": 47.09,
+            "end": 62.72,
+            "label": "drop"
+        },
+        {
+            "start": 62.72,
+            "end": 78.36,
+            "label": "drop"
+        },
+        {
+            "start": 78.36,
+            "end": 93.99000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 93.99000000000001,
+            "end": 109.62,
+            "label": "drop"
+        },
+        {
+            "start": 109.62,
+            "end": 125.25,
+            "label": "drop"
+        },
+        {
+            "start": 125.25,
+            "end": 140.89,
+            "label": "drop"
+        },
+        {
+            "start": 140.89,
+            "end": 156.52,
+            "label": "drop"
+        },
+        {
+            "start": 156.52,
+            "end": 172.15,
+            "label": "drop"
+        },
+        {
+            "start": 172.15,
+            "end": 187.78,
+            "label": "drop"
+        },
+        {
+            "start": 187.78,
+            "end": 203.41,
+            "label": "drop"
+        },
+        {
+            "start": 203.41,
+            "end": 219.04,
+            "label": "drop"
+        },
+        {
+            "start": 219.04,
+            "end": 234.67000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 234.67000000000002,
+            "end": 250.3,
+            "label": "drop"
+        },
+        {
+            "start": 250.3,
+            "end": 281.56,
+            "label": "drop"
+        },
+        {
+            "start": 281.56,
+            "end": 297.2,
+            "label": "drop"
+        },
+        {
+            "start": 297.2,
+            "end": 328.46,
+            "label": "drop"
+        },
+        {
+            "start": 328.46,
+            "end": 349.96,
+            "label": "drop"
+        },
+        {
+            "start": 349.96,
+            "end": 375.35,
+            "label": "drop"
+        },
+        {
+            "start": 375.35,
+            "end": 390.99,
+            "label": "outro"
+        },
+        {
+            "start": 390.99,
+            "end": 406.62,
+            "label": "outro"
+        },
+        {
+            "start": 406.62,
+            "end": 416.83,
+            "label": "outro"
+        }
+    ]
+}

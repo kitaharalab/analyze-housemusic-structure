@@ -1,0 +1,105 @@
+{
+    "path": "../data/prod/allin1_4_read/12 - Don_t Change It Up.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.09,
+            "label": "intro"
+        },
+        {
+            "start": 0.09,
+            "end": 16.22,
+            "label": "intro"
+        },
+        {
+            "start": 16.22,
+            "end": 48.49,
+            "label": "intro"
+        },
+        {
+            "start": 48.49,
+            "end": 80.77,
+            "label": "break"
+        },
+        {
+            "start": 80.77,
+            "end": 96.9,
+            "label": "drop"
+        },
+        {
+            "start": 96.9,
+            "end": 113.03,
+            "label": "drop"
+        },
+        {
+            "start": 113.03,
+            "end": 125.13,
+            "label": "break"
+        },
+        {
+            "start": 125.13,
+            "end": 145.3,
+            "label": "drop"
+        },
+        {
+            "start": 145.3,
+            "end": 161.44,
+            "label": "drop"
+        },
+        {
+            "start": 161.44,
+            "end": 177.57999999999998,
+            "label": "break"
+        },
+        {
+            "start": 177.57999999999998,
+            "end": 193.71,
+            "label": "break"
+        },
+        {
+            "start": 193.71,
+            "end": 209.85,
+            "label": "break"
+        },
+        {
+            "start": 209.85,
+            "end": 225.98,
+            "label": "break"
+        },
+        {
+            "start": 225.98,
+            "end": 258.25,
+            "label": "break"
+        },
+        {
+            "start": 258.25,
+            "end": 274.38,
+            "label": "drop"
+        },
+        {
+            "start": 274.38,
+            "end": 290.51,
+            "label": "drop"
+        },
+        {
+            "start": 290.51,
+            "end": 306.64,
+            "label": "drop"
+        },
+        {
+            "start": 306.64,
+            "end": 322.79,
+            "label": "drop"
+        },
+        {
+            "start": 322.79,
+            "end": 337.90999999999997,
+            "label": "outro"
+        },
+        {
+            "start": 337.90999999999997,
+            "end": 346.0,
+            "label": "outro"
+        }
+    ]
+}

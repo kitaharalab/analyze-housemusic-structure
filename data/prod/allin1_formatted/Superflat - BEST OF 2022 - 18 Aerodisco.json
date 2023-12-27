@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/Superflat - BEST OF 2022 - 18 Aerodisco.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 15.72,
+            "label": "intro"
+        },
+        {
+            "start": 15.72,
+            "end": 31.46,
+            "label": "break"
+        },
+        {
+            "start": 31.46,
+            "end": 47.2,
+            "label": "break"
+        },
+        {
+            "start": 47.2,
+            "end": 62.94,
+            "label": "break"
+        },
+        {
+            "start": 62.94,
+            "end": 78.68,
+            "label": "drop"
+        },
+        {
+            "start": 78.68,
+            "end": 94.42,
+            "label": "drop"
+        },
+        {
+            "start": 94.42,
+            "end": 110.17,
+            "label": "drop"
+        },
+        {
+            "start": 110.17,
+            "end": 125.9,
+            "label": "break"
+        },
+        {
+            "start": 125.9,
+            "end": 141.63,
+            "label": "drop"
+        },
+        {
+            "start": 141.63,
+            "end": 157.37,
+            "label": "drop"
+        },
+        {
+            "start": 157.37,
+            "end": 173.11,
+            "label": "drop"
+        },
+        {
+            "start": 173.11,
+            "end": 188.85,
+            "label": "drop"
+        },
+        {
+            "start": 188.85,
+            "end": 204.59,
+            "label": "break"
+        },
+        {
+            "start": 204.59,
+            "end": 220.32999999999998,
+            "label": "break"
+        },
+        {
+            "start": 220.32999999999998,
+            "end": 236.06,
+            "label": "drop"
+        },
+        {
+            "start": 236.06,
+            "end": 251.79,
+            "label": "drop"
+        },
+        {
+            "start": 251.79,
+            "end": 267.54,
+            "label": "drop"
+        },
+        {
+            "start": 267.54,
+            "end": 283.28,
+            "label": "drop"
+        },
+        {
+            "start": 283.28,
+            "end": 299.01,
+            "label": "drop"
+        },
+        {
+            "start": 299.01,
+            "end": 314.75,
+            "label": "drop"
+        },
+        {
+            "start": 314.75,
+            "end": 330.48,
+            "label": "outro"
+        },
+        {
+            "start": 330.48,
+            "end": 346.7,
+            "label": "outro"
+        },
+        {
+            "start": 346.7,
+            "end": 348.2,
+            "label": "outro"
+        }
+    ]
+}

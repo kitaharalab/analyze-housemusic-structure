@@ -1,0 +1,110 @@
+{
+    "path": "../data/prod/allin1_4_read/36 - John_s Church (feat. Nils Ohrmann).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 16.01,
+            "label": "intro"
+        },
+        {
+            "start": 16.01,
+            "end": 32.01,
+            "label": "intro"
+        },
+        {
+            "start": 32.01,
+            "end": 44.02,
+            "label": "drop"
+        },
+        {
+            "start": 44.02,
+            "end": 64.02,
+            "label": "drop"
+        },
+        {
+            "start": 64.02,
+            "end": 80.01,
+            "label": "break"
+        },
+        {
+            "start": 80.01,
+            "end": 112.02000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 112.02000000000001,
+            "end": 128.02,
+            "label": "drop"
+        },
+        {
+            "start": 128.02,
+            "end": 166.02,
+            "label": "drop"
+        },
+        {
+            "start": 166.02,
+            "end": 192.01,
+            "label": "drop"
+        },
+        {
+            "start": 192.01,
+            "end": 208.01,
+            "label": "drop"
+        },
+        {
+            "start": 208.01,
+            "end": 224.02,
+            "label": "drop"
+        },
+        {
+            "start": 224.02,
+            "end": 240.02,
+            "label": "break"
+        },
+        {
+            "start": 240.02,
+            "end": 258.02,
+            "label": "drop"
+        },
+        {
+            "start": 258.02,
+            "end": 273.01,
+            "label": "drop"
+        },
+        {
+            "start": 273.01,
+            "end": 296.01,
+            "label": "drop"
+        },
+        {
+            "start": 296.01,
+            "end": 320.0,
+            "label": "drop"
+        },
+        {
+            "start": 320.0,
+            "end": 352.01,
+            "label": "drop"
+        },
+        {
+            "start": 352.01,
+            "end": 368.01,
+            "label": "drop"
+        },
+        {
+            "start": 368.01,
+            "end": 384.01,
+            "label": "outro"
+        },
+        {
+            "start": 384.01,
+            "end": 398.35,
+            "label": "outro"
+        }
+    ]
+}

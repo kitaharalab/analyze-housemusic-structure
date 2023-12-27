@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/23 - I Called U (The Conversation) [ATFC_s Conversation Killer].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.01,
+            "label": "intro"
+        },
+        {
+            "start": 0.01,
+            "end": 30.01,
+            "label": "intro"
+        },
+        {
+            "start": 30.01,
+            "end": 59.08,
+            "label": "intro"
+        },
+        {
+            "start": 59.08,
+            "end": 74.08,
+            "label": "intro"
+        },
+        {
+            "start": 74.08,
+            "end": 90.95,
+            "label": "intro"
+        },
+        {
+            "start": 90.95,
+            "end": 120.02,
+            "label": "break"
+        },
+        {
+            "start": 120.02,
+            "end": 135.01,
+            "label": "drop"
+        },
+        {
+            "start": 135.01,
+            "end": 149.07999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 149.07999999999998,
+            "end": 164.09,
+            "label": "drop"
+        },
+        {
+            "start": 164.09,
+            "end": 180.02,
+            "label": "drop"
+        },
+        {
+            "start": 180.02,
+            "end": 195.97,
+            "label": "drop"
+        },
+        {
+            "start": 195.97,
+            "end": 210.02,
+            "label": "drop"
+        },
+        {
+            "start": 210.02,
+            "end": 233.46,
+            "label": "break"
+        },
+        {
+            "start": 233.46,
+            "end": 255.01,
+            "label": "break"
+        },
+        {
+            "start": 255.01,
+            "end": 270.96,
+            "label": "drop"
+        },
+        {
+            "start": 270.96,
+            "end": 285.01,
+            "label": "drop"
+        },
+        {
+            "start": 285.01,
+            "end": 299.09000000000003,
+            "label": "drop"
+        },
+        {
+            "start": 299.09000000000003,
+            "end": 315.02,
+            "label": "drop"
+        },
+        {
+            "start": 315.02,
+            "end": 330.96,
+            "label": "drop"
+        },
+        {
+            "start": 330.96,
+            "end": 345.02,
+            "label": "drop"
+        },
+        {
+            "start": 345.02,
+            "end": 375.01,
+            "label": "break"
+        },
+        {
+            "start": 375.01,
+            "end": 405.01,
+            "label": "break"
+        },
+        {
+            "start": 405.01,
+            "end": 419.08,
+            "label": "break"
+        },
+        {
+            "start": 419.08,
+            "end": 435.01,
+            "label": "break"
+        },
+        {
+            "start": 435.01,
+            "end": 449.56,
+            "label": "outro"
+        },
+        {
+            "start": 449.56,
+            "end": 450.89,
+            "label": "outro"
+        }
+    ]
+}

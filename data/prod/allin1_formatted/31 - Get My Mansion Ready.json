@@ -1,0 +1,75 @@
+{
+    "path": "../data/prod/allin1_4_read/31 - Get My Mansion Ready.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.03,
+            "label": "intro"
+        },
+        {
+            "start": 0.03,
+            "end": 15.51,
+            "label": "intro"
+        },
+        {
+            "start": 15.51,
+            "end": 31.0,
+            "label": "intro"
+        },
+        {
+            "start": 31.0,
+            "end": 46.48,
+            "label": "drop"
+        },
+        {
+            "start": 46.48,
+            "end": 61.96,
+            "label": "drop"
+        },
+        {
+            "start": 61.96,
+            "end": 77.45,
+            "label": "drop"
+        },
+        {
+            "start": 77.45,
+            "end": 92.94,
+            "label": "drop"
+        },
+        {
+            "start": 92.94,
+            "end": 108.41,
+            "label": "break"
+        },
+        {
+            "start": 108.41,
+            "end": 123.91,
+            "label": "break"
+        },
+        {
+            "start": 123.91,
+            "end": 139.39,
+            "label": "drop"
+        },
+        {
+            "start": 139.39,
+            "end": 154.88,
+            "label": "drop"
+        },
+        {
+            "start": 154.88,
+            "end": 170.36,
+            "label": "outro"
+        },
+        {
+            "start": 170.36,
+            "end": 184.88,
+            "label": "outro"
+        },
+        {
+            "start": 184.88,
+            "end": 202.34,
+            "label": "outro"
+        }
+    ]
+}

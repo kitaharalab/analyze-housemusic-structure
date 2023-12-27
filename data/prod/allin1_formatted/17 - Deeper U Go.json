@@ -1,0 +1,140 @@
+{
+    "path": "../data/prod/allin1_4_read/17 - Deeper U Go.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.63,
+            "label": "intro"
+        },
+        {
+            "start": 0.63,
+            "end": 15.73,
+            "label": "intro"
+        },
+        {
+            "start": 15.73,
+            "end": 32.87,
+            "label": "intro"
+        },
+        {
+            "start": 32.87,
+            "end": 46.21,
+            "label": "intro"
+        },
+        {
+            "start": 46.21,
+            "end": 61.44,
+            "label": "intro"
+        },
+        {
+            "start": 61.44,
+            "end": 76.68,
+            "label": "drop"
+        },
+        {
+            "start": 76.68,
+            "end": 91.92,
+            "label": "drop"
+        },
+        {
+            "start": 91.92,
+            "end": 107.15,
+            "label": "drop"
+        },
+        {
+            "start": 107.15,
+            "end": 122.39,
+            "label": "break"
+        },
+        {
+            "start": 122.39,
+            "end": 137.63,
+            "label": "drop"
+        },
+        {
+            "start": 137.63,
+            "end": 152.86,
+            "label": "drop"
+        },
+        {
+            "start": 152.86,
+            "end": 168.11,
+            "label": "break"
+        },
+        {
+            "start": 168.11,
+            "end": 183.34,
+            "label": "drop"
+        },
+        {
+            "start": 183.34,
+            "end": 198.57999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 198.57999999999998,
+            "end": 213.82,
+            "label": "drop"
+        },
+        {
+            "start": 213.82,
+            "end": 244.3,
+            "label": "break"
+        },
+        {
+            "start": 244.3,
+            "end": 259.53,
+            "label": "drop"
+        },
+        {
+            "start": 259.53,
+            "end": 274.77,
+            "label": "drop"
+        },
+        {
+            "start": 274.77,
+            "end": 290.01,
+            "label": "drop"
+        },
+        {
+            "start": 290.01,
+            "end": 312.87,
+            "label": "drop"
+        },
+        {
+            "start": 312.87,
+            "end": 335.72,
+            "label": "drop"
+        },
+        {
+            "start": 335.72,
+            "end": 350.97,
+            "label": "drop"
+        },
+        {
+            "start": 350.97,
+            "end": 366.21,
+            "label": "drop"
+        },
+        {
+            "start": 366.21,
+            "end": 389.06,
+            "label": "break"
+        },
+        {
+            "start": 389.06,
+            "end": 411.9,
+            "label": "drop"
+        },
+        {
+            "start": 411.9,
+            "end": 434.78,
+            "label": "outro"
+        },
+        {
+            "start": 434.78,
+            "end": 439.02,
+            "label": "outro"
+        }
+    ]
+}

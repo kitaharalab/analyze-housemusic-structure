@@ -1,0 +1,65 @@
+{
+    "path": "../data/prod/allin1_4_read/20 - Jus Dance (Dennis Quin Remix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.01,
+            "label": "intro"
+        },
+        {
+            "start": 0.01,
+            "end": 16.33,
+            "label": "intro"
+        },
+        {
+            "start": 16.33,
+            "end": 39.37,
+            "label": "break"
+        },
+        {
+            "start": 39.37,
+            "end": 70.09,
+            "label": "drop"
+        },
+        {
+            "start": 70.09,
+            "end": 92.18,
+            "label": "break"
+        },
+        {
+            "start": 92.18,
+            "end": 123.85,
+            "label": "drop"
+        },
+        {
+            "start": 123.85,
+            "end": 138.25,
+            "label": "break"
+        },
+        {
+            "start": 138.25,
+            "end": 154.57,
+            "label": "break"
+        },
+        {
+            "start": 154.57,
+            "end": 177.61,
+            "label": "drop"
+        },
+        {
+            "start": 177.61,
+            "end": 192.01,
+            "label": "drop"
+        },
+        {
+            "start": 192.01,
+            "end": 215.05,
+            "label": "outro"
+        },
+        {
+            "start": 215.05,
+            "end": 216.02,
+            "label": "outro"
+        }
+    ]
+}

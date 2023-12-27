@@ -1,0 +1,155 @@
+{
+    "path": "../data/prod/allin1_4_read/35 - Walk (Mousse T._s Full Vocal).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.17,
+            "label": "intro"
+        },
+        {
+            "start": 0.17,
+            "end": 17.74,
+            "label": "intro"
+        },
+        {
+            "start": 17.74,
+            "end": 31.41,
+            "label": "intro"
+        },
+        {
+            "start": 31.41,
+            "end": 47.04,
+            "label": "intro"
+        },
+        {
+            "start": 47.04,
+            "end": 62.66,
+            "label": "intro"
+        },
+        {
+            "start": 62.66,
+            "end": 78.28999999999999,
+            "label": "break"
+        },
+        {
+            "start": 78.28999999999999,
+            "end": 93.92,
+            "label": "drop"
+        },
+        {
+            "start": 93.92,
+            "end": 109.53999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 109.53999999999999,
+            "end": 125.17,
+            "label": "drop"
+        },
+        {
+            "start": 125.17,
+            "end": 140.8,
+            "label": "break"
+        },
+        {
+            "start": 140.8,
+            "end": 156.43,
+            "label": "drop"
+        },
+        {
+            "start": 156.43,
+            "end": 171.56,
+            "label": "drop"
+        },
+        {
+            "start": 171.56,
+            "end": 187.68,
+            "label": "drop"
+        },
+        {
+            "start": 187.68,
+            "end": 202.32999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 202.32999999999998,
+            "end": 218.93,
+            "label": "break"
+        },
+        {
+            "start": 218.93,
+            "end": 234.55,
+            "label": "break"
+        },
+        {
+            "start": 234.55,
+            "end": 250.18,
+            "label": "drop"
+        },
+        {
+            "start": 250.18,
+            "end": 267.76,
+            "label": "drop"
+        },
+        {
+            "start": 267.76,
+            "end": 297.06,
+            "label": "drop"
+        },
+        {
+            "start": 297.06,
+            "end": 312.68,
+            "label": "drop"
+        },
+        {
+            "start": 312.68,
+            "end": 328.31,
+            "label": "drop"
+        },
+        {
+            "start": 328.31,
+            "end": 343.93,
+            "label": "drop"
+        },
+        {
+            "start": 343.93,
+            "end": 375.19,
+            "label": "drop"
+        },
+        {
+            "start": 375.19,
+            "end": 390.82,
+            "label": "drop"
+        },
+        {
+            "start": 390.82,
+            "end": 405.47,
+            "label": "drop"
+        },
+        {
+            "start": 405.47,
+            "end": 436.72,
+            "label": "drop"
+        },
+        {
+            "start": 436.72,
+            "end": 453.32,
+            "label": "drop"
+        },
+        {
+            "start": 453.32,
+            "end": 468.94,
+            "label": "outro"
+        },
+        {
+            "start": 468.94,
+            "end": 484.56,
+            "label": "outro"
+        },
+        {
+            "start": 484.56,
+            "end": 486.54,
+            "label": "outro"
+        }
+    ]
+}

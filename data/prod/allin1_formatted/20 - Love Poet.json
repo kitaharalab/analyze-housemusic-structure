@@ -1,0 +1,130 @@
+{
+    "path": "../data/prod/allin1_4_read/20 - Love Poet.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.16,
+            "label": "intro"
+        },
+        {
+            "start": 0.16,
+            "end": 15.89,
+            "label": "intro"
+        },
+        {
+            "start": 15.89,
+            "end": 31.63,
+            "label": "intro"
+        },
+        {
+            "start": 31.63,
+            "end": 47.36,
+            "label": "intro"
+        },
+        {
+            "start": 47.36,
+            "end": 63.12,
+            "label": "intro"
+        },
+        {
+            "start": 63.12,
+            "end": 94.59,
+            "label": "break"
+        },
+        {
+            "start": 94.59,
+            "end": 110.32,
+            "label": "drop"
+        },
+        {
+            "start": 110.32,
+            "end": 126.06,
+            "label": "drop"
+        },
+        {
+            "start": 126.06,
+            "end": 141.8,
+            "label": "drop"
+        },
+        {
+            "start": 141.8,
+            "end": 157.54,
+            "label": "drop"
+        },
+        {
+            "start": 157.54,
+            "end": 173.27,
+            "label": "break"
+        },
+        {
+            "start": 173.27,
+            "end": 189.02,
+            "label": "break"
+        },
+        {
+            "start": 189.02,
+            "end": 204.75,
+            "label": "drop"
+        },
+        {
+            "start": 204.75,
+            "end": 220.49,
+            "label": "drop"
+        },
+        {
+            "start": 220.49,
+            "end": 236.22,
+            "label": "drop"
+        },
+        {
+            "start": 236.22,
+            "end": 251.97,
+            "label": "drop"
+        },
+        {
+            "start": 251.97,
+            "end": 267.7,
+            "label": "drop"
+        },
+        {
+            "start": 267.7,
+            "end": 283.44,
+            "label": "break"
+        },
+        {
+            "start": 283.44,
+            "end": 299.17,
+            "label": "drop"
+        },
+        {
+            "start": 299.17,
+            "end": 314.91,
+            "label": "drop"
+        },
+        {
+            "start": 314.91,
+            "end": 346.39,
+            "label": "drop"
+        },
+        {
+            "start": 346.39,
+            "end": 362.13,
+            "label": "drop"
+        },
+        {
+            "start": 362.13,
+            "end": 377.87,
+            "label": "outro"
+        },
+        {
+            "start": 377.87,
+            "end": 391.14,
+            "label": "outro"
+        },
+        {
+            "start": 391.14,
+            "end": 392.33,
+            "label": "outro"
+        }
+    ]
+}

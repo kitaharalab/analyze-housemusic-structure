@@ -1,0 +1,170 @@
+{
+    "path": "../data/prod/allin1_4_read/30 - Talking Jungle (Justin Vandervolgen Remix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 24.01,
+            "label": "break"
+        },
+        {
+            "start": 24.01,
+            "end": 64.01,
+            "label": "break"
+        },
+        {
+            "start": 64.01,
+            "end": 80.01,
+            "label": "break"
+        },
+        {
+            "start": 80.01,
+            "end": 96.00999999999999,
+            "label": "break"
+        },
+        {
+            "start": 96.00999999999999,
+            "end": 128.01,
+            "label": "break"
+        },
+        {
+            "start": 128.01,
+            "end": 144.02,
+            "label": "break"
+        },
+        {
+            "start": 144.02,
+            "end": 166.02,
+            "label": "break"
+        },
+        {
+            "start": 166.02,
+            "end": 188.02,
+            "label": "break"
+        },
+        {
+            "start": 188.02,
+            "end": 208.03,
+            "label": "break"
+        },
+        {
+            "start": 208.03,
+            "end": 224.03,
+            "label": "break"
+        },
+        {
+            "start": 224.03,
+            "end": 240.03,
+            "label": "drop"
+        },
+        {
+            "start": 240.03,
+            "end": 256.03,
+            "label": "drop"
+        },
+        {
+            "start": 256.03,
+            "end": 272.03,
+            "label": "drop"
+        },
+        {
+            "start": 272.03,
+            "end": 288.03,
+            "label": "drop"
+        },
+        {
+            "start": 288.03,
+            "end": 304.02,
+            "label": "drop"
+        },
+        {
+            "start": 304.02,
+            "end": 320.02,
+            "label": "drop"
+        },
+        {
+            "start": 320.02,
+            "end": 336.02,
+            "label": "drop"
+        },
+        {
+            "start": 336.02,
+            "end": 352.02,
+            "label": "drop"
+        },
+        {
+            "start": 352.02,
+            "end": 368.03,
+            "label": "drop"
+        },
+        {
+            "start": 368.03,
+            "end": 384.03,
+            "label": "drop"
+        },
+        {
+            "start": 384.03,
+            "end": 400.03,
+            "label": "drop"
+        },
+        {
+            "start": 400.03,
+            "end": 432.01,
+            "label": "drop"
+        },
+        {
+            "start": 432.01,
+            "end": 448.02,
+            "label": "drop"
+        },
+        {
+            "start": 448.02,
+            "end": 464.02,
+            "label": "drop"
+        },
+        {
+            "start": 464.02,
+            "end": 480.02,
+            "label": "drop"
+        },
+        {
+            "start": 480.02,
+            "end": 496.03,
+            "label": "drop"
+        },
+        {
+            "start": 496.03,
+            "end": 512.02,
+            "label": "drop"
+        },
+        {
+            "start": 512.02,
+            "end": 528.03,
+            "label": "drop"
+        },
+        {
+            "start": 528.03,
+            "end": 544.03,
+            "label": "outro"
+        },
+        {
+            "start": 544.03,
+            "end": 560.02,
+            "label": "outro"
+        },
+        {
+            "start": 560.02,
+            "end": 576.01,
+            "label": "outro"
+        },
+        {
+            "start": 576.01,
+            "end": 592.23,
+            "label": "outro"
+        }
+    ]
+}

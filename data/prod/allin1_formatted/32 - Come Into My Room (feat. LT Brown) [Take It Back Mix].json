@@ -1,0 +1,140 @@
+{
+    "path": "../data/prod/allin1_4_read/32 - Come Into My Room (feat. LT Brown) [Take It Back Mix].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.01,
+            "label": "intro"
+        },
+        {
+            "start": 0.01,
+            "end": 15.37,
+            "label": "break"
+        },
+        {
+            "start": 15.37,
+            "end": 38.41,
+            "label": "break"
+        },
+        {
+            "start": 38.41,
+            "end": 61.45,
+            "label": "break"
+        },
+        {
+            "start": 61.45,
+            "end": 87.11,
+            "label": "break"
+        },
+        {
+            "start": 87.11,
+            "end": 101.50999999999999,
+            "label": "break"
+        },
+        {
+            "start": 101.50999999999999,
+            "end": 122.9,
+            "label": "break"
+        },
+        {
+            "start": 122.9,
+            "end": 138.26,
+            "label": "drop"
+        },
+        {
+            "start": 138.26,
+            "end": 153.62,
+            "label": "drop"
+        },
+        {
+            "start": 153.62,
+            "end": 168.98,
+            "label": "drop"
+        },
+        {
+            "start": 168.98,
+            "end": 185.29,
+            "label": "drop"
+        },
+        {
+            "start": 185.29,
+            "end": 200.66,
+            "label": "drop"
+        },
+        {
+            "start": 200.66,
+            "end": 215.06,
+            "label": "drop"
+        },
+        {
+            "start": 215.06,
+            "end": 237.62,
+            "label": "drop"
+        },
+        {
+            "start": 237.62,
+            "end": 276.5,
+            "label": "drop"
+        },
+        {
+            "start": 276.5,
+            "end": 291.86,
+            "label": "drop"
+        },
+        {
+            "start": 291.86,
+            "end": 307.22,
+            "label": "drop"
+        },
+        {
+            "start": 307.22,
+            "end": 322.58,
+            "label": "drop"
+        },
+        {
+            "start": 322.58,
+            "end": 337.94,
+            "label": "drop"
+        },
+        {
+            "start": 337.94,
+            "end": 368.66,
+            "label": "drop"
+        },
+        {
+            "start": 368.66,
+            "end": 384.02,
+            "label": "drop"
+        },
+        {
+            "start": 384.02,
+            "end": 399.38,
+            "label": "drop"
+        },
+        {
+            "start": 399.38,
+            "end": 412.81,
+            "label": "drop"
+        },
+        {
+            "start": 412.81,
+            "end": 430.09,
+            "label": "outro"
+        },
+        {
+            "start": 430.09,
+            "end": 446.41,
+            "label": "outro"
+        },
+        {
+            "start": 446.41,
+            "end": 460.81,
+            "label": "outro"
+        },
+        {
+            "start": 460.81,
+            "end": 465.86,
+            "label": "outro"
+        }
+    ]
+}

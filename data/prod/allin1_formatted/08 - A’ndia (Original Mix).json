@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/08 - A\u2019ndia (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.24,
+            "label": "intro"
+        },
+        {
+            "start": 0.24,
+            "end": 15.6,
+            "label": "intro"
+        },
+        {
+            "start": 15.6,
+            "end": 30.0,
+            "label": "intro"
+        },
+        {
+            "start": 30.0,
+            "end": 46.32,
+            "label": "intro"
+        },
+        {
+            "start": 46.32,
+            "end": 61.68,
+            "label": "break"
+        },
+        {
+            "start": 61.68,
+            "end": 77.03999999999999,
+            "label": "break"
+        },
+        {
+            "start": 77.03999999999999,
+            "end": 92.4,
+            "label": "drop"
+        },
+        {
+            "start": 92.4,
+            "end": 107.75999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 107.75999999999999,
+            "end": 123.12,
+            "label": "drop"
+        },
+        {
+            "start": 123.12,
+            "end": 138.48,
+            "label": "drop"
+        },
+        {
+            "start": 138.48,
+            "end": 153.84,
+            "label": "drop"
+        },
+        {
+            "start": 153.84,
+            "end": 169.2,
+            "label": "drop"
+        },
+        {
+            "start": 169.2,
+            "end": 184.56,
+            "label": "drop"
+        },
+        {
+            "start": 184.56,
+            "end": 199.92000000000002,
+            "label": "break"
+        },
+        {
+            "start": 199.92000000000002,
+            "end": 215.28,
+            "label": "break"
+        },
+        {
+            "start": 215.28,
+            "end": 230.64,
+            "label": "break"
+        },
+        {
+            "start": 230.64,
+            "end": 246.0,
+            "label": "drop"
+        },
+        {
+            "start": 246.0,
+            "end": 261.36,
+            "label": "drop"
+        },
+        {
+            "start": 261.36,
+            "end": 276.73,
+            "label": "drop"
+        },
+        {
+            "start": 276.73,
+            "end": 292.08,
+            "label": "drop"
+        },
+        {
+            "start": 292.08,
+            "end": 307.44,
+            "label": "drop"
+        },
+        {
+            "start": 307.44,
+            "end": 322.8,
+            "label": "drop"
+        },
+        {
+            "start": 322.8,
+            "end": 338.15999999999997,
+            "label": "drop"
+        },
+        {
+            "start": 338.15999999999997,
+            "end": 353.52,
+            "label": "drop"
+        },
+        {
+            "start": 353.52,
+            "end": 368.89,
+            "label": "outro"
+        },
+        {
+            "start": 368.89,
+            "end": 375.12,
+            "label": "outro"
+        }
+    ]
+}

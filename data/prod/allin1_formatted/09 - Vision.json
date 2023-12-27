@@ -1,0 +1,85 @@
+{
+    "path": "../data/prod/allin1_4_read/09 - Vision.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.1,
+            "label": "intro"
+        },
+        {
+            "start": 0.1,
+            "end": 13.43,
+            "label": "intro"
+        },
+        {
+            "start": 13.43,
+            "end": 28.67,
+            "label": "intro"
+        },
+        {
+            "start": 28.67,
+            "end": 43.92,
+            "label": "break"
+        },
+        {
+            "start": 43.92,
+            "end": 61.06,
+            "label": "break"
+        },
+        {
+            "start": 61.06,
+            "end": 74.38,
+            "label": "drop"
+        },
+        {
+            "start": 74.38,
+            "end": 91.52,
+            "label": "drop"
+        },
+        {
+            "start": 91.52,
+            "end": 104.86,
+            "label": "drop"
+        },
+        {
+            "start": 104.86,
+            "end": 152.47,
+            "label": "drop"
+        },
+        {
+            "start": 152.47,
+            "end": 169.62,
+            "label": "break"
+        },
+        {
+            "start": 169.62,
+            "end": 182.95,
+            "label": "break"
+        },
+        {
+            "start": 182.95,
+            "end": 196.28,
+            "label": "break"
+        },
+        {
+            "start": 196.28,
+            "end": 242.0,
+            "label": "drop"
+        },
+        {
+            "start": 242.0,
+            "end": 287.71,
+            "label": "drop"
+        },
+        {
+            "start": 287.71,
+            "end": 304.88,
+            "label": "outro"
+        },
+        {
+            "start": 304.88,
+            "end": 306.49,
+            "label": "outro"
+        }
+    ]
+}

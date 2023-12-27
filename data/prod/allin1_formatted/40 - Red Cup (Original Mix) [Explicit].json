@@ -1,0 +1,155 @@
+{
+    "path": "../data/prod/allin1_4_read/40 - Red Cup (Original Mix) [Explicit].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.2,
+            "label": "intro"
+        },
+        {
+            "start": 0.2,
+            "end": 15.55,
+            "label": "intro"
+        },
+        {
+            "start": 15.55,
+            "end": 30.91,
+            "label": "intro"
+        },
+        {
+            "start": 30.91,
+            "end": 46.27,
+            "label": "intro"
+        },
+        {
+            "start": 46.27,
+            "end": 61.63,
+            "label": "intro"
+        },
+        {
+            "start": 61.63,
+            "end": 76.99,
+            "label": "drop"
+        },
+        {
+            "start": 76.99,
+            "end": 92.35,
+            "label": "drop"
+        },
+        {
+            "start": 92.35,
+            "end": 107.71000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 107.71000000000001,
+            "end": 123.07,
+            "label": "drop"
+        },
+        {
+            "start": 123.07,
+            "end": 138.43,
+            "label": "drop"
+        },
+        {
+            "start": 138.43,
+            "end": 153.8,
+            "label": "break"
+        },
+        {
+            "start": 153.8,
+            "end": 184.52,
+            "label": "break"
+        },
+        {
+            "start": 184.52,
+            "end": 200.84,
+            "label": "drop"
+        },
+        {
+            "start": 200.84,
+            "end": 215.23,
+            "label": "drop"
+        },
+        {
+            "start": 215.23,
+            "end": 230.6,
+            "label": "drop"
+        },
+        {
+            "start": 230.6,
+            "end": 245.96,
+            "label": "break"
+        },
+        {
+            "start": 245.96,
+            "end": 261.32,
+            "label": "break"
+        },
+        {
+            "start": 261.32,
+            "end": 276.67,
+            "label": "break"
+        },
+        {
+            "start": 276.67,
+            "end": 292.04,
+            "label": "break"
+        },
+        {
+            "start": 292.04,
+            "end": 308.36,
+            "label": "drop"
+        },
+        {
+            "start": 308.36,
+            "end": 322.75,
+            "label": "drop"
+        },
+        {
+            "start": 322.75,
+            "end": 336.2,
+            "label": "drop"
+        },
+        {
+            "start": 336.2,
+            "end": 353.48,
+            "label": "drop"
+        },
+        {
+            "start": 353.48,
+            "end": 368.83,
+            "label": "drop"
+        },
+        {
+            "start": 368.83,
+            "end": 384.19,
+            "label": "drop"
+        },
+        {
+            "start": 384.19,
+            "end": 397.64,
+            "label": "drop"
+        },
+        {
+            "start": 397.64,
+            "end": 414.92,
+            "label": "drop"
+        },
+        {
+            "start": 414.92,
+            "end": 430.27,
+            "label": "drop"
+        },
+        {
+            "start": 430.27,
+            "end": 445.64,
+            "label": "drop"
+        },
+        {
+            "start": 445.64,
+            "end": 445.86,
+            "label": "outro"
+        }
+    ]
+}

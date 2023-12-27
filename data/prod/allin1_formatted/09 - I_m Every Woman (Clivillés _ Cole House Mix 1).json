@@ -1,0 +1,165 @@
+{
+    "path": "../data/prod/allin1_4_read/09 - I_m Every Woman (Clivill\u00e9s _ Cole House Mix 1).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 16.07,
+            "label": "intro"
+        },
+        {
+            "start": 16.07,
+            "end": 56.57,
+            "label": "break"
+        },
+        {
+            "start": 56.57,
+            "end": 72.36,
+            "label": "drop"
+        },
+        {
+            "start": 72.36,
+            "end": 88.16,
+            "label": "drop"
+        },
+        {
+            "start": 88.16,
+            "end": 101.99000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 101.99000000000001,
+            "end": 119.75999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 119.75999999999999,
+            "end": 135.56,
+            "label": "drop"
+        },
+        {
+            "start": 135.56,
+            "end": 153.34,
+            "label": "drop"
+        },
+        {
+            "start": 153.34,
+            "end": 169.14,
+            "label": "drop"
+        },
+        {
+            "start": 169.14,
+            "end": 182.97,
+            "label": "drop"
+        },
+        {
+            "start": 182.97,
+            "end": 200.74,
+            "label": "drop"
+        },
+        {
+            "start": 200.74,
+            "end": 216.54,
+            "label": "drop"
+        },
+        {
+            "start": 216.54,
+            "end": 232.34,
+            "label": "drop"
+        },
+        {
+            "start": 232.34,
+            "end": 248.14,
+            "label": "drop"
+        },
+        {
+            "start": 248.14,
+            "end": 263.94,
+            "label": "drop"
+        },
+        {
+            "start": 263.94,
+            "end": 279.75,
+            "label": "break"
+        },
+        {
+            "start": 279.75,
+            "end": 311.32,
+            "label": "break"
+        },
+        {
+            "start": 311.32,
+            "end": 342.93,
+            "label": "break"
+        },
+        {
+            "start": 342.93,
+            "end": 374.53,
+            "label": "break"
+        },
+        {
+            "start": 374.53,
+            "end": 390.33,
+            "label": "drop"
+        },
+        {
+            "start": 390.33,
+            "end": 406.13,
+            "label": "drop"
+        },
+        {
+            "start": 406.13,
+            "end": 441.69,
+            "label": "drop"
+        },
+        {
+            "start": 441.69,
+            "end": 487.11,
+            "label": "drop"
+        },
+        {
+            "start": 487.11,
+            "end": 502.92,
+            "label": "drop"
+        },
+        {
+            "start": 502.92,
+            "end": 518.72,
+            "label": "drop"
+        },
+        {
+            "start": 518.72,
+            "end": 542.42,
+            "label": "drop"
+        },
+        {
+            "start": 542.42,
+            "end": 566.12,
+            "label": "drop"
+        },
+        {
+            "start": 566.12,
+            "end": 597.71,
+            "label": "break"
+        },
+        {
+            "start": 597.71,
+            "end": 613.52,
+            "label": "drop"
+        },
+        {
+            "start": 613.52,
+            "end": 635.23,
+            "label": "drop"
+        },
+        {
+            "start": 635.23,
+            "end": 638.33,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "path": "../data/prod/allin1_4_read/33 - The Light.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 14.3,
+            "label": "intro"
+        },
+        {
+            "start": 14.3,
+            "end": 30.49,
+            "label": "intro"
+        },
+        {
+            "start": 30.49,
+            "end": 45.72,
+            "label": "intro"
+        },
+        {
+            "start": 45.72,
+            "end": 69.53,
+            "label": "break"
+        },
+        {
+            "start": 69.53,
+            "end": 84.78,
+            "label": "break"
+        },
+        {
+            "start": 84.78,
+            "end": 106.68,
+            "label": "break"
+        },
+        {
+            "start": 106.68,
+            "end": 121.92,
+            "label": "drop"
+        },
+        {
+            "start": 121.92,
+            "end": 137.16,
+            "label": "drop"
+        },
+        {
+            "start": 137.16,
+            "end": 151.92000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 151.92000000000002,
+            "end": 167.63,
+            "label": "drop"
+        },
+        {
+            "start": 167.63,
+            "end": 181.92,
+            "label": "drop"
+        },
+        {
+            "start": 181.92,
+            "end": 198.11,
+            "label": "drop"
+        },
+        {
+            "start": 198.11,
+            "end": 213.35,
+            "label": "drop"
+        },
+        {
+            "start": 213.35,
+            "end": 228.59,
+            "label": "break"
+        },
+        {
+            "start": 228.59,
+            "end": 243.82,
+            "label": "break"
+        },
+        {
+            "start": 243.82,
+            "end": 259.06,
+            "label": "drop"
+        },
+        {
+            "start": 259.06,
+            "end": 281.92,
+            "label": "drop"
+        },
+        {
+            "start": 281.92,
+            "end": 314.3,
+            "label": "break"
+        },
+        {
+            "start": 314.3,
+            "end": 327.64,
+            "label": "break"
+        },
+        {
+            "start": 327.64,
+            "end": 350.49,
+            "label": "break"
+        },
+        {
+            "start": 350.49,
+            "end": 365.73,
+            "label": "drop"
+        },
+        {
+            "start": 365.73,
+            "end": 380.97,
+            "label": "drop"
+        },
+        {
+            "start": 380.97,
+            "end": 396.21,
+            "label": "drop"
+        },
+        {
+            "start": 396.21,
+            "end": 411.44,
+            "label": "outro"
+        },
+        {
+            "start": 411.44,
+            "end": 426.68,
+            "label": "outro"
+        },
+        {
+            "start": 426.68,
+            "end": 441.91,
+            "label": "outro"
+        },
+        {
+            "start": 441.91,
+            "end": 446.03,
+            "label": "outro"
+        }
+    ]
+}

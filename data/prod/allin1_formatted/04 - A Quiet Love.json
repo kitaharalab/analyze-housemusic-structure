@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/04 - A Quiet Love.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.1,
+            "label": "intro"
+        },
+        {
+            "start": 0.1,
+            "end": 14.49,
+            "label": "intro"
+        },
+        {
+            "start": 14.49,
+            "end": 30.81,
+            "label": "intro"
+        },
+        {
+            "start": 30.81,
+            "end": 46.18,
+            "label": "intro"
+        },
+        {
+            "start": 46.18,
+            "end": 61.55,
+            "label": "break"
+        },
+        {
+            "start": 61.55,
+            "end": 92.25999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 92.25999999999999,
+            "end": 107.62,
+            "label": "drop"
+        },
+        {
+            "start": 107.62,
+            "end": 122.98,
+            "label": "drop"
+        },
+        {
+            "start": 122.98,
+            "end": 138.34,
+            "label": "drop"
+        },
+        {
+            "start": 138.34,
+            "end": 153.7,
+            "label": "drop"
+        },
+        {
+            "start": 153.7,
+            "end": 169.06,
+            "label": "break"
+        },
+        {
+            "start": 169.06,
+            "end": 199.77,
+            "label": "break"
+        },
+        {
+            "start": 199.77,
+            "end": 215.15,
+            "label": "break"
+        },
+        {
+            "start": 215.15,
+            "end": 245.86,
+            "label": "drop"
+        },
+        {
+            "start": 245.86,
+            "end": 261.22,
+            "label": "drop"
+        },
+        {
+            "start": 261.22,
+            "end": 276.58,
+            "label": "drop"
+        },
+        {
+            "start": 276.58,
+            "end": 291.94,
+            "label": "drop"
+        },
+        {
+            "start": 291.94,
+            "end": 322.66,
+            "label": "drop"
+        },
+        {
+            "start": 322.66,
+            "end": 338.02,
+            "label": "drop"
+        },
+        {
+            "start": 338.02,
+            "end": 354.34000000000003,
+            "label": "outro"
+        },
+        {
+            "start": 354.34000000000003,
+            "end": 370.19,
+            "label": "outro"
+        },
+        {
+            "start": 370.19,
+            "end": 371.49,
+            "label": "outro"
+        }
+    ]
+}

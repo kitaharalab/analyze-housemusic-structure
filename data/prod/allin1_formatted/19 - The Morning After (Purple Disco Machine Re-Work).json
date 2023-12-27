@@ -1,0 +1,125 @@
+{
+    "path": "../data/prod/allin1_4_read/19 - The Morning After (Purple Disco Machine Re-Work).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.01,
+            "label": "intro"
+        },
+        {
+            "start": 0.01,
+            "end": 15.92,
+            "label": "intro"
+        },
+        {
+            "start": 15.92,
+            "end": 31.83,
+            "label": "intro"
+        },
+        {
+            "start": 31.83,
+            "end": 47.73,
+            "label": "intro"
+        },
+        {
+            "start": 47.73,
+            "end": 63.64,
+            "label": "intro"
+        },
+        {
+            "start": 63.64,
+            "end": 80.53999999999999,
+            "label": "intro"
+        },
+        {
+            "start": 80.53999999999999,
+            "end": 95.46000000000001,
+            "label": "intro"
+        },
+        {
+            "start": 95.46000000000001,
+            "end": 111.37,
+            "label": "drop"
+        },
+        {
+            "start": 111.37,
+            "end": 127.27,
+            "label": "drop"
+        },
+        {
+            "start": 127.27,
+            "end": 143.18,
+            "label": "drop"
+        },
+        {
+            "start": 143.18,
+            "end": 159.09,
+            "label": "drop"
+        },
+        {
+            "start": 159.09,
+            "end": 175.98,
+            "label": "break"
+        },
+        {
+            "start": 175.98,
+            "end": 190.9,
+            "label": "break"
+        },
+        {
+            "start": 190.9,
+            "end": 222.71,
+            "label": "drop"
+        },
+        {
+            "start": 222.71,
+            "end": 254.53,
+            "label": "drop"
+        },
+        {
+            "start": 254.53,
+            "end": 270.44,
+            "label": "break"
+        },
+        {
+            "start": 270.44,
+            "end": 286.34000000000003,
+            "label": "break"
+        },
+        {
+            "start": 286.34000000000003,
+            "end": 300.26,
+            "label": "drop"
+        },
+        {
+            "start": 300.26,
+            "end": 318.16,
+            "label": "drop"
+        },
+        {
+            "start": 318.16,
+            "end": 334.06,
+            "label": "drop"
+        },
+        {
+            "start": 334.06,
+            "end": 349.97,
+            "label": "break"
+        },
+        {
+            "start": 349.97,
+            "end": 365.88,
+            "label": "break"
+        },
+        {
+            "start": 365.88,
+            "end": 381.81,
+            "label": "outro"
+        },
+        {
+            "start": 381.81,
+            "end": 388.69,
+            "label": "outro"
+        }
+    ]
+}

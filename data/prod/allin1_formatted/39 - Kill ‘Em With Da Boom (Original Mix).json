@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/39 - Kill \u2018Em With Da Boom (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.47,
+            "label": "intro"
+        },
+        {
+            "start": 0.47,
+            "end": 18.86,
+            "label": "intro"
+        },
+        {
+            "start": 18.86,
+            "end": 45.96,
+            "label": "break"
+        },
+        {
+            "start": 45.96,
+            "end": 62.41,
+            "label": "break"
+        },
+        {
+            "start": 62.41,
+            "end": 77.89,
+            "label": "drop"
+        },
+        {
+            "start": 77.89,
+            "end": 93.38,
+            "label": "drop"
+        },
+        {
+            "start": 93.38,
+            "end": 108.86,
+            "label": "break"
+        },
+        {
+            "start": 108.86,
+            "end": 124.35,
+            "label": "break"
+        },
+        {
+            "start": 124.35,
+            "end": 139.82999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 139.82999999999998,
+            "end": 159.19,
+            "label": "drop"
+        },
+        {
+            "start": 159.19,
+            "end": 174.67000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 174.67000000000002,
+            "end": 190.16,
+            "label": "drop"
+        },
+        {
+            "start": 190.16,
+            "end": 221.12,
+            "label": "break"
+        },
+        {
+            "start": 221.12,
+            "end": 236.61,
+            "label": "break"
+        },
+        {
+            "start": 236.61,
+            "end": 252.09,
+            "label": "drop"
+        },
+        {
+            "start": 252.09,
+            "end": 267.57,
+            "label": "drop"
+        },
+        {
+            "start": 267.57,
+            "end": 283.05,
+            "label": "drop"
+        },
+        {
+            "start": 283.05,
+            "end": 298.54,
+            "label": "drop"
+        },
+        {
+            "start": 298.54,
+            "end": 314.02,
+            "label": "drop"
+        },
+        {
+            "start": 314.02,
+            "end": 329.5,
+            "label": "drop"
+        },
+        {
+            "start": 329.5,
+            "end": 344.99,
+            "label": "outro"
+        },
+        {
+            "start": 344.99,
+            "end": 360.46,
+            "label": "outro"
+        },
+        {
+            "start": 360.46,
+            "end": 368.25,
+            "label": "outro"
+        }
+    ]
+}

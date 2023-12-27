@@ -1,0 +1,110 @@
+{
+    "path": "../data/prod/allin1_4_read/21 - Jerk It (Sorley Street Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.11,
+            "label": "intro"
+        },
+        {
+            "start": 0.11,
+            "end": 16.11,
+            "label": "intro"
+        },
+        {
+            "start": 16.11,
+            "end": 28.74,
+            "label": "break"
+        },
+        {
+            "start": 28.74,
+            "end": 57.61,
+            "label": "drop"
+        },
+        {
+            "start": 57.61,
+            "end": 72.03999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 72.03999999999999,
+            "end": 86.48,
+            "label": "drop"
+        },
+        {
+            "start": 86.48,
+            "end": 100.92,
+            "label": "drop"
+        },
+        {
+            "start": 100.92,
+            "end": 113.55,
+            "label": "drop"
+        },
+        {
+            "start": 113.55,
+            "end": 129.79,
+            "label": "drop"
+        },
+        {
+            "start": 129.79,
+            "end": 144.22,
+            "label": "break"
+        },
+        {
+            "start": 144.22,
+            "end": 166.77,
+            "label": "break"
+        },
+        {
+            "start": 166.77,
+            "end": 190.79,
+            "label": "break"
+        },
+        {
+            "start": 190.79,
+            "end": 205.22,
+            "label": "drop"
+        },
+        {
+            "start": 205.22,
+            "end": 219.66,
+            "label": "drop"
+        },
+        {
+            "start": 219.66,
+            "end": 234.09,
+            "label": "drop"
+        },
+        {
+            "start": 234.09,
+            "end": 248.54,
+            "label": "drop"
+        },
+        {
+            "start": 248.54,
+            "end": 262.97,
+            "label": "drop"
+        },
+        {
+            "start": 262.97,
+            "end": 277.4,
+            "label": "drop"
+        },
+        {
+            "start": 277.4,
+            "end": 291.84000000000003,
+            "label": "drop"
+        },
+        {
+            "start": 291.84000000000003,
+            "end": 304.5,
+            "label": "outro"
+        },
+        {
+            "start": 304.5,
+            "end": 306.8,
+            "label": "outro"
+        }
+    ]
+}

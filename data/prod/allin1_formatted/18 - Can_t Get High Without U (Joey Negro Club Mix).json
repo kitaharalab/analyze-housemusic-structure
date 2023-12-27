@@ -1,0 +1,145 @@
+{
+    "path": "../data/prod/allin1_4_read/18 - Can_t Get High Without U (Joey Negro Club Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.04,
+            "label": "intro"
+        },
+        {
+            "start": 0.04,
+            "end": 15.04,
+            "label": "intro"
+        },
+        {
+            "start": 15.04,
+            "end": 30.03,
+            "label": "intro"
+        },
+        {
+            "start": 30.03,
+            "end": 45.05,
+            "label": "intro"
+        },
+        {
+            "start": 45.05,
+            "end": 61.92,
+            "label": "break"
+        },
+        {
+            "start": 61.92,
+            "end": 75.05,
+            "label": "break"
+        },
+        {
+            "start": 75.05,
+            "end": 90.05,
+            "label": "break"
+        },
+        {
+            "start": 90.05,
+            "end": 105.05,
+            "label": "break"
+        },
+        {
+            "start": 105.05,
+            "end": 120.05,
+            "label": "drop"
+        },
+        {
+            "start": 120.05,
+            "end": 135.05,
+            "label": "drop"
+        },
+        {
+            "start": 135.05,
+            "end": 150.05,
+            "label": "drop"
+        },
+        {
+            "start": 150.05,
+            "end": 165.05,
+            "label": "drop"
+        },
+        {
+            "start": 165.05,
+            "end": 180.05,
+            "label": "break"
+        },
+        {
+            "start": 180.05,
+            "end": 195.06,
+            "label": "break"
+        },
+        {
+            "start": 195.06,
+            "end": 210.06,
+            "label": "drop"
+        },
+        {
+            "start": 210.06,
+            "end": 225.07,
+            "label": "drop"
+        },
+        {
+            "start": 225.07,
+            "end": 240.07,
+            "label": "drop"
+        },
+        {
+            "start": 240.07,
+            "end": 255.07,
+            "label": "drop"
+        },
+        {
+            "start": 255.07,
+            "end": 270.07,
+            "label": "break"
+        },
+        {
+            "start": 270.07,
+            "end": 285.07,
+            "label": "break"
+        },
+        {
+            "start": 285.07,
+            "end": 300.08,
+            "label": "break"
+        },
+        {
+            "start": 300.08,
+            "end": 315.08,
+            "label": "break"
+        },
+        {
+            "start": 315.08,
+            "end": 330.09,
+            "label": "drop"
+        },
+        {
+            "start": 330.09,
+            "end": 345.09000000000003,
+            "label": "drop"
+        },
+        {
+            "start": 345.09000000000003,
+            "end": 360.09,
+            "label": "outro"
+        },
+        {
+            "start": 360.09,
+            "end": 375.1,
+            "label": "outro"
+        },
+        {
+            "start": 375.1,
+            "end": 390.1,
+            "label": "outro"
+        },
+        {
+            "start": 390.1,
+            "end": 392.83,
+            "label": "outro"
+        }
+    ]
+}

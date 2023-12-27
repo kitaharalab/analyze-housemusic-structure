@@ -1,0 +1,60 @@
+{
+    "path": "../data/prod/allin1_4_read/41 - Live My Life.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 19.68,
+            "label": "intro"
+        },
+        {
+            "start": 19.68,
+            "end": 35.41,
+            "label": "intro"
+        },
+        {
+            "start": 35.41,
+            "end": 59.02,
+            "label": "drop"
+        },
+        {
+            "start": 59.02,
+            "end": 77.71000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 77.71000000000001,
+            "end": 90.5,
+            "label": "drop"
+        },
+        {
+            "start": 90.5,
+            "end": 113.12,
+            "label": "drop"
+        },
+        {
+            "start": 113.12,
+            "end": 129.85,
+            "label": "break"
+        },
+        {
+            "start": 129.85,
+            "end": 145.57999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 145.57999999999998,
+            "end": 168.2,
+            "label": "drop"
+        },
+        {
+            "start": 168.2,
+            "end": 206.22,
+            "label": "outro"
+        }
+    ]
+}

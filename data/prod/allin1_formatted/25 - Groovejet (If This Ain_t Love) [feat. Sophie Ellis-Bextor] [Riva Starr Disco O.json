@@ -1,0 +1,95 @@
+{
+    "path": "../data/prod/allin1_4_read/25 - Groovejet (If This Ain_t Love) [feat. Sophie Ellis-Bextor] [Riva Starr Disco O.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 20.18,
+            "label": "intro"
+        },
+        {
+            "start": 20.18,
+            "end": 36.31,
+            "label": "intro"
+        },
+        {
+            "start": 36.31,
+            "end": 52.45,
+            "label": "intro"
+        },
+        {
+            "start": 52.45,
+            "end": 68.58,
+            "label": "break"
+        },
+        {
+            "start": 68.58,
+            "end": 84.72,
+            "label": "drop"
+        },
+        {
+            "start": 84.72,
+            "end": 116.99000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 116.99000000000001,
+            "end": 133.12,
+            "label": "drop"
+        },
+        {
+            "start": 133.12,
+            "end": 165.39,
+            "label": "drop"
+        },
+        {
+            "start": 165.39,
+            "end": 189.59,
+            "label": "break"
+        },
+        {
+            "start": 189.59,
+            "end": 205.73,
+            "label": "break"
+        },
+        {
+            "start": 205.73,
+            "end": 221.86,
+            "label": "break"
+        },
+        {
+            "start": 221.86,
+            "end": 237.99,
+            "label": "drop"
+        },
+        {
+            "start": 237.99,
+            "end": 254.12,
+            "label": "drop"
+        },
+        {
+            "start": 254.12,
+            "end": 302.53,
+            "label": "drop"
+        },
+        {
+            "start": 302.53,
+            "end": 318.66,
+            "label": "drop"
+        },
+        {
+            "start": 318.66,
+            "end": 334.79,
+            "label": "drop"
+        },
+        {
+            "start": 334.79,
+            "end": 341.37,
+            "label": "outro"
+        }
+    ]
+}

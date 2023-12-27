@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/24 - Feel Better.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.01,
+            "label": "intro"
+        },
+        {
+            "start": 0.01,
+            "end": 15.2,
+            "label": "intro"
+        },
+        {
+            "start": 15.2,
+            "end": 30.46,
+            "label": "drop"
+        },
+        {
+            "start": 30.46,
+            "end": 47.58,
+            "label": "break"
+        },
+        {
+            "start": 47.58,
+            "end": 60.93,
+            "label": "break"
+        },
+        {
+            "start": 60.93,
+            "end": 75.2,
+            "label": "break"
+        },
+        {
+            "start": 75.2,
+            "end": 91.4,
+            "label": "drop"
+        },
+        {
+            "start": 91.4,
+            "end": 114.25999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 114.25999999999999,
+            "end": 137.13,
+            "label": "drop"
+        },
+        {
+            "start": 137.13,
+            "end": 154.24,
+            "label": "break"
+        },
+        {
+            "start": 154.24,
+            "end": 167.57999999999998,
+            "label": "break"
+        },
+        {
+            "start": 167.57999999999998,
+            "end": 182.82,
+            "label": "break"
+        },
+        {
+            "start": 182.82,
+            "end": 198.06,
+            "label": "drop"
+        },
+        {
+            "start": 198.06,
+            "end": 213.3,
+            "label": "drop"
+        },
+        {
+            "start": 213.3,
+            "end": 228.54,
+            "label": "drop"
+        },
+        {
+            "start": 228.54,
+            "end": 243.79,
+            "label": "drop"
+        },
+        {
+            "start": 243.79,
+            "end": 260.92,
+            "label": "break"
+        },
+        {
+            "start": 260.92,
+            "end": 274.26,
+            "label": "drop"
+        },
+        {
+            "start": 274.26,
+            "end": 304.73,
+            "label": "drop"
+        },
+        {
+            "start": 304.73,
+            "end": 319.97,
+            "label": "drop"
+        },
+        {
+            "start": 319.97,
+            "end": 333.31,
+            "label": "outro"
+        },
+        {
+            "start": 333.31,
+            "end": 337.09000000000003,
+            "label": "outro"
+        }
+    ]
+}

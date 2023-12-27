@@ -1,0 +1,105 @@
+{
+    "path": "../data/prod/allin1_4_read/14 - Almasti.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.05,
+            "label": "intro"
+        },
+        {
+            "start": 0.05,
+            "end": 39.39,
+            "label": "intro"
+        },
+        {
+            "start": 39.39,
+            "end": 63.0,
+            "label": "intro"
+        },
+        {
+            "start": 63.0,
+            "end": 86.61,
+            "label": "drop"
+        },
+        {
+            "start": 86.61,
+            "end": 102.35,
+            "label": "break"
+        },
+        {
+            "start": 102.35,
+            "end": 117.84,
+            "label": "break"
+        },
+        {
+            "start": 117.84,
+            "end": 133.82,
+            "label": "break"
+        },
+        {
+            "start": 133.82,
+            "end": 149.55,
+            "label": "drop"
+        },
+        {
+            "start": 149.55,
+            "end": 181.03,
+            "label": "break"
+        },
+        {
+            "start": 181.03,
+            "end": 196.77,
+            "label": "drop"
+        },
+        {
+            "start": 196.77,
+            "end": 212.5,
+            "label": "drop"
+        },
+        {
+            "start": 212.5,
+            "end": 228.48,
+            "label": "break"
+        },
+        {
+            "start": 228.48,
+            "end": 259.72,
+            "label": "break"
+        },
+        {
+            "start": 259.72,
+            "end": 274.96,
+            "label": "drop"
+        },
+        {
+            "start": 274.96,
+            "end": 306.45,
+            "label": "drop"
+        },
+        {
+            "start": 306.45,
+            "end": 322.18,
+            "label": "drop"
+        },
+        {
+            "start": 322.18,
+            "end": 341.85,
+            "label": "drop"
+        },
+        {
+            "start": 341.85,
+            "end": 365.21,
+            "label": "outro"
+        },
+        {
+            "start": 365.21,
+            "end": 382.17,
+            "label": "outro"
+        },
+        {
+            "start": 382.17,
+            "end": 385.19,
+            "label": "outro"
+        }
+    ]
+}

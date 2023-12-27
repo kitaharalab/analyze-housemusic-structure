@@ -1,0 +1,110 @@
+{
+    "path": "../data/prod/allin1_4_read/06 - Doctor Love (Kerri_s Lost Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.07,
+            "label": "intro"
+        },
+        {
+            "start": 0.07,
+            "end": 31.04,
+            "label": "intro"
+        },
+        {
+            "start": 31.04,
+            "end": 54.28,
+            "label": "break"
+        },
+        {
+            "start": 54.28,
+            "end": 73.62,
+            "label": "drop"
+        },
+        {
+            "start": 73.62,
+            "end": 89.11,
+            "label": "break"
+        },
+        {
+            "start": 89.11,
+            "end": 115.43,
+            "label": "drop"
+        },
+        {
+            "start": 115.43,
+            "end": 131.68,
+            "label": "break"
+        },
+        {
+            "start": 131.68,
+            "end": 149.11,
+            "label": "drop"
+        },
+        {
+            "start": 149.11,
+            "end": 166.52,
+            "label": "drop"
+        },
+        {
+            "start": 166.52,
+            "end": 201.36,
+            "label": "drop"
+        },
+        {
+            "start": 201.36,
+            "end": 226.5,
+            "label": "break"
+        },
+        {
+            "start": 226.5,
+            "end": 265.24,
+            "label": "break"
+        },
+        {
+            "start": 265.24,
+            "end": 294.27,
+            "label": "break"
+        },
+        {
+            "start": 294.27,
+            "end": 311.69,
+            "label": "break"
+        },
+        {
+            "start": 311.69,
+            "end": 346.52,
+            "label": "drop"
+        },
+        {
+            "start": 346.52,
+            "end": 369.75,
+            "label": "break"
+        },
+        {
+            "start": 369.75,
+            "end": 387.17,
+            "label": "drop"
+        },
+        {
+            "start": 387.17,
+            "end": 416.21,
+            "label": "break"
+        },
+        {
+            "start": 416.21,
+            "end": 437.49,
+            "label": "break"
+        },
+        {
+            "start": 437.49,
+            "end": 468.46,
+            "label": "outro"
+        },
+        {
+            "start": 468.46,
+            "end": 472.33,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "path": "../data/prod/allin1_4_read/10 - What Would You Do_ (feat. Andr\u00e9s _ Amp Fiddler) [Two Soul Fusion Remix].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.09,
+            "label": "intro"
+        },
+        {
+            "start": 0.09,
+            "end": 15.46,
+            "label": "intro"
+        },
+        {
+            "start": 15.46,
+            "end": 30.82,
+            "label": "intro"
+        },
+        {
+            "start": 30.82,
+            "end": 53.85,
+            "label": "break"
+        },
+        {
+            "start": 53.85,
+            "end": 69.22,
+            "label": "drop"
+        },
+        {
+            "start": 69.22,
+            "end": 84.58,
+            "label": "break"
+        },
+        {
+            "start": 84.58,
+            "end": 117.22,
+            "label": "drop"
+        },
+        {
+            "start": 117.22,
+            "end": 134.5,
+            "label": "drop"
+        },
+        {
+            "start": 134.5,
+            "end": 161.38,
+            "label": "drop"
+        },
+        {
+            "start": 161.38,
+            "end": 186.34,
+            "label": "outro"
+        },
+        {
+            "start": 186.34,
+            "end": 187.91,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "path": "../data/prod/allin1_4_read/05 - Found A Cure (Joey Negro Found A Dub Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.05,
+            "label": "intro"
+        },
+        {
+            "start": 0.05,
+            "end": 15.78,
+            "label": "intro"
+        },
+        {
+            "start": 15.78,
+            "end": 31.53,
+            "label": "intro"
+        },
+        {
+            "start": 31.53,
+            "end": 47.26,
+            "label": "drop"
+        },
+        {
+            "start": 47.26,
+            "end": 63.0,
+            "label": "drop"
+        },
+        {
+            "start": 63.0,
+            "end": 78.74,
+            "label": "drop"
+        },
+        {
+            "start": 78.74,
+            "end": 94.47999999999999,
+            "label": "break"
+        },
+        {
+            "start": 94.47999999999999,
+            "end": 110.22,
+            "label": "break"
+        },
+        {
+            "start": 110.22,
+            "end": 125.96,
+            "label": "break"
+        },
+        {
+            "start": 125.96,
+            "end": 141.69,
+            "label": "drop"
+        },
+        {
+            "start": 141.69,
+            "end": 157.42000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 157.42000000000002,
+            "end": 173.17000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 173.17000000000002,
+            "end": 188.9,
+            "label": "break"
+        },
+        {
+            "start": 188.9,
+            "end": 220.39,
+            "label": "break"
+        },
+        {
+            "start": 220.39,
+            "end": 236.12,
+            "label": "break"
+        },
+        {
+            "start": 236.12,
+            "end": 251.86,
+            "label": "drop"
+        },
+        {
+            "start": 251.86,
+            "end": 270.55,
+            "label": "drop"
+        },
+        {
+            "start": 270.55,
+            "end": 301.04,
+            "label": "drop"
+        },
+        {
+            "start": 301.04,
+            "end": 316.78,
+            "label": "drop"
+        },
+        {
+            "start": 316.78,
+            "end": 332.52,
+            "label": "drop"
+        },
+        {
+            "start": 332.52,
+            "end": 348.25,
+            "label": "drop"
+        },
+        {
+            "start": 348.25,
+            "end": 363.99,
+            "label": "outro"
+        },
+        {
+            "start": 363.99,
+            "end": 379.72,
+            "label": "outro"
+        },
+        {
+            "start": 379.72,
+            "end": 395.76,
+            "label": "outro"
+        },
+        {
+            "start": 395.76,
+            "end": 398.0,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "path": "../data/prod/allin1_4_read/29 - Pineapple Jam (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.06,
+            "label": "intro"
+        },
+        {
+            "start": 0.06,
+            "end": 15.92,
+            "label": "intro"
+        },
+        {
+            "start": 15.92,
+            "end": 31.79,
+            "label": "intro"
+        },
+        {
+            "start": 31.79,
+            "end": 47.67,
+            "label": "intro"
+        },
+        {
+            "start": 47.67,
+            "end": 63.53,
+            "label": "break"
+        },
+        {
+            "start": 63.53,
+            "end": 87.33,
+            "label": "drop"
+        },
+        {
+            "start": 87.33,
+            "end": 104.19,
+            "label": "drop"
+        },
+        {
+            "start": 104.19,
+            "end": 134.93,
+            "label": "drop"
+        },
+        {
+            "start": 134.93,
+            "end": 150.81,
+            "label": "break"
+        },
+        {
+            "start": 150.81,
+            "end": 166.67000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 166.67000000000002,
+            "end": 182.54,
+            "label": "drop"
+        },
+        {
+            "start": 182.54,
+            "end": 230.14,
+            "label": "drop"
+        },
+        {
+            "start": 230.14,
+            "end": 246.01,
+            "label": "break"
+        },
+        {
+            "start": 246.01,
+            "end": 261.88,
+            "label": "break"
+        },
+        {
+            "start": 261.88,
+            "end": 274.76,
+            "label": "drop"
+        },
+        {
+            "start": 274.76,
+            "end": 317.41,
+            "label": "drop"
+        },
+        {
+            "start": 317.41,
+            "end": 341.11,
+            "label": "outro"
+        },
+        {
+            "start": 341.11,
+            "end": 343.36,
+            "label": "outro"
+        }
+    ]
+}

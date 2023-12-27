@@ -1,0 +1,90 @@
+{
+    "path": "../data/prod/allin1_4_read/Bralan Arias - BEST OF 2022 - 06 Duke_s Jazz (Boogietraxx Remix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 14.99,
+            "label": "intro"
+        },
+        {
+            "start": 14.99,
+            "end": 37.5,
+            "label": "intro"
+        },
+        {
+            "start": 37.5,
+            "end": 59.99,
+            "label": "break"
+        },
+        {
+            "start": 59.99,
+            "end": 90.0,
+            "label": "drop"
+        },
+        {
+            "start": 90.0,
+            "end": 105.0,
+            "label": "drop"
+        },
+        {
+            "start": 105.0,
+            "end": 119.99000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 119.99000000000001,
+            "end": 135.93,
+            "label": "break"
+        },
+        {
+            "start": 135.93,
+            "end": 149.06,
+            "label": "break"
+        },
+        {
+            "start": 149.06,
+            "end": 164.99,
+            "label": "break"
+        },
+        {
+            "start": 164.99,
+            "end": 179.06,
+            "label": "drop"
+        },
+        {
+            "start": 179.06,
+            "end": 195.0,
+            "label": "drop"
+        },
+        {
+            "start": 195.0,
+            "end": 210.0,
+            "label": "drop"
+        },
+        {
+            "start": 210.0,
+            "end": 225.0,
+            "label": "drop"
+        },
+        {
+            "start": 225.0,
+            "end": 240.0,
+            "label": "drop"
+        },
+        {
+            "start": 240.0,
+            "end": 254.99,
+            "label": "drop"
+        },
+        {
+            "start": 254.99,
+            "end": 285.0,
+            "label": "outro"
+        },
+        {
+            "start": 285.0,
+            "end": 292.5,
+            "label": "outro"
+        }
+    ]
+}

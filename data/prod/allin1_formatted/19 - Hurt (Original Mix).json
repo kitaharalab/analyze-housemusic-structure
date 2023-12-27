@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/19 - Hurt (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.35,
+            "label": "intro"
+        },
+        {
+            "start": 0.35,
+            "end": 31.31,
+            "label": "intro"
+        },
+        {
+            "start": 31.31,
+            "end": 46.8,
+            "label": "intro"
+        },
+        {
+            "start": 46.8,
+            "end": 62.28,
+            "label": "intro"
+        },
+        {
+            "start": 62.28,
+            "end": 77.76,
+            "label": "drop"
+        },
+        {
+            "start": 77.76,
+            "end": 93.25,
+            "label": "drop"
+        },
+        {
+            "start": 93.25,
+            "end": 108.74000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 108.74000000000001,
+            "end": 124.22,
+            "label": "break"
+        },
+        {
+            "start": 124.22,
+            "end": 139.7,
+            "label": "break"
+        },
+        {
+            "start": 139.7,
+            "end": 155.18,
+            "label": "drop"
+        },
+        {
+            "start": 155.18,
+            "end": 170.67000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 170.67000000000002,
+            "end": 186.16,
+            "label": "drop"
+        },
+        {
+            "start": 186.16,
+            "end": 201.64,
+            "label": "drop"
+        },
+        {
+            "start": 201.64,
+            "end": 217.13,
+            "label": "break"
+        },
+        {
+            "start": 217.13,
+            "end": 232.61,
+            "label": "break"
+        },
+        {
+            "start": 232.61,
+            "end": 248.09,
+            "label": "break"
+        },
+        {
+            "start": 248.09,
+            "end": 263.58,
+            "label": "break"
+        },
+        {
+            "start": 263.58,
+            "end": 279.06,
+            "label": "break"
+        },
+        {
+            "start": 279.06,
+            "end": 294.54,
+            "label": "drop"
+        },
+        {
+            "start": 294.54,
+            "end": 310.03,
+            "label": "drop"
+        },
+        {
+            "start": 310.03,
+            "end": 325.51,
+            "label": "drop"
+        },
+        {
+            "start": 325.51,
+            "end": 340.99,
+            "label": "drop"
+        },
+        {
+            "start": 340.99,
+            "end": 371.96,
+            "label": "drop"
+        },
+        {
+            "start": 371.96,
+            "end": 387.44,
+            "label": "break"
+        },
+        {
+            "start": 387.44,
+            "end": 402.94,
+            "label": "break"
+        },
+        {
+            "start": 402.94,
+            "end": 403.02,
+            "label": "outro"
+        }
+    ]
+}

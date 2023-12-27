@@ -1,0 +1,75 @@
+{
+    "path": "../data/prod/allin1_4_read/16 - Dr. Melonball.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 17.29,
+            "label": "intro"
+        },
+        {
+            "start": 17.29,
+            "end": 30.73,
+            "label": "drop"
+        },
+        {
+            "start": 30.73,
+            "end": 46.1,
+            "label": "drop"
+        },
+        {
+            "start": 46.1,
+            "end": 76.81,
+            "label": "break"
+        },
+        {
+            "start": 76.81,
+            "end": 92.17,
+            "label": "drop"
+        },
+        {
+            "start": 92.17,
+            "end": 107.53,
+            "label": "drop"
+        },
+        {
+            "start": 107.53,
+            "end": 122.89,
+            "label": "break"
+        },
+        {
+            "start": 122.89,
+            "end": 138.25,
+            "label": "break"
+        },
+        {
+            "start": 138.25,
+            "end": 167.06,
+            "label": "break"
+        },
+        {
+            "start": 167.06,
+            "end": 192.01,
+            "label": "drop"
+        },
+        {
+            "start": 192.01,
+            "end": 215.05,
+            "label": "drop"
+        },
+        {
+            "start": 215.05,
+            "end": 230.41,
+            "label": "outro"
+        },
+        {
+            "start": 230.41,
+            "end": 232.34,
+            "label": "outro"
+        }
+    ]
+}

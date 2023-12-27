@@ -1,0 +1,95 @@
+{
+    "path": "../data/prod/allin1_4_read/43 - God Made Me Phunky (Extended Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.14,
+            "label": "intro"
+        },
+        {
+            "start": 0.14,
+            "end": 15.13,
+            "label": "intro"
+        },
+        {
+            "start": 15.13,
+            "end": 30.13,
+            "label": "drop"
+        },
+        {
+            "start": 30.13,
+            "end": 45.13,
+            "label": "drop"
+        },
+        {
+            "start": 45.13,
+            "end": 77.01,
+            "label": "drop"
+        },
+        {
+            "start": 77.01,
+            "end": 123.89,
+            "label": "drop"
+        },
+        {
+            "start": 123.89,
+            "end": 138.9,
+            "label": "drop"
+        },
+        {
+            "start": 138.9,
+            "end": 174.52,
+            "label": "drop"
+        },
+        {
+            "start": 174.52,
+            "end": 189.52,
+            "label": "drop"
+        },
+        {
+            "start": 189.52,
+            "end": 212.02,
+            "label": "drop"
+        },
+        {
+            "start": 212.02,
+            "end": 245.77,
+            "label": "drop"
+        },
+        {
+            "start": 245.77,
+            "end": 263.59,
+            "label": "drop"
+        },
+        {
+            "start": 263.59,
+            "end": 285.15,
+            "label": "drop"
+        },
+        {
+            "start": 285.15,
+            "end": 315.15,
+            "label": "drop"
+        },
+        {
+            "start": 315.15,
+            "end": 330.15,
+            "label": "drop"
+        },
+        {
+            "start": 330.15,
+            "end": 352.65999999999997,
+            "label": "drop"
+        },
+        {
+            "start": 352.65999999999997,
+            "end": 367.66,
+            "label": "outro"
+        },
+        {
+            "start": 367.66,
+            "end": 376.63,
+            "label": "outro"
+        }
+    ]
+}

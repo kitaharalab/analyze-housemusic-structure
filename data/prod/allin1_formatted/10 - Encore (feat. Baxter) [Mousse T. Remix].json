@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/10 - Encore (feat. Baxter) [Mousse T. Remix].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 16.01,
+            "label": "intro"
+        },
+        {
+            "start": 16.01,
+            "end": 32.01,
+            "label": "intro"
+        },
+        {
+            "start": 32.01,
+            "end": 48.01,
+            "label": "intro"
+        },
+        {
+            "start": 48.01,
+            "end": 64.02,
+            "label": "intro"
+        },
+        {
+            "start": 64.02,
+            "end": 80.02,
+            "label": "break"
+        },
+        {
+            "start": 80.02,
+            "end": 96.02000000000001,
+            "label": "break"
+        },
+        {
+            "start": 96.02000000000001,
+            "end": 128.02,
+            "label": "drop"
+        },
+        {
+            "start": 128.02,
+            "end": 144.01,
+            "label": "drop"
+        },
+        {
+            "start": 144.01,
+            "end": 160.02,
+            "label": "drop"
+        },
+        {
+            "start": 160.02,
+            "end": 176.02,
+            "label": "break"
+        },
+        {
+            "start": 176.02,
+            "end": 192.02,
+            "label": "break"
+        },
+        {
+            "start": 192.02,
+            "end": 208.02,
+            "label": "break"
+        },
+        {
+            "start": 208.02,
+            "end": 222.03,
+            "label": "break"
+        },
+        {
+            "start": 222.03,
+            "end": 240.02,
+            "label": "drop"
+        },
+        {
+            "start": 240.02,
+            "end": 254.02,
+            "label": "drop"
+        },
+        {
+            "start": 254.02,
+            "end": 272.01,
+            "label": "drop"
+        },
+        {
+            "start": 272.01,
+            "end": 288.02,
+            "label": "drop"
+        },
+        {
+            "start": 288.02,
+            "end": 304.01,
+            "label": "drop"
+        },
+        {
+            "start": 304.01,
+            "end": 320.01,
+            "label": "outro"
+        },
+        {
+            "start": 320.01,
+            "end": 336.01,
+            "label": "outro"
+        },
+        {
+            "start": 336.01,
+            "end": 352.02,
+            "label": "outro"
+        },
+        {
+            "start": 352.02,
+            "end": 363.83,
+            "label": "outro"
+        }
+    ]
+}

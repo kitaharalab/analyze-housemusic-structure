@@ -1,0 +1,130 @@
+{
+    "path": "../data/prod/allin1_4_read/07 - End This Hate (Todd Edwards Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 15.38,
+            "label": "intro"
+        },
+        {
+            "start": 15.38,
+            "end": 30.27,
+            "label": "drop"
+        },
+        {
+            "start": 30.27,
+            "end": 46.11,
+            "label": "drop"
+        },
+        {
+            "start": 46.11,
+            "end": 61.47,
+            "label": "drop"
+        },
+        {
+            "start": 61.47,
+            "end": 76.83,
+            "label": "drop"
+        },
+        {
+            "start": 76.83,
+            "end": 92.19,
+            "label": "drop"
+        },
+        {
+            "start": 92.19,
+            "end": 107.53999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 107.53999999999999,
+            "end": 122.9,
+            "label": "drop"
+        },
+        {
+            "start": 122.9,
+            "end": 138.27,
+            "label": "drop"
+        },
+        {
+            "start": 138.27,
+            "end": 153.63,
+            "label": "drop"
+        },
+        {
+            "start": 153.63,
+            "end": 168.98,
+            "label": "break"
+        },
+        {
+            "start": 168.98,
+            "end": 184.35,
+            "label": "drop"
+        },
+        {
+            "start": 184.35,
+            "end": 199.7,
+            "label": "break"
+        },
+        {
+            "start": 199.7,
+            "end": 215.07,
+            "label": "break"
+        },
+        {
+            "start": 215.07,
+            "end": 230.42000000000002,
+            "label": "break"
+        },
+        {
+            "start": 230.42000000000002,
+            "end": 245.78,
+            "label": "break"
+        },
+        {
+            "start": 245.78,
+            "end": 261.14,
+            "label": "drop"
+        },
+        {
+            "start": 261.14,
+            "end": 276.51,
+            "label": "drop"
+        },
+        {
+            "start": 276.51,
+            "end": 291.86,
+            "label": "drop"
+        },
+        {
+            "start": 291.86,
+            "end": 307.22,
+            "label": "drop"
+        },
+        {
+            "start": 307.22,
+            "end": 322.58,
+            "label": "drop"
+        },
+        {
+            "start": 322.58,
+            "end": 349.46,
+            "label": "outro"
+        },
+        {
+            "start": 349.46,
+            "end": 365.67,
+            "label": "outro"
+        },
+        {
+            "start": 365.67,
+            "end": 365.68,
+            "label": "outro"
+        }
+    ]
+}

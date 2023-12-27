@@ -1,0 +1,65 @@
+{
+    "path": "../data/prod/allin1_4_read/30 - Day _ Night.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.11,
+            "label": "intro"
+        },
+        {
+            "start": 0.11,
+            "end": 38.51,
+            "label": "break"
+        },
+        {
+            "start": 38.51,
+            "end": 61.54,
+            "label": "break"
+        },
+        {
+            "start": 61.54,
+            "end": 76.9,
+            "label": "drop"
+        },
+        {
+            "start": 76.9,
+            "end": 92.25999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 92.25999999999999,
+            "end": 107.62,
+            "label": "drop"
+        },
+        {
+            "start": 107.62,
+            "end": 122.98,
+            "label": "drop"
+        },
+        {
+            "start": 122.98,
+            "end": 138.35,
+            "label": "drop"
+        },
+        {
+            "start": 138.35,
+            "end": 153.71,
+            "label": "drop"
+        },
+        {
+            "start": 153.71,
+            "end": 169.07,
+            "label": "drop"
+        },
+        {
+            "start": 169.07,
+            "end": 184.42,
+            "label": "outro"
+        },
+        {
+            "start": 184.42,
+            "end": 190.49,
+            "label": "outro"
+        }
+    ]
+}

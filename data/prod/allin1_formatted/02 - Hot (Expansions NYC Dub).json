@@ -1,0 +1,150 @@
+{
+    "path": "../data/prod/allin1_4_read/02 - Hot (Expansions NYC Dub).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 15.47,
+            "label": "intro"
+        },
+        {
+            "start": 15.47,
+            "end": 30.96,
+            "label": "intro"
+        },
+        {
+            "start": 30.96,
+            "end": 46.44,
+            "label": "drop"
+        },
+        {
+            "start": 46.44,
+            "end": 61.93,
+            "label": "drop"
+        },
+        {
+            "start": 61.93,
+            "end": 77.41,
+            "label": "drop"
+        },
+        {
+            "start": 77.41,
+            "end": 92.9,
+            "label": "drop"
+        },
+        {
+            "start": 92.9,
+            "end": 123.86,
+            "label": "drop"
+        },
+        {
+            "start": 123.86,
+            "end": 139.35,
+            "label": "drop"
+        },
+        {
+            "start": 139.35,
+            "end": 154.82999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 154.82999999999998,
+            "end": 170.32,
+            "label": "drop"
+        },
+        {
+            "start": 170.32,
+            "end": 185.8,
+            "label": "drop"
+        },
+        {
+            "start": 185.8,
+            "end": 201.27,
+            "label": "drop"
+        },
+        {
+            "start": 201.27,
+            "end": 216.77,
+            "label": "drop"
+        },
+        {
+            "start": 216.77,
+            "end": 232.25,
+            "label": "drop"
+        },
+        {
+            "start": 232.25,
+            "end": 255.47,
+            "label": "drop"
+        },
+        {
+            "start": 255.47,
+            "end": 286.45,
+            "label": "drop"
+        },
+        {
+            "start": 286.45,
+            "end": 301.93,
+            "label": "drop"
+        },
+        {
+            "start": 301.93,
+            "end": 317.41,
+            "label": "drop"
+        },
+        {
+            "start": 317.41,
+            "end": 331.92,
+            "label": "drop"
+        },
+        {
+            "start": 331.92,
+            "end": 348.38,
+            "label": "drop"
+        },
+        {
+            "start": 348.38,
+            "end": 363.86,
+            "label": "drop"
+        },
+        {
+            "start": 363.86,
+            "end": 379.34,
+            "label": "drop"
+        },
+        {
+            "start": 379.34,
+            "end": 394.83,
+            "label": "drop"
+        },
+        {
+            "start": 394.83,
+            "end": 410.31,
+            "label": "drop"
+        },
+        {
+            "start": 410.31,
+            "end": 425.8,
+            "label": "drop"
+        },
+        {
+            "start": 425.8,
+            "end": 441.28,
+            "label": "drop"
+        },
+        {
+            "start": 441.28,
+            "end": 456.76,
+            "label": "drop"
+        },
+        {
+            "start": 456.76,
+            "end": 472.25,
+            "label": "outro"
+        },
+        {
+            "start": 472.25,
+            "end": 475.89,
+            "label": "outro"
+        }
+    ]
+}

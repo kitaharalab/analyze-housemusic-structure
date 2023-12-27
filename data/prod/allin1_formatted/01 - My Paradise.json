@@ -1,0 +1,75 @@
+{
+    "path": "../data/prod/allin1_4_read/01 - My Paradise.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 14.08,
+            "label": "intro"
+        },
+        {
+            "start": 14.08,
+            "end": 30.02,
+            "label": "break"
+        },
+        {
+            "start": 30.02,
+            "end": 44.08,
+            "label": "drop"
+        },
+        {
+            "start": 44.08,
+            "end": 59.08,
+            "label": "drop"
+        },
+        {
+            "start": 59.08,
+            "end": 74.55,
+            "label": "break"
+        },
+        {
+            "start": 74.55,
+            "end": 90.02,
+            "label": "break"
+        },
+        {
+            "start": 90.02,
+            "end": 111.59,
+            "label": "drop"
+        },
+        {
+            "start": 111.59,
+            "end": 134.09,
+            "label": "drop"
+        },
+        {
+            "start": 134.09,
+            "end": 150.01,
+            "label": "break"
+        },
+        {
+            "start": 150.01,
+            "end": 164.07999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 164.07999999999998,
+            "end": 179.09,
+            "label": "drop"
+        },
+        {
+            "start": 179.09,
+            "end": 210.02,
+            "label": "outro"
+        },
+        {
+            "start": 210.02,
+            "end": 211.03,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "path": "../data/prod/allin1_4_read/23 - Sinner.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "break"
+        },
+        {
+            "start": 0.02,
+            "end": 22.21,
+            "label": "break"
+        },
+        {
+            "start": 22.21,
+            "end": 37.81,
+            "label": "break"
+        },
+        {
+            "start": 37.81,
+            "end": 52.93,
+            "label": "drop"
+        },
+        {
+            "start": 52.93,
+            "end": 68.05,
+            "label": "drop"
+        },
+        {
+            "start": 68.05,
+            "end": 83.17,
+            "label": "break"
+        },
+        {
+            "start": 83.17,
+            "end": 98.28,
+            "label": "break"
+        },
+        {
+            "start": 98.28,
+            "end": 112.93,
+            "label": "break"
+        },
+        {
+            "start": 112.93,
+            "end": 128.52,
+            "label": "break"
+        },
+        {
+            "start": 128.52,
+            "end": 143.63,
+            "label": "drop"
+        },
+        {
+            "start": 143.63,
+            "end": 173.88,
+            "label": "drop"
+        },
+        {
+            "start": 173.88,
+            "end": 188.99,
+            "label": "drop"
+        },
+        {
+            "start": 188.99,
+            "end": 204.11,
+            "label": "drop"
+        },
+        {
+            "start": 204.11,
+            "end": 219.23,
+            "label": "drop"
+        },
+        {
+            "start": 219.23,
+            "end": 238.35,
+            "label": "outro"
+        },
+        {
+            "start": 238.35,
+            "end": 238.36,
+            "label": "outro"
+        }
+    ]
+}

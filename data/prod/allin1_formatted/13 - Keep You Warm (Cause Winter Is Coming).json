@@ -1,0 +1,85 @@
+{
+    "path": "../data/prod/allin1_4_read/13 - Keep You Warm (Cause Winter Is Coming).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.03,
+            "label": "intro"
+        },
+        {
+            "start": 0.03,
+            "end": 23.25,
+            "label": "intro"
+        },
+        {
+            "start": 23.25,
+            "end": 35.83,
+            "label": "intro"
+        },
+        {
+            "start": 35.83,
+            "end": 54.23,
+            "label": "intro"
+        },
+        {
+            "start": 54.23,
+            "end": 69.71000000000001,
+            "label": "break"
+        },
+        {
+            "start": 69.71000000000001,
+            "end": 92.93,
+            "label": "drop"
+        },
+        {
+            "start": 92.93,
+            "end": 116.16,
+            "label": "drop"
+        },
+        {
+            "start": 116.16,
+            "end": 142.28,
+            "label": "break"
+        },
+        {
+            "start": 142.28,
+            "end": 163.57999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 163.57999999999998,
+            "end": 209.07,
+            "label": "break"
+        },
+        {
+            "start": 209.07,
+            "end": 232.29,
+            "label": "drop"
+        },
+        {
+            "start": 232.29,
+            "end": 271.0,
+            "label": "drop"
+        },
+        {
+            "start": 271.0,
+            "end": 294.23,
+            "label": "drop"
+        },
+        {
+            "start": 294.23,
+            "end": 309.71,
+            "label": "drop"
+        },
+        {
+            "start": 309.71,
+            "end": 332.93,
+            "label": "outro"
+        },
+        {
+            "start": 332.93,
+            "end": 337.67,
+            "label": "outro"
+        }
+    ]
+}

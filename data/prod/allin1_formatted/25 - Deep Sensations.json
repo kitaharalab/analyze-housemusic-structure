@@ -1,0 +1,100 @@
+{
+    "path": "../data/prod/allin1_4_read/25 - Deep Sensations.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.1,
+            "label": "intro"
+        },
+        {
+            "start": 0.1,
+            "end": 33.43,
+            "label": "break"
+        },
+        {
+            "start": 33.43,
+            "end": 49.6,
+            "label": "break"
+        },
+        {
+            "start": 49.6,
+            "end": 81.92,
+            "label": "break"
+        },
+        {
+            "start": 81.92,
+            "end": 98.08,
+            "label": "break"
+        },
+        {
+            "start": 98.08,
+            "end": 114.24000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 114.24000000000001,
+            "end": 130.4,
+            "label": "drop"
+        },
+        {
+            "start": 130.4,
+            "end": 170.81,
+            "label": "drop"
+        },
+        {
+            "start": 170.81,
+            "end": 186.97,
+            "label": "drop"
+        },
+        {
+            "start": 186.97,
+            "end": 211.45,
+            "label": "drop"
+        },
+        {
+            "start": 211.45,
+            "end": 243.54,
+            "label": "drop"
+        },
+        {
+            "start": 243.54,
+            "end": 267.78,
+            "label": "drop"
+        },
+        {
+            "start": 267.78,
+            "end": 283.93,
+            "label": "drop"
+        },
+        {
+            "start": 283.93,
+            "end": 300.1,
+            "label": "drop"
+        },
+        {
+            "start": 300.1,
+            "end": 332.43,
+            "label": "drop"
+        },
+        {
+            "start": 332.43,
+            "end": 356.67,
+            "label": "drop"
+        },
+        {
+            "start": 356.67,
+            "end": 372.83,
+            "label": "drop"
+        },
+        {
+            "start": 372.83,
+            "end": 396.27,
+            "label": "outro"
+        },
+        {
+            "start": 396.27,
+            "end": 404.05,
+            "label": "outro"
+        }
+    ]
+}

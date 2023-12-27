@@ -1,0 +1,140 @@
+{
+    "path": "../data/prod/allin1_4_read/42 - Hands Together (House of Omni Hands Together Extended Club Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 15.25,
+            "label": "intro"
+        },
+        {
+            "start": 15.25,
+            "end": 31.44,
+            "label": "intro"
+        },
+        {
+            "start": 31.44,
+            "end": 45.73,
+            "label": "intro"
+        },
+        {
+            "start": 45.73,
+            "end": 60.97,
+            "label": "intro"
+        },
+        {
+            "start": 60.97,
+            "end": 76.21000000000001,
+            "label": "intro"
+        },
+        {
+            "start": 76.21000000000001,
+            "end": 91.45,
+            "label": "break"
+        },
+        {
+            "start": 91.45,
+            "end": 106.69,
+            "label": "break"
+        },
+        {
+            "start": 106.69,
+            "end": 121.92,
+            "label": "drop"
+        },
+        {
+            "start": 121.92,
+            "end": 137.16,
+            "label": "drop"
+        },
+        {
+            "start": 137.16,
+            "end": 152.4,
+            "label": "drop"
+        },
+        {
+            "start": 152.4,
+            "end": 167.64,
+            "label": "drop"
+        },
+        {
+            "start": 167.64,
+            "end": 182.88,
+            "label": "drop"
+        },
+        {
+            "start": 182.88,
+            "end": 198.12,
+            "label": "drop"
+        },
+        {
+            "start": 198.12,
+            "end": 213.36,
+            "label": "drop"
+        },
+        {
+            "start": 213.36,
+            "end": 228.11,
+            "label": "break"
+        },
+        {
+            "start": 228.11,
+            "end": 243.83,
+            "label": "break"
+        },
+        {
+            "start": 243.83,
+            "end": 259.07,
+            "label": "break"
+        },
+        {
+            "start": 259.07,
+            "end": 274.3,
+            "label": "drop"
+        },
+        {
+            "start": 274.3,
+            "end": 289.54,
+            "label": "drop"
+        },
+        {
+            "start": 289.54,
+            "end": 304.78,
+            "label": "drop"
+        },
+        {
+            "start": 304.78,
+            "end": 319.54,
+            "label": "drop"
+        },
+        {
+            "start": 319.54,
+            "end": 335.26,
+            "label": "drop"
+        },
+        {
+            "start": 335.26,
+            "end": 350.5,
+            "label": "drop"
+        },
+        {
+            "start": 350.5,
+            "end": 376.22,
+            "label": "drop"
+        },
+        {
+            "start": 376.22,
+            "end": 396.21,
+            "label": "outro"
+        },
+        {
+            "start": 396.21,
+            "end": 396.51,
+            "label": "outro"
+        }
+    ]
+}

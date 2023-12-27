@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/22 - Opening Ceremony.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.19,
+            "label": "intro"
+        },
+        {
+            "start": 0.19,
+            "end": 15.86,
+            "label": "intro"
+        },
+        {
+            "start": 15.86,
+            "end": 51.12,
+            "label": "intro"
+        },
+        {
+            "start": 51.12,
+            "end": 66.8,
+            "label": "intro"
+        },
+        {
+            "start": 66.8,
+            "end": 98.14,
+            "label": "drop"
+        },
+        {
+            "start": 98.14,
+            "end": 121.65,
+            "label": "drop"
+        },
+        {
+            "start": 121.65,
+            "end": 137.32,
+            "label": "drop"
+        },
+        {
+            "start": 137.32,
+            "end": 153.0,
+            "label": "drop"
+        },
+        {
+            "start": 153.0,
+            "end": 168.67000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 168.67000000000002,
+            "end": 188.27,
+            "label": "drop"
+        },
+        {
+            "start": 188.27,
+            "end": 215.69,
+            "label": "break"
+        },
+        {
+            "start": 215.69,
+            "end": 239.2,
+            "label": "drop"
+        },
+        {
+            "start": 239.2,
+            "end": 254.87,
+            "label": "break"
+        },
+        {
+            "start": 254.87,
+            "end": 282.31,
+            "label": "break"
+        },
+        {
+            "start": 282.31,
+            "end": 297.98,
+            "label": "drop"
+        },
+        {
+            "start": 297.98,
+            "end": 313.65,
+            "label": "drop"
+        },
+        {
+            "start": 313.65,
+            "end": 337.17,
+            "label": "drop"
+        },
+        {
+            "start": 337.17,
+            "end": 356.75,
+            "label": "break"
+        },
+        {
+            "start": 356.75,
+            "end": 392.02,
+            "label": "drop"
+        },
+        {
+            "start": 392.02,
+            "end": 423.37,
+            "label": "drop"
+        },
+        {
+            "start": 423.37,
+            "end": 439.04,
+            "label": "outro"
+        },
+        {
+            "start": 439.04,
+            "end": 470.36,
+            "label": "outro"
+        },
+        {
+            "start": 470.36,
+            "end": 473.9,
+            "label": "outro"
+        }
+    ]
+}

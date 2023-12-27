@@ -1,0 +1,130 @@
+{
+    "path": "../data/prod/allin1_4_read/19 - Direct Me (Joey Negro Disco Blend Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.06,
+            "label": "intro"
+        },
+        {
+            "start": 0.06,
+            "end": 16.8,
+            "label": "intro"
+        },
+        {
+            "start": 16.8,
+            "end": 32.55,
+            "label": "intro"
+        },
+        {
+            "start": 32.55,
+            "end": 48.31,
+            "label": "intro"
+        },
+        {
+            "start": 48.31,
+            "end": 64.07,
+            "label": "drop"
+        },
+        {
+            "start": 64.07,
+            "end": 79.83,
+            "label": "drop"
+        },
+        {
+            "start": 79.83,
+            "end": 95.58,
+            "label": "break"
+        },
+        {
+            "start": 95.58,
+            "end": 111.33,
+            "label": "drop"
+        },
+        {
+            "start": 111.33,
+            "end": 127.09,
+            "label": "drop"
+        },
+        {
+            "start": 127.09,
+            "end": 146.78,
+            "label": "break"
+        },
+        {
+            "start": 146.78,
+            "end": 174.36,
+            "label": "drop"
+        },
+        {
+            "start": 174.36,
+            "end": 190.12,
+            "label": "drop"
+        },
+        {
+            "start": 190.12,
+            "end": 205.87,
+            "label": "break"
+        },
+        {
+            "start": 205.87,
+            "end": 221.63,
+            "label": "drop"
+        },
+        {
+            "start": 221.63,
+            "end": 237.39,
+            "label": "drop"
+        },
+        {
+            "start": 237.39,
+            "end": 253.14,
+            "label": "drop"
+        },
+        {
+            "start": 253.14,
+            "end": 268.9,
+            "label": "break"
+        },
+        {
+            "start": 268.9,
+            "end": 284.65,
+            "label": "drop"
+        },
+        {
+            "start": 284.65,
+            "end": 300.41,
+            "label": "drop"
+        },
+        {
+            "start": 300.41,
+            "end": 314.2,
+            "label": "drop"
+        },
+        {
+            "start": 314.2,
+            "end": 331.93,
+            "label": "drop"
+        },
+        {
+            "start": 331.93,
+            "end": 347.69,
+            "label": "break"
+        },
+        {
+            "start": 347.69,
+            "end": 363.43,
+            "label": "drop"
+        },
+        {
+            "start": 363.43,
+            "end": 379.19,
+            "label": "drop"
+        },
+        {
+            "start": 379.19,
+            "end": 407.93,
+            "label": "outro"
+        }
+    ]
+}

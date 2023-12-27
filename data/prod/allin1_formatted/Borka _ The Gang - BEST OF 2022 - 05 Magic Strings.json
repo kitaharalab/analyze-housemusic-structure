@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/Borka _ The Gang - BEST OF 2022 - 05 Magic Strings.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 15.6,
+            "label": "intro"
+        },
+        {
+            "start": 15.6,
+            "end": 31.21,
+            "label": "intro"
+        },
+        {
+            "start": 31.21,
+            "end": 46.82,
+            "label": "drop"
+        },
+        {
+            "start": 46.82,
+            "end": 62.44,
+            "label": "drop"
+        },
+        {
+            "start": 62.44,
+            "end": 93.65,
+            "label": "break"
+        },
+        {
+            "start": 93.65,
+            "end": 109.27000000000001,
+            "label": "break"
+        },
+        {
+            "start": 109.27000000000001,
+            "end": 124.88,
+            "label": "break"
+        },
+        {
+            "start": 124.88,
+            "end": 140.48,
+            "label": "drop"
+        },
+        {
+            "start": 140.48,
+            "end": 156.09,
+            "label": "drop"
+        },
+        {
+            "start": 156.09,
+            "end": 171.7,
+            "label": "drop"
+        },
+        {
+            "start": 171.7,
+            "end": 187.33,
+            "label": "drop"
+        },
+        {
+            "start": 187.33,
+            "end": 202.93,
+            "label": "break"
+        },
+        {
+            "start": 202.93,
+            "end": 234.14,
+            "label": "break"
+        },
+        {
+            "start": 234.14,
+            "end": 249.75,
+            "label": "break"
+        },
+        {
+            "start": 249.75,
+            "end": 265.36,
+            "label": "drop"
+        },
+        {
+            "start": 265.36,
+            "end": 280.97,
+            "label": "drop"
+        },
+        {
+            "start": 280.97,
+            "end": 296.58,
+            "label": "drop"
+        },
+        {
+            "start": 296.58,
+            "end": 312.19,
+            "label": "drop"
+        },
+        {
+            "start": 312.19,
+            "end": 327.8,
+            "label": "drop"
+        },
+        {
+            "start": 327.8,
+            "end": 343.40999999999997,
+            "label": "drop"
+        },
+        {
+            "start": 343.40999999999997,
+            "end": 358.04,
+            "label": "outro"
+        },
+        {
+            "start": 358.04,
+            "end": 374.62,
+            "label": "outro"
+        },
+        {
+            "start": 374.62,
+            "end": 378.55,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "path": "../data/prod/allin1_4_read/34 - My Heart Belongs To You (Ferreck Dawn Extended Remix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.01,
+            "label": "intro"
+        },
+        {
+            "start": 0.01,
+            "end": 12.49,
+            "label": "intro"
+        },
+        {
+            "start": 12.49,
+            "end": 30.73,
+            "label": "intro"
+        },
+        {
+            "start": 30.73,
+            "end": 61.45,
+            "label": "intro"
+        },
+        {
+            "start": 61.45,
+            "end": 76.81,
+            "label": "break"
+        },
+        {
+            "start": 76.81,
+            "end": 92.18,
+            "label": "break"
+        },
+        {
+            "start": 92.18,
+            "end": 107.53,
+            "label": "drop"
+        },
+        {
+            "start": 107.53,
+            "end": 122.89,
+            "label": "drop"
+        },
+        {
+            "start": 122.89,
+            "end": 153.62,
+            "label": "drop"
+        },
+        {
+            "start": 153.62,
+            "end": 169.46,
+            "label": "break"
+        },
+        {
+            "start": 169.46,
+            "end": 184.34,
+            "label": "break"
+        },
+        {
+            "start": 184.34,
+            "end": 199.7,
+            "label": "break"
+        },
+        {
+            "start": 199.7,
+            "end": 214.09,
+            "label": "break"
+        },
+        {
+            "start": 214.09,
+            "end": 229.46,
+            "label": "break"
+        },
+        {
+            "start": 229.46,
+            "end": 244.82,
+            "label": "drop"
+        },
+        {
+            "start": 244.82,
+            "end": 260.18,
+            "label": "drop"
+        },
+        {
+            "start": 260.18,
+            "end": 275.54,
+            "label": "drop"
+        },
+        {
+            "start": 275.54,
+            "end": 290.9,
+            "label": "drop"
+        },
+        {
+            "start": 290.9,
+            "end": 312.97,
+            "label": "outro"
+        },
+        {
+            "start": 312.97,
+            "end": 352.34000000000003,
+            "label": "outro"
+        },
+        {
+            "start": 352.34000000000003,
+            "end": 352.59000000000003,
+            "label": "outro"
+        }
+    ]
+}

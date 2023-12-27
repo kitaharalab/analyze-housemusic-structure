@@ -1,0 +1,175 @@
+{
+    "path": "../data/prod/allin1_4_read/09 - Operator (DJ Koze_s 12 inch Extended Disco Version).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 16.01,
+            "label": "intro"
+        },
+        {
+            "start": 16.01,
+            "end": 30.02,
+            "label": "intro"
+        },
+        {
+            "start": 30.02,
+            "end": 48.02,
+            "label": "intro"
+        },
+        {
+            "start": 48.02,
+            "end": 64.02,
+            "label": "break"
+        },
+        {
+            "start": 64.02,
+            "end": 80.01,
+            "label": "drop"
+        },
+        {
+            "start": 80.01,
+            "end": 96.00999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 96.00999999999999,
+            "end": 112.00999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 112.00999999999999,
+            "end": 128.01,
+            "label": "drop"
+        },
+        {
+            "start": 128.01,
+            "end": 144.02,
+            "label": "break"
+        },
+        {
+            "start": 144.02,
+            "end": 176.02,
+            "label": "drop"
+        },
+        {
+            "start": 176.02,
+            "end": 199.01,
+            "label": "drop"
+        },
+        {
+            "start": 199.01,
+            "end": 224.02,
+            "label": "drop"
+        },
+        {
+            "start": 224.02,
+            "end": 239.52,
+            "label": "break"
+        },
+        {
+            "start": 239.52,
+            "end": 255.01,
+            "label": "drop"
+        },
+        {
+            "start": 255.01,
+            "end": 272.02,
+            "label": "drop"
+        },
+        {
+            "start": 272.02,
+            "end": 288.01,
+            "label": "drop"
+        },
+        {
+            "start": 288.01,
+            "end": 304.02,
+            "label": "drop"
+        },
+        {
+            "start": 304.02,
+            "end": 319.53,
+            "label": "break"
+        },
+        {
+            "start": 319.53,
+            "end": 348.02,
+            "label": "drop"
+        },
+        {
+            "start": 348.02,
+            "end": 368.02,
+            "label": "drop"
+        },
+        {
+            "start": 368.02,
+            "end": 400.02,
+            "label": "break"
+        },
+        {
+            "start": 400.02,
+            "end": 423.01,
+            "label": "break"
+        },
+        {
+            "start": 423.01,
+            "end": 436.01,
+            "label": "break"
+        },
+        {
+            "start": 436.01,
+            "end": 448.02,
+            "label": "break"
+        },
+        {
+            "start": 448.02,
+            "end": 464.01,
+            "label": "drop"
+        },
+        {
+            "start": 464.01,
+            "end": 478.02,
+            "label": "drop"
+        },
+        {
+            "start": 478.02,
+            "end": 496.03,
+            "label": "break"
+        },
+        {
+            "start": 496.03,
+            "end": 511.01,
+            "label": "break"
+        },
+        {
+            "start": 511.01,
+            "end": 536.02,
+            "label": "drop"
+        },
+        {
+            "start": 536.02,
+            "end": 560.03,
+            "label": "drop"
+        },
+        {
+            "start": 560.03,
+            "end": 576.01,
+            "label": "outro"
+        },
+        {
+            "start": 576.01,
+            "end": 599.5,
+            "label": "outro"
+        },
+        {
+            "start": 599.5,
+            "end": 602.74,
+            "label": "outro"
+        }
+    ]
+}

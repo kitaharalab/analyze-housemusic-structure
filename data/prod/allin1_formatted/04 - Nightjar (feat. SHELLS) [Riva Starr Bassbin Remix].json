@@ -1,0 +1,70 @@
+{
+    "path": "../data/prod/allin1_4_read/04 - Nightjar (feat. SHELLS) [Riva Starr Bassbin Remix].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.01,
+            "label": "intro"
+        },
+        {
+            "start": 0.01,
+            "end": 15.55,
+            "label": "drop"
+        },
+        {
+            "start": 15.55,
+            "end": 31.04,
+            "label": "drop"
+        },
+        {
+            "start": 31.04,
+            "end": 46.52,
+            "label": "drop"
+        },
+        {
+            "start": 46.52,
+            "end": 62.0,
+            "label": "break"
+        },
+        {
+            "start": 62.0,
+            "end": 77.49,
+            "label": "break"
+        },
+        {
+            "start": 77.49,
+            "end": 92.97,
+            "label": "drop"
+        },
+        {
+            "start": 92.97,
+            "end": 108.46000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 108.46000000000001,
+            "end": 123.94,
+            "label": "break"
+        },
+        {
+            "start": 123.94,
+            "end": 147.17000000000002,
+            "label": "break"
+        },
+        {
+            "start": 147.17000000000002,
+            "end": 162.65,
+            "label": "drop"
+        },
+        {
+            "start": 162.65,
+            "end": 176.19,
+            "label": "outro"
+        },
+        {
+            "start": 176.19,
+            "end": 181.9,
+            "label": "outro"
+        }
+    ]
+}

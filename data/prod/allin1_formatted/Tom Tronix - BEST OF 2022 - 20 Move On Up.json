@@ -1,0 +1,80 @@
+{
+    "path": "../data/prod/allin1_4_read/Tom Tronix - BEST OF 2022 - 20 Move On Up.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 15.35,
+            "label": "intro"
+        },
+        {
+            "start": 15.35,
+            "end": 30.71,
+            "label": "drop"
+        },
+        {
+            "start": 30.71,
+            "end": 44.16,
+            "label": "drop"
+        },
+        {
+            "start": 44.16,
+            "end": 61.43,
+            "label": "drop"
+        },
+        {
+            "start": 61.43,
+            "end": 74.87,
+            "label": "drop"
+        },
+        {
+            "start": 74.87,
+            "end": 107.50999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 107.50999999999999,
+            "end": 122.87,
+            "label": "drop"
+        },
+        {
+            "start": 122.87,
+            "end": 136.31,
+            "label": "drop"
+        },
+        {
+            "start": 136.31,
+            "end": 168.95,
+            "label": "drop"
+        },
+        {
+            "start": 168.95,
+            "end": 191.99,
+            "label": "break"
+        },
+        {
+            "start": 191.99,
+            "end": 207.35,
+            "label": "drop"
+        },
+        {
+            "start": 207.35,
+            "end": 220.79,
+            "label": "drop"
+        },
+        {
+            "start": 220.79,
+            "end": 238.07,
+            "label": "drop"
+        },
+        {
+            "start": 238.07,
+            "end": 261.11,
+            "label": "drop"
+        },
+        {
+            "start": 261.11,
+            "end": 262.57,
+            "label": "outro"
+        }
+    ]
+}

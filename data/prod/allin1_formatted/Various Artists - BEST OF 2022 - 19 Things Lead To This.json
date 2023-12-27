@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/Various Artists - BEST OF 2022 - 19 Things Lead To This.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.07,
+            "label": "intro"
+        },
+        {
+            "start": 0.07,
+            "end": 15.81,
+            "label": "intro"
+        },
+        {
+            "start": 15.81,
+            "end": 31.55,
+            "label": "intro"
+        },
+        {
+            "start": 31.55,
+            "end": 47.29,
+            "label": "intro"
+        },
+        {
+            "start": 47.29,
+            "end": 63.03,
+            "label": "drop"
+        },
+        {
+            "start": 63.03,
+            "end": 78.76,
+            "label": "drop"
+        },
+        {
+            "start": 78.76,
+            "end": 94.5,
+            "label": "drop"
+        },
+        {
+            "start": 94.5,
+            "end": 118.11,
+            "label": "drop"
+        },
+        {
+            "start": 118.11,
+            "end": 133.84,
+            "label": "break"
+        },
+        {
+            "start": 133.84,
+            "end": 149.59,
+            "label": "break"
+        },
+        {
+            "start": 149.59,
+            "end": 165.32,
+            "label": "drop"
+        },
+        {
+            "start": 165.32,
+            "end": 179.1,
+            "label": "drop"
+        },
+        {
+            "start": 179.1,
+            "end": 196.79,
+            "label": "drop"
+        },
+        {
+            "start": 196.79,
+            "end": 212.54,
+            "label": "drop"
+        },
+        {
+            "start": 212.54,
+            "end": 236.14,
+            "label": "break"
+        },
+        {
+            "start": 236.14,
+            "end": 251.89,
+            "label": "break"
+        },
+        {
+            "start": 251.89,
+            "end": 267.62,
+            "label": "drop"
+        },
+        {
+            "start": 267.62,
+            "end": 283.36,
+            "label": "drop"
+        },
+        {
+            "start": 283.36,
+            "end": 299.1,
+            "label": "drop"
+        },
+        {
+            "start": 299.1,
+            "end": 314.83,
+            "label": "drop"
+        },
+        {
+            "start": 314.83,
+            "end": 330.57,
+            "label": "drop"
+        },
+        {
+            "start": 330.57,
+            "end": 346.31,
+            "label": "drop"
+        },
+        {
+            "start": 346.31,
+            "end": 362.04,
+            "label": "outro"
+        },
+        {
+            "start": 362.04,
+            "end": 377.77,
+            "label": "outro"
+        },
+        {
+            "start": 377.77,
+            "end": 393.51,
+            "label": "outro"
+        },
+        {
+            "start": 393.51,
+            "end": 395.5,
+            "label": "outro"
+        }
+    ]
+}

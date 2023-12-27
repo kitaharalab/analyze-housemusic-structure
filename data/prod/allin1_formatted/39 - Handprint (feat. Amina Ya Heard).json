@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/39 - Handprint (feat. Amina Ya Heard).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.01,
+            "label": "intro"
+        },
+        {
+            "start": 0.01,
+            "end": 15.49,
+            "label": "intro"
+        },
+        {
+            "start": 15.49,
+            "end": 30.01,
+            "label": "intro"
+        },
+        {
+            "start": 30.01,
+            "end": 44.52,
+            "label": "drop"
+        },
+        {
+            "start": 44.52,
+            "end": 61.94,
+            "label": "drop"
+        },
+        {
+            "start": 61.94,
+            "end": 77.43,
+            "label": "drop"
+        },
+        {
+            "start": 77.43,
+            "end": 92.91,
+            "label": "drop"
+        },
+        {
+            "start": 92.91,
+            "end": 108.4,
+            "label": "drop"
+        },
+        {
+            "start": 108.4,
+            "end": 121.95,
+            "label": "drop"
+        },
+        {
+            "start": 121.95,
+            "end": 139.37,
+            "label": "drop"
+        },
+        {
+            "start": 139.37,
+            "end": 154.85,
+            "label": "break"
+        },
+        {
+            "start": 154.85,
+            "end": 170.34,
+            "label": "drop"
+        },
+        {
+            "start": 170.34,
+            "end": 200.32999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 200.32999999999998,
+            "end": 215.81,
+            "label": "drop"
+        },
+        {
+            "start": 215.81,
+            "end": 232.26,
+            "label": "drop"
+        },
+        {
+            "start": 232.26,
+            "end": 248.72,
+            "label": "break"
+        },
+        {
+            "start": 248.72,
+            "end": 263.24,
+            "label": "break"
+        },
+        {
+            "start": 263.24,
+            "end": 278.72,
+            "label": "break"
+        },
+        {
+            "start": 278.72,
+            "end": 302.91,
+            "label": "drop"
+        },
+        {
+            "start": 302.91,
+            "end": 325.17,
+            "label": "drop"
+        },
+        {
+            "start": 325.17,
+            "end": 356.14,
+            "label": "outro"
+        },
+        {
+            "start": 356.14,
+            "end": 360.03,
+            "label": "outro"
+        }
+    ]
+}

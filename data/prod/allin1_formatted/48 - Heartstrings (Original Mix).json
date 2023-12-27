@@ -1,0 +1,85 @@
+{
+    "path": "../data/prod/allin1_4_read/48 - Heartstrings (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.33,
+            "label": "intro"
+        },
+        {
+            "start": 0.33,
+            "end": 16.2,
+            "label": "intro"
+        },
+        {
+            "start": 16.2,
+            "end": 32.07,
+            "label": "intro"
+        },
+        {
+            "start": 32.07,
+            "end": 47.95,
+            "label": "intro"
+        },
+        {
+            "start": 47.95,
+            "end": 79.68,
+            "label": "break"
+        },
+        {
+            "start": 79.68,
+            "end": 111.41,
+            "label": "drop"
+        },
+        {
+            "start": 111.41,
+            "end": 127.27,
+            "label": "drop"
+        },
+        {
+            "start": 127.27,
+            "end": 143.16,
+            "label": "drop"
+        },
+        {
+            "start": 143.16,
+            "end": 174.88,
+            "label": "break"
+        },
+        {
+            "start": 174.88,
+            "end": 190.74,
+            "label": "drop"
+        },
+        {
+            "start": 190.74,
+            "end": 206.62,
+            "label": "drop"
+        },
+        {
+            "start": 206.62,
+            "end": 222.48,
+            "label": "drop"
+        },
+        {
+            "start": 222.48,
+            "end": 238.35,
+            "label": "drop"
+        },
+        {
+            "start": 238.35,
+            "end": 254.22,
+            "label": "outro"
+        },
+        {
+            "start": 254.22,
+            "end": 274.07,
+            "label": "outro"
+        },
+        {
+            "start": 274.07,
+            "end": 274.08,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "path": "../data/prod/allin1_4_read/01 - So Sweet.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.04,
+            "label": "intro"
+        },
+        {
+            "start": 0.04,
+            "end": 16.04,
+            "label": "intro"
+        },
+        {
+            "start": 16.04,
+            "end": 32.04,
+            "label": "intro"
+        },
+        {
+            "start": 32.04,
+            "end": 48.04,
+            "label": "break"
+        },
+        {
+            "start": 48.04,
+            "end": 64.05,
+            "label": "break"
+        },
+        {
+            "start": 64.05,
+            "end": 80.05,
+            "label": "drop"
+        },
+        {
+            "start": 80.05,
+            "end": 96.05,
+            "label": "drop"
+        },
+        {
+            "start": 96.05,
+            "end": 112.05,
+            "label": "break"
+        },
+        {
+            "start": 112.05,
+            "end": 128.05,
+            "label": "drop"
+        },
+        {
+            "start": 128.05,
+            "end": 144.05,
+            "label": "drop"
+        },
+        {
+            "start": 144.05,
+            "end": 160.05,
+            "label": "break"
+        },
+        {
+            "start": 160.05,
+            "end": 176.05,
+            "label": "break"
+        },
+        {
+            "start": 176.05,
+            "end": 192.05,
+            "label": "drop"
+        },
+        {
+            "start": 192.05,
+            "end": 208.05,
+            "label": "drop"
+        },
+        {
+            "start": 208.05,
+            "end": 224.05,
+            "label": "drop"
+        },
+        {
+            "start": 224.05,
+            "end": 240.06,
+            "label": "drop"
+        },
+        {
+            "start": 240.06,
+            "end": 256.05,
+            "label": "break"
+        },
+        {
+            "start": 256.05,
+            "end": 272.05,
+            "label": "drop"
+        },
+        {
+            "start": 272.05,
+            "end": 288.04,
+            "label": "drop"
+        },
+        {
+            "start": 288.04,
+            "end": 304.05,
+            "label": "drop"
+        },
+        {
+            "start": 304.05,
+            "end": 320.05,
+            "label": "drop"
+        },
+        {
+            "start": 320.05,
+            "end": 336.05,
+            "label": "drop"
+        },
+        {
+            "start": 336.05,
+            "end": 352.04,
+            "label": "outro"
+        },
+        {
+            "start": 352.04,
+            "end": 368.05,
+            "label": "outro"
+        },
+        {
+            "start": 368.05,
+            "end": 370.98,
+            "label": "outro"
+        }
+    ]
+}

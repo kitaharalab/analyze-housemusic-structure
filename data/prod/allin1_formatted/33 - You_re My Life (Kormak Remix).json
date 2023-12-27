@@ -1,0 +1,130 @@
+{
+    "path": "../data/prod/allin1_4_read/33 - You_re My Life (Kormak Remix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 15.38,
+            "label": "intro"
+        },
+        {
+            "start": 15.38,
+            "end": 30.74,
+            "label": "intro"
+        },
+        {
+            "start": 30.74,
+            "end": 46.1,
+            "label": "drop"
+        },
+        {
+            "start": 46.1,
+            "end": 61.46,
+            "label": "drop"
+        },
+        {
+            "start": 61.46,
+            "end": 76.82,
+            "label": "break"
+        },
+        {
+            "start": 76.82,
+            "end": 92.18,
+            "label": "break"
+        },
+        {
+            "start": 92.18,
+            "end": 107.53999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 107.53999999999999,
+            "end": 122.9,
+            "label": "drop"
+        },
+        {
+            "start": 122.9,
+            "end": 138.26,
+            "label": "break"
+        },
+        {
+            "start": 138.26,
+            "end": 153.62,
+            "label": "drop"
+        },
+        {
+            "start": 153.62,
+            "end": 168.98,
+            "label": "drop"
+        },
+        {
+            "start": 168.98,
+            "end": 184.34,
+            "label": "break"
+        },
+        {
+            "start": 184.34,
+            "end": 215.05,
+            "label": "break"
+        },
+        {
+            "start": 215.05,
+            "end": 245.77,
+            "label": "break"
+        },
+        {
+            "start": 245.77,
+            "end": 261.14,
+            "label": "break"
+        },
+        {
+            "start": 261.14,
+            "end": 276.5,
+            "label": "drop"
+        },
+        {
+            "start": 276.5,
+            "end": 291.86,
+            "label": "drop"
+        },
+        {
+            "start": 291.86,
+            "end": 307.22,
+            "label": "drop"
+        },
+        {
+            "start": 307.22,
+            "end": 322.58,
+            "label": "drop"
+        },
+        {
+            "start": 322.58,
+            "end": 337.94,
+            "label": "drop"
+        },
+        {
+            "start": 337.94,
+            "end": 353.3,
+            "label": "drop"
+        },
+        {
+            "start": 353.3,
+            "end": 368.66,
+            "label": "outro"
+        },
+        {
+            "start": 368.66,
+            "end": 384.02,
+            "label": "outro"
+        },
+        {
+            "start": 384.02,
+            "end": 387.47,
+            "label": "outro"
+        }
+    ]
+}

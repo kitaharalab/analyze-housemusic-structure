@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/25 - Learn 2 Luv (Ralf GUM Remix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.06,
+            "label": "intro"
+        },
+        {
+            "start": 0.06,
+            "end": 16.38,
+            "label": "intro"
+        },
+        {
+            "start": 16.38,
+            "end": 30.79,
+            "label": "intro"
+        },
+        {
+            "start": 30.79,
+            "end": 44.23,
+            "label": "intro"
+        },
+        {
+            "start": 44.23,
+            "end": 61.52,
+            "label": "intro"
+        },
+        {
+            "start": 61.52,
+            "end": 92.25999999999999,
+            "label": "break"
+        },
+        {
+            "start": 92.25999999999999,
+            "end": 107.62,
+            "label": "drop"
+        },
+        {
+            "start": 107.62,
+            "end": 122.98,
+            "label": "drop"
+        },
+        {
+            "start": 122.98,
+            "end": 138.35,
+            "label": "drop"
+        },
+        {
+            "start": 138.35,
+            "end": 153.72,
+            "label": "break"
+        },
+        {
+            "start": 153.72,
+            "end": 169.07999999999998,
+            "label": "break"
+        },
+        {
+            "start": 169.07999999999998,
+            "end": 184.44,
+            "label": "break"
+        },
+        {
+            "start": 184.44,
+            "end": 199.81,
+            "label": "break"
+        },
+        {
+            "start": 199.81,
+            "end": 230.54,
+            "label": "drop"
+        },
+        {
+            "start": 230.54,
+            "end": 245.9,
+            "label": "drop"
+        },
+        {
+            "start": 245.9,
+            "end": 261.27,
+            "label": "drop"
+        },
+        {
+            "start": 261.27,
+            "end": 276.63,
+            "label": "drop"
+        },
+        {
+            "start": 276.63,
+            "end": 292.0,
+            "label": "drop"
+        },
+        {
+            "start": 292.0,
+            "end": 307.36,
+            "label": "drop"
+        },
+        {
+            "start": 307.36,
+            "end": 322.72,
+            "label": "outro"
+        },
+        {
+            "start": 322.72,
+            "end": 338.08,
+            "label": "outro"
+        },
+        {
+            "start": 338.08,
+            "end": 353.45,
+            "label": "outro"
+        },
+        {
+            "start": 353.45,
+            "end": 356.27,
+            "label": "outro"
+        }
+    ]
+}

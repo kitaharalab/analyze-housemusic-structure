@@ -1,0 +1,125 @@
+{
+    "path": "../data/prod/allin1_4_read/14 - M.E.A. (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.24,
+            "label": "intro"
+        },
+        {
+            "start": 0.24,
+            "end": 16.7,
+            "label": "intro"
+        },
+        {
+            "start": 16.7,
+            "end": 31.2,
+            "label": "intro"
+        },
+        {
+            "start": 31.2,
+            "end": 47.67,
+            "label": "drop"
+        },
+        {
+            "start": 47.67,
+            "end": 62.17,
+            "label": "drop"
+        },
+        {
+            "start": 62.17,
+            "end": 77.66,
+            "label": "break"
+        },
+        {
+            "start": 77.66,
+            "end": 93.15,
+            "label": "break"
+        },
+        {
+            "start": 93.15,
+            "end": 124.12,
+            "label": "break"
+        },
+        {
+            "start": 124.12,
+            "end": 139.6,
+            "label": "drop"
+        },
+        {
+            "start": 139.6,
+            "end": 155.09,
+            "label": "drop"
+        },
+        {
+            "start": 155.09,
+            "end": 169.6,
+            "label": "drop"
+        },
+        {
+            "start": 169.6,
+            "end": 186.05,
+            "label": "drop"
+        },
+        {
+            "start": 186.05,
+            "end": 213.14,
+            "label": "break"
+        },
+        {
+            "start": 213.14,
+            "end": 232.5,
+            "label": "break"
+        },
+        {
+            "start": 232.5,
+            "end": 263.48,
+            "label": "break"
+        },
+        {
+            "start": 263.48,
+            "end": 278.96,
+            "label": "drop"
+        },
+        {
+            "start": 278.96,
+            "end": 294.44,
+            "label": "drop"
+        },
+        {
+            "start": 294.44,
+            "end": 308.96,
+            "label": "drop"
+        },
+        {
+            "start": 308.96,
+            "end": 325.4,
+            "label": "drop"
+        },
+        {
+            "start": 325.4,
+            "end": 339.92,
+            "label": "drop"
+        },
+        {
+            "start": 339.92,
+            "end": 356.37,
+            "label": "break"
+        },
+        {
+            "start": 356.37,
+            "end": 370.89,
+            "label": "break"
+        },
+        {
+            "start": 370.89,
+            "end": 387.35,
+            "label": "break"
+        },
+        {
+            "start": 387.35,
+            "end": 387.85,
+            "label": "outro"
+        }
+    ]
+}

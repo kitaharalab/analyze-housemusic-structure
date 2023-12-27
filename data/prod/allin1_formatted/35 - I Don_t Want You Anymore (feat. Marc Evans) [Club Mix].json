@@ -1,0 +1,145 @@
+{
+    "path": "../data/prod/allin1_4_read/35 - I Don_t Want You Anymore (feat. Marc Evans) [Club Mix].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.99,
+            "label": "intro"
+        },
+        {
+            "start": 0.99,
+            "end": 15.39,
+            "label": "intro"
+        },
+        {
+            "start": 15.39,
+            "end": 31.71,
+            "label": "intro"
+        },
+        {
+            "start": 31.71,
+            "end": 48.99,
+            "label": "intro"
+        },
+        {
+            "start": 48.99,
+            "end": 62.43,
+            "label": "intro"
+        },
+        {
+            "start": 62.43,
+            "end": 77.78999999999999,
+            "label": "intro"
+        },
+        {
+            "start": 77.78999999999999,
+            "end": 93.16,
+            "label": "break"
+        },
+        {
+            "start": 93.16,
+            "end": 108.52000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 108.52000000000001,
+            "end": 123.87,
+            "label": "drop"
+        },
+        {
+            "start": 123.87,
+            "end": 141.16,
+            "label": "drop"
+        },
+        {
+            "start": 141.16,
+            "end": 154.59,
+            "label": "drop"
+        },
+        {
+            "start": 154.59,
+            "end": 169.95,
+            "label": "drop"
+        },
+        {
+            "start": 169.95,
+            "end": 185.31,
+            "label": "drop"
+        },
+        {
+            "start": 185.31,
+            "end": 200.68,
+            "label": "drop"
+        },
+        {
+            "start": 200.68,
+            "end": 216.04,
+            "label": "drop"
+        },
+        {
+            "start": 216.04,
+            "end": 231.4,
+            "label": "drop"
+        },
+        {
+            "start": 231.4,
+            "end": 246.75,
+            "label": "drop"
+        },
+        {
+            "start": 246.75,
+            "end": 261.63,
+            "label": "break"
+        },
+        {
+            "start": 261.63,
+            "end": 292.83,
+            "label": "break"
+        },
+        {
+            "start": 292.83,
+            "end": 307.71,
+            "label": "break"
+        },
+        {
+            "start": 307.71,
+            "end": 323.56,
+            "label": "drop"
+        },
+        {
+            "start": 323.56,
+            "end": 338.92,
+            "label": "drop"
+        },
+        {
+            "start": 338.92,
+            "end": 354.28,
+            "label": "drop"
+        },
+        {
+            "start": 354.28,
+            "end": 381.16,
+            "label": "drop"
+        },
+        {
+            "start": 381.16,
+            "end": 400.36,
+            "label": "drop"
+        },
+        {
+            "start": 400.36,
+            "end": 431.07,
+            "label": "outro"
+        },
+        {
+            "start": 431.07,
+            "end": 446.43,
+            "label": "outro"
+        },
+        {
+            "start": 446.43,
+            "end": 449.5,
+            "label": "outro"
+        }
+    ]
+}

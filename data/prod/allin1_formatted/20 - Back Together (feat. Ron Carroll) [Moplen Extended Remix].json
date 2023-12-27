@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/20 - Back Together (feat. Ron Carroll) [Moplen Extended Remix].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 3.86,
+            "label": "intro"
+        },
+        {
+            "start": 3.86,
+            "end": 31.62,
+            "label": "intro"
+        },
+        {
+            "start": 31.62,
+            "end": 51.46,
+            "label": "break"
+        },
+        {
+            "start": 51.46,
+            "end": 67.32,
+            "label": "break"
+        },
+        {
+            "start": 67.32,
+            "end": 98.57,
+            "label": "break"
+        },
+        {
+            "start": 98.57,
+            "end": 114.43,
+            "label": "drop"
+        },
+        {
+            "start": 114.43,
+            "end": 130.8,
+            "label": "drop"
+        },
+        {
+            "start": 130.8,
+            "end": 146.67000000000002,
+            "label": "break"
+        },
+        {
+            "start": 146.67000000000002,
+            "end": 162.53,
+            "label": "break"
+        },
+        {
+            "start": 162.53,
+            "end": 178.4,
+            "label": "drop"
+        },
+        {
+            "start": 178.4,
+            "end": 194.27,
+            "label": "drop"
+        },
+        {
+            "start": 194.27,
+            "end": 210.14,
+            "label": "break"
+        },
+        {
+            "start": 210.14,
+            "end": 226.01,
+            "label": "break"
+        },
+        {
+            "start": 226.01,
+            "end": 241.87,
+            "label": "drop"
+        },
+        {
+            "start": 241.87,
+            "end": 257.74,
+            "label": "drop"
+        },
+        {
+            "start": 257.74,
+            "end": 273.61,
+            "label": "break"
+        },
+        {
+            "start": 273.61,
+            "end": 289.48,
+            "label": "break"
+        },
+        {
+            "start": 289.48,
+            "end": 305.35,
+            "label": "drop"
+        },
+        {
+            "start": 305.35,
+            "end": 336.59000000000003,
+            "label": "break"
+        },
+        {
+            "start": 336.59000000000003,
+            "end": 352.45,
+            "label": "drop"
+        },
+        {
+            "start": 352.45,
+            "end": 368.82,
+            "label": "break"
+        },
+        {
+            "start": 368.82,
+            "end": 384.69,
+            "label": "drop"
+        },
+        {
+            "start": 384.69,
+            "end": 400.55,
+            "label": "drop"
+        },
+        {
+            "start": 400.55,
+            "end": 416.40999999999997,
+            "label": "outro"
+        },
+        {
+            "start": 416.40999999999997,
+            "end": 432.17,
+            "label": "outro"
+        },
+        {
+            "start": 432.17,
+            "end": 436.57,
+            "label": "outro"
+        }
+    ]
+}

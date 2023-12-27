@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/18 - Nomad Chat (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.29,
+            "label": "intro"
+        },
+        {
+            "start": 0.29,
+            "end": 15.65,
+            "label": "intro"
+        },
+        {
+            "start": 15.65,
+            "end": 31.02,
+            "label": "intro"
+        },
+        {
+            "start": 31.02,
+            "end": 46.38,
+            "label": "intro"
+        },
+        {
+            "start": 46.38,
+            "end": 61.74,
+            "label": "break"
+        },
+        {
+            "start": 61.74,
+            "end": 77.1,
+            "label": "break"
+        },
+        {
+            "start": 77.1,
+            "end": 91.74,
+            "label": "break"
+        },
+        {
+            "start": 91.74,
+            "end": 123.18,
+            "label": "break"
+        },
+        {
+            "start": 123.18,
+            "end": 137.59,
+            "label": "drop"
+        },
+        {
+            "start": 137.59,
+            "end": 153.9,
+            "label": "drop"
+        },
+        {
+            "start": 153.9,
+            "end": 169.26,
+            "label": "drop"
+        },
+        {
+            "start": 169.26,
+            "end": 184.62,
+            "label": "drop"
+        },
+        {
+            "start": 184.62,
+            "end": 199.26,
+            "label": "break"
+        },
+        {
+            "start": 199.26,
+            "end": 215.34,
+            "label": "break"
+        },
+        {
+            "start": 215.34,
+            "end": 246.06,
+            "label": "break"
+        },
+        {
+            "start": 246.06,
+            "end": 261.41,
+            "label": "drop"
+        },
+        {
+            "start": 261.41,
+            "end": 276.78,
+            "label": "drop"
+        },
+        {
+            "start": 276.78,
+            "end": 292.14,
+            "label": "drop"
+        },
+        {
+            "start": 292.14,
+            "end": 307.49,
+            "label": "drop"
+        },
+        {
+            "start": 307.49,
+            "end": 322.85,
+            "label": "drop"
+        },
+        {
+            "start": 322.85,
+            "end": 338.22,
+            "label": "outro"
+        },
+        {
+            "start": 338.22,
+            "end": 338.65999999999997,
+            "label": "outro"
+        }
+    ]
+}

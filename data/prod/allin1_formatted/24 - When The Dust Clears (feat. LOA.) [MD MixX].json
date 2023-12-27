@@ -1,0 +1,85 @@
+{
+    "path": "../data/prod/allin1_4_read/24 - When The Dust Clears (feat. LOA.) [MD MixX].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 17.44,
+            "label": "intro"
+        },
+        {
+            "start": 17.44,
+            "end": 32.92,
+            "label": "intro"
+        },
+        {
+            "start": 32.92,
+            "end": 48.4,
+            "label": "break"
+        },
+        {
+            "start": 48.4,
+            "end": 63.89,
+            "label": "break"
+        },
+        {
+            "start": 63.89,
+            "end": 79.37,
+            "label": "drop"
+        },
+        {
+            "start": 79.37,
+            "end": 94.85,
+            "label": "drop"
+        },
+        {
+            "start": 94.85,
+            "end": 110.34,
+            "label": "drop"
+        },
+        {
+            "start": 110.34,
+            "end": 125.82,
+            "label": "drop"
+        },
+        {
+            "start": 125.82,
+            "end": 141.3,
+            "label": "drop"
+        },
+        {
+            "start": 141.3,
+            "end": 156.79,
+            "label": "drop"
+        },
+        {
+            "start": 156.79,
+            "end": 172.27,
+            "label": "break"
+        },
+        {
+            "start": 172.27,
+            "end": 187.76,
+            "label": "break"
+        },
+        {
+            "start": 187.76,
+            "end": 203.24,
+            "label": "drop"
+        },
+        {
+            "start": 203.24,
+            "end": 216.78,
+            "label": "drop"
+        },
+        {
+            "start": 216.78,
+            "end": 222.61,
+            "label": "outro"
+        }
+    ]
+}

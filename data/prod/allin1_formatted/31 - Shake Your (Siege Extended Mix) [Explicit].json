@@ -1,0 +1,125 @@
+{
+    "path": "../data/prod/allin1_4_read/31 - Shake Your (Siege Extended Mix) [Explicit].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.24,
+            "label": "intro"
+        },
+        {
+            "start": 0.24,
+            "end": 31.2,
+            "label": "intro"
+        },
+        {
+            "start": 31.2,
+            "end": 46.69,
+            "label": "intro"
+        },
+        {
+            "start": 46.69,
+            "end": 62.17,
+            "label": "intro"
+        },
+        {
+            "start": 62.17,
+            "end": 77.65,
+            "label": "drop"
+        },
+        {
+            "start": 77.65,
+            "end": 93.13,
+            "label": "drop"
+        },
+        {
+            "start": 93.13,
+            "end": 124.11,
+            "label": "drop"
+        },
+        {
+            "start": 124.11,
+            "end": 139.6,
+            "label": "break"
+        },
+        {
+            "start": 139.6,
+            "end": 155.07999999999998,
+            "label": "break"
+        },
+        {
+            "start": 155.07999999999998,
+            "end": 186.05,
+            "label": "break"
+        },
+        {
+            "start": 186.05,
+            "end": 201.53,
+            "label": "drop"
+        },
+        {
+            "start": 201.53,
+            "end": 217.01,
+            "label": "drop"
+        },
+        {
+            "start": 217.01,
+            "end": 232.5,
+            "label": "drop"
+        },
+        {
+            "start": 232.5,
+            "end": 247.98,
+            "label": "drop"
+        },
+        {
+            "start": 247.98,
+            "end": 263.47,
+            "label": "break"
+        },
+        {
+            "start": 263.47,
+            "end": 278.95,
+            "label": "break"
+        },
+        {
+            "start": 278.95,
+            "end": 293.46,
+            "label": "break"
+        },
+        {
+            "start": 293.46,
+            "end": 309.92,
+            "label": "break"
+        },
+        {
+            "start": 309.92,
+            "end": 340.89,
+            "label": "drop"
+        },
+        {
+            "start": 340.89,
+            "end": 371.85,
+            "label": "drop"
+        },
+        {
+            "start": 371.85,
+            "end": 391.21,
+            "label": "outro"
+        },
+        {
+            "start": 391.21,
+            "end": 418.3,
+            "label": "outro"
+        },
+        {
+            "start": 418.3,
+            "end": 433.79,
+            "label": "outro"
+        },
+        {
+            "start": 433.79,
+            "end": 441.55,
+            "label": "outro"
+        }
+    ]
+}

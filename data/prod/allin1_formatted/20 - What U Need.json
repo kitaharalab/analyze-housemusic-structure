@@ -1,0 +1,95 @@
+{
+    "path": "../data/prod/allin1_4_read/20 - What U Need.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.05,
+            "label": "intro"
+        },
+        {
+            "start": 0.05,
+            "end": 16.07,
+            "label": "intro"
+        },
+        {
+            "start": 16.07,
+            "end": 32.08,
+            "label": "intro"
+        },
+        {
+            "start": 32.08,
+            "end": 48.12,
+            "label": "intro"
+        },
+        {
+            "start": 48.12,
+            "end": 68.15,
+            "label": "break"
+        },
+        {
+            "start": 68.15,
+            "end": 82.18,
+            "label": "drop"
+        },
+        {
+            "start": 82.18,
+            "end": 98.2,
+            "label": "drop"
+        },
+        {
+            "start": 98.2,
+            "end": 114.22999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 114.22999999999999,
+            "end": 130.26,
+            "label": "drop"
+        },
+        {
+            "start": 130.26,
+            "end": 170.32999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 170.32999999999998,
+            "end": 186.35,
+            "label": "break"
+        },
+        {
+            "start": 186.35,
+            "end": 204.38,
+            "label": "drop"
+        },
+        {
+            "start": 204.38,
+            "end": 220.41,
+            "label": "drop"
+        },
+        {
+            "start": 220.41,
+            "end": 236.43,
+            "label": "drop"
+        },
+        {
+            "start": 236.43,
+            "end": 252.46,
+            "label": "drop"
+        },
+        {
+            "start": 252.46,
+            "end": 268.49,
+            "label": "drop"
+        },
+        {
+            "start": 268.49,
+            "end": 306.56,
+            "label": "drop"
+        },
+        {
+            "start": 306.56,
+            "end": 312.37,
+            "label": "outro"
+        }
+    ]
+}

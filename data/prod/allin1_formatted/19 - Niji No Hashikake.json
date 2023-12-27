@@ -1,0 +1,100 @@
+{
+    "path": "../data/prod/allin1_4_read/19 - Niji No Hashikake.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.54,
+            "label": "intro"
+        },
+        {
+            "start": 0.54,
+            "end": 18.54,
+            "label": "intro"
+        },
+        {
+            "start": 18.54,
+            "end": 31.25,
+            "label": "intro"
+        },
+        {
+            "start": 31.25,
+            "end": 61.97,
+            "label": "intro"
+        },
+        {
+            "start": 61.97,
+            "end": 75.41,
+            "label": "break"
+        },
+        {
+            "start": 75.41,
+            "end": 92.7,
+            "label": "break"
+        },
+        {
+            "start": 92.7,
+            "end": 131.1,
+            "label": "drop"
+        },
+        {
+            "start": 131.1,
+            "end": 146.46,
+            "label": "drop"
+        },
+        {
+            "start": 146.46,
+            "end": 161.82,
+            "label": "drop"
+        },
+        {
+            "start": 161.82,
+            "end": 177.18,
+            "label": "break"
+        },
+        {
+            "start": 177.18,
+            "end": 205.98,
+            "label": "drop"
+        },
+        {
+            "start": 205.98,
+            "end": 259.74,
+            "label": "drop"
+        },
+        {
+            "start": 259.74,
+            "end": 275.1,
+            "label": "drop"
+        },
+        {
+            "start": 275.1,
+            "end": 298.14,
+            "label": "drop"
+        },
+        {
+            "start": 298.14,
+            "end": 319.26,
+            "label": "drop"
+        },
+        {
+            "start": 319.26,
+            "end": 349.98,
+            "label": "drop"
+        },
+        {
+            "start": 349.98,
+            "end": 380.7,
+            "label": "drop"
+        },
+        {
+            "start": 380.7,
+            "end": 399.90999999999997,
+            "label": "drop"
+        },
+        {
+            "start": 399.90999999999997,
+            "end": 404.78,
+            "label": "outro"
+        }
+    ]
+}

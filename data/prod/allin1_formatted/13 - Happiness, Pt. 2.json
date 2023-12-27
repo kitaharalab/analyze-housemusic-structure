@@ -1,0 +1,105 @@
+{
+    "path": "../data/prod/allin1_4_read/13 - Happiness, Pt. 2.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 15.61,
+            "label": "intro"
+        },
+        {
+            "start": 15.61,
+            "end": 31.34,
+            "label": "intro"
+        },
+        {
+            "start": 31.34,
+            "end": 47.08,
+            "label": "drop"
+        },
+        {
+            "start": 47.08,
+            "end": 62.82,
+            "label": "drop"
+        },
+        {
+            "start": 62.82,
+            "end": 78.56,
+            "label": "drop"
+        },
+        {
+            "start": 78.56,
+            "end": 94.3,
+            "label": "drop"
+        },
+        {
+            "start": 94.3,
+            "end": 117.9,
+            "label": "drop"
+        },
+        {
+            "start": 117.9,
+            "end": 149.38,
+            "label": "drop"
+        },
+        {
+            "start": 149.38,
+            "end": 172.99,
+            "label": "drop"
+        },
+        {
+            "start": 172.99,
+            "end": 224.13,
+            "label": "drop"
+        },
+        {
+            "start": 224.13,
+            "end": 247.74,
+            "label": "drop"
+        },
+        {
+            "start": 247.74,
+            "end": 283.15,
+            "label": "drop"
+        },
+        {
+            "start": 283.15,
+            "end": 298.88,
+            "label": "break"
+        },
+        {
+            "start": 298.88,
+            "end": 314.63,
+            "label": "break"
+        },
+        {
+            "start": 314.63,
+            "end": 330.37,
+            "label": "drop"
+        },
+        {
+            "start": 330.37,
+            "end": 346.11,
+            "label": "drop"
+        },
+        {
+            "start": 346.11,
+            "end": 373.64,
+            "label": "drop"
+        },
+        {
+            "start": 373.64,
+            "end": 393.32,
+            "label": "drop"
+        },
+        {
+            "start": 393.32,
+            "end": 409.05,
+            "label": "outro"
+        },
+        {
+            "start": 409.05,
+            "end": 419.24,
+            "label": "outro"
+        }
+    ]
+}

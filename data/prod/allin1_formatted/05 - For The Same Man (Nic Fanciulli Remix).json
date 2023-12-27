@@ -1,0 +1,75 @@
+{
+    "path": "../data/prod/allin1_4_read/05 - For The Same Man (Nic Fanciulli Remix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.01,
+            "label": "break"
+        },
+        {
+            "start": 0.01,
+            "end": 13.71,
+            "label": "intro"
+        },
+        {
+            "start": 13.71,
+            "end": 30.25,
+            "label": "break"
+        },
+        {
+            "start": 30.25,
+            "end": 45.36,
+            "label": "drop"
+        },
+        {
+            "start": 45.36,
+            "end": 60.48,
+            "label": "drop"
+        },
+        {
+            "start": 60.48,
+            "end": 90.72,
+            "label": "break"
+        },
+        {
+            "start": 90.72,
+            "end": 105.84,
+            "label": "drop"
+        },
+        {
+            "start": 105.84,
+            "end": 120.02,
+            "label": "drop"
+        },
+        {
+            "start": 120.02,
+            "end": 142.22,
+            "label": "drop"
+        },
+        {
+            "start": 142.22,
+            "end": 166.31,
+            "label": "break"
+        },
+        {
+            "start": 166.31,
+            "end": 181.43,
+            "label": "drop"
+        },
+        {
+            "start": 181.43,
+            "end": 195.61,
+            "label": "drop"
+        },
+        {
+            "start": 195.61,
+            "end": 211.67000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 211.67000000000002,
+            "end": 214.04,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/47 - Showbiz (feat. Villa) [Purple Disco Machine Edit].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.03,
+            "label": "intro"
+        },
+        {
+            "start": 0.03,
+            "end": 44.77,
+            "label": "intro"
+        },
+        {
+            "start": 44.77,
+            "end": 65.11,
+            "label": "intro"
+        },
+        {
+            "start": 65.11,
+            "end": 81.38,
+            "label": "drop"
+        },
+        {
+            "start": 81.38,
+            "end": 97.14,
+            "label": "drop"
+        },
+        {
+            "start": 97.14,
+            "end": 113.93,
+            "label": "drop"
+        },
+        {
+            "start": 113.93,
+            "end": 130.2,
+            "label": "break"
+        },
+        {
+            "start": 130.2,
+            "end": 165.79,
+            "label": "drop"
+        },
+        {
+            "start": 165.79,
+            "end": 178.5,
+            "label": "drop"
+        },
+        {
+            "start": 178.5,
+            "end": 195.29,
+            "label": "drop"
+        },
+        {
+            "start": 195.29,
+            "end": 211.56,
+            "label": "break"
+        },
+        {
+            "start": 211.56,
+            "end": 227.81,
+            "label": "break"
+        },
+        {
+            "start": 227.81,
+            "end": 246.13,
+            "label": "break"
+        },
+        {
+            "start": 246.13,
+            "end": 271.55,
+            "label": "break"
+        },
+        {
+            "start": 271.55,
+            "end": 292.90999999999997,
+            "label": "break"
+        },
+        {
+            "start": 292.90999999999997,
+            "end": 309.17,
+            "label": "drop"
+        },
+        {
+            "start": 309.17,
+            "end": 325.44,
+            "label": "drop"
+        },
+        {
+            "start": 325.44,
+            "end": 341.72,
+            "label": "drop"
+        },
+        {
+            "start": 341.72,
+            "end": 358.0,
+            "label": "drop"
+        },
+        {
+            "start": 358.0,
+            "end": 380.37,
+            "label": "break"
+        },
+        {
+            "start": 380.37,
+            "end": 404.77,
+            "label": "outro"
+        },
+        {
+            "start": 404.77,
+            "end": 423.07,
+            "label": "outro"
+        },
+        {
+            "start": 423.07,
+            "end": 431.6,
+            "label": "outro"
+        }
+    ]
+}

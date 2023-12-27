@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/37 - Find A Friend (Dr Packer Remix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 1.95,
+            "label": "intro"
+        },
+        {
+            "start": 1.95,
+            "end": 17.43,
+            "label": "intro"
+        },
+        {
+            "start": 17.43,
+            "end": 32.92,
+            "label": "intro"
+        },
+        {
+            "start": 32.92,
+            "end": 48.4,
+            "label": "drop"
+        },
+        {
+            "start": 48.4,
+            "end": 63.89,
+            "label": "drop"
+        },
+        {
+            "start": 63.89,
+            "end": 79.37,
+            "label": "drop"
+        },
+        {
+            "start": 79.37,
+            "end": 94.86,
+            "label": "drop"
+        },
+        {
+            "start": 94.86,
+            "end": 110.34,
+            "label": "drop"
+        },
+        {
+            "start": 110.34,
+            "end": 125.83,
+            "label": "drop"
+        },
+        {
+            "start": 125.83,
+            "end": 141.3,
+            "label": "drop"
+        },
+        {
+            "start": 141.3,
+            "end": 156.79,
+            "label": "drop"
+        },
+        {
+            "start": 156.79,
+            "end": 172.27,
+            "label": "drop"
+        },
+        {
+            "start": 172.27,
+            "end": 187.76,
+            "label": "drop"
+        },
+        {
+            "start": 187.76,
+            "end": 203.24,
+            "label": "break"
+        },
+        {
+            "start": 203.24,
+            "end": 226.47,
+            "label": "drop"
+        },
+        {
+            "start": 226.47,
+            "end": 241.95,
+            "label": "drop"
+        },
+        {
+            "start": 241.95,
+            "end": 257.43,
+            "label": "drop"
+        },
+        {
+            "start": 257.43,
+            "end": 272.92,
+            "label": "drop"
+        },
+        {
+            "start": 272.92,
+            "end": 288.4,
+            "label": "drop"
+        },
+        {
+            "start": 288.4,
+            "end": 303.88,
+            "label": "drop"
+        },
+        {
+            "start": 303.88,
+            "end": 319.37,
+            "label": "outro"
+        },
+        {
+            "start": 319.37,
+            "end": 323.77,
+            "label": "outro"
+        }
+    ]
+}

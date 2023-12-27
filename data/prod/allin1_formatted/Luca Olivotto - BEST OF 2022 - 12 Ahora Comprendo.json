@@ -1,0 +1,110 @@
+{
+    "path": "../data/prod/allin1_4_read/Luca Olivotto - BEST OF 2022 - 12 Ahora Comprendo.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 14.99,
+            "label": "intro"
+        },
+        {
+            "start": 14.99,
+            "end": 30.0,
+            "label": "intro"
+        },
+        {
+            "start": 30.0,
+            "end": 45.0,
+            "label": "intro"
+        },
+        {
+            "start": 45.0,
+            "end": 60.0,
+            "label": "break"
+        },
+        {
+            "start": 60.0,
+            "end": 75.0,
+            "label": "drop"
+        },
+        {
+            "start": 75.0,
+            "end": 90.0,
+            "label": "drop"
+        },
+        {
+            "start": 90.0,
+            "end": 105.0,
+            "label": "drop"
+        },
+        {
+            "start": 105.0,
+            "end": 120.0,
+            "label": "drop"
+        },
+        {
+            "start": 120.0,
+            "end": 135.0,
+            "label": "drop"
+        },
+        {
+            "start": 135.0,
+            "end": 150.0,
+            "label": "drop"
+        },
+        {
+            "start": 150.0,
+            "end": 165.0,
+            "label": "break"
+        },
+        {
+            "start": 165.0,
+            "end": 180.0,
+            "label": "break"
+        },
+        {
+            "start": 180.0,
+            "end": 209.99,
+            "label": "break"
+        },
+        {
+            "start": 209.99,
+            "end": 225.0,
+            "label": "drop"
+        },
+        {
+            "start": 225.0,
+            "end": 240.0,
+            "label": "drop"
+        },
+        {
+            "start": 240.0,
+            "end": 255.0,
+            "label": "drop"
+        },
+        {
+            "start": 255.0,
+            "end": 271.87,
+            "label": "drop"
+        },
+        {
+            "start": 271.87,
+            "end": 286.88,
+            "label": "drop"
+        },
+        {
+            "start": 286.88,
+            "end": 301.87,
+            "label": "drop"
+        },
+        {
+            "start": 301.87,
+            "end": 317.81,
+            "label": "outro"
+        },
+        {
+            "start": 317.81,
+            "end": 317.82,
+            "label": "outro"
+        }
+    ]
+}

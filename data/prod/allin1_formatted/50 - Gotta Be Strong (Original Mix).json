@@ -1,0 +1,155 @@
+{
+    "path": "../data/prod/allin1_4_read/50 - Gotta Be Strong (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 15.34,
+            "label": "intro"
+        },
+        {
+            "start": 15.34,
+            "end": 30.7,
+            "label": "intro"
+        },
+        {
+            "start": 30.7,
+            "end": 46.06,
+            "label": "intro"
+        },
+        {
+            "start": 46.06,
+            "end": 61.43,
+            "label": "break"
+        },
+        {
+            "start": 61.43,
+            "end": 92.15,
+            "label": "drop"
+        },
+        {
+            "start": 92.15,
+            "end": 107.50999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 107.50999999999999,
+            "end": 122.87,
+            "label": "drop"
+        },
+        {
+            "start": 122.87,
+            "end": 138.23,
+            "label": "drop"
+        },
+        {
+            "start": 138.23,
+            "end": 153.59,
+            "label": "break"
+        },
+        {
+            "start": 153.59,
+            "end": 168.94,
+            "label": "drop"
+        },
+        {
+            "start": 168.94,
+            "end": 184.31,
+            "label": "drop"
+        },
+        {
+            "start": 184.31,
+            "end": 199.67000000000002,
+            "label": "break"
+        },
+        {
+            "start": 199.67000000000002,
+            "end": 215.03,
+            "label": "break"
+        },
+        {
+            "start": 215.03,
+            "end": 230.39,
+            "label": "break"
+        },
+        {
+            "start": 230.39,
+            "end": 245.75,
+            "label": "break"
+        },
+        {
+            "start": 245.75,
+            "end": 261.1,
+            "label": "drop"
+        },
+        {
+            "start": 261.1,
+            "end": 276.47,
+            "label": "drop"
+        },
+        {
+            "start": 276.47,
+            "end": 291.83,
+            "label": "drop"
+        },
+        {
+            "start": 291.83,
+            "end": 307.19,
+            "label": "drop"
+        },
+        {
+            "start": 307.19,
+            "end": 322.55,
+            "label": "break"
+        },
+        {
+            "start": 322.55,
+            "end": 337.90999999999997,
+            "label": "break"
+        },
+        {
+            "start": 337.90999999999997,
+            "end": 353.26,
+            "label": "drop"
+        },
+        {
+            "start": 353.26,
+            "end": 368.63,
+            "label": "drop"
+        },
+        {
+            "start": 368.63,
+            "end": 383.99,
+            "label": "drop"
+        },
+        {
+            "start": 383.99,
+            "end": 399.35,
+            "label": "drop"
+        },
+        {
+            "start": 399.35,
+            "end": 414.7,
+            "label": "drop"
+        },
+        {
+            "start": 414.7,
+            "end": 430.06,
+            "label": "outro"
+        },
+        {
+            "start": 430.06,
+            "end": 445.42,
+            "label": "outro"
+        },
+        {
+            "start": 445.42,
+            "end": 460.79,
+            "label": "outro"
+        },
+        {
+            "start": 460.79,
+            "end": 461.33,
+            "label": "outro"
+        }
+    ]
+}

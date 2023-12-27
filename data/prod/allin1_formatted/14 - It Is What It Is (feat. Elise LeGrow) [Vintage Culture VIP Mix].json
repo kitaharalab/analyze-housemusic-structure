@@ -1,0 +1,80 @@
+{
+    "path": "../data/prod/allin1_4_read/14 - It Is What It Is (feat. Elise LeGrow) [Vintage Culture VIP Mix].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.03,
+            "label": "intro"
+        },
+        {
+            "start": 0.03,
+            "end": 18.42,
+            "label": "intro"
+        },
+        {
+            "start": 18.42,
+            "end": 30.99,
+            "label": "intro"
+        },
+        {
+            "start": 30.99,
+            "end": 45.52,
+            "label": "intro"
+        },
+        {
+            "start": 45.52,
+            "end": 63.9,
+            "label": "break"
+        },
+        {
+            "start": 63.9,
+            "end": 77.45,
+            "label": "break"
+        },
+        {
+            "start": 77.45,
+            "end": 104.55,
+            "label": "break"
+        },
+        {
+            "start": 104.55,
+            "end": 121.0,
+            "label": "drop"
+        },
+        {
+            "start": 121.0,
+            "end": 135.52,
+            "label": "drop"
+        },
+        {
+            "start": 135.52,
+            "end": 151.97,
+            "label": "drop"
+        },
+        {
+            "start": 151.97,
+            "end": 166.48,
+            "label": "break"
+        },
+        {
+            "start": 166.48,
+            "end": 181.0,
+            "label": "drop"
+        },
+        {
+            "start": 181.0,
+            "end": 198.42000000000002,
+            "label": "outro"
+        },
+        {
+            "start": 198.42000000000002,
+            "end": 212.95,
+            "label": "outro"
+        },
+        {
+            "start": 212.95,
+            "end": 214.28,
+            "label": "outro"
+        }
+    ]
+}

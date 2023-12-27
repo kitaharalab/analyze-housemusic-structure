@@ -1,0 +1,130 @@
+{
+    "path": "../data/prod/allin1_4_read/27 - The Anthem (Monki Remix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.06,
+            "label": "intro"
+        },
+        {
+            "start": 0.06,
+            "end": 15.54,
+            "label": "intro"
+        },
+        {
+            "start": 15.54,
+            "end": 31.03,
+            "label": "intro"
+        },
+        {
+            "start": 31.03,
+            "end": 46.51,
+            "label": "intro"
+        },
+        {
+            "start": 46.51,
+            "end": 61.98,
+            "label": "break"
+        },
+        {
+            "start": 61.98,
+            "end": 77.48,
+            "label": "drop"
+        },
+        {
+            "start": 77.48,
+            "end": 92.96000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 92.96000000000001,
+            "end": 123.91,
+            "label": "drop"
+        },
+        {
+            "start": 123.91,
+            "end": 139.42000000000002,
+            "label": "break"
+        },
+        {
+            "start": 139.42000000000002,
+            "end": 154.9,
+            "label": "break"
+        },
+        {
+            "start": 154.9,
+            "end": 170.38,
+            "label": "break"
+        },
+        {
+            "start": 170.38,
+            "end": 185.87,
+            "label": "drop"
+        },
+        {
+            "start": 185.87,
+            "end": 201.35,
+            "label": "drop"
+        },
+        {
+            "start": 201.35,
+            "end": 217.8,
+            "label": "break"
+        },
+        {
+            "start": 217.8,
+            "end": 232.32,
+            "label": "drop"
+        },
+        {
+            "start": 232.32,
+            "end": 247.8,
+            "label": "drop"
+        },
+        {
+            "start": 247.8,
+            "end": 263.29,
+            "label": "drop"
+        },
+        {
+            "start": 263.29,
+            "end": 278.78,
+            "label": "drop"
+        },
+        {
+            "start": 278.78,
+            "end": 294.26,
+            "label": "break"
+        },
+        {
+            "start": 294.26,
+            "end": 309.74,
+            "label": "break"
+        },
+        {
+            "start": 309.74,
+            "end": 325.22,
+            "label": "drop"
+        },
+        {
+            "start": 325.22,
+            "end": 340.71,
+            "label": "drop"
+        },
+        {
+            "start": 340.71,
+            "end": 371.68,
+            "label": "drop"
+        },
+        {
+            "start": 371.68,
+            "end": 387.16,
+            "label": "outro"
+        },
+        {
+            "start": 387.16,
+            "end": 390.23,
+            "label": "outro"
+        }
+    ]
+}

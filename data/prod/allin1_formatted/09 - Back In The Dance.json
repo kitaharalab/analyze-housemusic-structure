@@ -1,0 +1,70 @@
+{
+    "path": "../data/prod/allin1_4_read/09 - Back In The Dance.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "drop"
+        },
+        {
+            "start": 0.02,
+            "end": 15.01,
+            "label": "drop"
+        },
+        {
+            "start": 15.01,
+            "end": 30.01,
+            "label": "drop"
+        },
+        {
+            "start": 30.01,
+            "end": 45.01,
+            "label": "break"
+        },
+        {
+            "start": 45.01,
+            "end": 60.01,
+            "label": "break"
+        },
+        {
+            "start": 60.01,
+            "end": 90.01,
+            "label": "drop"
+        },
+        {
+            "start": 90.01,
+            "end": 105.00999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 105.00999999999999,
+            "end": 120.01,
+            "label": "break"
+        },
+        {
+            "start": 120.01,
+            "end": 135.01,
+            "label": "break"
+        },
+        {
+            "start": 135.01,
+            "end": 150.01,
+            "label": "break"
+        },
+        {
+            "start": 150.01,
+            "end": 165.01,
+            "label": "drop"
+        },
+        {
+            "start": 165.01,
+            "end": 195.01,
+            "label": "drop"
+        },
+        {
+            "start": 195.01,
+            "end": 206.27,
+            "label": "outro"
+        }
+    ]
+}

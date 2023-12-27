@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/18 - Sunday Shoutin_ (B. Boy_s Shoutin_ Dub).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 8.14,
+            "label": "intro"
+        },
+        {
+            "start": 8.14,
+            "end": 23.14,
+            "label": "intro"
+        },
+        {
+            "start": 23.14,
+            "end": 42.83,
+            "label": "intro"
+        },
+        {
+            "start": 42.83,
+            "end": 68.14,
+            "label": "intro"
+        },
+        {
+            "start": 68.14,
+            "end": 90.65,
+            "label": "drop"
+        },
+        {
+            "start": 90.65,
+            "end": 113.14,
+            "label": "drop"
+        },
+        {
+            "start": 113.14,
+            "end": 128.15,
+            "label": "drop"
+        },
+        {
+            "start": 128.15,
+            "end": 158.14,
+            "label": "break"
+        },
+        {
+            "start": 158.14,
+            "end": 173.15,
+            "label": "drop"
+        },
+        {
+            "start": 173.15,
+            "end": 188.15,
+            "label": "drop"
+        },
+        {
+            "start": 188.15,
+            "end": 204.09,
+            "label": "drop"
+        },
+        {
+            "start": 204.09,
+            "end": 217.21,
+            "label": "drop"
+        },
+        {
+            "start": 217.21,
+            "end": 233.15,
+            "label": "drop"
+        },
+        {
+            "start": 233.15,
+            "end": 248.15,
+            "label": "drop"
+        },
+        {
+            "start": 248.15,
+            "end": 270.64,
+            "label": "drop"
+        },
+        {
+            "start": 270.64,
+            "end": 293.15,
+            "label": "drop"
+        },
+        {
+            "start": 293.15,
+            "end": 322.21,
+            "label": "drop"
+        },
+        {
+            "start": 322.21,
+            "end": 334.86,
+            "label": "drop"
+        },
+        {
+            "start": 334.86,
+            "end": 353.61,
+            "label": "drop"
+        },
+        {
+            "start": 353.61,
+            "end": 368.14,
+            "label": "drop"
+        },
+        {
+            "start": 368.14,
+            "end": 383.15,
+            "label": "outro"
+        },
+        {
+            "start": 383.15,
+            "end": 398.15,
+            "label": "outro"
+        },
+        {
+            "start": 398.15,
+            "end": 402.92,
+            "label": "outro"
+        }
+    ]
+}

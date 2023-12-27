@@ -1,0 +1,85 @@
+{
+    "path": "../data/prod/allin1_4_read/40 - Midnight Memories (Jimpster Remix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 16.0,
+            "label": "intro"
+        },
+        {
+            "start": 16.0,
+            "end": 32.01,
+            "label": "break"
+        },
+        {
+            "start": 32.01,
+            "end": 48.01,
+            "label": "break"
+        },
+        {
+            "start": 48.01,
+            "end": 64.01,
+            "label": "break"
+        },
+        {
+            "start": 64.01,
+            "end": 80.01,
+            "label": "drop"
+        },
+        {
+            "start": 80.01,
+            "end": 96.00999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 96.00999999999999,
+            "end": 112.00999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 112.00999999999999,
+            "end": 128.02,
+            "label": "drop"
+        },
+        {
+            "start": 128.02,
+            "end": 144.01,
+            "label": "break"
+        },
+        {
+            "start": 144.01,
+            "end": 160.01,
+            "label": "break"
+        },
+        {
+            "start": 160.01,
+            "end": 176.0,
+            "label": "drop"
+        },
+        {
+            "start": 176.0,
+            "end": 192.01,
+            "label": "drop"
+        },
+        {
+            "start": 192.01,
+            "end": 207.51,
+            "label": "drop"
+        },
+        {
+            "start": 207.51,
+            "end": 225.93,
+            "label": "outro"
+        },
+        {
+            "start": 225.93,
+            "end": 225.94,
+            "label": "outro"
+        }
+    ]
+}

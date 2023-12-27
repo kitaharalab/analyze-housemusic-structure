@@ -1,0 +1,80 @@
+{
+    "path": "../data/prod/allin1_4_read/MAJUSCULE - BEST OF 2022 - 13 Rainy Day.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 23.79,
+            "label": "intro"
+        },
+        {
+            "start": 23.79,
+            "end": 63.46,
+            "label": "break"
+        },
+        {
+            "start": 63.46,
+            "end": 87.3,
+            "label": "drop"
+        },
+        {
+            "start": 87.3,
+            "end": 111.07,
+            "label": "break"
+        },
+        {
+            "start": 111.07,
+            "end": 136.85,
+            "label": "drop"
+        },
+        {
+            "start": 136.85,
+            "end": 158.67000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 158.67000000000002,
+            "end": 174.54,
+            "label": "break"
+        },
+        {
+            "start": 174.54,
+            "end": 190.42,
+            "label": "break"
+        },
+        {
+            "start": 190.42,
+            "end": 206.28,
+            "label": "break"
+        },
+        {
+            "start": 206.28,
+            "end": 224.12,
+            "label": "drop"
+        },
+        {
+            "start": 224.12,
+            "end": 253.88,
+            "label": "drop"
+        },
+        {
+            "start": 253.88,
+            "end": 269.74,
+            "label": "drop"
+        },
+        {
+            "start": 269.74,
+            "end": 285.61,
+            "label": "outro"
+        },
+        {
+            "start": 285.61,
+            "end": 317.34,
+            "label": "outro"
+        },
+        {
+            "start": 317.34,
+            "end": 321.33,
+            "label": "outro"
+        }
+    ]
+}

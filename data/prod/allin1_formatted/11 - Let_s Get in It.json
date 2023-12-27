@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/11 - Let_s Get in It.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.09,
+            "label": "intro"
+        },
+        {
+            "start": 0.09,
+            "end": 31.31,
+            "label": "intro"
+        },
+        {
+            "start": 31.31,
+            "end": 44.97,
+            "label": "break"
+        },
+        {
+            "start": 44.97,
+            "end": 62.53,
+            "label": "break"
+        },
+        {
+            "start": 62.53,
+            "end": 81.56,
+            "label": "drop"
+        },
+        {
+            "start": 81.56,
+            "end": 97.17,
+            "label": "drop"
+        },
+        {
+            "start": 97.17,
+            "end": 109.36,
+            "label": "drop"
+        },
+        {
+            "start": 109.36,
+            "end": 124.98,
+            "label": "drop"
+        },
+        {
+            "start": 124.98,
+            "end": 165.95,
+            "label": "drop"
+        },
+        {
+            "start": 165.95,
+            "end": 195.22,
+            "label": "drop"
+        },
+        {
+            "start": 195.22,
+            "end": 210.82,
+            "label": "drop"
+        },
+        {
+            "start": 210.82,
+            "end": 226.43,
+            "label": "drop"
+        },
+        {
+            "start": 226.43,
+            "end": 242.04,
+            "label": "drop"
+        },
+        {
+            "start": 242.04,
+            "end": 259.61,
+            "label": "drop"
+        },
+        {
+            "start": 259.61,
+            "end": 273.26,
+            "label": "drop"
+        },
+        {
+            "start": 273.26,
+            "end": 288.89,
+            "label": "drop"
+        },
+        {
+            "start": 288.89,
+            "end": 304.48,
+            "label": "drop"
+        },
+        {
+            "start": 304.48,
+            "end": 320.09,
+            "label": "drop"
+        },
+        {
+            "start": 320.09,
+            "end": 337.65,
+            "label": "drop"
+        },
+        {
+            "start": 337.65,
+            "end": 353.26,
+            "label": "drop"
+        },
+        {
+            "start": 353.26,
+            "end": 366.92,
+            "label": "drop"
+        },
+        {
+            "start": 366.92,
+            "end": 384.48,
+            "label": "drop"
+        },
+        {
+            "start": 384.48,
+            "end": 398.14,
+            "label": "drop"
+        },
+        {
+            "start": 398.14,
+            "end": 411.8,
+            "label": "outro"
+        },
+        {
+            "start": 411.8,
+            "end": 429.36,
+            "label": "outro"
+        },
+        {
+            "start": 429.36,
+            "end": 431.97,
+            "label": "outro"
+        }
+    ]
+}

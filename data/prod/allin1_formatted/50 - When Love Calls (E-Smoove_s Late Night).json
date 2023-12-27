@@ -1,0 +1,145 @@
+{
+    "path": "../data/prod/allin1_4_read/50 - When Love Calls (E-Smoove_s Late Night).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.05,
+            "label": "intro"
+        },
+        {
+            "start": 0.05,
+            "end": 16.08,
+            "label": "break"
+        },
+        {
+            "start": 16.08,
+            "end": 32.1,
+            "label": "break"
+        },
+        {
+            "start": 32.1,
+            "end": 48.13,
+            "label": "break"
+        },
+        {
+            "start": 48.13,
+            "end": 64.15,
+            "label": "break"
+        },
+        {
+            "start": 64.15,
+            "end": 80.17,
+            "label": "drop"
+        },
+        {
+            "start": 80.17,
+            "end": 96.19,
+            "label": "drop"
+        },
+        {
+            "start": 96.19,
+            "end": 111.22,
+            "label": "drop"
+        },
+        {
+            "start": 111.22,
+            "end": 127.73,
+            "label": "break"
+        },
+        {
+            "start": 127.73,
+            "end": 143.75,
+            "label": "drop"
+        },
+        {
+            "start": 143.75,
+            "end": 159.28,
+            "label": "drop"
+        },
+        {
+            "start": 159.28,
+            "end": 176.3,
+            "label": "drop"
+        },
+        {
+            "start": 176.3,
+            "end": 192.32,
+            "label": "break"
+        },
+        {
+            "start": 192.32,
+            "end": 208.35,
+            "label": "drop"
+        },
+        {
+            "start": 208.35,
+            "end": 224.37,
+            "label": "drop"
+        },
+        {
+            "start": 224.37,
+            "end": 239.38,
+            "label": "break"
+        },
+        {
+            "start": 239.38,
+            "end": 256.41,
+            "label": "break"
+        },
+        {
+            "start": 256.41,
+            "end": 272.43,
+            "label": "drop"
+        },
+        {
+            "start": 272.43,
+            "end": 288.46,
+            "label": "drop"
+        },
+        {
+            "start": 288.46,
+            "end": 304.48,
+            "label": "drop"
+        },
+        {
+            "start": 304.48,
+            "end": 320.5,
+            "label": "break"
+        },
+        {
+            "start": 320.5,
+            "end": 336.52,
+            "label": "break"
+        },
+        {
+            "start": 336.52,
+            "end": 352.56,
+            "label": "break"
+        },
+        {
+            "start": 352.56,
+            "end": 368.57,
+            "label": "drop"
+        },
+        {
+            "start": 368.57,
+            "end": 384.59,
+            "label": "drop"
+        },
+        {
+            "start": 384.59,
+            "end": 400.62,
+            "label": "drop"
+        },
+        {
+            "start": 400.62,
+            "end": 416.63,
+            "label": "drop"
+        },
+        {
+            "start": 416.63,
+            "end": 428.16,
+            "label": "outro"
+        }
+    ]
+}

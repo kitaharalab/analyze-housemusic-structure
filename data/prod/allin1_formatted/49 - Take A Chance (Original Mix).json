@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/49 - Take A Chance (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 15.62,
+            "label": "intro"
+        },
+        {
+            "start": 15.62,
+            "end": 31.23,
+            "label": "intro"
+        },
+        {
+            "start": 31.23,
+            "end": 46.84,
+            "label": "intro"
+        },
+        {
+            "start": 46.84,
+            "end": 60.5,
+            "label": "intro"
+        },
+        {
+            "start": 60.5,
+            "end": 80.01,
+            "label": "break"
+        },
+        {
+            "start": 80.01,
+            "end": 93.67,
+            "label": "break"
+        },
+        {
+            "start": 93.67,
+            "end": 109.28,
+            "label": "break"
+        },
+        {
+            "start": 109.28,
+            "end": 124.89,
+            "label": "drop"
+        },
+        {
+            "start": 124.89,
+            "end": 140.5,
+            "label": "drop"
+        },
+        {
+            "start": 140.5,
+            "end": 156.11,
+            "label": "drop"
+        },
+        {
+            "start": 156.11,
+            "end": 171.72,
+            "label": "break"
+        },
+        {
+            "start": 171.72,
+            "end": 187.33,
+            "label": "break"
+        },
+        {
+            "start": 187.33,
+            "end": 202.94,
+            "label": "break"
+        },
+        {
+            "start": 202.94,
+            "end": 218.55,
+            "label": "break"
+        },
+        {
+            "start": 218.55,
+            "end": 234.16,
+            "label": "break"
+        },
+        {
+            "start": 234.16,
+            "end": 249.77,
+            "label": "drop"
+        },
+        {
+            "start": 249.77,
+            "end": 265.38,
+            "label": "drop"
+        },
+        {
+            "start": 265.38,
+            "end": 280.99,
+            "label": "drop"
+        },
+        {
+            "start": 280.99,
+            "end": 296.6,
+            "label": "drop"
+        },
+        {
+            "start": 296.6,
+            "end": 312.2,
+            "label": "outro"
+        },
+        {
+            "start": 312.2,
+            "end": 327.33,
+            "label": "outro"
+        },
+        {
+            "start": 327.33,
+            "end": 329.93,
+            "label": "outro"
+        }
+    ]
+}

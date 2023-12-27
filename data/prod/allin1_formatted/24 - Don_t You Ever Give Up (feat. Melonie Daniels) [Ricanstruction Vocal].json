@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/24 - Don_t You Ever Give Up (feat. Melonie Daniels) [Ricanstruction Vocal].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.06,
+            "label": "intro"
+        },
+        {
+            "start": 0.06,
+            "end": 13.5,
+            "label": "intro"
+        },
+        {
+            "start": 13.5,
+            "end": 30.8,
+            "label": "intro"
+        },
+        {
+            "start": 30.8,
+            "end": 46.16,
+            "label": "intro"
+        },
+        {
+            "start": 46.16,
+            "end": 61.53,
+            "label": "intro"
+        },
+        {
+            "start": 61.53,
+            "end": 74.98,
+            "label": "break"
+        },
+        {
+            "start": 74.98,
+            "end": 107.64,
+            "label": "drop"
+        },
+        {
+            "start": 107.64,
+            "end": 121.08,
+            "label": "break"
+        },
+        {
+            "start": 121.08,
+            "end": 136.45,
+            "label": "break"
+        },
+        {
+            "start": 136.45,
+            "end": 151.82,
+            "label": "drop"
+        },
+        {
+            "start": 151.82,
+            "end": 167.19,
+            "label": "drop"
+        },
+        {
+            "start": 167.19,
+            "end": 182.56,
+            "label": "break"
+        },
+        {
+            "start": 182.56,
+            "end": 213.3,
+            "label": "drop"
+        },
+        {
+            "start": 213.3,
+            "end": 228.67000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 228.67000000000002,
+            "end": 247.88,
+            "label": "drop"
+        },
+        {
+            "start": 247.88,
+            "end": 261.32,
+            "label": "break"
+        },
+        {
+            "start": 261.32,
+            "end": 274.77,
+            "label": "break"
+        },
+        {
+            "start": 274.77,
+            "end": 296.86,
+            "label": "break"
+        },
+        {
+            "start": 296.86,
+            "end": 315.11,
+            "label": "break"
+        },
+        {
+            "start": 315.11,
+            "end": 336.24,
+            "label": "drop"
+        },
+        {
+            "start": 336.24,
+            "end": 351.61,
+            "label": "drop"
+        },
+        {
+            "start": 351.61,
+            "end": 368.89,
+            "label": "outro"
+        },
+        {
+            "start": 368.89,
+            "end": 372.52,
+            "label": "outro"
+        }
+    ]
+}

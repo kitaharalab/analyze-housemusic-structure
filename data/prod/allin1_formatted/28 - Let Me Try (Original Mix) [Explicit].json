@@ -1,0 +1,105 @@
+{
+    "path": "../data/prod/allin1_4_read/28 - Let Me Try (Original Mix) [Explicit].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.23,
+            "label": "intro"
+        },
+        {
+            "start": 0.23,
+            "end": 15.71,
+            "label": "intro"
+        },
+        {
+            "start": 15.71,
+            "end": 31.2,
+            "label": "intro"
+        },
+        {
+            "start": 31.2,
+            "end": 46.69,
+            "label": "drop"
+        },
+        {
+            "start": 46.69,
+            "end": 62.17,
+            "label": "drop"
+        },
+        {
+            "start": 62.17,
+            "end": 77.65,
+            "label": "drop"
+        },
+        {
+            "start": 77.65,
+            "end": 93.14,
+            "label": "drop"
+        },
+        {
+            "start": 93.14,
+            "end": 108.62,
+            "label": "drop"
+        },
+        {
+            "start": 108.62,
+            "end": 124.11,
+            "label": "break"
+        },
+        {
+            "start": 124.11,
+            "end": 155.07999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 155.07999999999998,
+            "end": 170.56,
+            "label": "drop"
+        },
+        {
+            "start": 170.56,
+            "end": 217.01,
+            "label": "drop"
+        },
+        {
+            "start": 217.01,
+            "end": 232.49,
+            "label": "drop"
+        },
+        {
+            "start": 232.49,
+            "end": 247.98,
+            "label": "drop"
+        },
+        {
+            "start": 247.98,
+            "end": 278.94,
+            "label": "drop"
+        },
+        {
+            "start": 278.94,
+            "end": 294.43,
+            "label": "drop"
+        },
+        {
+            "start": 294.43,
+            "end": 309.91,
+            "label": "drop"
+        },
+        {
+            "start": 309.91,
+            "end": 325.39,
+            "label": "outro"
+        },
+        {
+            "start": 325.39,
+            "end": 340.89,
+            "label": "outro"
+        },
+        {
+            "start": 340.89,
+            "end": 342.86,
+            "label": "outro"
+        }
+    ]
+}

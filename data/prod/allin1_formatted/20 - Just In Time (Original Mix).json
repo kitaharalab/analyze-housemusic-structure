@@ -1,0 +1,95 @@
+{
+    "path": "../data/prod/allin1_4_read/20 - Just In Time (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 46.07,
+            "label": "intro"
+        },
+        {
+            "start": 46.07,
+            "end": 61.43,
+            "label": "break"
+        },
+        {
+            "start": 61.43,
+            "end": 92.15,
+            "label": "break"
+        },
+        {
+            "start": 92.15,
+            "end": 124.79,
+            "label": "drop"
+        },
+        {
+            "start": 124.79,
+            "end": 137.27,
+            "label": "drop"
+        },
+        {
+            "start": 137.27,
+            "end": 171.82999999999998,
+            "label": "break"
+        },
+        {
+            "start": 171.82999999999998,
+            "end": 200.62,
+            "label": "break"
+        },
+        {
+            "start": 200.62,
+            "end": 215.03,
+            "label": "break"
+        },
+        {
+            "start": 215.03,
+            "end": 230.38,
+            "label": "drop"
+        },
+        {
+            "start": 230.38,
+            "end": 245.75,
+            "label": "drop"
+        },
+        {
+            "start": 245.75,
+            "end": 261.11,
+            "label": "break"
+        },
+        {
+            "start": 261.11,
+            "end": 276.46,
+            "label": "break"
+        },
+        {
+            "start": 276.46,
+            "end": 293.75,
+            "label": "drop"
+        },
+        {
+            "start": 293.75,
+            "end": 307.19,
+            "label": "drop"
+        },
+        {
+            "start": 307.19,
+            "end": 337.90999999999997,
+            "label": "drop"
+        },
+        {
+            "start": 337.90999999999997,
+            "end": 352.3,
+            "label": "outro"
+        },
+        {
+            "start": 352.3,
+            "end": 368.63,
+            "label": "outro"
+        },
+        {
+            "start": 368.63,
+            "end": 370.76,
+            "label": "outro"
+        }
+    ]
+}

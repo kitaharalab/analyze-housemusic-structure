@@ -1,0 +1,130 @@
+{
+    "path": "../data/prod/allin1_4_read/Philco - BEST OF 2022 - 14 The Rhodes Track.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 15.1,
+            "label": "intro"
+        },
+        {
+            "start": 15.1,
+            "end": 30.23,
+            "label": "intro"
+        },
+        {
+            "start": 30.23,
+            "end": 45.34,
+            "label": "break"
+        },
+        {
+            "start": 45.34,
+            "end": 60.46,
+            "label": "break"
+        },
+        {
+            "start": 60.46,
+            "end": 75.58,
+            "label": "drop"
+        },
+        {
+            "start": 75.58,
+            "end": 90.7,
+            "label": "drop"
+        },
+        {
+            "start": 90.7,
+            "end": 105.82,
+            "label": "drop"
+        },
+        {
+            "start": 105.82,
+            "end": 120.94,
+            "label": "drop"
+        },
+        {
+            "start": 120.94,
+            "end": 136.06,
+            "label": "drop"
+        },
+        {
+            "start": 136.06,
+            "end": 151.17000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 151.17000000000002,
+            "end": 166.29,
+            "label": "drop"
+        },
+        {
+            "start": 166.29,
+            "end": 181.42,
+            "label": "drop"
+        },
+        {
+            "start": 181.42,
+            "end": 196.53,
+            "label": "break"
+        },
+        {
+            "start": 196.53,
+            "end": 211.65,
+            "label": "break"
+        },
+        {
+            "start": 211.65,
+            "end": 226.76,
+            "label": "drop"
+        },
+        {
+            "start": 226.76,
+            "end": 241.88,
+            "label": "drop"
+        },
+        {
+            "start": 241.88,
+            "end": 257.0,
+            "label": "drop"
+        },
+        {
+            "start": 257.0,
+            "end": 272.12,
+            "label": "drop"
+        },
+        {
+            "start": 272.12,
+            "end": 287.24,
+            "label": "drop"
+        },
+        {
+            "start": 287.24,
+            "end": 302.35,
+            "label": "drop"
+        },
+        {
+            "start": 302.35,
+            "end": 317.47,
+            "label": "break"
+        },
+        {
+            "start": 317.47,
+            "end": 332.59000000000003,
+            "label": "break"
+        },
+        {
+            "start": 332.59000000000003,
+            "end": 347.7,
+            "label": "break"
+        },
+        {
+            "start": 347.7,
+            "end": 362.84,
+            "label": "break"
+        },
+        {
+            "start": 362.84,
+            "end": 376.07,
+            "label": "outro"
+        }
+    ]
+}

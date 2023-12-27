@@ -1,0 +1,145 @@
+{
+    "path": "../data/prod/allin1_4_read/36 - Devotion (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 30.92,
+            "label": "intro"
+        },
+        {
+            "start": 30.92,
+            "end": 45.92,
+            "label": "break"
+        },
+        {
+            "start": 45.92,
+            "end": 59.05,
+            "label": "intro"
+        },
+        {
+            "start": 59.05,
+            "end": 74.99,
+            "label": "break"
+        },
+        {
+            "start": 74.99,
+            "end": 90.93,
+            "label": "drop"
+        },
+        {
+            "start": 90.93,
+            "end": 104.06,
+            "label": "drop"
+        },
+        {
+            "start": 104.06,
+            "end": 119.99000000000001,
+            "label": "break"
+        },
+        {
+            "start": 119.99000000000001,
+            "end": 135.94,
+            "label": "drop"
+        },
+        {
+            "start": 135.94,
+            "end": 149.06,
+            "label": "drop"
+        },
+        {
+            "start": 149.06,
+            "end": 164.06,
+            "label": "drop"
+        },
+        {
+            "start": 164.06,
+            "end": 180.0,
+            "label": "drop"
+        },
+        {
+            "start": 180.0,
+            "end": 193.13,
+            "label": "break"
+        },
+        {
+            "start": 193.13,
+            "end": 210.0,
+            "label": "break"
+        },
+        {
+            "start": 210.0,
+            "end": 225.94,
+            "label": "break"
+        },
+        {
+            "start": 225.94,
+            "end": 239.06,
+            "label": "break"
+        },
+        {
+            "start": 239.06,
+            "end": 252.18,
+            "label": "break"
+        },
+        {
+            "start": 252.18,
+            "end": 270.0,
+            "label": "break"
+        },
+        {
+            "start": 270.0,
+            "end": 285.94,
+            "label": "drop"
+        },
+        {
+            "start": 285.94,
+            "end": 301.88,
+            "label": "drop"
+        },
+        {
+            "start": 301.88,
+            "end": 314.99,
+            "label": "drop"
+        },
+        {
+            "start": 314.99,
+            "end": 330.94,
+            "label": "drop"
+        },
+        {
+            "start": 330.94,
+            "end": 345.0,
+            "label": "drop"
+        },
+        {
+            "start": 345.0,
+            "end": 360.0,
+            "label": "drop"
+        },
+        {
+            "start": 360.0,
+            "end": 374.99,
+            "label": "drop"
+        },
+        {
+            "start": 374.99,
+            "end": 389.99,
+            "label": "outro"
+        },
+        {
+            "start": 389.99,
+            "end": 404.99,
+            "label": "outro"
+        },
+        {
+            "start": 404.99,
+            "end": 420.0,
+            "label": "outro"
+        },
+        {
+            "start": 420.0,
+            "end": 423.76,
+            "label": "outro"
+        }
+    ]
+}

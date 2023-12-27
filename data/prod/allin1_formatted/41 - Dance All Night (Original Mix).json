@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/41 - Dance All Night (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.23,
+            "label": "intro"
+        },
+        {
+            "start": 0.23,
+            "end": 15.46,
+            "label": "intro"
+        },
+        {
+            "start": 15.46,
+            "end": 30.7,
+            "label": "intro"
+        },
+        {
+            "start": 30.7,
+            "end": 45.94,
+            "label": "drop"
+        },
+        {
+            "start": 45.94,
+            "end": 61.18,
+            "label": "drop"
+        },
+        {
+            "start": 61.18,
+            "end": 76.42,
+            "label": "drop"
+        },
+        {
+            "start": 76.42,
+            "end": 91.65,
+            "label": "drop"
+        },
+        {
+            "start": 91.65,
+            "end": 106.89,
+            "label": "break"
+        },
+        {
+            "start": 106.89,
+            "end": 122.14,
+            "label": "break"
+        },
+        {
+            "start": 122.14,
+            "end": 137.37,
+            "label": "break"
+        },
+        {
+            "start": 137.37,
+            "end": 152.61,
+            "label": "drop"
+        },
+        {
+            "start": 152.61,
+            "end": 167.85,
+            "label": "drop"
+        },
+        {
+            "start": 167.85,
+            "end": 183.08,
+            "label": "drop"
+        },
+        {
+            "start": 183.08,
+            "end": 198.32,
+            "label": "drop"
+        },
+        {
+            "start": 198.32,
+            "end": 213.56,
+            "label": "drop"
+        },
+        {
+            "start": 213.56,
+            "end": 228.8,
+            "label": "drop"
+        },
+        {
+            "start": 228.8,
+            "end": 244.03,
+            "label": "drop"
+        },
+        {
+            "start": 244.03,
+            "end": 259.27,
+            "label": "drop"
+        },
+        {
+            "start": 259.27,
+            "end": 274.51,
+            "label": "drop"
+        },
+        {
+            "start": 274.51,
+            "end": 289.75,
+            "label": "drop"
+        },
+        {
+            "start": 289.75,
+            "end": 304.99,
+            "label": "drop"
+        },
+        {
+            "start": 304.99,
+            "end": 320.24,
+            "label": "drop"
+        },
+        {
+            "start": 320.24,
+            "end": 320.27,
+            "label": "outro"
+        }
+    ]
+}

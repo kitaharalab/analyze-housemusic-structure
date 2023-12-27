@@ -1,0 +1,155 @@
+{
+    "path": "../data/prod/allin1_4_read/53 - Music Is My Way Of Life (feat. Lisa Millett) [The Lab Rats present The Experiment] [Lab Rats Main Ex.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 2.3,
+            "label": "intro"
+        },
+        {
+            "start": 2.3,
+            "end": 18.64,
+            "label": "intro"
+        },
+        {
+            "start": 18.64,
+            "end": 34.03,
+            "label": "intro"
+        },
+        {
+            "start": 34.03,
+            "end": 48.47,
+            "label": "intro"
+        },
+        {
+            "start": 48.47,
+            "end": 63.85,
+            "label": "drop"
+        },
+        {
+            "start": 63.85,
+            "end": 79.25,
+            "label": "drop"
+        },
+        {
+            "start": 79.25,
+            "end": 94.64,
+            "label": "break"
+        },
+        {
+            "start": 94.64,
+            "end": 110.02000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 110.02000000000001,
+            "end": 125.42,
+            "label": "drop"
+        },
+        {
+            "start": 125.42,
+            "end": 138.89,
+            "label": "drop"
+        },
+        {
+            "start": 138.89,
+            "end": 165.82,
+            "label": "drop"
+        },
+        {
+            "start": 165.82,
+            "end": 183.13,
+            "label": "drop"
+        },
+        {
+            "start": 183.13,
+            "end": 198.53,
+            "label": "drop"
+        },
+        {
+            "start": 198.53,
+            "end": 215.84,
+            "label": "drop"
+        },
+        {
+            "start": 215.84,
+            "end": 239.89,
+            "label": "drop"
+        },
+        {
+            "start": 239.89,
+            "end": 259.12,
+            "label": "drop"
+        },
+        {
+            "start": 259.12,
+            "end": 274.52,
+            "label": "break"
+        },
+        {
+            "start": 274.52,
+            "end": 289.9,
+            "label": "break"
+        },
+        {
+            "start": 289.9,
+            "end": 309.13,
+            "label": "break"
+        },
+        {
+            "start": 309.13,
+            "end": 326.46,
+            "label": "break"
+        },
+        {
+            "start": 326.46,
+            "end": 350.5,
+            "label": "drop"
+        },
+        {
+            "start": 350.5,
+            "end": 369.74,
+            "label": "drop"
+        },
+        {
+            "start": 369.74,
+            "end": 393.77,
+            "label": "drop"
+        },
+        {
+            "start": 393.77,
+            "end": 409.17,
+            "label": "drop"
+        },
+        {
+            "start": 409.17,
+            "end": 424.56,
+            "label": "drop"
+        },
+        {
+            "start": 424.56,
+            "end": 439.95,
+            "label": "drop"
+        },
+        {
+            "start": 439.95,
+            "end": 455.34000000000003,
+            "label": "drop"
+        },
+        {
+            "start": 455.34000000000003,
+            "end": 470.73,
+            "label": "outro"
+        },
+        {
+            "start": 470.73,
+            "end": 486.12,
+            "label": "outro"
+        },
+        {
+            "start": 486.12,
+            "end": 491.84,
+            "label": "outro"
+        }
+    ]
+}

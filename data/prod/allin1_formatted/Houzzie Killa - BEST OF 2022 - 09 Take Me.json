@@ -1,0 +1,125 @@
+{
+    "path": "../data/prod/allin1_4_read/Houzzie Killa - BEST OF 2022 - 09 Take Me.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.23,
+            "label": "intro"
+        },
+        {
+            "start": 0.23,
+            "end": 15.84,
+            "label": "intro"
+        },
+        {
+            "start": 15.84,
+            "end": 31.45,
+            "label": "intro"
+        },
+        {
+            "start": 31.45,
+            "end": 47.06,
+            "label": "intro"
+        },
+        {
+            "start": 47.06,
+            "end": 62.67,
+            "label": "drop"
+        },
+        {
+            "start": 62.67,
+            "end": 78.28,
+            "label": "drop"
+        },
+        {
+            "start": 78.28,
+            "end": 93.89,
+            "label": "drop"
+        },
+        {
+            "start": 93.89,
+            "end": 109.50999999999999,
+            "label": "break"
+        },
+        {
+            "start": 109.50999999999999,
+            "end": 125.12,
+            "label": "break"
+        },
+        {
+            "start": 125.12,
+            "end": 140.72,
+            "label": "drop"
+        },
+        {
+            "start": 140.72,
+            "end": 156.32999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 156.32999999999998,
+            "end": 171.94,
+            "label": "drop"
+        },
+        {
+            "start": 171.94,
+            "end": 187.55,
+            "label": "drop"
+        },
+        {
+            "start": 187.55,
+            "end": 203.16,
+            "label": "drop"
+        },
+        {
+            "start": 203.16,
+            "end": 218.77,
+            "label": "break"
+        },
+        {
+            "start": 218.77,
+            "end": 234.37,
+            "label": "break"
+        },
+        {
+            "start": 234.37,
+            "end": 249.99,
+            "label": "break"
+        },
+        {
+            "start": 249.99,
+            "end": 265.6,
+            "label": "drop"
+        },
+        {
+            "start": 265.6,
+            "end": 281.21,
+            "label": "drop"
+        },
+        {
+            "start": 281.21,
+            "end": 296.82,
+            "label": "drop"
+        },
+        {
+            "start": 296.82,
+            "end": 312.42,
+            "label": "drop"
+        },
+        {
+            "start": 312.42,
+            "end": 328.03,
+            "label": "outro"
+        },
+        {
+            "start": 328.03,
+            "end": 343.64,
+            "label": "outro"
+        },
+        {
+            "start": 343.64,
+            "end": 349.02,
+            "label": "outro"
+        }
+    ]
+}

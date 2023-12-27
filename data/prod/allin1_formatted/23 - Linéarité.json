@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/23 - Lin\u00e9arit\u00e9.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.26,
+            "label": "intro"
+        },
+        {
+            "start": 0.26,
+            "end": 15.62,
+            "label": "intro"
+        },
+        {
+            "start": 15.62,
+            "end": 30.97,
+            "label": "intro"
+        },
+        {
+            "start": 30.97,
+            "end": 46.33,
+            "label": "intro"
+        },
+        {
+            "start": 46.33,
+            "end": 61.69,
+            "label": "break"
+        },
+        {
+            "start": 61.69,
+            "end": 84.73,
+            "label": "drop"
+        },
+        {
+            "start": 84.73,
+            "end": 107.75999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 107.75999999999999,
+            "end": 123.13,
+            "label": "break"
+        },
+        {
+            "start": 123.13,
+            "end": 142.32999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 142.32999999999998,
+            "end": 165.37,
+            "label": "drop"
+        },
+        {
+            "start": 165.37,
+            "end": 184.57,
+            "label": "drop"
+        },
+        {
+            "start": 184.57,
+            "end": 199.93,
+            "label": "break"
+        },
+        {
+            "start": 199.93,
+            "end": 230.65,
+            "label": "break"
+        },
+        {
+            "start": 230.65,
+            "end": 249.85,
+            "label": "drop"
+        },
+        {
+            "start": 249.85,
+            "end": 272.89,
+            "label": "drop"
+        },
+        {
+            "start": 272.89,
+            "end": 292.1,
+            "label": "drop"
+        },
+        {
+            "start": 292.1,
+            "end": 307.45,
+            "label": "break"
+        },
+        {
+            "start": 307.45,
+            "end": 322.81,
+            "label": "break"
+        },
+        {
+            "start": 322.81,
+            "end": 342.0,
+            "label": "drop"
+        },
+        {
+            "start": 342.0,
+            "end": 368.89,
+            "label": "drop"
+        },
+        {
+            "start": 368.89,
+            "end": 381.06,
+            "label": "outro"
+        },
+        {
+            "start": 381.06,
+            "end": 382.17,
+            "label": "outro"
+        }
+    ]
+}

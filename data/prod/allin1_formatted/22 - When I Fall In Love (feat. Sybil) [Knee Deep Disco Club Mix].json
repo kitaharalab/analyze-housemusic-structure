@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/22 - When I Fall In Love (feat. Sybil) [Knee Deep Disco Club Mix].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 16.2,
+            "label": "intro"
+        },
+        {
+            "start": 16.2,
+            "end": 30.49,
+            "label": "intro"
+        },
+        {
+            "start": 30.49,
+            "end": 42.87,
+            "label": "intro"
+        },
+        {
+            "start": 42.87,
+            "end": 60.97,
+            "label": "intro"
+        },
+        {
+            "start": 60.97,
+            "end": 98.12,
+            "label": "drop"
+        },
+        {
+            "start": 98.12,
+            "end": 113.36,
+            "label": "drop"
+        },
+        {
+            "start": 113.36,
+            "end": 152.42000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 152.42000000000002,
+            "end": 174.32,
+            "label": "drop"
+        },
+        {
+            "start": 174.32,
+            "end": 187.66,
+            "label": "drop"
+        },
+        {
+            "start": 187.66,
+            "end": 204.81,
+            "label": "drop"
+        },
+        {
+            "start": 204.81,
+            "end": 228.61,
+            "label": "drop"
+        },
+        {
+            "start": 228.61,
+            "end": 251.47,
+            "label": "break"
+        },
+        {
+            "start": 251.47,
+            "end": 266.71,
+            "label": "break"
+        },
+        {
+            "start": 266.71,
+            "end": 281.96,
+            "label": "break"
+        },
+        {
+            "start": 281.96,
+            "end": 297.2,
+            "label": "drop"
+        },
+        {
+            "start": 297.2,
+            "end": 327.68,
+            "label": "drop"
+        },
+        {
+            "start": 327.68,
+            "end": 342.92,
+            "label": "drop"
+        },
+        {
+            "start": 342.92,
+            "end": 358.15,
+            "label": "drop"
+        },
+        {
+            "start": 358.15,
+            "end": 373.39,
+            "label": "outro"
+        },
+        {
+            "start": 373.39,
+            "end": 388.63,
+            "label": "outro"
+        },
+        {
+            "start": 388.63,
+            "end": 393.03,
+            "label": "outro"
+        }
+    ]
+}

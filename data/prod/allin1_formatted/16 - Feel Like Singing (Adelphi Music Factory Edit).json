@@ -1,0 +1,75 @@
+{
+    "path": "../data/prod/allin1_4_read/16 - Feel Like Singing (Adelphi Music Factory Edit).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.91,
+            "label": "intro"
+        },
+        {
+            "start": 0.91,
+            "end": 24.45,
+            "label": "intro"
+        },
+        {
+            "start": 24.45,
+            "end": 47.07,
+            "label": "break"
+        },
+        {
+            "start": 47.07,
+            "end": 61.84,
+            "label": "drop"
+        },
+        {
+            "start": 61.84,
+            "end": 76.61,
+            "label": "drop"
+        },
+        {
+            "start": 76.61,
+            "end": 91.38,
+            "label": "drop"
+        },
+        {
+            "start": 91.38,
+            "end": 106.15,
+            "label": "break"
+        },
+        {
+            "start": 106.15,
+            "end": 120.92,
+            "label": "break"
+        },
+        {
+            "start": 120.92,
+            "end": 135.69,
+            "label": "break"
+        },
+        {
+            "start": 135.69,
+            "end": 150.46,
+            "label": "break"
+        },
+        {
+            "start": 150.46,
+            "end": 165.23,
+            "label": "drop"
+        },
+        {
+            "start": 165.23,
+            "end": 180.0,
+            "label": "drop"
+        },
+        {
+            "start": 180.0,
+            "end": 194.77,
+            "label": "outro"
+        },
+        {
+            "start": 194.77,
+            "end": 199.39,
+            "label": "outro"
+        }
+    ]
+}

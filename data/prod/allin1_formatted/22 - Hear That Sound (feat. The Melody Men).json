@@ -1,0 +1,75 @@
+{
+    "path": "../data/prod/allin1_4_read/22 - Hear That Sound (feat. The Melody Men).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.01,
+            "label": "intro"
+        },
+        {
+            "start": 0.01,
+            "end": 15.0,
+            "label": "intro"
+        },
+        {
+            "start": 15.0,
+            "end": 30.01,
+            "label": "break"
+        },
+        {
+            "start": 30.01,
+            "end": 45.01,
+            "label": "break"
+        },
+        {
+            "start": 45.01,
+            "end": 60.01,
+            "label": "drop"
+        },
+        {
+            "start": 60.01,
+            "end": 75.01,
+            "label": "drop"
+        },
+        {
+            "start": 75.01,
+            "end": 90.01,
+            "label": "drop"
+        },
+        {
+            "start": 90.01,
+            "end": 105.00999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 105.00999999999999,
+            "end": 120.01,
+            "label": "break"
+        },
+        {
+            "start": 120.01,
+            "end": 135.01,
+            "label": "break"
+        },
+        {
+            "start": 135.01,
+            "end": 150.01,
+            "label": "drop"
+        },
+        {
+            "start": 150.01,
+            "end": 165.01,
+            "label": "outro"
+        },
+        {
+            "start": 165.01,
+            "end": 180.01,
+            "label": "outro"
+        },
+        {
+            "start": 180.01,
+            "end": 187.16,
+            "label": "outro"
+        }
+    ]
+}

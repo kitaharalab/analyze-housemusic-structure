@@ -1,0 +1,110 @@
+{
+    "path": "../data/prod/allin1_4_read/07 - You_re No Good For Me.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.48,
+            "label": "intro"
+        },
+        {
+            "start": 0.48,
+            "end": 16.98,
+            "label": "break"
+        },
+        {
+            "start": 16.98,
+            "end": 32.42,
+            "label": "break"
+        },
+        {
+            "start": 32.42,
+            "end": 48.39,
+            "label": "break"
+        },
+        {
+            "start": 48.39,
+            "end": 64.34,
+            "label": "break"
+        },
+        {
+            "start": 64.34,
+            "end": 80.28999999999999,
+            "label": "break"
+        },
+        {
+            "start": 80.28999999999999,
+            "end": 112.19,
+            "label": "break"
+        },
+        {
+            "start": 112.19,
+            "end": 128.14,
+            "label": "drop"
+        },
+        {
+            "start": 128.14,
+            "end": 144.09,
+            "label": "break"
+        },
+        {
+            "start": 144.09,
+            "end": 160.53,
+            "label": "drop"
+        },
+        {
+            "start": 160.53,
+            "end": 175.98,
+            "label": "drop"
+        },
+        {
+            "start": 175.98,
+            "end": 191.93,
+            "label": "break"
+        },
+        {
+            "start": 191.93,
+            "end": 207.87,
+            "label": "break"
+        },
+        {
+            "start": 207.87,
+            "end": 223.82999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 223.82999999999998,
+            "end": 239.78,
+            "label": "drop"
+        },
+        {
+            "start": 239.78,
+            "end": 257.71,
+            "label": "drop"
+        },
+        {
+            "start": 257.71,
+            "end": 271.67,
+            "label": "break"
+        },
+        {
+            "start": 271.67,
+            "end": 303.56,
+            "label": "break"
+        },
+        {
+            "start": 303.56,
+            "end": 319.52,
+            "label": "drop"
+        },
+        {
+            "start": 319.52,
+            "end": 347.44,
+            "label": "drop"
+        },
+        {
+            "start": 347.44,
+            "end": 357.6,
+            "label": "outro"
+        }
+    ]
+}

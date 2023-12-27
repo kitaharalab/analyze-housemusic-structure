@@ -1,0 +1,160 @@
+{
+    "path": "../data/prod/allin1_4_read/54 - Good For You (feat. Angie Brown).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.08,
+            "label": "intro"
+        },
+        {
+            "start": 0.08,
+            "end": 15.42,
+            "label": "intro"
+        },
+        {
+            "start": 15.42,
+            "end": 30.77,
+            "label": "intro"
+        },
+        {
+            "start": 30.77,
+            "end": 46.13,
+            "label": "intro"
+        },
+        {
+            "start": 46.13,
+            "end": 61.48,
+            "label": "drop"
+        },
+        {
+            "start": 61.48,
+            "end": 76.82,
+            "label": "drop"
+        },
+        {
+            "start": 76.82,
+            "end": 92.18,
+            "label": "break"
+        },
+        {
+            "start": 92.18,
+            "end": 107.52000000000001,
+            "label": "break"
+        },
+        {
+            "start": 107.52000000000001,
+            "end": 122.86,
+            "label": "drop"
+        },
+        {
+            "start": 122.86,
+            "end": 136.3,
+            "label": "drop"
+        },
+        {
+            "start": 136.3,
+            "end": 153.56,
+            "label": "break"
+        },
+        {
+            "start": 153.56,
+            "end": 168.91,
+            "label": "drop"
+        },
+        {
+            "start": 168.91,
+            "end": 184.26,
+            "label": "drop"
+        },
+        {
+            "start": 184.26,
+            "end": 199.61,
+            "label": "break"
+        },
+        {
+            "start": 199.61,
+            "end": 214.47,
+            "label": "break"
+        },
+        {
+            "start": 214.47,
+            "end": 230.3,
+            "label": "break"
+        },
+        {
+            "start": 230.3,
+            "end": 245.65,
+            "label": "drop"
+        },
+        {
+            "start": 245.65,
+            "end": 261.01,
+            "label": "drop"
+        },
+        {
+            "start": 261.01,
+            "end": 276.35,
+            "label": "break"
+        },
+        {
+            "start": 276.35,
+            "end": 291.7,
+            "label": "break"
+        },
+        {
+            "start": 291.7,
+            "end": 307.04,
+            "label": "break"
+        },
+        {
+            "start": 307.04,
+            "end": 324.31,
+            "label": "drop"
+        },
+        {
+            "start": 324.31,
+            "end": 337.74,
+            "label": "drop"
+        },
+        {
+            "start": 337.74,
+            "end": 355.01,
+            "label": "drop"
+        },
+        {
+            "start": 355.01,
+            "end": 383.78,
+            "label": "drop"
+        },
+        {
+            "start": 383.78,
+            "end": 404.88,
+            "label": "drop"
+        },
+        {
+            "start": 404.88,
+            "end": 431.74,
+            "label": "drop"
+        },
+        {
+            "start": 431.74,
+            "end": 447.09,
+            "label": "drop"
+        },
+        {
+            "start": 447.09,
+            "end": 460.52,
+            "label": "drop"
+        },
+        {
+            "start": 460.52,
+            "end": 491.21,
+            "label": "outro"
+        },
+        {
+            "start": 491.21,
+            "end": 497.5,
+            "label": "outro"
+        }
+    ]
+}

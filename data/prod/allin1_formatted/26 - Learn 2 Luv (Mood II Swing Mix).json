@@ -1,0 +1,145 @@
+{
+    "path": "../data/prod/allin1_4_read/26 - Learn 2 Luv (Mood II Swing Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.04,
+            "label": "intro"
+        },
+        {
+            "start": 0.04,
+            "end": 13.48,
+            "label": "intro"
+        },
+        {
+            "start": 13.48,
+            "end": 30.75,
+            "label": "intro"
+        },
+        {
+            "start": 30.75,
+            "end": 46.11,
+            "label": "drop"
+        },
+        {
+            "start": 46.11,
+            "end": 61.48,
+            "label": "drop"
+        },
+        {
+            "start": 61.48,
+            "end": 76.85,
+            "label": "drop"
+        },
+        {
+            "start": 76.85,
+            "end": 92.21000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 92.21000000000001,
+            "end": 107.1,
+            "label": "break"
+        },
+        {
+            "start": 107.1,
+            "end": 124.39,
+            "label": "break"
+        },
+        {
+            "start": 124.39,
+            "end": 153.68,
+            "label": "drop"
+        },
+        {
+            "start": 153.68,
+            "end": 169.05,
+            "label": "break"
+        },
+        {
+            "start": 169.05,
+            "end": 184.4,
+            "label": "break"
+        },
+        {
+            "start": 184.4,
+            "end": 199.77,
+            "label": "drop"
+        },
+        {
+            "start": 199.77,
+            "end": 215.14,
+            "label": "drop"
+        },
+        {
+            "start": 215.14,
+            "end": 229.54,
+            "label": "drop"
+        },
+        {
+            "start": 229.54,
+            "end": 245.86,
+            "label": "drop"
+        },
+        {
+            "start": 245.86,
+            "end": 276.59000000000003,
+            "label": "drop"
+        },
+        {
+            "start": 276.59000000000003,
+            "end": 291.96,
+            "label": "break"
+        },
+        {
+            "start": 291.96,
+            "end": 315.01,
+            "label": "break"
+        },
+        {
+            "start": 315.01,
+            "end": 330.38,
+            "label": "drop"
+        },
+        {
+            "start": 330.38,
+            "end": 345.74,
+            "label": "drop"
+        },
+        {
+            "start": 345.74,
+            "end": 361.11,
+            "label": "drop"
+        },
+        {
+            "start": 361.11,
+            "end": 395.68,
+            "label": "drop"
+        },
+        {
+            "start": 395.68,
+            "end": 411.05,
+            "label": "drop"
+        },
+        {
+            "start": 411.05,
+            "end": 430.25,
+            "label": "drop"
+        },
+        {
+            "start": 430.25,
+            "end": 460.98,
+            "label": "break"
+        },
+        {
+            "start": 460.98,
+            "end": 496.55,
+            "label": "break"
+        },
+        {
+            "start": 496.55,
+            "end": 496.56,
+            "label": "outro"
+        }
+    ]
+}

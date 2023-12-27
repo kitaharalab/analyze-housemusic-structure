@@ -1,0 +1,70 @@
+{
+    "path": "../data/prod/allin1_4_read/39 - Sauce (Manoo Buzzin Vocal).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 24.0,
+            "label": "intro"
+        },
+        {
+            "start": 24.0,
+            "end": 37.44,
+            "label": "drop"
+        },
+        {
+            "start": 37.44,
+            "end": 53.76,
+            "label": "drop"
+        },
+        {
+            "start": 53.76,
+            "end": 69.38,
+            "label": "drop"
+        },
+        {
+            "start": 69.38,
+            "end": 84.48,
+            "label": "drop"
+        },
+        {
+            "start": 84.48,
+            "end": 99.63,
+            "label": "drop"
+        },
+        {
+            "start": 99.63,
+            "end": 115.21000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 115.21000000000001,
+            "end": 140.17000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 140.17000000000002,
+            "end": 153.86,
+            "label": "drop"
+        },
+        {
+            "start": 153.86,
+            "end": 169.21,
+            "label": "drop"
+        },
+        {
+            "start": 169.21,
+            "end": 184.57,
+            "label": "drop"
+        },
+        {
+            "start": 184.57,
+            "end": 207.37,
+            "label": "outro"
+        },
+        {
+            "start": 207.37,
+            "end": 208.71,
+            "label": "outro"
+        }
+    ]
+}

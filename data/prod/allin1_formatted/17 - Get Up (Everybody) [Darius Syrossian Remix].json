@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/17 - Get Up (Everybody) [Darius Syrossian Remix].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.01,
+            "label": "intro"
+        },
+        {
+            "start": 0.01,
+            "end": 15.23,
+            "label": "intro"
+        },
+        {
+            "start": 15.23,
+            "end": 45.71,
+            "label": "drop"
+        },
+        {
+            "start": 45.71,
+            "end": 60.95,
+            "label": "drop"
+        },
+        {
+            "start": 60.95,
+            "end": 76.18,
+            "label": "drop"
+        },
+        {
+            "start": 76.18,
+            "end": 91.42,
+            "label": "break"
+        },
+        {
+            "start": 91.42,
+            "end": 106.66,
+            "label": "break"
+        },
+        {
+            "start": 106.66,
+            "end": 121.9,
+            "label": "drop"
+        },
+        {
+            "start": 121.9,
+            "end": 144.76,
+            "label": "break"
+        },
+        {
+            "start": 144.76,
+            "end": 159.99,
+            "label": "break"
+        },
+        {
+            "start": 159.99,
+            "end": 175.23,
+            "label": "break"
+        },
+        {
+            "start": 175.23,
+            "end": 190.47,
+            "label": "drop"
+        },
+        {
+            "start": 190.47,
+            "end": 205.23,
+            "label": "break"
+        },
+        {
+            "start": 205.23,
+            "end": 220.95,
+            "label": "break"
+        },
+        {
+            "start": 220.95,
+            "end": 236.18,
+            "label": "drop"
+        },
+        {
+            "start": 236.18,
+            "end": 251.42,
+            "label": "drop"
+        },
+        {
+            "start": 251.42,
+            "end": 266.66,
+            "label": "drop"
+        },
+        {
+            "start": 266.66,
+            "end": 281.9,
+            "label": "drop"
+        },
+        {
+            "start": 281.9,
+            "end": 297.14,
+            "label": "drop"
+        },
+        {
+            "start": 297.14,
+            "end": 312.38,
+            "label": "drop"
+        },
+        {
+            "start": 312.38,
+            "end": 327.61,
+            "label": "drop"
+        },
+        {
+            "start": 327.61,
+            "end": 342.85,
+            "label": "break"
+        },
+        {
+            "start": 342.85,
+            "end": 358.09000000000003,
+            "label": "drop"
+        },
+        {
+            "start": 358.09000000000003,
+            "end": 373.32,
+            "label": "drop"
+        },
+        {
+            "start": 373.32,
+            "end": 388.56,
+            "label": "outro"
+        },
+        {
+            "start": 388.56,
+            "end": 396.2,
+            "label": "outro"
+        }
+    ]
+}

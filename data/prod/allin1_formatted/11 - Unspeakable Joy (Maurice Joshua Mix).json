@@ -1,0 +1,100 @@
+{
+    "path": "../data/prod/allin1_4_read/11 - Unspeakable Joy (Maurice Joshua Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 16.29,
+            "label": "intro"
+        },
+        {
+            "start": 16.29,
+            "end": 32.58,
+            "label": "intro"
+        },
+        {
+            "start": 32.58,
+            "end": 48.84,
+            "label": "break"
+        },
+        {
+            "start": 48.84,
+            "end": 73.24,
+            "label": "break"
+        },
+        {
+            "start": 73.24,
+            "end": 97.64,
+            "label": "drop"
+        },
+        {
+            "start": 97.64,
+            "end": 113.91,
+            "label": "drop"
+        },
+        {
+            "start": 113.91,
+            "end": 138.31,
+            "label": "break"
+        },
+        {
+            "start": 138.31,
+            "end": 162.71,
+            "label": "drop"
+        },
+        {
+            "start": 162.71,
+            "end": 178.98,
+            "label": "drop"
+        },
+        {
+            "start": 178.98,
+            "end": 203.38,
+            "label": "break"
+        },
+        {
+            "start": 203.38,
+            "end": 219.65,
+            "label": "drop"
+        },
+        {
+            "start": 219.65,
+            "end": 235.92000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 235.92000000000002,
+            "end": 252.2,
+            "label": "break"
+        },
+        {
+            "start": 252.2,
+            "end": 278.63,
+            "label": "drop"
+        },
+        {
+            "start": 278.63,
+            "end": 292.86,
+            "label": "break"
+        },
+        {
+            "start": 292.86,
+            "end": 309.13,
+            "label": "break"
+        },
+        {
+            "start": 309.13,
+            "end": 325.39,
+            "label": "outro"
+        },
+        {
+            "start": 325.39,
+            "end": 343.51,
+            "label": "outro"
+        }
+    ]
+}

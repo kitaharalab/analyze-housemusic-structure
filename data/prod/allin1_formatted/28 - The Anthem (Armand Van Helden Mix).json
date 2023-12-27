@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/28 - The Anthem (Armand Van Helden Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.28,
+            "label": "intro"
+        },
+        {
+            "start": 0.28,
+            "end": 19.37,
+            "label": "intro"
+        },
+        {
+            "start": 19.37,
+            "end": 34.88,
+            "label": "intro"
+        },
+        {
+            "start": 34.88,
+            "end": 65.87,
+            "label": "break"
+        },
+        {
+            "start": 65.87,
+            "end": 81.37,
+            "label": "drop"
+        },
+        {
+            "start": 81.37,
+            "end": 96.86,
+            "label": "drop"
+        },
+        {
+            "start": 96.86,
+            "end": 112.36,
+            "label": "drop"
+        },
+        {
+            "start": 112.36,
+            "end": 127.86,
+            "label": "drop"
+        },
+        {
+            "start": 127.86,
+            "end": 143.36,
+            "label": "drop"
+        },
+        {
+            "start": 143.36,
+            "end": 158.85,
+            "label": "drop"
+        },
+        {
+            "start": 158.85,
+            "end": 174.35,
+            "label": "break"
+        },
+        {
+            "start": 174.35,
+            "end": 189.84,
+            "label": "break"
+        },
+        {
+            "start": 189.84,
+            "end": 205.34,
+            "label": "drop"
+        },
+        {
+            "start": 205.34,
+            "end": 220.84,
+            "label": "break"
+        },
+        {
+            "start": 220.84,
+            "end": 236.32999999999998,
+            "label": "break"
+        },
+        {
+            "start": 236.32999999999998,
+            "end": 251.84,
+            "label": "drop"
+        },
+        {
+            "start": 251.84,
+            "end": 267.33,
+            "label": "drop"
+        },
+        {
+            "start": 267.33,
+            "end": 282.83,
+            "label": "drop"
+        },
+        {
+            "start": 282.83,
+            "end": 298.33,
+            "label": "drop"
+        },
+        {
+            "start": 298.33,
+            "end": 313.82,
+            "label": "drop"
+        },
+        {
+            "start": 313.82,
+            "end": 329.32,
+            "label": "break"
+        },
+        {
+            "start": 329.32,
+            "end": 344.82,
+            "label": "drop"
+        },
+        {
+            "start": 344.82,
+            "end": 360.31,
+            "label": "drop"
+        },
+        {
+            "start": 360.31,
+            "end": 375.81,
+            "label": "drop"
+        },
+        {
+            "start": 375.81,
+            "end": 391.31,
+            "label": "outro"
+        },
+        {
+            "start": 391.31,
+            "end": 395.19,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "path": "../data/prod/allin1_4_read/02 - Spotlight (feat. Sarah Ikumu).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.94,
+            "label": "intro"
+        },
+        {
+            "start": 0.94,
+            "end": 15.93,
+            "label": "break"
+        },
+        {
+            "start": 15.93,
+            "end": 30.93,
+            "label": "break"
+        },
+        {
+            "start": 30.93,
+            "end": 45.93,
+            "label": "drop"
+        },
+        {
+            "start": 45.93,
+            "end": 60.0,
+            "label": "drop"
+        },
+        {
+            "start": 60.0,
+            "end": 75.93,
+            "label": "break"
+        },
+        {
+            "start": 75.93,
+            "end": 90.94,
+            "label": "drop"
+        },
+        {
+            "start": 90.94,
+            "end": 105.94,
+            "label": "drop"
+        },
+        {
+            "start": 105.94,
+            "end": 132.18,
+            "label": "break"
+        },
+        {
+            "start": 132.18,
+            "end": 147.18,
+            "label": "drop"
+        },
+        {
+            "start": 147.18,
+            "end": 162.18,
+            "label": "drop"
+        },
+        {
+            "start": 162.18,
+            "end": 175.48,
+            "label": "outro"
+        }
+    ]
+}

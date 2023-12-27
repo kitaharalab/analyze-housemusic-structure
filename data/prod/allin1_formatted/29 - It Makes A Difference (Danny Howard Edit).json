@@ -1,0 +1,75 @@
+{
+    "path": "../data/prod/allin1_4_read/29 - It Makes A Difference (Danny Howard Edit).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 15.23,
+            "label": "intro"
+        },
+        {
+            "start": 15.23,
+            "end": 30.47,
+            "label": "drop"
+        },
+        {
+            "start": 30.47,
+            "end": 45.7,
+            "label": "drop"
+        },
+        {
+            "start": 45.7,
+            "end": 60.95,
+            "label": "drop"
+        },
+        {
+            "start": 60.95,
+            "end": 76.18,
+            "label": "drop"
+        },
+        {
+            "start": 76.18,
+            "end": 91.42,
+            "label": "drop"
+        },
+        {
+            "start": 91.42,
+            "end": 106.66,
+            "label": "drop"
+        },
+        {
+            "start": 106.66,
+            "end": 121.9,
+            "label": "drop"
+        },
+        {
+            "start": 121.9,
+            "end": 144.29,
+            "label": "break"
+        },
+        {
+            "start": 144.29,
+            "end": 158.57,
+            "label": "break"
+        },
+        {
+            "start": 158.57,
+            "end": 175.23,
+            "label": "break"
+        },
+        {
+            "start": 175.23,
+            "end": 198.09,
+            "label": "drop"
+        },
+        {
+            "start": 198.09,
+            "end": 213.34,
+            "label": "drop"
+        },
+        {
+            "start": 213.34,
+            "end": 230.48,
+            "label": "outro"
+        }
+    ]
+}

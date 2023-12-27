@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/03 - So Serious (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.17,
+            "label": "intro"
+        },
+        {
+            "start": 0.17,
+            "end": 31.38,
+            "label": "intro"
+        },
+        {
+            "start": 31.38,
+            "end": 47.96,
+            "label": "intro"
+        },
+        {
+            "start": 47.96,
+            "end": 63.58,
+            "label": "intro"
+        },
+        {
+            "start": 63.58,
+            "end": 78.22,
+            "label": "break"
+        },
+        {
+            "start": 78.22,
+            "end": 93.83,
+            "label": "drop"
+        },
+        {
+            "start": 93.83,
+            "end": 109.44,
+            "label": "drop"
+        },
+        {
+            "start": 109.44,
+            "end": 125.05,
+            "label": "break"
+        },
+        {
+            "start": 125.05,
+            "end": 140.66,
+            "label": "break"
+        },
+        {
+            "start": 140.66,
+            "end": 156.27,
+            "label": "break"
+        },
+        {
+            "start": 156.27,
+            "end": 171.87,
+            "label": "drop"
+        },
+        {
+            "start": 171.87,
+            "end": 187.48,
+            "label": "drop"
+        },
+        {
+            "start": 187.48,
+            "end": 203.1,
+            "label": "break"
+        },
+        {
+            "start": 203.1,
+            "end": 219.68,
+            "label": "break"
+        },
+        {
+            "start": 219.68,
+            "end": 234.32,
+            "label": "break"
+        },
+        {
+            "start": 234.32,
+            "end": 249.92,
+            "label": "break"
+        },
+        {
+            "start": 249.92,
+            "end": 265.53,
+            "label": "drop"
+        },
+        {
+            "start": 265.53,
+            "end": 296.75,
+            "label": "drop"
+        },
+        {
+            "start": 296.75,
+            "end": 312.36,
+            "label": "drop"
+        },
+        {
+            "start": 312.36,
+            "end": 327.0,
+            "label": "outro"
+        },
+        {
+            "start": 327.0,
+            "end": 342.6,
+            "label": "break"
+        },
+        {
+            "start": 342.6,
+            "end": 374.8,
+            "label": "outro"
+        },
+        {
+            "start": 374.8,
+            "end": 375.2,
+            "label": "outro"
+        }
+    ]
+}

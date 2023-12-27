@@ -1,0 +1,105 @@
+{
+    "path": "../data/prod/allin1_4_read/Steve End - BEST OF 2022 - 17 It_s Good Loving Somebody.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 19.5,
+            "label": "intro"
+        },
+        {
+            "start": 19.5,
+            "end": 46.82,
+            "label": "intro"
+        },
+        {
+            "start": 46.82,
+            "end": 62.43,
+            "label": "drop"
+        },
+        {
+            "start": 62.43,
+            "end": 78.03999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 78.03999999999999,
+            "end": 93.65,
+            "label": "drop"
+        },
+        {
+            "start": 93.65,
+            "end": 109.25,
+            "label": "drop"
+        },
+        {
+            "start": 109.25,
+            "end": 124.87,
+            "label": "drop"
+        },
+        {
+            "start": 124.87,
+            "end": 140.48,
+            "label": "drop"
+        },
+        {
+            "start": 140.48,
+            "end": 156.1,
+            "label": "drop"
+        },
+        {
+            "start": 156.1,
+            "end": 171.7,
+            "label": "break"
+        },
+        {
+            "start": 171.7,
+            "end": 187.31,
+            "label": "drop"
+        },
+        {
+            "start": 187.31,
+            "end": 202.92000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 202.92000000000002,
+            "end": 218.53,
+            "label": "drop"
+        },
+        {
+            "start": 218.53,
+            "end": 234.13,
+            "label": "drop"
+        },
+        {
+            "start": 234.13,
+            "end": 249.75,
+            "label": "drop"
+        },
+        {
+            "start": 249.75,
+            "end": 265.35,
+            "label": "drop"
+        },
+        {
+            "start": 265.35,
+            "end": 292.68,
+            "label": "drop"
+        },
+        {
+            "start": 292.68,
+            "end": 312.18,
+            "label": "outro"
+        },
+        {
+            "start": 312.18,
+            "end": 327.8,
+            "label": "outro"
+        },
+        {
+            "start": 327.8,
+            "end": 329.76,
+            "label": "outro"
+        }
+    ]
+}

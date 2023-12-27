@@ -1,0 +1,110 @@
+{
+    "path": "../data/prod/allin1_4_read/46 - Got 2 Be Loved (Extended Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.06,
+            "label": "intro"
+        },
+        {
+            "start": 0.06,
+            "end": 15.79,
+            "label": "intro"
+        },
+        {
+            "start": 15.79,
+            "end": 31.52,
+            "label": "intro"
+        },
+        {
+            "start": 31.52,
+            "end": 48.25,
+            "label": "intro"
+        },
+        {
+            "start": 48.25,
+            "end": 78.74,
+            "label": "intro"
+        },
+        {
+            "start": 78.74,
+            "end": 94.49000000000001,
+            "label": "break"
+        },
+        {
+            "start": 94.49000000000001,
+            "end": 111.21000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 111.21000000000001,
+            "end": 125.97,
+            "label": "drop"
+        },
+        {
+            "start": 125.97,
+            "end": 141.71,
+            "label": "break"
+        },
+        {
+            "start": 141.71,
+            "end": 157.44,
+            "label": "break"
+        },
+        {
+            "start": 157.44,
+            "end": 181.04,
+            "label": "drop"
+        },
+        {
+            "start": 181.04,
+            "end": 229.24,
+            "label": "drop"
+        },
+        {
+            "start": 229.24,
+            "end": 243.01,
+            "label": "drop"
+        },
+        {
+            "start": 243.01,
+            "end": 259.73,
+            "label": "break"
+        },
+        {
+            "start": 259.73,
+            "end": 275.46,
+            "label": "drop"
+        },
+        {
+            "start": 275.46,
+            "end": 306.94,
+            "label": "drop"
+        },
+        {
+            "start": 306.94,
+            "end": 338.40999999999997,
+            "label": "drop"
+        },
+        {
+            "start": 338.40999999999997,
+            "end": 369.89,
+            "label": "drop"
+        },
+        {
+            "start": 369.89,
+            "end": 402.34000000000003,
+            "label": "outro"
+        },
+        {
+            "start": 402.34000000000003,
+            "end": 432.83,
+            "label": "outro"
+        },
+        {
+            "start": 432.83,
+            "end": 436.24,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "path": "../data/prod/allin1_4_read/02 - Everyday.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.04,
+            "label": "intro"
+        },
+        {
+            "start": 0.04,
+            "end": 15.52,
+            "label": "intro"
+        },
+        {
+            "start": 15.52,
+            "end": 46.49,
+            "label": "drop"
+        },
+        {
+            "start": 46.49,
+            "end": 61.97,
+            "label": "drop"
+        },
+        {
+            "start": 61.97,
+            "end": 77.46000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 77.46000000000001,
+            "end": 92.94,
+            "label": "break"
+        },
+        {
+            "start": 92.94,
+            "end": 108.42,
+            "label": "drop"
+        },
+        {
+            "start": 108.42,
+            "end": 123.9,
+            "label": "drop"
+        },
+        {
+            "start": 123.9,
+            "end": 139.4,
+            "label": "break"
+        },
+        {
+            "start": 139.4,
+            "end": 154.88,
+            "label": "break"
+        },
+        {
+            "start": 154.88,
+            "end": 170.36,
+            "label": "drop"
+        },
+        {
+            "start": 170.36,
+            "end": 185.85,
+            "label": "drop"
+        },
+        {
+            "start": 185.85,
+            "end": 216.81,
+            "label": "drop"
+        },
+        {
+            "start": 216.81,
+            "end": 247.29,
+            "label": "outro"
+        },
+        {
+            "start": 247.29,
+            "end": 250.24,
+            "label": "outro"
+        }
+    ]
+}

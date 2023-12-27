@@ -1,0 +1,145 @@
+{
+    "path": "../data/prod/allin1_4_read/08 - Future Groove (Agent Orange DJ Rework).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 14.99,
+            "label": "intro"
+        },
+        {
+            "start": 14.99,
+            "end": 29.99,
+            "label": "drop"
+        },
+        {
+            "start": 29.99,
+            "end": 43.58,
+            "label": "drop"
+        },
+        {
+            "start": 43.58,
+            "end": 59.99,
+            "label": "drop"
+        },
+        {
+            "start": 59.99,
+            "end": 75.46000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 75.46000000000001,
+            "end": 89.98,
+            "label": "drop"
+        },
+        {
+            "start": 89.98,
+            "end": 105.46000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 105.46000000000001,
+            "end": 120.0,
+            "label": "drop"
+        },
+        {
+            "start": 120.0,
+            "end": 135.45,
+            "label": "break"
+        },
+        {
+            "start": 135.45,
+            "end": 150.46,
+            "label": "drop"
+        },
+        {
+            "start": 150.46,
+            "end": 164.99,
+            "label": "drop"
+        },
+        {
+            "start": 164.99,
+            "end": 179.99,
+            "label": "drop"
+        },
+        {
+            "start": 179.99,
+            "end": 194.99,
+            "label": "drop"
+        },
+        {
+            "start": 194.99,
+            "end": 209.99,
+            "label": "drop"
+        },
+        {
+            "start": 209.99,
+            "end": 224.06,
+            "label": "drop"
+        },
+        {
+            "start": 224.06,
+            "end": 239.99,
+            "label": "break"
+        },
+        {
+            "start": 239.99,
+            "end": 255.01,
+            "label": "break"
+        },
+        {
+            "start": 255.01,
+            "end": 269.99,
+            "label": "break"
+        },
+        {
+            "start": 269.99,
+            "end": 285.46,
+            "label": "drop"
+        },
+        {
+            "start": 285.46,
+            "end": 299.99,
+            "label": "drop"
+        },
+        {
+            "start": 299.99,
+            "end": 314.99,
+            "label": "drop"
+        },
+        {
+            "start": 314.99,
+            "end": 329.99,
+            "label": "break"
+        },
+        {
+            "start": 329.99,
+            "end": 344.99,
+            "label": "drop"
+        },
+        {
+            "start": 344.99,
+            "end": 359.99,
+            "label": "drop"
+        },
+        {
+            "start": 359.99,
+            "end": 374.99,
+            "label": "break"
+        },
+        {
+            "start": 374.99,
+            "end": 389.53,
+            "label": "break"
+        },
+        {
+            "start": 389.53,
+            "end": 405.01,
+            "label": "break"
+        },
+        {
+            "start": 405.01,
+            "end": 408.71,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "path": "../data/prod/allin1_4_read/Lebedev (RU) - BEST OF 2022 - 11 Sunny Day.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 16.57,
+            "label": "intro"
+        },
+        {
+            "start": 16.57,
+            "end": 31.21,
+            "label": "intro"
+        },
+        {
+            "start": 31.21,
+            "end": 46.82,
+            "label": "break"
+        },
+        {
+            "start": 46.82,
+            "end": 62.43,
+            "label": "drop"
+        },
+        {
+            "start": 62.43,
+            "end": 78.03999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 78.03999999999999,
+            "end": 93.66,
+            "label": "drop"
+        },
+        {
+            "start": 93.66,
+            "end": 109.25999999999999,
+            "label": "break"
+        },
+        {
+            "start": 109.25999999999999,
+            "end": 124.87,
+            "label": "drop"
+        },
+        {
+            "start": 124.87,
+            "end": 140.47,
+            "label": "break"
+        },
+        {
+            "start": 140.47,
+            "end": 156.09,
+            "label": "break"
+        },
+        {
+            "start": 156.09,
+            "end": 171.7,
+            "label": "drop"
+        },
+        {
+            "start": 171.7,
+            "end": 187.31,
+            "label": "drop"
+        },
+        {
+            "start": 187.31,
+            "end": 202.92000000000002,
+            "label": "break"
+        },
+        {
+            "start": 202.92000000000002,
+            "end": 218.52,
+            "label": "drop"
+        },
+        {
+            "start": 218.52,
+            "end": 234.14,
+            "label": "drop"
+        },
+        {
+            "start": 234.14,
+            "end": 249.74,
+            "label": "drop"
+        },
+        {
+            "start": 249.74,
+            "end": 265.36,
+            "label": "drop"
+        },
+        {
+            "start": 265.36,
+            "end": 280.96,
+            "label": "drop"
+        },
+        {
+            "start": 280.96,
+            "end": 296.58,
+            "label": "outro"
+        },
+        {
+            "start": 296.58,
+            "end": 302.45,
+            "label": "outro"
+        }
+    ]
+}

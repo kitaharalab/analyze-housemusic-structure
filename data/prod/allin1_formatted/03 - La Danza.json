@@ -1,0 +1,65 @@
+{
+    "path": "../data/prod/allin1_4_read/03 - La Danza.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.2,
+            "label": "intro"
+        },
+        {
+            "start": 0.2,
+            "end": 16.65,
+            "label": "intro"
+        },
+        {
+            "start": 16.65,
+            "end": 31.9,
+            "label": "drop"
+        },
+        {
+            "start": 31.9,
+            "end": 47.14,
+            "label": "drop"
+        },
+        {
+            "start": 47.14,
+            "end": 62.37,
+            "label": "break"
+        },
+        {
+            "start": 62.37,
+            "end": 77.61,
+            "label": "break"
+        },
+        {
+            "start": 77.61,
+            "end": 92.85,
+            "label": "break"
+        },
+        {
+            "start": 92.85,
+            "end": 108.09,
+            "label": "break"
+        },
+        {
+            "start": 108.09,
+            "end": 123.32,
+            "label": "drop"
+        },
+        {
+            "start": 123.32,
+            "end": 138.57,
+            "label": "drop"
+        },
+        {
+            "start": 138.57,
+            "end": 153.8,
+            "label": "drop"
+        },
+        {
+            "start": 153.8,
+            "end": 157.62,
+            "label": "outro"
+        }
+    ]
+}

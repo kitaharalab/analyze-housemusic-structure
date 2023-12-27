@@ -1,0 +1,145 @@
+{
+    "path": "../data/prod/allin1_4_read/03 - Hot (Louie Vega_s Why Because I_m Hot Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.95,
+            "label": "intro"
+        },
+        {
+            "start": 0.95,
+            "end": 12.96,
+            "label": "intro"
+        },
+        {
+            "start": 12.96,
+            "end": 30.38,
+            "label": "intro"
+        },
+        {
+            "start": 30.38,
+            "end": 43.93,
+            "label": "drop"
+        },
+        {
+            "start": 43.93,
+            "end": 63.3,
+            "label": "drop"
+        },
+        {
+            "start": 63.3,
+            "end": 88.48,
+            "label": "drop"
+        },
+        {
+            "start": 88.48,
+            "end": 105.91,
+            "label": "drop"
+        },
+        {
+            "start": 105.91,
+            "end": 121.39,
+            "label": "drop"
+        },
+        {
+            "start": 121.39,
+            "end": 138.82999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 138.82999999999998,
+            "end": 160.13,
+            "label": "drop"
+        },
+        {
+            "start": 160.13,
+            "end": 181.43,
+            "label": "drop"
+        },
+        {
+            "start": 181.43,
+            "end": 198.87,
+            "label": "drop"
+        },
+        {
+            "start": 198.87,
+            "end": 229.84,
+            "label": "drop"
+        },
+        {
+            "start": 229.84,
+            "end": 253.07,
+            "label": "drop"
+        },
+        {
+            "start": 253.07,
+            "end": 268.57,
+            "label": "drop"
+        },
+        {
+            "start": 268.57,
+            "end": 299.56,
+            "label": "drop"
+        },
+        {
+            "start": 299.56,
+            "end": 322.81,
+            "label": "drop"
+        },
+        {
+            "start": 322.81,
+            "end": 340.22,
+            "label": "drop"
+        },
+        {
+            "start": 340.22,
+            "end": 353.78,
+            "label": "drop"
+        },
+        {
+            "start": 353.78,
+            "end": 377.02,
+            "label": "drop"
+        },
+        {
+            "start": 377.02,
+            "end": 392.51,
+            "label": "drop"
+        },
+        {
+            "start": 392.51,
+            "end": 408.0,
+            "label": "drop"
+        },
+        {
+            "start": 408.0,
+            "end": 423.49,
+            "label": "drop"
+        },
+        {
+            "start": 423.49,
+            "end": 438.99,
+            "label": "drop"
+        },
+        {
+            "start": 438.99,
+            "end": 454.48,
+            "label": "drop"
+        },
+        {
+            "start": 454.48,
+            "end": 475.78,
+            "label": "outro"
+        },
+        {
+            "start": 475.78,
+            "end": 491.27,
+            "label": "outro"
+        },
+        {
+            "start": 491.27,
+            "end": 497.51,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/19 - Can Ya Tell Me (Gerd Janson Piano Megamix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.04,
+            "label": "intro"
+        },
+        {
+            "start": 0.04,
+            "end": 16.02,
+            "label": "intro"
+        },
+        {
+            "start": 16.02,
+            "end": 32.03,
+            "label": "intro"
+        },
+        {
+            "start": 32.03,
+            "end": 63.99,
+            "label": "break"
+        },
+        {
+            "start": 63.99,
+            "end": 79.97,
+            "label": "drop"
+        },
+        {
+            "start": 79.97,
+            "end": 95.96000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 95.96000000000001,
+            "end": 111.95,
+            "label": "drop"
+        },
+        {
+            "start": 111.95,
+            "end": 127.94,
+            "label": "drop"
+        },
+        {
+            "start": 127.94,
+            "end": 143.91,
+            "label": "break"
+        },
+        {
+            "start": 143.91,
+            "end": 159.91,
+            "label": "break"
+        },
+        {
+            "start": 159.91,
+            "end": 175.9,
+            "label": "drop"
+        },
+        {
+            "start": 175.9,
+            "end": 191.87,
+            "label": "drop"
+        },
+        {
+            "start": 191.87,
+            "end": 205.86,
+            "label": "drop"
+        },
+        {
+            "start": 205.86,
+            "end": 223.84,
+            "label": "drop"
+        },
+        {
+            "start": 223.84,
+            "end": 239.84,
+            "label": "break"
+        },
+        {
+            "start": 239.84,
+            "end": 255.84,
+            "label": "break"
+        },
+        {
+            "start": 255.84,
+            "end": 281.8,
+            "label": "drop"
+        },
+        {
+            "start": 281.8,
+            "end": 303.79,
+            "label": "drop"
+        },
+        {
+            "start": 303.79,
+            "end": 319.78,
+            "label": "break"
+        },
+        {
+            "start": 319.78,
+            "end": 367.74,
+            "label": "drop"
+        },
+        {
+            "start": 367.74,
+            "end": 383.74,
+            "label": "outro"
+        },
+        {
+            "start": 383.74,
+            "end": 386.73,
+            "label": "outro"
+        }
+    ]
+}

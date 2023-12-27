@@ -1,0 +1,110 @@
+{
+    "path": "../data/prod/allin1_4_read/16 - The Drums (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.24,
+            "label": "intro"
+        },
+        {
+            "start": 0.24,
+            "end": 15.47,
+            "label": "intro"
+        },
+        {
+            "start": 15.47,
+            "end": 30.71,
+            "label": "intro"
+        },
+        {
+            "start": 30.71,
+            "end": 45.95,
+            "label": "intro"
+        },
+        {
+            "start": 45.95,
+            "end": 61.19,
+            "label": "intro"
+        },
+        {
+            "start": 61.19,
+            "end": 91.67,
+            "label": "drop"
+        },
+        {
+            "start": 91.67,
+            "end": 122.14,
+            "label": "break"
+        },
+        {
+            "start": 122.14,
+            "end": 152.62,
+            "label": "drop"
+        },
+        {
+            "start": 152.62,
+            "end": 167.86,
+            "label": "drop"
+        },
+        {
+            "start": 167.86,
+            "end": 183.1,
+            "label": "drop"
+        },
+        {
+            "start": 183.1,
+            "end": 198.32999999999998,
+            "label": "break"
+        },
+        {
+            "start": 198.32999999999998,
+            "end": 230.72,
+            "label": "break"
+        },
+        {
+            "start": 230.72,
+            "end": 244.04,
+            "label": "break"
+        },
+        {
+            "start": 244.04,
+            "end": 266.91,
+            "label": "drop"
+        },
+        {
+            "start": 266.91,
+            "end": 304.04,
+            "label": "drop"
+        },
+        {
+            "start": 304.04,
+            "end": 318.33,
+            "label": "drop"
+        },
+        {
+            "start": 318.33,
+            "end": 333.57,
+            "label": "drop"
+        },
+        {
+            "start": 333.57,
+            "end": 364.99,
+            "label": "drop"
+        },
+        {
+            "start": 364.99,
+            "end": 379.28,
+            "label": "drop"
+        },
+        {
+            "start": 379.28,
+            "end": 396.43,
+            "label": "break"
+        },
+        {
+            "start": 396.43,
+            "end": 404.07,
+            "label": "outro"
+        }
+    ]
+}

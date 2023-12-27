@@ -1,0 +1,65 @@
+{
+    "path": "../data/prod/allin1_4_read/15 - Push The Feeling (feat. Leon Stanford).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.15,
+            "label": "intro"
+        },
+        {
+            "start": 0.15,
+            "end": 15.89,
+            "label": "drop"
+        },
+        {
+            "start": 15.89,
+            "end": 32.13,
+            "label": "drop"
+        },
+        {
+            "start": 32.13,
+            "end": 47.86,
+            "label": "drop"
+        },
+        {
+            "start": 47.86,
+            "end": 63.6,
+            "label": "drop"
+        },
+        {
+            "start": 63.6,
+            "end": 87.21000000000001,
+            "label": "drop"
+        },
+        {
+            "start": 87.21000000000001,
+            "end": 104.91,
+            "label": "break"
+        },
+        {
+            "start": 104.91,
+            "end": 126.55,
+            "label": "break"
+        },
+        {
+            "start": 126.55,
+            "end": 142.29,
+            "label": "break"
+        },
+        {
+            "start": 142.29,
+            "end": 158.03,
+            "label": "drop"
+        },
+        {
+            "start": 158.03,
+            "end": 173.78,
+            "label": "outro"
+        },
+        {
+            "start": 173.78,
+            "end": 177.25,
+            "label": "outro"
+        }
+    ]
+}

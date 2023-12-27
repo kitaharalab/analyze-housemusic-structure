@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/Frr Fonk - BEST OF 2022 - 07 Paul Dance.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.23,
+            "label": "intro"
+        },
+        {
+            "start": 0.23,
+            "end": 17.37,
+            "label": "intro"
+        },
+        {
+            "start": 17.37,
+            "end": 32.61,
+            "label": "intro"
+        },
+        {
+            "start": 32.61,
+            "end": 47.85,
+            "label": "drop"
+        },
+        {
+            "start": 47.85,
+            "end": 63.09,
+            "label": "drop"
+        },
+        {
+            "start": 63.09,
+            "end": 78.33,
+            "label": "drop"
+        },
+        {
+            "start": 78.33,
+            "end": 93.57,
+            "label": "drop"
+        },
+        {
+            "start": 93.57,
+            "end": 108.8,
+            "label": "drop"
+        },
+        {
+            "start": 108.8,
+            "end": 124.04,
+            "label": "break"
+        },
+        {
+            "start": 124.04,
+            "end": 154.52,
+            "label": "break"
+        },
+        {
+            "start": 154.52,
+            "end": 169.76,
+            "label": "drop"
+        },
+        {
+            "start": 169.76,
+            "end": 185.0,
+            "label": "drop"
+        },
+        {
+            "start": 185.0,
+            "end": 200.24,
+            "label": "drop"
+        },
+        {
+            "start": 200.24,
+            "end": 215.47,
+            "label": "drop"
+        },
+        {
+            "start": 215.47,
+            "end": 230.71,
+            "label": "drop"
+        },
+        {
+            "start": 230.71,
+            "end": 245.95,
+            "label": "drop"
+        },
+        {
+            "start": 245.95,
+            "end": 261.18,
+            "label": "drop"
+        },
+        {
+            "start": 261.18,
+            "end": 276.43,
+            "label": "break"
+        },
+        {
+            "start": 276.43,
+            "end": 291.65999999999997,
+            "label": "break"
+        },
+        {
+            "start": 291.65999999999997,
+            "end": 322.14,
+            "label": "break"
+        },
+        {
+            "start": 322.14,
+            "end": 337.38,
+            "label": "break"
+        },
+        {
+            "start": 337.38,
+            "end": 352.61,
+            "label": "drop"
+        },
+        {
+            "start": 352.61,
+            "end": 367.85,
+            "label": "drop"
+        },
+        {
+            "start": 367.85,
+            "end": 383.09,
+            "label": "drop"
+        },
+        {
+            "start": 383.09,
+            "end": 402.14,
+            "label": "outro"
+        },
+        {
+            "start": 402.14,
+            "end": 406.90999999999997,
+            "label": "outro"
+        }
+    ]
+}

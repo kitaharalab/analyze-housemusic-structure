@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/15 - Shine (This Is It) [feat. Nona Hendryx].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.25,
+            "label": "intro"
+        },
+        {
+            "start": 0.25,
+            "end": 15.75,
+            "label": "intro"
+        },
+        {
+            "start": 15.75,
+            "end": 31.23,
+            "label": "intro"
+        },
+        {
+            "start": 31.23,
+            "end": 46.71,
+            "label": "break"
+        },
+        {
+            "start": 46.71,
+            "end": 61.71,
+            "label": "break"
+        },
+        {
+            "start": 61.71,
+            "end": 76.71000000000001,
+            "label": "break"
+        },
+        {
+            "start": 76.71000000000001,
+            "end": 93.16,
+            "label": "drop"
+        },
+        {
+            "start": 93.16,
+            "end": 116.39,
+            "label": "break"
+        },
+        {
+            "start": 116.39,
+            "end": 131.87,
+            "label": "drop"
+        },
+        {
+            "start": 131.87,
+            "end": 147.36,
+            "label": "drop"
+        },
+        {
+            "start": 147.36,
+            "end": 162.84,
+            "label": "drop"
+        },
+        {
+            "start": 162.84,
+            "end": 178.8,
+            "label": "break"
+        },
+        {
+            "start": 178.8,
+            "end": 193.81,
+            "label": "break"
+        },
+        {
+            "start": 193.81,
+            "end": 209.29,
+            "label": "break"
+        },
+        {
+            "start": 209.29,
+            "end": 224.77,
+            "label": "break"
+        },
+        {
+            "start": 224.77,
+            "end": 244.13,
+            "label": "drop"
+        },
+        {
+            "start": 244.13,
+            "end": 259.61,
+            "label": "drop"
+        },
+        {
+            "start": 259.61,
+            "end": 294.45,
+            "label": "drop"
+        },
+        {
+            "start": 294.45,
+            "end": 315.74,
+            "label": "drop"
+        },
+        {
+            "start": 315.74,
+            "end": 337.03,
+            "label": "drop"
+        },
+        {
+            "start": 337.03,
+            "end": 364.11,
+            "label": "drop"
+        },
+        {
+            "start": 364.11,
+            "end": 379.78,
+            "label": "outro"
+        },
+        {
+            "start": 379.78,
+            "end": 381.01,
+            "label": "outro"
+        }
+    ]
+}

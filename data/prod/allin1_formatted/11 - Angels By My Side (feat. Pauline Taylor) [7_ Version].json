@@ -1,0 +1,75 @@
+{
+    "path": "../data/prod/allin1_4_read/11 - Angels By My Side (feat. Pauline Taylor) [7_ Version].json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.09,
+            "label": "intro"
+        },
+        {
+            "start": 0.09,
+            "end": 15.84,
+            "label": "break"
+        },
+        {
+            "start": 15.84,
+            "end": 33.54,
+            "label": "break"
+        },
+        {
+            "start": 33.54,
+            "end": 57.14,
+            "label": "drop"
+        },
+        {
+            "start": 57.14,
+            "end": 72.88,
+            "label": "drop"
+        },
+        {
+            "start": 72.88,
+            "end": 88.62,
+            "label": "drop"
+        },
+        {
+            "start": 88.62,
+            "end": 112.22999999999999,
+            "label": "break"
+        },
+        {
+            "start": 112.22999999999999,
+            "end": 129.93,
+            "label": "drop"
+        },
+        {
+            "start": 129.93,
+            "end": 143.7,
+            "label": "break"
+        },
+        {
+            "start": 143.7,
+            "end": 159.44,
+            "label": "break"
+        },
+        {
+            "start": 159.44,
+            "end": 175.18,
+            "label": "break"
+        },
+        {
+            "start": 175.18,
+            "end": 190.92,
+            "label": "drop"
+        },
+        {
+            "start": 190.92,
+            "end": 206.67000000000002,
+            "label": "drop"
+        },
+        {
+            "start": 206.67000000000002,
+            "end": 217.61,
+            "label": "outro"
+        }
+    ]
+}

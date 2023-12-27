@@ -1,0 +1,95 @@
+{
+    "path": "../data/prod/allin1_4_read/36 - She_s Got.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.01,
+            "label": "intro"
+        },
+        {
+            "start": 0.01,
+            "end": 38.71,
+            "label": "intro"
+        },
+        {
+            "start": 38.71,
+            "end": 60.0,
+            "label": "break"
+        },
+        {
+            "start": 60.0,
+            "end": 74.51,
+            "label": "break"
+        },
+        {
+            "start": 74.51,
+            "end": 97.72999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 97.72999999999999,
+            "end": 120.96,
+            "label": "drop"
+        },
+        {
+            "start": 120.96,
+            "end": 150.95,
+            "label": "drop"
+        },
+        {
+            "start": 150.95,
+            "end": 166.43,
+            "label": "drop"
+        },
+        {
+            "start": 166.43,
+            "end": 181.91,
+            "label": "drop"
+        },
+        {
+            "start": 181.91,
+            "end": 212.87,
+            "label": "break"
+        },
+        {
+            "start": 212.87,
+            "end": 229.32999999999998,
+            "label": "break"
+        },
+        {
+            "start": 229.32999999999998,
+            "end": 247.71,
+            "label": "break"
+        },
+        {
+            "start": 247.71,
+            "end": 290.28,
+            "label": "drop"
+        },
+        {
+            "start": 290.28,
+            "end": 313.51,
+            "label": "break"
+        },
+        {
+            "start": 313.51,
+            "end": 332.86,
+            "label": "break"
+        },
+        {
+            "start": 332.86,
+            "end": 359.95,
+            "label": "break"
+        },
+        {
+            "start": 359.95,
+            "end": 404.6,
+            "label": "outro"
+        },
+        {
+            "start": 404.6,
+            "end": 404.61,
+            "label": "outro"
+        }
+    ]
+}

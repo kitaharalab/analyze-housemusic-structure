@@ -1,0 +1,130 @@
+{
+    "path": "../data/prod/allin1_4_read/25 - Bless Me Today (12_ Version).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.07,
+            "label": "break"
+        },
+        {
+            "start": 0.07,
+            "end": 16.53,
+            "label": "break"
+        },
+        {
+            "start": 16.53,
+            "end": 35.01,
+            "label": "break"
+        },
+        {
+            "start": 35.01,
+            "end": 48.83,
+            "label": "break"
+        },
+        {
+            "start": 48.83,
+            "end": 69.17,
+            "label": "drop"
+        },
+        {
+            "start": 69.17,
+            "end": 85.44,
+            "label": "drop"
+        },
+        {
+            "start": 85.44,
+            "end": 105.78,
+            "label": "drop"
+        },
+        {
+            "start": 105.78,
+            "end": 136.28,
+            "label": "drop"
+        },
+        {
+            "start": 136.28,
+            "end": 150.52,
+            "label": "drop"
+        },
+        {
+            "start": 150.52,
+            "end": 166.8,
+            "label": "drop"
+        },
+        {
+            "start": 166.8,
+            "end": 187.14,
+            "label": "drop"
+        },
+        {
+            "start": 187.14,
+            "end": 203.4,
+            "label": "drop"
+        },
+        {
+            "start": 203.4,
+            "end": 220.69,
+            "label": "break"
+        },
+        {
+            "start": 220.69,
+            "end": 238.41,
+            "label": "break"
+        },
+        {
+            "start": 238.41,
+            "end": 252.22,
+            "label": "break"
+        },
+        {
+            "start": 252.22,
+            "end": 272.56,
+            "label": "drop"
+        },
+        {
+            "start": 272.56,
+            "end": 288.83,
+            "label": "drop"
+        },
+        {
+            "start": 288.83,
+            "end": 317.29,
+            "label": "drop"
+        },
+        {
+            "start": 317.29,
+            "end": 329.51,
+            "label": "drop"
+        },
+        {
+            "start": 329.51,
+            "end": 349.84000000000003,
+            "label": "drop"
+        },
+        {
+            "start": 349.84000000000003,
+            "end": 372.21,
+            "label": "drop"
+        },
+        {
+            "start": 372.21,
+            "end": 386.45,
+            "label": "drop"
+        },
+        {
+            "start": 386.45,
+            "end": 398.65999999999997,
+            "label": "drop"
+        },
+        {
+            "start": 398.65999999999997,
+            "end": 414.92,
+            "label": "outro"
+        },
+        {
+            "start": 414.92,
+            "end": 421.21,
+            "label": "outro"
+        }
+    ]
+}

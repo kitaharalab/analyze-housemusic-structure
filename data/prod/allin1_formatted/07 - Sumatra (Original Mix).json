@@ -1,0 +1,125 @@
+{
+    "path": "../data/prod/allin1_4_read/07 - Sumatra (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.24,
+            "label": "intro"
+        },
+        {
+            "start": 0.24,
+            "end": 15.59,
+            "label": "intro"
+        },
+        {
+            "start": 15.59,
+            "end": 47.27,
+            "label": "break"
+        },
+        {
+            "start": 47.27,
+            "end": 61.68,
+            "label": "break"
+        },
+        {
+            "start": 61.68,
+            "end": 76.07,
+            "label": "break"
+        },
+        {
+            "start": 76.07,
+            "end": 92.4,
+            "label": "drop"
+        },
+        {
+            "start": 92.4,
+            "end": 107.75,
+            "label": "drop"
+        },
+        {
+            "start": 107.75,
+            "end": 123.12,
+            "label": "drop"
+        },
+        {
+            "start": 123.12,
+            "end": 138.48,
+            "label": "drop"
+        },
+        {
+            "start": 138.48,
+            "end": 153.84,
+            "label": "break"
+        },
+        {
+            "start": 153.84,
+            "end": 168.23,
+            "label": "break"
+        },
+        {
+            "start": 168.23,
+            "end": 184.56,
+            "label": "drop"
+        },
+        {
+            "start": 184.56,
+            "end": 199.91,
+            "label": "drop"
+        },
+        {
+            "start": 199.91,
+            "end": 215.28,
+            "label": "drop"
+        },
+        {
+            "start": 215.28,
+            "end": 230.64,
+            "label": "drop"
+        },
+        {
+            "start": 230.64,
+            "end": 261.36,
+            "label": "break"
+        },
+        {
+            "start": 261.36,
+            "end": 276.71,
+            "label": "break"
+        },
+        {
+            "start": 276.71,
+            "end": 292.08,
+            "label": "drop"
+        },
+        {
+            "start": 292.08,
+            "end": 307.43,
+            "label": "drop"
+        },
+        {
+            "start": 307.43,
+            "end": 322.8,
+            "label": "drop"
+        },
+        {
+            "start": 322.8,
+            "end": 338.15999999999997,
+            "label": "drop"
+        },
+        {
+            "start": 338.15999999999997,
+            "end": 368.87,
+            "label": "break"
+        },
+        {
+            "start": 368.87,
+            "end": 399.6,
+            "label": "break"
+        },
+        {
+            "start": 399.6,
+            "end": 408.27,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/44 - You Got Me Forever (KLP Jam).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 15.36,
+            "label": "intro"
+        },
+        {
+            "start": 15.36,
+            "end": 30.72,
+            "label": "drop"
+        },
+        {
+            "start": 30.72,
+            "end": 53.75,
+            "label": "drop"
+        },
+        {
+            "start": 53.75,
+            "end": 69.1,
+            "label": "drop"
+        },
+        {
+            "start": 69.1,
+            "end": 84.45,
+            "label": "drop"
+        },
+        {
+            "start": 84.45,
+            "end": 99.8,
+            "label": "drop"
+        },
+        {
+            "start": 99.8,
+            "end": 122.83,
+            "label": "drop"
+        },
+        {
+            "start": 122.83,
+            "end": 138.19,
+            "label": "drop"
+        },
+        {
+            "start": 138.19,
+            "end": 161.21,
+            "label": "drop"
+        },
+        {
+            "start": 161.21,
+            "end": 191.92,
+            "label": "drop"
+        },
+        {
+            "start": 191.92,
+            "end": 207.27,
+            "label": "drop"
+        },
+        {
+            "start": 207.27,
+            "end": 229.35,
+            "label": "drop"
+        },
+        {
+            "start": 229.35,
+            "end": 268.69,
+            "label": "drop"
+        },
+        {
+            "start": 268.69,
+            "end": 283.09000000000003,
+            "label": "drop"
+        },
+        {
+            "start": 283.09000000000003,
+            "end": 305.15,
+            "label": "drop"
+        },
+        {
+            "start": 305.15,
+            "end": 330.1,
+            "label": "drop"
+        },
+        {
+            "start": 330.1,
+            "end": 345.45,
+            "label": "drop"
+        },
+        {
+            "start": 345.45,
+            "end": 368.48,
+            "label": "drop"
+        },
+        {
+            "start": 368.48,
+            "end": 391.51,
+            "label": "drop"
+        },
+        {
+            "start": 391.51,
+            "end": 406.86,
+            "label": "drop"
+        },
+        {
+            "start": 406.86,
+            "end": 429.89,
+            "label": "drop"
+        },
+        {
+            "start": 429.89,
+            "end": 452.93,
+            "label": "drop"
+        },
+        {
+            "start": 452.93,
+            "end": 468.29,
+            "label": "outro"
+        },
+        {
+            "start": 468.29,
+            "end": 489.9,
+            "label": "outro"
+        },
+        {
+            "start": 489.9,
+            "end": 489.91,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "path": "../data/prod/allin1_4_read/Robbast - BEST OF 2022 - 16 Costanero.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 16.18,
+            "label": "intro"
+        },
+        {
+            "start": 16.18,
+            "end": 39.04,
+            "label": "intro"
+        },
+        {
+            "start": 39.04,
+            "end": 68.56,
+            "label": "break"
+        },
+        {
+            "start": 68.56,
+            "end": 83.81,
+            "label": "drop"
+        },
+        {
+            "start": 83.81,
+            "end": 99.03999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 99.03999999999999,
+            "end": 114.28,
+            "label": "drop"
+        },
+        {
+            "start": 114.28,
+            "end": 129.51,
+            "label": "drop"
+        },
+        {
+            "start": 129.51,
+            "end": 144.75,
+            "label": "break"
+        },
+        {
+            "start": 144.75,
+            "end": 159.99,
+            "label": "break"
+        },
+        {
+            "start": 159.99,
+            "end": 175.24,
+            "label": "drop"
+        },
+        {
+            "start": 175.24,
+            "end": 190.47,
+            "label": "drop"
+        },
+        {
+            "start": 190.47,
+            "end": 205.7,
+            "label": "drop"
+        },
+        {
+            "start": 205.7,
+            "end": 220.94,
+            "label": "drop"
+        },
+        {
+            "start": 220.94,
+            "end": 236.18,
+            "label": "break"
+        },
+        {
+            "start": 236.18,
+            "end": 250.47,
+            "label": "break"
+        },
+        {
+            "start": 250.47,
+            "end": 281.9,
+            "label": "break"
+        },
+        {
+            "start": 281.9,
+            "end": 297.14,
+            "label": "drop"
+        },
+        {
+            "start": 297.14,
+            "end": 312.37,
+            "label": "drop"
+        },
+        {
+            "start": 312.37,
+            "end": 327.61,
+            "label": "drop"
+        },
+        {
+            "start": 327.61,
+            "end": 342.84000000000003,
+            "label": "drop"
+        },
+        {
+            "start": 342.84000000000003,
+            "end": 373.33,
+            "label": "drop"
+        },
+        {
+            "start": 373.33,
+            "end": 373.34,
+            "label": "outro"
+        }
+    ]
+}

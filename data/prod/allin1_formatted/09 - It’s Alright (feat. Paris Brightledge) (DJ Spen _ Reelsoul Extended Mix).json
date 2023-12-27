@@ -1,0 +1,135 @@
+{
+    "path": "../data/prod/allin1_4_read/09 - It\u2019s Alright (feat. Paris Brightledge) (DJ Spen _ Reelsoul Extended Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 15.47,
+            "label": "intro"
+        },
+        {
+            "start": 15.47,
+            "end": 30.96,
+            "label": "intro"
+        },
+        {
+            "start": 30.96,
+            "end": 47.89,
+            "label": "drop"
+        },
+        {
+            "start": 47.89,
+            "end": 63.38,
+            "label": "drop"
+        },
+        {
+            "start": 63.38,
+            "end": 77.42,
+            "label": "drop"
+        },
+        {
+            "start": 77.42,
+            "end": 98.22,
+            "label": "drop"
+        },
+        {
+            "start": 98.22,
+            "end": 124.35,
+            "label": "drop"
+        },
+        {
+            "start": 124.35,
+            "end": 139.82999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 139.82999999999998,
+            "end": 154.82,
+            "label": "break"
+        },
+        {
+            "start": 154.82,
+            "end": 178.54,
+            "label": "drop"
+        },
+        {
+            "start": 178.54,
+            "end": 198.39,
+            "label": "drop"
+        },
+        {
+            "start": 198.39,
+            "end": 215.81,
+            "label": "drop"
+        },
+        {
+            "start": 215.81,
+            "end": 232.26,
+            "label": "drop"
+        },
+        {
+            "start": 232.26,
+            "end": 247.73,
+            "label": "break"
+        },
+        {
+            "start": 247.73,
+            "end": 260.33,
+            "label": "drop"
+        },
+        {
+            "start": 260.33,
+            "end": 278.71,
+            "label": "drop"
+        },
+        {
+            "start": 278.71,
+            "end": 295.15999999999997,
+            "label": "drop"
+        },
+        {
+            "start": 295.15999999999997,
+            "end": 318.39,
+            "label": "drop"
+        },
+        {
+            "start": 318.39,
+            "end": 333.88,
+            "label": "drop"
+        },
+        {
+            "start": 333.88,
+            "end": 353.23,
+            "label": "drop"
+        },
+        {
+            "start": 353.23,
+            "end": 368.71,
+            "label": "drop"
+        },
+        {
+            "start": 368.71,
+            "end": 384.2,
+            "label": "drop"
+        },
+        {
+            "start": 384.2,
+            "end": 417.57,
+            "label": "drop"
+        },
+        {
+            "start": 417.57,
+            "end": 433.54,
+            "label": "outro"
+        },
+        {
+            "start": 433.54,
+            "end": 449.03,
+            "label": "outro"
+        },
+        {
+            "start": 449.03,
+            "end": 453.88,
+            "label": "outro"
+        }
+    ]
+}

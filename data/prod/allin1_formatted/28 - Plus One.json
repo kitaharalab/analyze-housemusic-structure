@@ -1,0 +1,100 @@
+{
+    "path": "../data/prod/allin1_4_read/28 - Plus One.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.01,
+            "label": "intro"
+        },
+        {
+            "start": 0.01,
+            "end": 16.28,
+            "label": "intro"
+        },
+        {
+            "start": 16.28,
+            "end": 32.55,
+            "label": "intro"
+        },
+        {
+            "start": 32.55,
+            "end": 48.83,
+            "label": "intro"
+        },
+        {
+            "start": 48.83,
+            "end": 65.1,
+            "label": "drop"
+        },
+        {
+            "start": 65.1,
+            "end": 85.44,
+            "label": "drop"
+        },
+        {
+            "start": 85.44,
+            "end": 97.64,
+            "label": "drop"
+        },
+        {
+            "start": 97.64,
+            "end": 130.17,
+            "label": "drop"
+        },
+        {
+            "start": 130.17,
+            "end": 163.74,
+            "label": "drop"
+        },
+        {
+            "start": 163.74,
+            "end": 178.99,
+            "label": "break"
+        },
+        {
+            "start": 178.99,
+            "end": 195.27,
+            "label": "drop"
+        },
+        {
+            "start": 195.27,
+            "end": 211.54,
+            "label": "drop"
+        },
+        {
+            "start": 211.54,
+            "end": 223.75,
+            "label": "drop"
+        },
+        {
+            "start": 223.75,
+            "end": 244.08,
+            "label": "drop"
+        },
+        {
+            "start": 244.08,
+            "end": 260.35,
+            "label": "break"
+        },
+        {
+            "start": 260.35,
+            "end": 276.62,
+            "label": "drop"
+        },
+        {
+            "start": 276.62,
+            "end": 292.89,
+            "label": "drop"
+        },
+        {
+            "start": 292.89,
+            "end": 309.15,
+            "label": "outro"
+        },
+        {
+            "start": 309.15,
+            "end": 319.71,
+            "label": "outro"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "path": "../data/prod/allin1_4_read/43 - Cha Cha (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.42,
+            "label": "intro"
+        },
+        {
+            "start": 0.42,
+            "end": 15.91,
+            "label": "intro"
+        },
+        {
+            "start": 15.91,
+            "end": 31.39,
+            "label": "intro"
+        },
+        {
+            "start": 31.39,
+            "end": 46.87,
+            "label": "intro"
+        },
+        {
+            "start": 46.87,
+            "end": 62.35,
+            "label": "intro"
+        },
+        {
+            "start": 62.35,
+            "end": 77.84,
+            "label": "break"
+        },
+        {
+            "start": 77.84,
+            "end": 93.33,
+            "label": "break"
+        },
+        {
+            "start": 93.33,
+            "end": 108.81,
+            "label": "drop"
+        },
+        {
+            "start": 108.81,
+            "end": 124.29,
+            "label": "drop"
+        },
+        {
+            "start": 124.29,
+            "end": 139.78,
+            "label": "drop"
+        },
+        {
+            "start": 139.78,
+            "end": 155.26,
+            "label": "drop"
+        },
+        {
+            "start": 155.26,
+            "end": 169.78,
+            "label": "drop"
+        },
+        {
+            "start": 169.78,
+            "end": 192.03,
+            "label": "drop"
+        },
+        {
+            "start": 192.03,
+            "end": 218.16,
+            "label": "break"
+        },
+        {
+            "start": 218.16,
+            "end": 240.42,
+            "label": "break"
+        },
+        {
+            "start": 240.42,
+            "end": 255.91,
+            "label": "break"
+        },
+        {
+            "start": 255.91,
+            "end": 271.39,
+            "label": "drop"
+        },
+        {
+            "start": 271.39,
+            "end": 286.87,
+            "label": "drop"
+        },
+        {
+            "start": 286.87,
+            "end": 302.36,
+            "label": "drop"
+        },
+        {
+            "start": 302.36,
+            "end": 317.84,
+            "label": "drop"
+        },
+        {
+            "start": 317.84,
+            "end": 333.33,
+            "label": "drop"
+        },
+        {
+            "start": 333.33,
+            "end": 348.81,
+            "label": "outro"
+        },
+        {
+            "start": 348.81,
+            "end": 364.29,
+            "label": "outro"
+        },
+        {
+            "start": 364.29,
+            "end": 366.53,
+            "label": "outro"
+        }
+    ]
+}

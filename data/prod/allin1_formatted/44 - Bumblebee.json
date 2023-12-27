@@ -1,0 +1,75 @@
+{
+    "path": "../data/prod/allin1_4_read/44 - Bumblebee.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.13,
+            "label": "intro"
+        },
+        {
+            "start": 0.13,
+            "end": 14.62,
+            "label": "intro"
+        },
+        {
+            "start": 14.62,
+            "end": 29.1,
+            "label": "break"
+        },
+        {
+            "start": 29.1,
+            "end": 49.27,
+            "label": "break"
+        },
+        {
+            "start": 49.27,
+            "end": 66.34,
+            "label": "break"
+        },
+        {
+            "start": 66.34,
+            "end": 82.9,
+            "label": "break"
+        },
+        {
+            "start": 82.9,
+            "end": 99.45,
+            "label": "drop"
+        },
+        {
+            "start": 99.45,
+            "end": 124.27,
+            "label": "drop"
+        },
+        {
+            "start": 124.27,
+            "end": 149.1,
+            "label": "break"
+        },
+        {
+            "start": 149.1,
+            "end": 165.66,
+            "label": "break"
+        },
+        {
+            "start": 165.66,
+            "end": 182.2,
+            "label": "break"
+        },
+        {
+            "start": 182.2,
+            "end": 198.76,
+            "label": "drop"
+        },
+        {
+            "start": 198.76,
+            "end": 218.66,
+            "label": "drop"
+        },
+        {
+            "start": 218.66,
+            "end": 218.67000000000002,
+            "label": "outro"
+        }
+    ]
+}

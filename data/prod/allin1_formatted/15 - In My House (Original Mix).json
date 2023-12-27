@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/15 - In My House (Original Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.24,
+            "label": "intro"
+        },
+        {
+            "start": 0.24,
+            "end": 15.47,
+            "label": "intro"
+        },
+        {
+            "start": 15.47,
+            "end": 31.21,
+            "label": "intro"
+        },
+        {
+            "start": 31.21,
+            "end": 46.68,
+            "label": "drop"
+        },
+        {
+            "start": 46.68,
+            "end": 62.17,
+            "label": "drop"
+        },
+        {
+            "start": 62.17,
+            "end": 77.65,
+            "label": "drop"
+        },
+        {
+            "start": 77.65,
+            "end": 93.15,
+            "label": "drop"
+        },
+        {
+            "start": 93.15,
+            "end": 110.56,
+            "label": "break"
+        },
+        {
+            "start": 110.56,
+            "end": 124.11,
+            "label": "break"
+        },
+        {
+            "start": 124.11,
+            "end": 139.6,
+            "label": "drop"
+        },
+        {
+            "start": 139.6,
+            "end": 162.82,
+            "label": "drop"
+        },
+        {
+            "start": 162.82,
+            "end": 178.3,
+            "label": "drop"
+        },
+        {
+            "start": 178.3,
+            "end": 201.53,
+            "label": "drop"
+        },
+        {
+            "start": 201.53,
+            "end": 217.0,
+            "label": "drop"
+        },
+        {
+            "start": 217.0,
+            "end": 232.49,
+            "label": "drop"
+        },
+        {
+            "start": 232.49,
+            "end": 247.97,
+            "label": "break"
+        },
+        {
+            "start": 247.97,
+            "end": 269.27,
+            "label": "break"
+        },
+        {
+            "start": 269.27,
+            "end": 284.76,
+            "label": "drop"
+        },
+        {
+            "start": 284.76,
+            "end": 300.23,
+            "label": "drop"
+        },
+        {
+            "start": 300.23,
+            "end": 315.72,
+            "label": "drop"
+        },
+        {
+            "start": 315.72,
+            "end": 331.21,
+            "label": "drop"
+        },
+        {
+            "start": 331.21,
+            "end": 354.44,
+            "label": "drop"
+        },
+        {
+            "start": 354.44,
+            "end": 362.64,
+            "label": "outro"
+        }
+    ]
+}

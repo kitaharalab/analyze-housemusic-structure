@@ -1,0 +1,125 @@
+{
+    "path": "../data/prod/allin1_4_read/06 - End This Hate (Tensnake Remix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.03,
+            "label": "intro"
+        },
+        {
+            "start": 0.03,
+            "end": 14.42,
+            "label": "intro"
+        },
+        {
+            "start": 14.42,
+            "end": 30.75,
+            "label": "intro"
+        },
+        {
+            "start": 30.75,
+            "end": 46.11,
+            "label": "drop"
+        },
+        {
+            "start": 46.11,
+            "end": 61.47,
+            "label": "drop"
+        },
+        {
+            "start": 61.47,
+            "end": 76.83,
+            "label": "break"
+        },
+        {
+            "start": 76.83,
+            "end": 92.19,
+            "label": "drop"
+        },
+        {
+            "start": 92.19,
+            "end": 107.55,
+            "label": "drop"
+        },
+        {
+            "start": 107.55,
+            "end": 122.92,
+            "label": "drop"
+        },
+        {
+            "start": 122.92,
+            "end": 138.28,
+            "label": "break"
+        },
+        {
+            "start": 138.28,
+            "end": 153.64,
+            "label": "drop"
+        },
+        {
+            "start": 153.64,
+            "end": 168.99,
+            "label": "break"
+        },
+        {
+            "start": 168.99,
+            "end": 184.35,
+            "label": "break"
+        },
+        {
+            "start": 184.35,
+            "end": 196.82999999999998,
+            "label": "break"
+        },
+        {
+            "start": 196.82999999999998,
+            "end": 215.07,
+            "label": "drop"
+        },
+        {
+            "start": 215.07,
+            "end": 230.43,
+            "label": "drop"
+        },
+        {
+            "start": 230.43,
+            "end": 245.79,
+            "label": "drop"
+        },
+        {
+            "start": 245.79,
+            "end": 261.16,
+            "label": "drop"
+        },
+        {
+            "start": 261.16,
+            "end": 276.51,
+            "label": "drop"
+        },
+        {
+            "start": 276.51,
+            "end": 291.87,
+            "label": "drop"
+        },
+        {
+            "start": 291.87,
+            "end": 307.23,
+            "label": "drop"
+        },
+        {
+            "start": 307.23,
+            "end": 322.59,
+            "label": "drop"
+        },
+        {
+            "start": 322.59,
+            "end": 368.67,
+            "label": "outro"
+        },
+        {
+            "start": 368.67,
+            "end": 370.29,
+            "label": "outro"
+        }
+    ]
+}

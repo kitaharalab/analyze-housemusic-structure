@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/08 - Big Love (David Penn Extended Remix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.05,
+            "label": "intro"
+        },
+        {
+            "start": 0.05,
+            "end": 15.05,
+            "label": "intro"
+        },
+        {
+            "start": 15.05,
+            "end": 31.02,
+            "label": "intro"
+        },
+        {
+            "start": 31.02,
+            "end": 46.51,
+            "label": "intro"
+        },
+        {
+            "start": 46.51,
+            "end": 61.99,
+            "label": "intro"
+        },
+        {
+            "start": 61.99,
+            "end": 77.47,
+            "label": "drop"
+        },
+        {
+            "start": 77.47,
+            "end": 105.53999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 105.53999999999999,
+            "end": 121.02,
+            "label": "drop"
+        },
+        {
+            "start": 121.02,
+            "end": 139.41,
+            "label": "drop"
+        },
+        {
+            "start": 139.41,
+            "end": 154.9,
+            "label": "break"
+        },
+        {
+            "start": 154.9,
+            "end": 170.38,
+            "label": "break"
+        },
+        {
+            "start": 170.38,
+            "end": 185.86,
+            "label": "break"
+        },
+        {
+            "start": 185.86,
+            "end": 201.35,
+            "label": "break"
+        },
+        {
+            "start": 201.35,
+            "end": 216.84,
+            "label": "break"
+        },
+        {
+            "start": 216.84,
+            "end": 232.31,
+            "label": "drop"
+        },
+        {
+            "start": 232.31,
+            "end": 247.8,
+            "label": "drop"
+        },
+        {
+            "start": 247.8,
+            "end": 262.32,
+            "label": "drop"
+        },
+        {
+            "start": 262.32,
+            "end": 278.77,
+            "label": "drop"
+        },
+        {
+            "start": 278.77,
+            "end": 300.06,
+            "label": "drop"
+        },
+        {
+            "start": 300.06,
+            "end": 325.22,
+            "label": "drop"
+        },
+        {
+            "start": 325.22,
+            "end": 340.7,
+            "label": "outro"
+        },
+        {
+            "start": 340.7,
+            "end": 356.17,
+            "label": "outro"
+        },
+        {
+            "start": 356.17,
+            "end": 357.94,
+            "label": "outro"
+        }
+    ]
+}

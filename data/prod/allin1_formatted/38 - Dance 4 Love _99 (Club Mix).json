@@ -1,0 +1,120 @@
+{
+    "path": "../data/prod/allin1_4_read/38 - Dance 4 Love _99 (Club Mix).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.02,
+            "label": "intro"
+        },
+        {
+            "start": 0.02,
+            "end": 16.33,
+            "label": "intro"
+        },
+        {
+            "start": 16.33,
+            "end": 32.66,
+            "label": "intro"
+        },
+        {
+            "start": 32.66,
+            "end": 48.98,
+            "label": "intro"
+        },
+        {
+            "start": 48.98,
+            "end": 65.31,
+            "label": "intro"
+        },
+        {
+            "start": 65.31,
+            "end": 81.63,
+            "label": "drop"
+        },
+        {
+            "start": 81.63,
+            "end": 93.86,
+            "label": "drop"
+        },
+        {
+            "start": 93.86,
+            "end": 114.28,
+            "label": "drop"
+        },
+        {
+            "start": 114.28,
+            "end": 130.59,
+            "label": "break"
+        },
+        {
+            "start": 130.59,
+            "end": 146.92000000000002,
+            "label": "break"
+        },
+        {
+            "start": 146.92000000000002,
+            "end": 163.24,
+            "label": "drop"
+        },
+        {
+            "start": 163.24,
+            "end": 175.47,
+            "label": "drop"
+        },
+        {
+            "start": 175.47,
+            "end": 195.88,
+            "label": "drop"
+        },
+        {
+            "start": 195.88,
+            "end": 228.52,
+            "label": "drop"
+        },
+        {
+            "start": 228.52,
+            "end": 244.85,
+            "label": "drop"
+        },
+        {
+            "start": 244.85,
+            "end": 261.17,
+            "label": "drop"
+        },
+        {
+            "start": 261.17,
+            "end": 277.49,
+            "label": "break"
+        },
+        {
+            "start": 277.49,
+            "end": 293.81,
+            "label": "drop"
+        },
+        {
+            "start": 293.81,
+            "end": 306.05,
+            "label": "drop"
+        },
+        {
+            "start": 306.05,
+            "end": 326.46,
+            "label": "drop"
+        },
+        {
+            "start": 326.46,
+            "end": 342.77,
+            "label": "outro"
+        },
+        {
+            "start": 342.77,
+            "end": 359.12,
+            "label": "outro"
+        },
+        {
+            "start": 359.12,
+            "end": 360.53,
+            "label": "outro"
+        }
+    ]
+}

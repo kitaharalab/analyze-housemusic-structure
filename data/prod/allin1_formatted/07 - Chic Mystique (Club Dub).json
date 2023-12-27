@@ -1,0 +1,140 @@
+{
+    "path": "../data/prod/allin1_4_read/07 - Chic Mystique (Club Dub).json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.11,
+            "label": "intro"
+        },
+        {
+            "start": 0.11,
+            "end": 16.42,
+            "label": "intro"
+        },
+        {
+            "start": 16.42,
+            "end": 40.74,
+            "label": "intro"
+        },
+        {
+            "start": 40.74,
+            "end": 56.95,
+            "label": "intro"
+        },
+        {
+            "start": 56.95,
+            "end": 73.16,
+            "label": "intro"
+        },
+        {
+            "start": 73.16,
+            "end": 97.5,
+            "label": "break"
+        },
+        {
+            "start": 97.5,
+            "end": 113.74000000000001,
+            "label": "break"
+        },
+        {
+            "start": 113.74000000000001,
+            "end": 129.98,
+            "label": "drop"
+        },
+        {
+            "start": 129.98,
+            "end": 146.21,
+            "label": "drop"
+        },
+        {
+            "start": 146.21,
+            "end": 162.44,
+            "label": "break"
+        },
+        {
+            "start": 162.44,
+            "end": 178.68,
+            "label": "break"
+        },
+        {
+            "start": 178.68,
+            "end": 194.94,
+            "label": "drop"
+        },
+        {
+            "start": 194.94,
+            "end": 219.32999999999998,
+            "label": "drop"
+        },
+        {
+            "start": 219.32999999999998,
+            "end": 243.7,
+            "label": "break"
+        },
+        {
+            "start": 243.7,
+            "end": 259.95,
+            "label": "drop"
+        },
+        {
+            "start": 259.95,
+            "end": 284.31,
+            "label": "drop"
+        },
+        {
+            "start": 284.31,
+            "end": 300.54,
+            "label": "break"
+        },
+        {
+            "start": 300.54,
+            "end": 316.76,
+            "label": "drop"
+        },
+        {
+            "start": 316.76,
+            "end": 332.98,
+            "label": "break"
+        },
+        {
+            "start": 332.98,
+            "end": 349.2,
+            "label": "break"
+        },
+        {
+            "start": 349.2,
+            "end": 365.42,
+            "label": "break"
+        },
+        {
+            "start": 365.42,
+            "end": 381.64,
+            "label": "drop"
+        },
+        {
+            "start": 381.64,
+            "end": 397.87,
+            "label": "break"
+        },
+        {
+            "start": 397.87,
+            "end": 430.3,
+            "label": "break"
+        },
+        {
+            "start": 430.3,
+            "end": 454.62,
+            "label": "drop"
+        },
+        {
+            "start": 454.62,
+            "end": 478.94,
+            "label": "outro"
+        },
+        {
+            "start": 478.94,
+            "end": 483.79,
+            "label": "outro"
+        }
+    ]
+}

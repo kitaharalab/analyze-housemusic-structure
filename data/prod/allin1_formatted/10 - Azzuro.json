@@ -1,0 +1,145 @@
+{
+    "path": "../data/prod/allin1_4_read/10 - Azzuro.json",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 0.08,
+            "label": "intro"
+        },
+        {
+            "start": 0.08,
+            "end": 15.68,
+            "label": "intro"
+        },
+        {
+            "start": 15.68,
+            "end": 30.31,
+            "label": "intro"
+        },
+        {
+            "start": 30.31,
+            "end": 45.92,
+            "label": "intro"
+        },
+        {
+            "start": 45.92,
+            "end": 61.53,
+            "label": "intro"
+        },
+        {
+            "start": 61.53,
+            "end": 78.12,
+            "label": "intro"
+        },
+        {
+            "start": 78.12,
+            "end": 93.72999999999999,
+            "label": "drop"
+        },
+        {
+            "start": 93.72999999999999,
+            "end": 109.34,
+            "label": "drop"
+        },
+        {
+            "start": 109.34,
+            "end": 132.75,
+            "label": "drop"
+        },
+        {
+            "start": 132.75,
+            "end": 148.36,
+            "label": "drop"
+        },
+        {
+            "start": 148.36,
+            "end": 163.97,
+            "label": "drop"
+        },
+        {
+            "start": 163.97,
+            "end": 187.39,
+            "label": "drop"
+        },
+        {
+            "start": 187.39,
+            "end": 203.0,
+            "label": "break"
+        },
+        {
+            "start": 203.0,
+            "end": 218.6,
+            "label": "drop"
+        },
+        {
+            "start": 218.6,
+            "end": 234.22,
+            "label": "drop"
+        },
+        {
+            "start": 234.22,
+            "end": 249.83,
+            "label": "drop"
+        },
+        {
+            "start": 249.83,
+            "end": 265.44,
+            "label": "drop"
+        },
+        {
+            "start": 265.44,
+            "end": 281.04,
+            "label": "drop"
+        },
+        {
+            "start": 281.04,
+            "end": 296.65999999999997,
+            "label": "drop"
+        },
+        {
+            "start": 296.65999999999997,
+            "end": 312.27,
+            "label": "break"
+        },
+        {
+            "start": 312.27,
+            "end": 327.88,
+            "label": "break"
+        },
+        {
+            "start": 327.88,
+            "end": 343.48,
+            "label": "drop"
+        },
+        {
+            "start": 343.48,
+            "end": 359.09000000000003,
+            "label": "drop"
+        },
+        {
+            "start": 359.09000000000003,
+            "end": 390.31,
+            "label": "drop"
+        },
+        {
+            "start": 390.31,
+            "end": 421.53,
+            "label": "drop"
+        },
+        {
+            "start": 421.53,
+            "end": 440.07,
+            "label": "outro"
+        },
+        {
+            "start": 440.07,
+            "end": 452.75,
+            "label": "outro"
+        },
+        {
+            "start": 452.75,
+            "end": 457.62,
+            "label": "outro"
+        }
+    ]
+}
