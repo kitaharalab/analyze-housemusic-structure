@@ -39,12 +39,12 @@
         {
             "start": "01:32.94",
             "end": "01:48.41",
-            "label": "drop"
+            "label": "break"
         },
         {
             "start": "01:48.41",
             "end": "02:03.91",
-            "label": "drop"
+            "label": "break"
         },
         {
             "start": "02:03.91",

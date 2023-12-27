@@ -24,7 +24,7 @@
         {
             "start": "01:01.93",
             "end": "01:17.41",
-            "label": "drop"
+            "label": "break"
         },
         {
             "start": "01:17.41",
@@ -34,7 +34,7 @@
         {
             "start": "01:31.93",
             "end": "01:48.38",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "01:48.38",
@@ -44,12 +44,12 @@
         {
             "start": "02:03.86",
             "end": "02:19.34",
-            "label": "drop"
+            "label": "break"
         },
         {
             "start": "02:19.34",
             "end": "02:34.84",
-            "label": "drop"
+            "label": "break"
         },
         {
             "start": "02:34.84",
@@ -59,27 +59,27 @@
         {
             "start": "02:58.06",
             "end": "03:21.28",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "03:21.28",
             "end": "03:40.63",
-            "label": "drop"
+            "label": "break"
         },
         {
             "start": "03:40.63",
             "end": "03:54.19",
-            "label": "drop"
+            "label": "break"
         },
         {
             "start": "03:54.19",
             "end": "04:23.23",
-            "label": "drop"
+            "label": "break"
         },
         {
             "start": "04:23.23",
             "end": "04:39.67",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "04:39.67",
@@ -109,22 +109,22 @@
         {
             "start": "05:56.12",
             "end": "06:11.60",
-            "label": "break"
+            "label": "outro"
         },
         {
             "start": "06:11.60",
             "end": "06:27.09",
-            "label": "break"
+            "label": "outro"
         },
         {
             "start": "06:27.09",
             "end": "06:44.51",
-            "label": "break"
+            "label": "outro"
         },
         {
             "start": "06:44.51",
             "end": "06:58.05",
-            "label": "break"
+            "label": "outro"
         },
         {
             "start": "06:58.05",

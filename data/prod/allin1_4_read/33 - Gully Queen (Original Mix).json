@@ -39,7 +39,7 @@
         {
             "start": "01:33.37",
             "end": "01:48.86",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "01:48.86",
@@ -49,7 +49,7 @@
         {
             "start": "02:04.35",
             "end": "02:19.83",
-            "label": "drop"
+            "label": "break"
         },
         {
             "start": "02:19.83",
@@ -79,12 +79,12 @@
         {
             "start": "03:37.25",
             "end": "03:52.73",
-            "label": "drop"
+            "label": "break"
         },
         {
             "start": "03:52.73",
             "end": "04:09.18",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "04:09.18",
@@ -94,22 +94,22 @@
         {
             "start": "04:23.70",
             "end": "04:37.25",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "04:37.25",
             "end": "04:54.67",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "04:54.67",
             "end": "05:25.63",
-            "label": "break"
+            "label": "drop"
         },
         {
             "start": "05:25.63",
             "end": "05:39.18",
-            "label": "break"
+            "label": "outro"
         },
         {
             "start": "05:39.18",
