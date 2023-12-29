@@ -1,5 +1,6 @@
 from external_libraries import *
 from modules import *
+import data_const as const
 
 def process_midi_file_single(midi_path, section_data, drum_mapping):
     drum = Drum(midi_path)
@@ -103,8 +104,8 @@ def plot_combined_drum_section_counts(all_section_counts, all_existing_drums):
     plt.show()
 
 def main(process_mode):
-    json_directory = "../data/prod/allin1_formatted/"
-    midi_directory = "../data/prod/midi/"
+    json_directory = const.DEMO_JSON_DIRECTORY
+    midi_directory = const.DEMO_MIDI_DIRECTORY
     allin1 = Allin1()
 
     all_section_counts = {'intro': {}, 'drop': {}, 'break': {}, 'outro': {}}

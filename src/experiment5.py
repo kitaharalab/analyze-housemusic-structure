@@ -1,5 +1,6 @@
 from external_libraries import *
 from modules import *
+import data_const as const
 
 def process_midi_file(midi_path, json_directory, allin1):
     song_name = os.path.splitext(os.path.basename(midi_path))[0]
@@ -12,8 +13,8 @@ def process_midi_file(midi_path, json_directory, allin1):
     drum.plot_drum_with_pattern_and_segments(song_name, events, pattern_changes, section_data)
 
 def main():
-    midi_directory = "../data/prod/midi/"
-    json_directory = "../data/prod/allin1_formatted/"
+    midi_directory = const.DEMO_MIDI_DIRECTORY
+    json_directory = const.DEMO_JSON_DIRECTORY
     allin1 = Allin1()
 
     total_files = sum([len(files) for r, d, files in os.walk(midi_directory) if any(file.endswith(".mid") for file in files)])

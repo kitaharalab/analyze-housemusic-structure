@@ -1,5 +1,6 @@
 from external_libraries import *
 from modules import *
+import data_const as const
 
 def calculate_section_averages(sections, spectral_centroid, sr, times):
     section_averages = {'intro': [], 'drop': [], 'break': [], 'outro': []}
@@ -150,9 +151,9 @@ def process_file(json_path, song_directory, freq, component_averages, allin1, co
                     component_averages[component][section].append(average)
 
 def main(process_mode):
-    song_directory = "../data/prod/songs/mp3"
-    json_directory = "../data/prod/allin1_formatted"
-    demucs_directory = "../data/prod/demucs/mdx_q/"
+    song_directory = const.DEMO_SONG_DIRECTORY
+    json_directory = const.DEMO_JSON_DIRECTORY
+    demucs_directory = const.DEMO_DEMUCS_DIRECTORY
     freq = Frequency()
     allin1 = Allin1()
 
