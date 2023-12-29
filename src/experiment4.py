@@ -103,8 +103,8 @@ def plot_combined_drum_section_counts(all_section_counts, all_existing_drums):
     plt.show()
 
 def main(process_mode):
-    json_directory = "../data/demo/allin1_demo/"
-    midi_directory = "../data/demo/midi_demo/"
+    json_directory = "../data/prod/allin1_formatted/"
+    midi_directory = "../data/prod/midi/"
     allin1 = Allin1()
 
     all_section_counts = {'intro': {}, 'drop': {}, 'break': {}, 'outro': {}}

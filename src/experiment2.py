@@ -150,9 +150,9 @@ def process_file(json_path, song_directory, freq, component_averages, allin1, co
                     component_averages[component][section].append(average)
 
 def main(process_mode):
-    song_directory = "../data/demo/songs_demo/"
-    demucs_directory = "../data/demo/demucs_demo/mdx_q/"
-    json_directory = "../data/demo/allin1_demo/"
+    song_directory = "../data/prod/songs/mp3"
+    json_directory = "../data/prod/allin1_formatted"
+    demucs_directory = "../data/prod/demucs/mdx_q/"
     freq = Frequency()
     allin1 = Allin1()
 
@@ -179,5 +179,5 @@ def main(process_mode):
 
 
 if __name__ == "__main__":
-    process_mode = 'combined_bar'  # 'bar' | 'combined_bar' | 'box' | 'combined_box' | 'violin' | 'combined_violin'
+    process_mode = 'combined_violin'  # 'bar' | 'combined_bar' | 'box' | 'combined_box' | 'violin' | 'combined_violin'
     main(process_mode)

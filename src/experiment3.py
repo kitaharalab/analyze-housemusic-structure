@@ -87,8 +87,8 @@ def process_file(json_path, demucs_directory, allin1, all_rms_values, song_secti
             song_section_rms[label].append(f"Song: {song_name}, Section: {label}, Part: {part}, RMS: {np.mean(values)}")
 
 def main(plot_mode):
-    json_directory = "../data/demo/allin1_demo/"
-    demucs_directory = "../data/demo/demucs_demo/mdx_q/"
+    json_directory = "../data/prod/allin1_formatted/"
+    demucs_directory = "../data/prod/demucs/mdx_q/"
     allin1 = Allin1()
     all_rms_values = {}
     song_section_rms = {}

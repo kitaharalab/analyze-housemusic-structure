@@ -74,8 +74,8 @@ def process_files(json_directory, song_directory, freq, allin1, all_section_aver
                 process_file(json_path, song_directory, freq, all_section_averages, allin1)
 
 def main(process_mode):
-    song_directory = "../data/demo/songs_demo/"
-    json_directory = "../data/demo/allin1_demo/"
+    song_directory = "../data/prod/songs/mp3"
+    json_directory = "../data/prod/allin1_formatted"
     freq = Frequency()
     allin1 = Allin1()
     all_section_averages = {'intro': [], 'drop': [], 'break': [], 'outro': []}
@@ -90,5 +90,5 @@ def main(process_mode):
         plot_violin_plot(all_section_averages)
 
 if __name__ == "__main__":
-    process_mode = 'box'  # 'var', 'box', or 'violin'
+    process_mode = 'var'  # 'var', 'box', or 'violin'
     main(process_mode)
