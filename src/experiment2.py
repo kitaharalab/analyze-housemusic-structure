@@ -150,6 +150,21 @@ def process_file(json_path, song_directory, freq, component_averages, allin1, co
                 if average is not None:
                     component_averages[component][section].append(average)
 
+def plot_rms(audio_path, threshold=0.01, title=""):
+    y, sr = librosa.load(audio_path, sr=None)
+    rms = librosa.feature.rms(y=y)[0]
+    times = librosa.times_like(rms, sr=sr)
+
+    plt.figure(figsize=(10, 4))
+    plt.plot(times, rms)
+    plt.axhline(y=threshold, color='r', linestyle='--', label='Threshold')
+    plt.fill_between(times, rms, threshold, where=rms < threshold, color='red', alpha=0.5)
+    plt.title(title)
+    plt.xlabel('Time (s)')
+    plt.ylabel('RMS')
+    plt.legend()
+    plt.show()
+
 def main(process_mode):
     song_directory = const.DEMO_SONG_DIRECTORY
     json_directory = const.DEMO_JSON_DIRECTORY
@@ -159,6 +174,17 @@ def main(process_mode):
 
     components = ['bass', 'drums', 'other', 'vocals']
     component_averages = {component: {'intro': [], 'drop': [], 'break': [], 'outro': []} for component in components}
+
+    """
+    for root, dirs, files in os.walk(json_directory):
+        for file in files:
+            if file.endswith(".json"):
+                song_name = os.path.splitext(file)[0]
+                for component in components:
+                    file_path = os.path.join(demucs_directory, song_name, f"{component}.mp3")
+                    if os.path.exists(file_path):
+                        plot_rms(file_path, title=f"{song_name} - {component.capitalize()} RMS Plot")
+    """
 
     process_files(json_directory, demucs_directory, freq, allin1, component_averages, components)
 
@@ -180,5 +206,5 @@ def main(process_mode):
 
 
 if __name__ == "__main__":
-    process_mode = 'combined_violin'  # 'bar' | 'combined_bar' | 'box' | 'combined_box' | 'violin' | 'combined_violin'
+    process_mode = 'violin'  # 'bar' | 'combined_bar' | 'box' | 'combined_box' | 'violin' | 'combined_violin' | 'rms_plot'
     main(process_mode)
