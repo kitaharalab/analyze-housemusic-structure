@@ -221,12 +221,6 @@ class Drum(Visualizer):
         events = self._extract_events(mid)
         return events
 
-    def plot(self, start_time=None, end_time=None):
-        mid = mido.MidiFile(self.in_path)
-        events = self._extract_events(mid)
-        filtered_events = self._filter_events_by_time(events, start_time, end_time)
-        self._plot_events(filtered_events)
-
     def _extract_events(self, mid):
         events = {}
         drum_counter = 0
@@ -336,15 +330,10 @@ class Drum(Visualizer):
 
         plt.show()
 
-    def plot_drum_with_pattern_and_segments(self, song_name, events, pattern_changes, section_data):
-        mid = mido.MidiFile(self.in_path)
-        time_signatures = self.get_time_signature_changes()
-        bars = self.calculate_bar_timing(mid, time_signatures)
+    def plot_drum_with_pattern_and_sections(self, song_name, events, pattern_changes, section_data):
         plt.figure(figsize=(15, 5))
-
         for drum_note, event in events.items():
             plt.eventplot(event['times'], orientation='horizontal', linelengths=0.08, lineoffsets=event['id'])
-
         plt.yticks([event['id'] for event in events.values()], [event['name'] for event in events.values()])
         plt.xlabel('Time')
         plt.ylabel('Drum elements')
@@ -352,15 +341,16 @@ class Drum(Visualizer):
         plt.grid(True)
 
         for change_time in pattern_changes:
-            plt.axvline(x=change_time, color='red', linestyle='--')
+            if change_time <= max(max(event['times']) for event in events.values()):
+                plt.axvline(x=change_time, color='red', linestyle='--')
 
-        time_signatures = self.get_time_signature_changes()
-        bars = self.calculate_bar_timing(mid, time_signatures)
-
-        for bar_time in bars:
-            plt.axvline(x=bar_time, color='blue', linestyle='-.')
+        for segment in section_data['segments']:
+            start_time = segment['start']
+            if start_time <= max(max(event['times']) for event in events.values()):
+                plt.axvline(x=start_time, color='green', linestyle=':')
 
         plt.show()
+
 
     def get_time_signature_changes(self):
         mid = mido.MidiFile(self.in_path)
