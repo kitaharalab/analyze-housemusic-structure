@@ -91,5 +91,5 @@ def main(process_mode):
         plot_violin_plot(all_section_averages)
 
 if __name__ == "__main__":
-    process_mode = 'var'  # 'var', 'box', or 'violin'
+    process_mode = 'violin'  # 'var', 'box', or 'violin'
     main(process_mode)

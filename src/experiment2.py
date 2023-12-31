@@ -27,6 +27,40 @@ def calculate_section_averages(sections, spectral_centroid, sr, times):
 
     return section_averages
 
+def calculate_filtered_section_averages(sections, spectral_centroid, sr, times, audio_path, rms_threshold=0.01):
+    y, _ = librosa.load(audio_path, sr=None)
+    section_averages = {'intro': [], 'drop': [], 'break': [], 'outro': []}
+    spectral_centroid = spectral_centroid.flatten()
+
+    for section in sections:
+        label = section['label']
+        if label in section_averages:
+            start_index = np.argmax(times >= section['start'])
+            end_index = np.argmax(times >= section['end'])
+            if end_index == 0:
+                end_index = len(spectral_centroid)
+
+            valid_indices = filter_by_rms(y, sr, start_index, end_index, rms_threshold)
+            filtered_centroid = spectral_centroid[start_index:end_index][valid_indices]
+
+            if len(filtered_centroid) > 0:
+                section_average = filtered_centroid.mean()
+                section_averages[label].append(section_average)
+
+    for label in section_averages:
+        if section_averages[label]:
+            section_averages[label] = sum(section_averages[label]) / len(section_averages[label])
+        else:
+            section_averages[label] = None
+
+    return section_averages
+
+def filter_by_rms(y, sr, start_index, end_index, rms_threshold):
+    rms = librosa.feature.rms(y=y)[0]
+    section_rms = rms[start_index:end_index]
+    valid_indices = section_rms >= rms_threshold
+    return valid_indices
+
 def plot_bar_graph(section_averages, title):
     total_averages = {section: np.mean([avg for avg in avgs if avg is not None])
                       for section, avgs in section_averages.items()}
@@ -109,7 +143,7 @@ def plot_combined_box_plot(component_averages, components):
     plt.show()
 
 def plot_combined_violin_plot(component_averages, components):
-    colors = ['blue', 'green', 'red', 'purple']
+    colors = ['blue', 'yellow', 'green', 'red']
     positions = np.arange(1, len(components) * 4, 4)
 
     for i, comp in enumerate(components):
@@ -144,7 +178,8 @@ def process_file(json_path, song_directory, freq, component_averages, allin1, co
         file_path = os.path.join(song_directory, song_name, f"{component}.mp3")
         if os.path.exists(file_path):
             spectral_centroid, sr, times = freq.get_spectral_centroid(file_path)
-            section_averages = calculate_section_averages(section_data['segments'], spectral_centroid, sr, times)
+            section_averages = calculate_filtered_section_averages(
+                section_data['segments'], spectral_centroid, sr, times, file_path)
 
             for section, average in section_averages.items():
                 if average is not None:
@@ -206,5 +241,5 @@ def main(process_mode):
 
 
 if __name__ == "__main__":
-    process_mode = 'violin'  # 'bar' | 'combined_bar' | 'box' | 'combined_box' | 'violin' | 'combined_violin' | 'rms_plot'
+    process_mode = 'combined_box'  # 'bar' | 'combined_bar' | 'box' | 'combined_box' | 'violin' | 'combined_violin' | 'rms_plot'
     main(process_mode)
