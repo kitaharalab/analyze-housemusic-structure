@@ -291,6 +291,12 @@ class Drum(Visualizer):
                     unique_integers.append(change_time)
                 prev_change_time = change_time
 
+        for i in range(1, len(event_times) - 1):
+            interval = event_times[i] - event_times[i - 1]
+
+            if abs(interval - avg_interval) > std_deviation:
+                unique_integers.append(int(round(event_times[i])))
+
         return list(set(unique_integers))
 
     def _calculate_similarity(self, times):
@@ -345,15 +351,12 @@ class Drum(Visualizer):
         plt.title(f'Drum elements over time - {song_name}')
         plt.grid(True)
 
-        # パターン変化点をプロット
         for change_time in pattern_changes:
             plt.axvline(x=change_time, color='red', linestyle='--')
 
-        # タイムシグネチャの変更を取得し、小節区切りのタイミングを計算
         time_signatures = self.get_time_signature_changes()
         bars = self.calculate_bar_timing(mid, time_signatures)
 
-        # 小節区切りの線を追加
         for bar_time in bars:
             plt.axvline(x=bar_time, color='blue', linestyle='-.')
 
