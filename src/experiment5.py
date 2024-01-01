@@ -36,14 +36,14 @@ def process_midi_file(midi_path, json_directory, allin1, all_matching_rates, all
         all_matched_times_percent.extend(matched_times_percent)
 
 def plot_matching_rates(all_matching_rates):
-    plt.hist(all_matching_rates, bins=range(0, 101, 10))
+    plt.hist(all_matching_rates, bins=range(0, 101, 10), histtype="bar", edgecolor="black")
     plt.xlabel('Matching Rate (%)')
     plt.ylabel('Number of Songs')
     plt.title('Distribution of Matching Rates')
     plt.show()
 
 def plot_matched_times_percent(matched_times_percent):
-    plt.hist(matched_times_percent, bins=range(0, 101, 5))
+    plt.hist(matched_times_percent, bins=range(0, 101, 10), histtype="bar", edgecolor="black")
     plt.xlabel('Time (%)')
     plt.ylabel('Number of Matches')
     plt.title('Distribution of Matches Over Time (%)')
@@ -72,5 +72,5 @@ def main(process_mode):
         plot_matching_rates(all_matching_rates)
 
 if __name__ == "__main__":
-    process_mode = 'timeseries'  # 'timeseries' | 'distribution'
+    process_mode = 'distribution'  # 'timeseries' | 'distribution'
     main(process_mode)
