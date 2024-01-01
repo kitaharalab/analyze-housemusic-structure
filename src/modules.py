@@ -277,7 +277,7 @@ class Drum(Visualizer):
             similarity_score = abs(prev_interval - avg_interval) + abs(next_interval - avg_interval)
             similarity_scores.append(similarity_score)
 
-        threshold = std_deviation # 全ドラムイベントの間隔の標準偏差が閾値
+        threshold = std_deviation
         for i, similarity_score in enumerate(similarity_scores):
             if similarity_score > threshold:
                 change_time = int(round(event_times[i]))

@@ -22,6 +22,13 @@ def process_midi_file(midi_path, json_directory, allin1, all_matching_rates, all
 
     drum = Drum(midi_path)
     events = drum.get_drum_events()
+
+    events_with_times = {note: event for note, event in events.items() if event['times']}
+
+    if not events_with_times:
+        print(f"No drum events found in {song_name}. Skipping.")
+        return
+
     pattern_changes = drum.detect_pattern_changes(events)
 
     section_changes = [int(round(segment['start'])) for segment in section_data['segments']]
@@ -50,8 +57,8 @@ def plot_matched_times_percent(matched_times_percent):
     plt.show()
 
 def main(process_mode):
-    midi_directory = const.DEMO_MIDI_DIRECTORY
-    json_directory = const.DEMO_JSON_DIRECTORY
+    midi_directory = const.PROD_MIDI_DIRECTORY
+    json_directory = const.PROD_JSON_DIRECTORY
     allin1 = Allin1()
 
     if process_mode == 'timeseries':
@@ -72,5 +79,5 @@ def main(process_mode):
         plot_matching_rates(all_matching_rates)
 
 if __name__ == "__main__":
-    process_mode = 'distribution'  # 'timeseries' | 'distribution'
+    process_mode = 'timeseries'  # 'timeseries' | 'distribution'
     main(process_mode)
