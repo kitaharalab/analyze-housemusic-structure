@@ -4,21 +4,21 @@ import data_const as const
 
 def plot_spaghetti(drum_times_all_songs, drum_mapping):
     target_drums = set(['Acoustic Bass Drum', 'Acoustic Snare', 'Closed Hi-Hat'])
+    common_color = 'blue'
+    alpha_value = 0.1
 
     for drum, songs_times in drum_times_all_songs.items():
         if drum not in target_drums:
             continue
 
         plt.figure(figsize=(10, 6))
-        song_count = 0
         for song, times in songs_times.items():
             times_sorted = sorted(times)
-            plt.plot(times_sorted, range(len(times_sorted)), label=song, marker='o', linestyle='-', markersize=0.01)
-            song_count += 1
+            plt.plot(times_sorted, range(len(times_sorted)), label=song, marker='o', linestyle='-', markersize=0.01,
+                     color=common_color, alpha=alpha_value)
         plt.title(f"Drum Events for {drum}")
         plt.xlabel("Time (s)")
         plt.ylabel("Number of Events")
-        # plt.legend()
         plt.show()
 
 def process_midi_file_single(midi_path, section_data, drum_mapping):
