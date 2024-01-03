@@ -24,7 +24,7 @@ def count_drum_events_in_bars(drum_times, bar_length):
 
 def plot_spaghetti(drum_counts_per_bar_all_songs, note_to_drum):
     for drum_note, songs_bar_counts in drum_counts_per_bar_all_songs.items():
-        drum_name = note_to_drum.get(drum_note, drum_note)  # デフォルト値としてMIDIノート番号を使用
+        drum_name = note_to_drum.get(drum_note, drum_note)
         plt.figure(figsize=(10, 6))
         for song, bar_counts in songs_bar_counts.items():
             bars = sorted(bar_counts.keys())

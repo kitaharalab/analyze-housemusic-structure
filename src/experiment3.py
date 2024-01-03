@@ -43,7 +43,7 @@ def plot_3d_rms(all_rms_values, max_rms):
 
     for i, (section, rms_values) in enumerate(all_rms_values.items(), 1):
         ax = fig.add_subplot(2, 2, i, projection='3d')
-        ax.scatter(rms_values['bass'], rms_values['drums'], rms_values['other'])
+        ax.scatter(rms_values['bass'], rms_values['drums'], rms_values['other'], s=5)
         ax.set_xlabel('Bass RMS')
         ax.set_ylabel('Drums RMS')
         ax.set_zlabel('Other RMS')
@@ -59,10 +59,10 @@ def plot_3d_rms_combined(all_rms_values, max_rms):
     fig = plt.figure()
     ax = fig.add_subplot(111, projection='3d')
 
-    colors = {'intro': 'blue', 'drop': 'green', 'break': 'red', 'outro': 'purple'}
+    colors = {'intro': 'orange', 'drop': 'red', 'break': 'green', 'outro': 'blue'}
     for section, rms_values in all_rms_values.items():
         color = colors[section]
-        ax.scatter(rms_values['bass'], rms_values['drums'], rms_values['other'], c=color, label=section)
+        ax.scatter(rms_values['bass'], rms_values['drums'], rms_values['other'], c=color, label=section, s=5, alpha=0.5)
 
     ax.set_xlabel('Bass RMS')
     ax.set_ylabel('Drums RMS')
@@ -88,8 +88,8 @@ def process_file(json_path, demucs_directory, allin1, all_rms_values, song_secti
             song_section_rms[label].append(f"Song: {song_name}, Section: {label}, Part: {part}, RMS: {np.mean(values)}")
 
 def main(plot_mode):
-    json_directory = const.DEMO_JSON_DIRECTORY
-    demucs_directory = const.DEMO_DEMUCS_DIRECTORY
+    json_directory = const.PROD_JSON_DIRECTORY
+    demucs_directory = const.PROD_DEMUCS_DIRECTORY
     allin1 = Allin1()
     all_rms_values = {}
     song_section_rms = {}
