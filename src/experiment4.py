@@ -10,16 +10,18 @@ def plot_spaghetti(drum_times_all_songs, drum_mapping):
             continue
 
         plt.figure(figsize=(10, 6))
+        song_count = 0
         for song, times in songs_times.items():
-            times_percentage = [time * 100 for time in times]
-            plt.plot(times_percentage, range(len(times)), label=song, marker='o', linestyle='-', markersize=0.01)
+            times_sorted = sorted(times)
+            plt.plot(times_sorted, range(len(times_sorted)), label=song, marker='o', linestyle='-', markersize=0.01)
+            song_count += 1
         plt.title(f"Drum Events for {drum}")
-        plt.xlabel("Time (%)")
+        plt.xlabel("Time (s)")
         plt.ylabel("Number of Events")
         # plt.legend()
         plt.show()
 
-def process_midi_file_single(midi_path, section_data, drum_mapping, song_length):
+def process_midi_file_single(midi_path, section_data, drum_mapping):
     drum = Drum(midi_path)
     drum_events = drum.get_drum_events()
     section_counts = {section['label']: {name: 0 for name in drum_mapping.values()} for section in section_data['segments']}
@@ -29,11 +31,10 @@ def process_midi_file_single(midi_path, section_data, drum_mapping, song_length)
     for note, event in drum_events.items():
         drum_name = event['name']
         existing_drums.add(drum_name)
-        normalized_times = [time / song_length for time in event['times']]
-        drum_times[drum_name].extend(normalized_times)
-        for time in normalized_times:
+        drum_times[drum_name].extend(event['times'])
+        for time in event['times']:
             for section in section_data['segments']:
-                if section['start'] <= time * song_length < section['end']:
+                if section['start'] <= time < section['end']:
                     section_counts[section['label']][drum_name] += 1
                     break
 
@@ -45,14 +46,13 @@ def process_file(json_path, midi_directory, allin1, all_section_counts, all_exis
     if not os.path.exists(midi_path):
         return
 
-    with open(json_path, 'r') as f:
-        section_data = json.load(f)
+    song_name = base_name
 
-    song_length = section_data['segments'][-1]['end']
-
-    section_counts, existing_drums, drum_times = process_midi_file_single(midi_path, section_data, Drum(midi_path).drum_mapping, song_length)
+    section_data = allin1.load_section_data(json_path)
+    section_counts, existing_drums, drum_times = process_midi_file_single(midi_path, section_data, Drum(midi_path).drum_mapping)
     for drum, times in drum_times.items():
-        drum_times_all_songs[drum][base_name].extend(times)
+        drum_times_all_songs[drum][song_name].extend(times)
+
 
 def main():
     json_directory = const.PROD_JSON_DIRECTORY
@@ -71,6 +71,15 @@ def main():
             if file.endswith(".json"):
                 json_path = os.path.join(root, file)
                 process_file(json_path, midi_directory, allin1, all_section_counts, all_existing_drums, drum_times_all_songs)
+                song_name = os.path.splitext(file)[0]
+                midi_path = os.path.join(midi_directory, song_name + '.mid')
+                if not os.path.exists(midi_path):
+                    continue
+                section_data = allin1.load_section_data(json_path)
+                _, _, drum_times = process_midi_file_single(midi_path, section_data, Drum(midi_path).drum_mapping)
+
+                for drum, times in drum_times.items():
+                    drum_times_all_songs[drum][song_name].extend(times)
 
                 progress_bar.update(1)
 
