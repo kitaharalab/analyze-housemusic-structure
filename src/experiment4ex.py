@@ -21,7 +21,7 @@ def plot_spaghetti(drum_times_all_songs, drum_mapping):
         plt.ylabel("Number of Events")
         plt.show()
 
-def process_midi_file_single(midi_path, section_data, drum_mapping):
+def process_midi_file(midi_path, section_data, drum_mapping):
     drum = Drum(midi_path)
     drum_events = drum.get_drum_events()
     section_counts = {section['label']: {name: 0 for name in drum_mapping.values()} for section in section_data['segments']}
@@ -49,7 +49,7 @@ def process_file(json_path, midi_directory, allin1, all_section_counts, all_exis
     song_name = base_name
 
     section_data = allin1.load_section_data(json_path)
-    section_counts, existing_drums, drum_times = process_midi_file_single(midi_path, section_data, Drum(midi_path).drum_mapping)
+    section_counts, existing_drums, drum_times = process_midi_file(midi_path, section_data, Drum(midi_path).drum_mapping)
     for drum, times in drum_times.items():
         drum_times_all_songs[drum][song_name].extend(times)
 
@@ -76,7 +76,7 @@ def main():
                 if not os.path.exists(midi_path):
                     continue
                 section_data = allin1.load_section_data(json_path)
-                _, _, drum_times = process_midi_file_single(midi_path, section_data, Drum(midi_path).drum_mapping)
+                _, _, drum_times = process_midi_file(midi_path, section_data, Drum(midi_path).drum_mapping)
 
                 for drum, times in drum_times.items():
                     drum_times_all_songs[drum][song_name].extend(times)
