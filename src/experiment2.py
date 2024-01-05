@@ -201,9 +201,9 @@ def plot_rms(audio_path, threshold=0.01, title=""):
     plt.show()
 
 def main(process_mode):
-    song_directory = const.DEMO_SONG_DIRECTORY
-    json_directory = const.DEMO_JSON_DIRECTORY
-    demucs_directory = const.DEMO_DEMUCS_DIRECTORY
+    song_directory = const.PROD_SONG_DIRECTORY
+    json_directory = const.PROD_JSON_DIRECTORY
+    demucs_directory = const.PROD_DEMUCS_DIRECTORY
     freq = Frequency()
     allin1 = Allin1()
 
@@ -241,5 +241,5 @@ def main(process_mode):
 
 
 if __name__ == "__main__":
-    process_mode = 'combined_box'  # 'bar' | 'combined_bar' | 'box' | 'combined_box' | 'violin' | 'combined_violin' | 'rms_plot'
+    process_mode = 'bar'  # 'bar' | 'combined_bar' | 'box' | 'combined_box' | 'violin' | 'combined_violin' | 'rms_plot'
     main(process_mode)

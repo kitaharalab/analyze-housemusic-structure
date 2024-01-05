@@ -114,5 +114,5 @@ def main(plot_mode):
         plot_3d_rms_combined(all_rms_values, max_rms)
 
 if __name__ == "__main__":
-    plot_mode = 'combined'  # 'separate' | 'combined'
+    plot_mode = 'separate'  # 'separate' | 'combined'
     main(plot_mode)
