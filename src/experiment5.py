@@ -2,7 +2,21 @@ from external_libraries import *
 from modules import *
 import data_const as const
 
-def calculate_matching_rate(pattern_changes, section_changes, song_duration):
+def calculate_section_based_matching_rate(pattern_changes, section_changes, song_duration):
+    matched_count = 0
+    matched_times_percent = []
+
+    for section_change in section_changes:
+        if any(section_change - 1 <= pattern_change <= section_change + 1 for pattern_change in pattern_changes):
+            matched_count += 1
+            matched_percent = (section_change / song_duration) * 100
+            matched_times_percent.append(matched_percent)
+
+    matching_rate = (matched_count / len(section_changes)) * 100 if section_changes else 0
+    return matching_rate, matched_times_percent
+
+
+def calculate_drum_based_matching_rate(pattern_changes, section_changes, song_duration):
     matched_count = 0
     matched_times_percent = []
 
@@ -55,7 +69,8 @@ def process_midi_file(midi_path, json_directory, allin1, all_matching_rates, all
     section_changes = detect_section_changes(section_data)
 
     song_duration = max(max(event['times']) for event in events.values())
-    matching_rate, matched_times_percent = calculate_matching_rate(pattern_changes, section_changes, song_duration)
+    # matching_rate, matched_times_percent = calculate_drum_based_matching_rate(pattern_changes, section_changes, song_duration)
+    matching_rate, matched_times_percent = calculate_section_based_matching_rate(pattern_changes, section_changes, song_duration)
 
     if all_matching_rates is not None:
         all_matching_rates.append(matching_rate)
@@ -90,5 +105,5 @@ def main(process_mode):
     progress_bar.close()
 
 if __name__ == "__main__":
-    process_mode = 'distribution'  # 'timeseries' | 'distribution'
+    process_mode = 'timeseries'  # 'timeseries' | 'distribution'
     main(process_mode)
