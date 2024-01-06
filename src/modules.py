@@ -330,7 +330,7 @@ class Drum(Visualizer):
 
         plt.show()
 
-    def plot_drum_with_pattern_and_sections(self, song_name, events, pattern_changes, section_data):
+    def plot_drum_with_pattern_and_sections(self, song_name, events, pattern_changes, section_changes):
         plt.figure(figsize=(15, 5))
         for drum_note, event in events.items():
             plt.eventplot(event['times'], orientation='horizontal', linelengths=0.08, lineoffsets=event['id'])
@@ -344,13 +344,17 @@ class Drum(Visualizer):
             if change_time <= max(max(event['times']) for event in events.values()):
                 plt.axvline(x=change_time, color='red', linestyle='--')
 
+        for time in section_changes:
+            plt.axvline(x=time, color='green', linestyle=':')
+
+        """
         for segment in section_data['segments']:
             start_time = segment['start']
             if start_time <= max(max(event['times']) for event in events.values()):
                 plt.axvline(x=start_time, color='green', linestyle=':')
+        """
 
         plt.show()
-
 
     def get_time_signature_changes(self):
         mid = mido.MidiFile(self.in_path)

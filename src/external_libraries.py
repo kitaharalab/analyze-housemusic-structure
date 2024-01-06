@@ -24,5 +24,3 @@ from tqdm import tqdm
 from mido import MidiFile
 import pprint
 from collections import defaultdict
-import seaborn as sns
-import pandas as pd
