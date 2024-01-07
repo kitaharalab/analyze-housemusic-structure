@@ -124,6 +124,7 @@ def plot_stack_bar(total_play_times_by_component):
     ax.set_title('Total Play Time by Component and Section')
     ax.legend()
 
+    plt.tight_layout()
     plt.show()
 
 def process_file_for_play_time(json_path, song_directory, allin1, components, rms_threshold):

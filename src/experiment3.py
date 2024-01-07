@@ -71,6 +71,7 @@ def plot_3d_rms_combined(all_rms_values, max_rms):
     ax.set_ylim([0, max_rms])
     ax.set_zlim([0, max_rms])
     ax.legend()
+    plt.tight_layout()
     plt.show()
 
 def process_file(json_path, demucs_directory, allin1, all_rms_values, song_section_rms):

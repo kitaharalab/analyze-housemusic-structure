@@ -102,6 +102,7 @@ def plot_combined_bar_graph(component_averages, components):
     plt.title('Combined Bar Graph for Each Component')
 
     plt.legend()
+    plt.tight_layout()
     plt.show()
 
 def plot_box_plot(section_averages, title):
@@ -110,6 +111,7 @@ def plot_box_plot(section_averages, title):
     plt.xlabel('Section')
     plt.ylabel('Average Spectral Centroid')
     plt.title(title)
+    plt.tight_layout()
     plt.show()
 
 def plot_violin_plot(section_averages, title):
@@ -119,6 +121,7 @@ def plot_violin_plot(section_averages, title):
     plt.xlabel('Section')
     plt.ylabel('Average Spectral Centroid')
     plt.title(title)
+    plt.tight_layout()
     plt.show()
 
 def plot_combined_box_plot(component_averages, components):
@@ -140,6 +143,7 @@ def plot_combined_box_plot(component_averages, components):
     plt.title('Combined Box Plot for Each Component')
 
     plt.legend([plt.Line2D([0], [0], color=color, lw=4) for color in colors], components)
+    plt.tight_layout()
     plt.show()
 
 def plot_combined_violin_plot(component_averages, components):
@@ -161,6 +165,7 @@ def plot_combined_violin_plot(component_averages, components):
     plt.title('Combined Violin Plot for Each Component')
 
     plt.legend([plt.Line2D([0], [0], color=color, lw=4) for color in colors], components)
+    plt.tight_layout()
     plt.show()
 
 def process_files(json_directory, song_directory, freq, allin1, component_averages, components):
@@ -241,5 +246,5 @@ def main(process_mode):
 
 
 if __name__ == "__main__":
-    process_mode = 'bar'  # 'bar' | 'combined_bar' | 'box' | 'combined_box' | 'violin' | 'combined_violin' | 'rms_plot'
+    process_mode = 'combined_violin'  # 'bar' | 'combined_bar' | 'box' | 'combined_box' | 'violin' | 'combined_violin' | 'rms_plot'
     main(process_mode)

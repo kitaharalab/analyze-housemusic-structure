@@ -19,6 +19,7 @@ def plot_spaghetti(drum_times_all_songs, drum_mapping):
         plt.title(f"Drum Events for {drum}")
         plt.xlabel("Time (s)")
         plt.ylabel("Number of Events")
+        plt.tight_layout()
         plt.show()
 
 def process_midi_file(midi_path, section_data, drum_mapping):

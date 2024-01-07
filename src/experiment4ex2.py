@@ -33,6 +33,7 @@ def plot_spaghetti(drum_counts_per_bar_all_songs, note_to_drum):
         plt.title(f"Drum Events per 8 Bars for {drum_name}")
         plt.xlabel("8 Bar Sections")
         plt.ylabel("Number of Events")
+        plt.tight_layout()
         plt.show()
 
 def process_file(json_path, midi_directory, drum_mapping, drum_counts_per_bar_all_songs):

@@ -38,6 +38,7 @@ def plot_bar_graph(section_averages):
     plt.ylabel('Average Spectral Centroid')
     plt.title('Average Spectral Centroid per Music Section')
     plt.legend()
+    plt.tight_layout()
     plt.show()
 
 def plot_box_plot(section_averages):
@@ -45,6 +46,7 @@ def plot_box_plot(section_averages):
     plt.xlabel('Section')
     plt.ylabel('Average Spectral Centroid')
     plt.title('Box Plot of Average Spectral Centroid per Music Section')
+    plt.tight_layout()
     plt.show()
 
 def plot_violin_plot(section_averages):
@@ -54,6 +56,7 @@ def plot_violin_plot(section_averages):
     plt.xlabel('Section')
     plt.ylabel('Average Spectral Centroid')
     plt.title('Violin Plot of Average Spectral Centroid per Music Section')
+    plt.tight_layout()
     plt.show()
 
 def process_file(json_path, song_directory, freq, all_section_averages, allin1):

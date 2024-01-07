@@ -34,6 +34,7 @@ def plot_matching_rates(all_matching_rates):
     plt.xlabel('Matching Rate (%)')
     plt.ylabel('Number of Songs')
     plt.title('Distribution of Matching Rates')
+    plt.tight_layout()
     plt.show()
 
 def plot_matched_times_percent(matched_times_percent):
@@ -41,6 +42,7 @@ def plot_matched_times_percent(matched_times_percent):
     plt.xlabel('Time (%)')
     plt.ylabel('Number of Matches')
     plt.title('Distribution of Matches Over Time (%)')
+    plt.tight_layout()
     plt.show()
 
 def detect_section_changes(section_data):
