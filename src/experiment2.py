@@ -131,7 +131,7 @@ def plot_combined_box_plot(component_averages, components):
     for i, comp in enumerate(components):
         data = [component_averages[comp][section] for section in ['intro', 'drop', 'break', 'outro'] if component_averages[comp][section]]
         pos = positions + i
-        plt.boxplot(data, positions=pos, patch_artist=True, boxprops=dict(facecolor=colors[i]))
+        plt.boxplot(data, positions=pos, patch_artist=True, boxprops=dict(facecolor=colors[i]), showmeans=True)
 
     plt.xticks(positions + 1.5, ['Intro', 'Drop', 'Break', 'Outro'])
     plt.axvline(x=4.5, color='gray', linestyle='--')
@@ -168,6 +168,21 @@ def plot_combined_violin_plot(component_averages, components):
     plt.tight_layout()
     plt.show()
 
+def plot_rms(audio_path, threshold=0.01, title=""):
+    y, sr = librosa.load(audio_path, sr=None)
+    rms = librosa.feature.rms(y=y)[0]
+    times = librosa.times_like(rms, sr=sr)
+
+    plt.figure(figsize=(10, 4))
+    plt.plot(times, rms)
+    plt.axhline(y=threshold, color='r', linestyle='--', label='Threshold')
+    plt.fill_between(times, rms, threshold, where=rms < threshold, color='red', alpha=0.5)
+    plt.title(title)
+    plt.xlabel('Time (s)')
+    plt.ylabel('RMS')
+    plt.legend()
+    plt.show()
+
 def process_files(json_directory, song_directory, freq, allin1, component_averages, components):
     for root, dirs, files in tqdm(os.walk(json_directory), desc="Processing files"):
         for file in tqdm(files, desc="Processing file", leave=False):
@@ -189,21 +204,6 @@ def process_file(json_path, song_directory, freq, component_averages, allin1, co
             for section, average in section_averages.items():
                 if average is not None:
                     component_averages[component][section].append(average)
-
-def plot_rms(audio_path, threshold=0.01, title=""):
-    y, sr = librosa.load(audio_path, sr=None)
-    rms = librosa.feature.rms(y=y)[0]
-    times = librosa.times_like(rms, sr=sr)
-
-    plt.figure(figsize=(10, 4))
-    plt.plot(times, rms)
-    plt.axhline(y=threshold, color='r', linestyle='--', label='Threshold')
-    plt.fill_between(times, rms, threshold, where=rms < threshold, color='red', alpha=0.5)
-    plt.title(title)
-    plt.xlabel('Time (s)')
-    plt.ylabel('RMS')
-    plt.legend()
-    plt.show()
 
 def main(process_mode):
     song_directory = const.PROD_SONG_DIRECTORY
@@ -246,5 +246,5 @@ def main(process_mode):
 
 
 if __name__ == "__main__":
-    process_mode = 'combined_violin'  # 'bar' | 'combined_bar' | 'box' | 'combined_box' | 'violin' | 'combined_violin' | 'rms_plot'
+    process_mode = 'combined_bar'  # 'bar' | 'combined_bar' | 'box' | 'combined_box' | 'violin' | 'combined_violin' | 'rms_plot'
     main(process_mode)
