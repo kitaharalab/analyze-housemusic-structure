@@ -42,7 +42,7 @@ def plot_bar_graph(section_averages):
     plt.show()
 
 def plot_box_plot(section_averages):
-    plt.boxplot(section_averages.values(), labels=section_averages.keys())
+    plt.boxplot(section_averages.values(), labels=section_averages.keys(), showmeans=True)
     plt.xlabel('Section')
     plt.ylabel('Average Spectral Centroid')
     plt.title('Box Plot of Average Spectral Centroid per Music Section')
