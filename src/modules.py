@@ -431,8 +431,7 @@ class Frequency:
 
 
 class Allin1:
-    @classmethod
-    def format_json(cls, path):
+    def format_json(self, path):
         json_files = [file for file in os.listdir(path) if file.endswith('.json')]
 
         for json_file in json_files:
@@ -452,8 +451,7 @@ class Allin1:
 
         print("All json files have been updated.")
 
-    @classmethod
-    def update_path_json(cls, path):
+    def update_path_json(self, path):
         json_files = [file for file in os.listdir(path) if file.endswith('.json')]
 
         for json_file in json_files:
@@ -471,8 +469,7 @@ class Allin1:
 
         print("All json files have been updated.")
 
-    @classmethod
-    def modify_label(cls, label):
+    def modify_label(self, label):
         label_mappings = {
                 'start': 'intro',
                 'end': 'outro',
@@ -484,8 +481,7 @@ class Allin1:
                 }
         return label_mappings.get(label, label)
 
-    @classmethod
-    def modify_json(cls, path):
+    def modify_json(self, path):
         json_files = [file for file in os.listdir(path) if file.endswith('.json')]
 
         for json_file in json_files:
@@ -497,7 +493,7 @@ class Allin1:
             if 'segments' in data and isinstance(data['segments'], list):
                 for segment in data['segments']:
                     if 'label' in segment:
-                        segment['label'] = cls.modify_label(segment['label'])
+                        segment['label'] = self.modify_label(segment['label'])
 
             with open(file_path, 'w') as file:
                 json.dump(data, file, indent=4)
@@ -511,19 +507,16 @@ class Allin1:
             data = json.load(file)
         return data
 
-    @classmethod
-    def seconds_to_min_sec(cls, seconds):
+    def seconds_to_min_sec(self, seconds):
         minutes = int(seconds // 60)
         remaining_seconds = seconds % 60
         return f"{minutes:02d}:{remaining_seconds:05.2f}"
 
-    @classmethod
-    def min_sec_to_seconds(cls, min_sec):
+    def min_sec_to_seconds(self, min_sec):
         minutes, seconds = map(float, min_sec.split(':'))
         return minutes * 60 + seconds
 
-    @classmethod
-    def convert_time_format(cls, path):
+    def convert_time_format(self, path):
         json_files = [file for file in os.listdir(path) if file.endswith('.json')]
 
         for json_file in json_files:
@@ -535,9 +528,9 @@ class Allin1:
             if 'segments' in data and isinstance(data['segments'], list):
                 for segment in data['segments']:
                     if 'start' in segment:
-                        segment['start'] = cls.seconds_to_min_sec(segment['start'])
+                        segment['start'] = self.seconds_to_min_sec(segment['start'])
                     if 'end' in segment:
-                        segment['end'] = cls.seconds_to_min_sec(segment['end'])
+                        segment['end'] = self.seconds_to_min_sec(segment['end'])
 
             with open(file_path, 'w') as file:
                 json.dump(data, file, indent=4)
@@ -546,8 +539,7 @@ class Allin1:
 
         print("All json files have been updated.")
 
-    @classmethod
-    def revert_time_format(cls, path):
+    def revert_time_format(self, path):
         json_files = [file for file in os.listdir(path) if file.endswith('.json')]
 
         for json_file in json_files:
@@ -559,9 +551,9 @@ class Allin1:
             if 'segments' in data and isinstance(data['segments'], list):
                 for segment in data['segments']:
                     if 'start' in segment:
-                        segment['start'] = cls.min_sec_to_seconds(segment['start'])
+                        segment['start'] = self.min_sec_to_seconds(segment['start'])
                     if 'end' in segment:
-                        segment['end'] = cls.min_sec_to_seconds(segment['end'])
+                        segment['end'] = self.min_sec_to_seconds(segment['end'])
 
             with open(file_path, 'w') as file:
                 json.dump(data, file, indent=4)
