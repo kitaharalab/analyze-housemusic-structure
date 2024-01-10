@@ -164,8 +164,7 @@ class RMS(Visualizer):
 
 
 class Drum(Visualizer):
-    def __init__(self, in_path):
-        self.in_path = in_path
+    def __init__(self):
         self.drum_mapping = {
                 35: 'Acoustic Bass Drum',
                 36: 'Bass Drum 1',
@@ -216,8 +215,8 @@ class Drum(Visualizer):
                 81: 'Open Triangle'
                 }
 
-    def get_drum_events(self):
-        mid = mido.MidiFile(self.in_path)
+    def get_drum_events(self, in_path):
+        mid = mido.MidiFile(in_path)
         events = self._extract_events(mid)
         return events
 
@@ -355,45 +354,6 @@ class Drum(Visualizer):
         """
 
         plt.show()
-
-    def get_time_signature_changes(self):
-        mid = mido.MidiFile(self.in_path)
-        time_signatures = []
-        time = 0
-        tempo = mido.bpm2tempo(120)
-
-        for track in mid.tracks:
-            for msg in track:
-                time += mido.tick2second(msg.time, mid.ticks_per_beat, tempo)
-                if msg.type == 'time_signature':
-                    time_signatures.append({'time': time, 'numerator': msg.numerator, 'denominator': msg.denominator})
-
-        return time_signatures
-
-    def calculate_bar_timing(self, mid, time_signatures):
-        bars = []
-        time = 0
-        tempo = mido.bpm2tempo(120)
-        ticks_per_beat = mid.ticks_per_beat
-        current_signature = time_signatures.pop(0) if time_signatures else {'numerator': 4, 'denominator': 4, 'time': 0}
-        next_signature_change = current_signature['time']
-
-        for track in mid.tracks:
-            for msg in track:
-                delta_time = mido.tick2second(msg.time, ticks_per_beat, tempo)
-                time += delta_time
-
-                if time >= next_signature_change and time_signatures:
-                    current_signature = time_signatures.pop(0)
-                    next_signature_change = current_signature['time']
-
-                if msg.type == 'set_tempo':
-                    tempo = msg.tempo
-
-                if (time - current_signature['time']) % (current_signature['numerator'] * 60 / mido.tempo2bpm(tempo)) < delta_time:
-                    bars.append(time)
-
-        return bars
 
 
 class Frequency:
