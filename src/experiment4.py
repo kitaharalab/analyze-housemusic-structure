@@ -3,8 +3,8 @@ from modules import *
 import data_const as const
 
 def process_midi_file_single(midi_path, section_data, drum_mapping):
-    drum = Drum(midi_path)
-    drum_events = drum.get_drum_events()
+    drum = Drum()
+    drum_events = drum.get_drum_events(midi_path)
     section_counts = {section['label']: {name: 0 for name in drum_mapping.values()} for section in section_data['segments']}
 
     existing_drums = set()
@@ -20,8 +20,8 @@ def process_midi_file_single(midi_path, section_data, drum_mapping):
     return section_counts, existing_drums
 
 def process_midi_file_combined(midi_path, section_data, drum_mapping, all_section_counts, all_existing_drums):
-    drum = Drum(midi_path)
-    drum_events = drum.get_drum_events()
+    drum = Drum()
+    drum_events = drum.get_drum_events(midi_path)
 
     existing_drums = set()
     section_counts = {'intro': {}, 'drop': {}, 'break': {}, 'outro': {}}
@@ -78,10 +78,10 @@ def process_file(json_path, midi_directory, allin1, all_section_counts, all_exis
     section_data = allin1.load_section_data(json_path)
 
     if process_mode == 'single':
-        section_counts, existing_drums = process_midi_file_single(midi_path, section_data, Drum(midi_path).drum_mapping)
+        section_counts, existing_drums = process_midi_file_single(midi_path, section_data, Drum().drum_mapping)
         plot_drum_section_counts(song_name, section_counts, existing_drums)
     elif process_mode == 'combined':
-        process_midi_file_combined(midi_path, section_data, Drum(midi_path).drum_mapping, all_section_counts, all_existing_drums)
+        process_midi_file_combined(midi_path, section_data, Drum().drum_mapping, all_section_counts, all_existing_drums)
 
 def plot_combined_drum_section_counts(all_section_counts, all_existing_drums):
     num_sections = len(all_section_counts)

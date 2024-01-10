@@ -45,8 +45,8 @@ def process_file(json_path, midi_directory, drum_mapping, drum_counts_per_bar_al
     bpm = get_bpm_from_json(json_path)
     bar_length = calculate_bar_length(bpm)
 
-    drum = Drum(midi_path)
-    drum_events = drum.get_drum_events()
+    drum = Drum()
+    drum_events = drum.get_drum_events(midi_path)
 
     '''
     pprint.pprint(base_name)

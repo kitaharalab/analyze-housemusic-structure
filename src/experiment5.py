@@ -59,8 +59,8 @@ def process_midi_file(midi_path, json_directory, allin1, all_matching_rates, all
     json_path = os.path.join(json_directory, f"{song_name}.json")
     section_data = allin1.load_section_data(json_path)
 
-    drum = Drum(midi_path)
-    events = drum.get_drum_events()
+    drum = Drum()
+    events = drum.get_drum_events(midi_path)
 
     events_with_times = {note: event for note, event in events.items() if event['times']}
     if not events_with_times:
@@ -89,7 +89,7 @@ def main(process_mode):
     allin1 = Allin1()
 
     midi_files = [os.path.join(root, file) for root, dirs, files in os.walk(midi_directory) for file in files if file.endswith(".mid")]
-    progress_bar = tqdm(total=len(midi_files), desc="Processing MIDI Files")
+    progress_bar = tqdm(total=len(midi_files), desc="Overall Progress")
 
     if process_mode == 'timeseries':
         all_matched_times_percent = []

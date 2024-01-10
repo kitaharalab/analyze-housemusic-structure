@@ -2,35 +2,16 @@ from external_libraries import *
 from modules import *
 import data_const as const
 
-def calculate_section_averages(sections, spectral_centroid, sr, times):
-    section_averages = {'intro': [], 'drop': [], 'break': [], 'outro': []}
-    spectral_centroid = spectral_centroid.flatten()
+def get_spectral_centroid(audio_file: str) -> Tuple[np.ndarray, float, np.ndarray]:
+    y, sr = librosa.load(audio_file, sr=None)
+    spectral_centroid = librosa.feature.spectral_centroid(y=y, sr=sr)
+    times = librosa.times_like(spectral_centroid, sr=sr)
+    return spectral_centroid, sr, times
 
-    for section in sections:
-        label = section['label']
-        if label in section_averages:
-            start_index = np.argmax(times >= section['start'])
-            end_index = np.argmax(times >= section['end'])
-            if end_index == 0:
-                end_index = len(spectral_centroid)
-
-            section_centroid = spectral_centroid[start_index:end_index]
-            if len(section_centroid) > 0:
-                section_average = section_centroid.mean()
-                section_averages[label].append(section_average)
-
-    for label in section_averages:
-        if section_averages[label]:
-            section_averages[label] = sum(section_averages[label]) / len(section_averages[label])
-        else:
-            section_averages[label] = None
-
-    return section_averages
-
-def calculate_filtered_section_averages(sections, spectral_centroid, sr, times, audio_path, rms_threshold=0.01):
+def calculate_filtered_section_averages(sections, feature_values, sr, times, audio_path, rms_threshold=0.01):
     y, _ = librosa.load(audio_path, sr=None)
     section_averages = {'intro': [], 'drop': [], 'break': [], 'outro': []}
-    spectral_centroid = spectral_centroid.flatten()
+    feature_values = feature_values.flatten()
 
     for section in sections:
         label = section['label']
@@ -38,10 +19,10 @@ def calculate_filtered_section_averages(sections, spectral_centroid, sr, times, 
             start_index = np.argmax(times >= section['start'])
             end_index = np.argmax(times >= section['end'])
             if end_index == 0:
-                end_index = len(spectral_centroid)
+                end_index = len(feature_values)
 
             valid_indices = filter_by_rms(y, sr, start_index, end_index, rms_threshold)
-            filtered_centroid = spectral_centroid[start_index:end_index][valid_indices]
+            filtered_centroid = feature_values[start_index:end_index][valid_indices]
 
             if len(filtered_centroid) > 0:
                 section_average = filtered_centroid.mean()
@@ -168,6 +149,7 @@ def plot_combined_violin_plot(component_averages, components):
     plt.tight_layout()
     plt.show()
 
+"""
 def plot_rms(audio_path, threshold=0.01, title=""):
     y, sr = librosa.load(audio_path, sr=None)
     rms = librosa.feature.rms(y=y)[0]
@@ -182,22 +164,23 @@ def plot_rms(audio_path, threshold=0.01, title=""):
     plt.ylabel('RMS')
     plt.legend()
     plt.show()
+"""
 
-def process_files(json_directory, song_directory, freq, allin1, component_averages, components):
+def process_files(json_directory, song_directory, allin1, component_averages, components):
     for root, dirs, files in tqdm(os.walk(json_directory), desc="Processing files"):
-        for file in tqdm(files, desc="Processing file", leave=False):
+        for file in tqdm(files, desc="Overall Progress", leave=False):
             if file.endswith(".json"):
                 json_path = os.path.join(root, file)
-                process_file(json_path, song_directory, freq, component_averages, allin1, components)
+                process_file(json_path, song_directory, component_averages, allin1, components)
 
-def process_file(json_path, song_directory, freq, component_averages, allin1, components):
+def process_file(json_path, song_directory, component_averages, allin1, components):
     section_data = allin1.load_section_data(json_path)
     song_name = os.path.splitext(os.path.basename(json_path))[0]
 
     for component in components:
         file_path = os.path.join(song_directory, song_name, f"{component}.mp3")
         if os.path.exists(file_path):
-            spectral_centroid, sr, times = freq.get_spectral_centroid(file_path)
+            spectral_centroid, sr, times = get_spectral_centroid(file_path)
             section_averages = calculate_filtered_section_averages(
                 section_data['segments'], spectral_centroid, sr, times, file_path)
 
@@ -209,24 +192,12 @@ def main(process_mode):
     song_directory = const.PROD_SONG_DIRECTORY
     json_directory = const.PROD_JSON_DIRECTORY
     demucs_directory = const.PROD_DEMUCS_DIRECTORY
-    freq = Frequency()
     allin1 = Allin1()
 
     components = ['bass', 'drums', 'other', 'vocals']
     component_averages = {component: {'intro': [], 'drop': [], 'break': [], 'outro': []} for component in components}
 
-    """
-    for root, dirs, files in os.walk(json_directory):
-        for file in files:
-            if file.endswith(".json"):
-                song_name = os.path.splitext(file)[0]
-                for component in components:
-                    file_path = os.path.join(demucs_directory, song_name, f"{component}.mp3")
-                    if os.path.exists(file_path):
-                        plot_rms(file_path, title=f"{song_name} - {component.capitalize()} RMS Plot")
-    """
-
-    process_files(json_directory, demucs_directory, freq, allin1, component_averages, components)
+    process_files(json_directory, demucs_directory, allin1, component_averages, components)
 
     if process_mode == 'bar':
         for component in components:
