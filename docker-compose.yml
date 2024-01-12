@@ -1,0 +1,11 @@
+version: "3.6"
+services:
+  enviroment:
+    build:
+      context: .
+    tty: true
+    stdin_open: true
+    command: /bin/bash
+    container_name: onmnizart_env
+    volumes:
+      -  "/home/${USER}:/home/app/"
