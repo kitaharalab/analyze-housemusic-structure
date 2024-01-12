@@ -12,12 +12,14 @@ This project is an environment for conducting analysis with the aim of uncoverin
 
 ```
 .
-├── NATTEN      # Models required for All-In-One
-├── data        # Experimental data
-├── images      # Experiment results
-├── notebook    # Jupyter notebook environment for experiments
-└── src         # Experimental programs
-└── scripts     # Various scripts
+├── Dockerfile          # Docker file for Omnizart
+├── requirements.txt    # Required libraries for Python program
+├── NATTEN              # Models required for All-In-One usage
+├── data                # Experimental data
+├── images              # Experimental results
+├── notebook            # Jupyter notebook environment for experimental programs
+└── src                 # Experimental programs
+    └── scripts         # Various scripts
 ```
 
 `data/` contains only a partial public dataset due to copyright restrictions.

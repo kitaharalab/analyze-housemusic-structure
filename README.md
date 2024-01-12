@@ -12,12 +12,14 @@
 
 ```
 .
-├── NATTEN          # All-In-Oneの利用に必要なモデル
-├── data            # 実験用データ
-├── images          # 実験結果
-├── notebook        # 実験用プログラムのjupyter notebook環境
-└── src             # 実験用プログラム
-    └── scripts     # 各種スクリプト
+├── Dockerfile          # Omnizart用Dockerファイル
+├── requirements.txt    # Pythonプログラムに必要なライブラリ
+├── NATTEN              # All-In-Oneの利用に必要なモデル
+├── data                # 実験用データ
+├── images              # 実験結果
+├── notebook            # 実験用プログラムのjupyter notebook環境
+└── src                 # 実験用プログラム
+    └── scripts         # 各種スクリプト
 ```
 
 `data/`は著作権の都合で一部のみpublicにしている。
