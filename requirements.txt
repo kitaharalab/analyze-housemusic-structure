@@ -1,8 +1,11 @@
+mido
+demucs
+ffmpeg-python
 librosa
 matplotlib
 numpy
 IPython
-google-colab
 mido
-demucs
-ffmpeg-python
+termcolor
+pydub
+tqdm
