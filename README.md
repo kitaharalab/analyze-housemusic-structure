@@ -2,7 +2,7 @@
 
 ![image](preview.png)
 
-## 概要 (Introduction)
+## 概要
 
 本プロジェクトは、ハウスミュージックにおける楽曲構成の決定要因や法則性を解明することを目的に分析を行うための環境である。本プロジェクトに関する論文は[こちら](https://github.com/Jtwulf/papers)。
 
@@ -20,7 +20,7 @@
 
 `data`は著作権の都合で一部のみpublicにしている。
 
-## 準備・前提条件 (Prerequisites)
+## 準備・前提条件
 
 `src`のプログラムを実行するには、必要なライブラリをインストールする必要がある。
 
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ## 各プログラムの説明
 
-### experiment1
+## experiment1
 
 各セクションと周波数特徴量の関連性の分析
 
@@ -62,7 +62,7 @@ pip install -r requirements.txt
   <img src="images/experiment1_violin_prod.png" width="300" />
 </p>
 
-### experiment2
+## experiment2
 
 各パートにおける各セクションと周波数特徴量の関連性の分析
 
@@ -82,7 +82,7 @@ pip install -r requirements.txt
   <img src="images/experiment2_combined_violin_prod.png" width="300" />
 </p>
 
-### experiment2ex
+## experiment2ex
 
 experiment2における各パートの有効時間を調査
 
@@ -99,7 +99,7 @@ experiment2における各パートの有効時間を調査
   <img src="images/experiment2ex.png" width="300" />
 </p>
 
-### experiment2ex2
+## experiment2ex2
 
 各パートにおける各セクションと音圧特徴量の関連性の調査
 
@@ -119,7 +119,7 @@ experiment2における各パートの有効時間を調査
 </p>
 
 
-### experiment3
+## experiment3
 
 各セクションにおける各パートの音圧バランスの傾向を分析
 
@@ -136,7 +136,7 @@ experiment2における各パートの有効時間を調査
   <img src="images/experiment3_combined_prod.png" width="300" />
 </p>
 
-### experiment4
+## experiment4
 
 各セクションのドラムの要素の傾向を分析
 
@@ -151,7 +151,7 @@ experiment2における各パートの有効時間を調査
   <img src="images/experiment4_drum_count.png" width="300" />
 </p>
 
-### experiment4ex
+## experiment4ex
 
 各ドラム要素の発音時刻の傾向を分析
 
@@ -169,7 +169,7 @@ experiment2における各パートの有効時間を調査
   <img src="images/experiment4ex_Closed_Hi-Hat_prod.png" width="300" />
 </p>
 
-### experiment4ex2
+## experiment4ex2
 
 各ドラム要素の発音時刻の傾向を分析
 
@@ -188,7 +188,7 @@ experiment2における各パートの有効時間を調査
   <img src="images/experiment4ex2_Closed_Hi-Hat_prod.png" width="300" />
 </p>
 
-### experiment5
+## experiment5
 
 ドラムパターンの変化とセクションの変化の相関性について分析
 
