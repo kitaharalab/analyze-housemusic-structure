@@ -33,7 +33,7 @@
 pip install -r requirements.txt
 ```
 
-もしくは、`src/`と同じ内容のプログラムが`notebook/`に存在する。
+もしくは、`src/`と同じ内容のプログラムが`notebook/experiments.ipynb`に存在する。
 
 実験用データは`data/`に適宜配置する必要がある。
 
