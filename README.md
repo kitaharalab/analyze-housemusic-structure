@@ -14,7 +14,7 @@ This project is an environment for conducting analysis with the aim of uncoverin
 .
 ├── Dockerfile          # For Omnizart
 ├── docker-compose.yml  # For Omnizart
-├── requirements.txt    # Required libraries for Python program
+├── requirements.txt    # Required libraries for Python programs
 ├── NATTEN/             # Models required for All-In-One usage
 ├── data/               # Experimental data
 ├── images/             # Experimental results
