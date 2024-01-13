@@ -30,7 +30,7 @@ This project is an environment for conducting analysis with the aim of uncoverin
 To run the programs in `src/`, you need to install the required libraries:
 
 
-Alternatively, programs with the same content as `src/` can be found in `notebook/`.
+Alternatively, programs with the same content as `src/` can be found in `notebook/experiments.ipynb`.
 
 You need to place experimental data in the `data/` directory.
 
