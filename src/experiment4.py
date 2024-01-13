@@ -127,5 +127,5 @@ def main(process_mode):
         plot_combined_drum_section_counts(all_section_counts, all_existing_drums)
 
 if __name__ == "__main__":
-    process_mode = 'combined'  # 'single' or 'combined'
+    process_mode = 'combined'  # 'single' | 'combined'
     main(process_mode)

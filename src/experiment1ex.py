@@ -43,5 +43,5 @@ def main(process_mode):
         plot_violin_plot(all_section_averages)
 
 if __name__ == "__main__":
-    process_mode = 'box'  # 'bar', 'box', or 'violin'
+    process_mode = 'box'  # 'bar' | 'box' | 'violin'
     main(process_mode)
