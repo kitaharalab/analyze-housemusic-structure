@@ -63,6 +63,8 @@ Analysis of the relationship between each section and frequency feature (Spectra
   <img src="images/experiment1_violin_prod.png" width="300" />
 </p>
 
+___
+
 ### experiment2
 
 Analysis of the relationship between each section and frequency feature (Spectral Centroid) for each part of the music.
@@ -83,6 +85,8 @@ Analysis of the relationship between each section and frequency feature (Spectra
   <img src="images/experiment2_combined_violin_prod.png" width="300" />
 </p>
 
+___
+
 ### experiment2ex
 
 Investigation of effective durations for each part in experiment2.
@@ -100,6 +104,8 @@ Investigation of effective durations for each part in experiment2.
   <img src="images/experiment2ex.png" width="300" />
 </p>
 
+___
+
 ### experiment2ex2
 
 Analysis of the relationship between each section and sound pressure feature (RMS) for each part of the music.
@@ -115,9 +121,11 @@ Analysis of the relationship between each section and sound pressure feature (RM
 
 <p float="left">
   <img src="images/experiment2ex2_combined_bar_prod.png" width="300" />
-  <img src="images/experiment2ex2_combined_box_prod.png" width="300" /> 
+  <img src="images/experiment2ex2_combined_box_prod.png" width="300" />
   <img src="images/experiment2ex2_combined_violin_prod.png" width="300" />
 </p>
+
+___
 
 ### experiment3
 
@@ -136,6 +144,8 @@ Analysis of the sound pressure balance trends for each part in each section.
   <img src="images/experiment3_combined_prod.png" width="300" />
 </p>
 
+___
+
 ### experiment4
 
 Analysis of the trends in drum elements for each section.
@@ -150,6 +160,8 @@ Analysis of the trends in drum elements for each section.
 <p float="left">
   <img src="images/experiment4_drum_count.png" width="300" />
 </p>
+
+___
 
 ### experiment4ex
 
@@ -169,6 +181,8 @@ Analysis of the trends in the timing of drum element activations for each sectio
   <img src="images/experiment4ex_Closed_Hi-Hat_prod.png" width="300" />
 </p>
 
+___
+
 ### experiment4ex2
 
 Analysis of the trends in the timing of drum element activations for each section.
@@ -187,6 +201,8 @@ Analysis of the trends in the timing of drum element activations for each sectio
   <img src="images/experiment4ex2_Acoustic_Snare_prod.png" width="300" />
   <img src="images/experiment4ex2_Closed_Hi-Hat_prod.png" width="300" />
 </p>
+
+___
 
 ### experiment5
 
