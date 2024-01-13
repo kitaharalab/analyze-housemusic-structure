@@ -176,7 +176,7 @@ Analysis of the trends in the timing of drum element activations for each sectio
 #### Results
 
 <p float="left">
-  <img src="images/experiment4ex_Acoustic_Bass_drum_prod.png" width="300" />
+  <img src="images/experiment4ex_Acoustic_Bass_Drum_prod.png" width="300" />
   <img src="images/experiment4ex_Acoustic_Snare_prod.png" width="300" />
   <img src="images/experiment4ex_Closed_Hi-Hat_prod.png" width="300" />
 </p>
@@ -197,7 +197,7 @@ Analysis of the trends in the timing of drum element activations for each sectio
 #### Results
 
 <p float="left">
-  <img src="images/experiment4ex2_Acoustic_Bass_drum_prod.png" width="300" />
+  <img src="images/experiment4ex2_Acoustic_Bass_Drum_prod.png" width="300" />
   <img src="images/experiment4ex2_Acoustic_Snare_prod.png" width="300" />
   <img src="images/experiment4ex2_Closed_Hi-Hat_prod.png" width="300" />
 </p>
