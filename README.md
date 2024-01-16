@@ -81,7 +81,7 @@ Analysis of the relationship between each section and frequency feature (Spectra
 
 <p float="left">
   <img src="images/experiment2_combined_bar_prod.png" width="300" />
-  <img src="images/experiment2_combined_box_prod_mean.png" width="300" /> 
+  <img src="images/experiment2_combined_box_prod.png" width="300" /> 
   <img src="images/experiment2_combined_violin_prod.png" width="300" />
 </p>
 
