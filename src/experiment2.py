@@ -181,8 +181,7 @@ def process_file(json_path, song_directory, component_averages, allin1, componen
         file_path = os.path.join(song_directory, song_name, f"{component}.mp3")
         if os.path.exists(file_path):
             spectral_centroid, sr, times = get_spectral_centroid(file_path)
-            section_averages = calculate_filtered_section_averages(
-                section_data['segments'], spectral_centroid, sr, times, file_path)
+            section_averages = calculate_filtered_section_averages(section_data['segments'], spectral_centroid, sr, times, file_path)
 
             for section, average in section_averages.items():
                 if average is not None:
