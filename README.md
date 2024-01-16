@@ -1,6 +1,6 @@
 [Japanese](README_ja.md)
 
-# Analysis of House Music Composition
+# Analysis of House Music Structure
 
 ![image](preview.png)
 
