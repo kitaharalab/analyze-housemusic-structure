@@ -201,7 +201,7 @@ experiment2における各パートの有効時間を調査
 #### 結果
 
 <p float="left">
-  <img src="images/experiment4ex2_Acoustic_Bass_drum_prod.png" width="300" />
+  <img src="images/experiment4ex2_Acoustic_Bass_Drum_prod.png" width="300" />
   <img src="images/experiment4ex2_Acoustic_Snare_prod.png" width="300" />
   <img src="images/experiment4ex2_Closed_Hi-Hat_prod.png" width="300" />
 </p>
