@@ -35,6 +35,9 @@ pip install -r requirements.txt
 
 実験用データは`data/`に適宜配置する必要がある。
 
+また、実験用データはPROD版とDEMO版が存在しており、定数ファイルが`src/data_const.py`にある。
+`src/experiment*.py`を実行するには、`main`関数内の定数を`src/data_const.py`に合わせてPRODもしくはDEMOを選択する。
+
 本プロジェクトでは、ハウスミュージックの楽曲構成のセクションとして以下の4つを定義している。
 
 
