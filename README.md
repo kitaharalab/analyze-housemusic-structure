@@ -1,5 +1,3 @@
-[English](README_en.md)
-
 # ハウスミュージックの楽曲構成の分析
 
 ![image](preview.png)
